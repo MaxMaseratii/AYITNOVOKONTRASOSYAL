@@ -1,0 +1,86 @@
+rules_version = '2';
+// Ayiti Nouvo Kontra Sosyal: Public Voice
+// Privacy design: the public can only CREATE, UPDATE or DELETE their own answers. Nobody outside the review team
+// can read people, emails or submissions. Document ids are SHA-256 hashes of a private code that only the
+// person holds, so only they can find their documents again. The public reads only two things the review team
+// publishes: aggregated results (groups under the minimum size are removed before publishing) and revision logs.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isAdmin() {
+      return request.auth != null && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+    function s(v, lo, hi) { return v is string && v.size() >= lo && v.size() <= hi; }
+    function optInt(v) { return v == null || (v is number && v >= 0 && v <= 120); }
+
+    function validPerson() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['name','country','lives','departement','commune','occupation','occupationOther','yearsThere','yearsSinceLeft','ageRange','at'])
+        && d.keys().hasAll(['name','country','lives','departement','commune','occupation','occupationOther','yearsThere','yearsSinceLeft','ageRange','at'])
+        && s(d.name, 2, 120) && s(d.country, 2, 2) && d.lives in ['ayiti','abroad']
+        && ((d.country == 'HT') == (d.lives == 'ayiti'))
+        && s(d.departement, 0, 40) && s(d.commune, 1, 120)
+        && d.occupation in ['Farmer','Fisher','Market trader','Teacher or professor','Health worker','Student','Public servant','Police or army','Lawyer or judge','Business owner','Engineer or technology worker','Builder or artisan','Driver or transport worker','Domestic worker','Religious leader','Journalist or media','Unemployed','Retired','Other']
+        && s(d.occupationOther, 0, 120)
+        && optInt(d.yearsThere) && optInt(d.yearsSinceLeft)
+        && (d.ageRange == null || d.ageRange in ['under25','25-34','35-49','50-64','65plus'])
+        && d.at == request.time;
+    }
+
+    function validEmail() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['email','mayContact','at']) && d.keys().hasAll(['email','mayContact','at'])
+        && s(d.email, 5, 200) && d.email.matches('^[^@ ]+@[^@ ]+\\.[^@ ]+$')
+        && d.mayContact is bool && d.at == request.time;
+    }
+
+    function validSubmission() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['pid','part','vote','comment','commentLang','wording','uiLang','status','at'])
+        && d.keys().hasAll(['pid','part','vote','comment','commentLang','wording','uiLang','status','at'])
+        && s(d.pid, 64, 64) && d.part is int && d.part >= 0 && d.part <= 47
+        && d.vote in ['approve','changes','disapprove']
+        && s(d.comment, 0, 5000) && (d.vote == 'approve' || d.comment.size() >= 3)
+        && d.commentLang in ['en','ht','fr','es','pt','other']
+        && s(d.wording, 0, 5000) && s(d.uiLang, 2, 2)
+        && d.status == 'new' && d.at == request.time;
+    }
+
+    match /people/{pid} {
+      allow read: if isAdmin();
+      allow create, update: if validPerson();
+      allow delete: if true;
+    }
+    match /emails/{pid} {
+      allow read: if isAdmin();
+      allow create, update: if validEmail();
+      allow delete: if true;
+    }
+    match /submissions/{sid} {
+      allow read: if isAdmin();
+      allow create: if validSubmission();
+      allow update: if isAdmin() || validSubmission();
+      allow delete: if true;
+    }
+    // published by the review team only
+    match /public/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    match /revisions/{part} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    match /settings/{doc} {
+      allow read, write: if isAdmin();
+    }
+    match /admins/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow write: if false;   // add the first admin by hand in the console
+    }
+    match /accessLog/{id} {
+      allow create: if isAdmin() && request.resource.data.keys().hasOnly(['uid','action','at']) && request.resource.data.at == request.time;
+      allow read: if isAdmin();
+    }
+  }
+}

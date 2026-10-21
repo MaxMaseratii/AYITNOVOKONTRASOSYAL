@@ -1,28 +1,36 @@
 # Public Voice: comment and vote on every section
 
-A static site (GitHub Pages) plus a free Supabase database. There is no server to run.
+A static site (GitHub Pages) plus Firebase Firestore. There is no server to run and no card is needed: it works on the free Spark plan.
 
-## Why Supabase and not GitHub Issues or Discussions
-Issues and Discussions are public, show the author's name, and need a GitHub account. This project collects political opinions from people in a country where armed groups threaten critics, so names and comments must never be public. Here the public can only call three database functions. No table can be read or written from the browser.
+## Why not GitHub Issues or Discussions
+They are public, show the author's name and need a GitHub account. This project collects political opinions from people in a country where armed groups threaten critics, so names and comments must never be public.
+
+## How the privacy works (all enforced in `firestore.rules`)
+- The public can only **create, update or delete their own answers**. Nobody outside the review team can read `people`, `emails` or `submissions`.
+- Every document id is a SHA-256 hash of a **private code** that only the person holds, so only they can find their answers again (to change a vote or delete everything).
+- Emails sit in their own collection, apart from comments.
+- The public reads only two things the review team publishes: a **results snapshot** (breakdown groups under the minimum size, default 20, are removed before publishing) and the **revision logs**.
+- Raw IP addresses are never stored (the site never sees them).
+- The rules were tested against the Firestore emulator (31 checks in `tests/rules.test.mjs`).
 
 ## One-time setup (about 15 minutes)
-1. Create a free project at supabase.com. Choose a region close to your readers (for example East US).
-2. Open **SQL Editor**, paste all of `schema.sql`, run it.
-3. Open **Authentication > Users**, add a user (your review-team email and a strong password). Copy that user's UUID.
-4. In the SQL Editor run: `insert into admins(user_id) values ('PASTE-THE-UUID');`
-5. Open **Project Settings > API**. Copy the project URL and the `anon` key into `config.js` (the anon key is designed to be public).
-6. Commit. The site is live at `/feedback/` (and the review page at `/feedback/admin.html`).
-7. In **Authentication > Providers**, turn off public sign-ups so only users you add can log in.
+1. Go to console.firebase.google.com, create a project (no Google Analytics needed), stay on the free Spark plan.
+2. **Build > Firestore Database > Create database**, production mode, a region near your readers (for example `nam5`).
+3. **Rules** tab: paste all of `firestore.rules`, Publish.
+4. **Build > Authentication > Get started**, enable **Email/Password**. Add a user for the review team (email and a strong password). Copy that user's **UID**. Under Settings > Authorized domains add `maxmaseratii.github.io`.
+5. In Firestore, create the collection `admins`, with a document whose **id is that UID** and one field, `ok` = true.
+6. **Project settings > Your apps > Web app (</>)**: register an app and copy `apiKey`, `authDomain`, `projectId`, `appId` into `config.js`. These are meant to be public.
+7. Commit. The public site is `/feedback/` and the review page is `/feedback/admin.html`.
+8. Recommended: **App Check** (Build > App Check) with reCAPTCHA v3, then put its site key in `config.js` as `APPCHECK_SITE_KEY` and turn on enforcement for Firestore. This blocks scripts that are not your site.
 
-## What the database does
-- `submit_response`: validates, rate-limits per hashed IP (raw IPs are never stored), stores the profile, the optional email (in a separate table), the vote and the comment. A honeypot field silently drops bots.
-- `public_results`: totals only. Any breakdown group of fewer than 20 people is hidden.
-- `delete_my_data`: erases everything linked to a private code.
-- `flagged_campaigns`: five or more near-identical comments in the data are listed for the reviewers as one organised position.
-- Retention: set `review_closed_at` in the admin page. Data can be deleted automatically 12 months later with `purge_expired()` (run it from the admin page, or schedule it with pg_cron).
+## What the review team does in `admin.html`
+Overview, filterable submissions (read each comment beside the person's profile, set status New / Reviewed / Accepted / Declined with a public reason / Needs translation), campaign detection (five or more near-identical comments in one hour), **Publish results** (with an option to count a campaign once), the public revision log for each section, CSV exports (emails behind a second confirmation), and retention.
 
 ## Limits you should know
-- The private code is the only way to change a vote. If someone loses it, they can vote again from a new browser and the old vote stays.
-- Self-declared profiles cannot be verified. Results show who says what with sample sizes, and they carry no weight by identity.
-- A site that collects opinions is a target. Keep the Supabase project's password manager-protected and review the access log.
+- Results are a snapshot that a reviewer publishes, not a live counter. That is what keeps small groups hidden.
+- The private code is the only way to change or delete an answer. If someone loses it, they can answer again from a new browser and the old answer stays.
+- Without App Check, a script can still submit junk answers. The rules cap field sizes and allowed values, and reviewers can filter campaigns.
+- Self-declared profiles cannot be verified. Results show who says what with sample sizes and give nobody extra weight.
+- Delete: a person deletes by code. The site cannot say whether anything existed, because the public cannot read.
+- A site that collects opinions is a target. Protect the Firebase account with two-step verification and review the access log.
 - The Kreyòl text in `strings.js` needs a native-speaker review before launch.

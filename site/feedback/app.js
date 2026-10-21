@@ -1,6 +1,15 @@
-(function(){
-"use strict";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js";
+import { getFirestore, doc, getDoc, setDoc, deleteDoc, writeBatch, serverTimestamp } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
+import { initializeAppCheck, ReCaptchaV3Provider } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-app-check.js";
 var C=window.VOICE_CONFIG||{},VS=window.VS,OCC=window.OCC;
+var DB=null;
+function connect(){
+  if(DB||!(C.firebase&&C.firebase.projectId&&C.firebase.apiKey))return;
+  var app=initializeApp(C.firebase);
+  if(C.APPCHECK_SITE_KEY){try{initializeAppCheck(app,{provider:new ReCaptchaV3Provider(C.APPCHECK_SITE_KEY),isTokenAutoRefreshEnabled:true})}catch(e){}}
+  DB=getFirestore(app);
+}
+connect();
 var $=function(s){return document.querySelector(s)};
 var lang="en",CODE="";
 var COUNTRIES="HT DO US CA FR BS TC CL BR MX GP MQ GF BE CH ES PT GB DE IT NL JM CU PA VE CO AR EC PE PR KY BM AG BB DM GD KN LC VC TT SR GY BZ HN GT SV NI CR UY PY BO AU NZ IL SN CI CM CD CG GA ML BF NE NG GH BJ TG MA DZ TN EG ZA KE ET AE QA SA TR RU UA PL RO IE SE NO DK FI AT GR CN JP KR IN SG HK TH PH ID MY".split(" ");
@@ -8,15 +17,9 @@ function t(k){var d=VS[lang];return (d&&d[k]!=null)?d[k]:VS.en[k]}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
 function partTitle(n){if(n===0)return t("general");var p=(window.PARTS_I18N[lang]||window.PARTS_EN);return (p[n-1]||window.PARTS_EN[n-1])}
 function store(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v)}catch(e){return null}}
-function api(path,body){
-  return fetch(C.SUPABASE_URL+"/rest/v1/"+path,{method:"POST",headers:{"apikey":C.SUPABASE_ANON_KEY,"Authorization":"Bearer "+C.SUPABASE_ANON_KEY,"Content-Type":"application/json"},body:JSON.stringify(body)})
-    .then(function(r){return r.text().then(function(x){var j;try{j=JSON.parse(x)}catch(e){j=x}if(!r.ok)throw new Error((j&&j.message)||x);return j})});
-}
-function getRev(n){
-  return fetch(C.SUPABASE_URL+"/rest/v1/revision_log?part=eq."+n+"&select=body",{headers:{"apikey":C.SUPABASE_ANON_KEY,"Authorization":"Bearer "+C.SUPABASE_ANON_KEY}}).then(function(r){return r.json()});
-}
 function newCode(){var a=new Uint8Array(12);crypto.getRandomValues(a);return Array.prototype.map.call(a,function(b){return b.toString(16).padStart(2,"0")}).join("").replace(/(.{6})(?=.)/g,"$1-")}
-function ready(){return !!(C.SUPABASE_URL&&C.SUPABASE_ANON_KEY)}
+function ready(){return !!DB}
+function sha(str){return crypto.subtle.digest("SHA-256",new TextEncoder().encode(str)).then(function(b){return Array.prototype.map.call(new Uint8Array(b),function(x){return x.toString(16).padStart(2,"0")}).join("")})}
 
 /* ---------- render text ---------- */
 function setText(){
@@ -62,15 +65,17 @@ function occLabel(v){var i=OCC.en.indexOf(v);return i>-1?OCC[lang][i]:v}
 function loadResults(){
   if(!ready()){$("#res").innerHTML="";$("#rev").innerHTML="";return}
   var n=+$("#part").value||0;
-  api("rpc/public_results",{p_part:n}).then(function(r){
-    var h="<p><b>"+r.total+"</b> "+esc(t("participants"))+"</p>"+bar(r.approve,r.changes,r.disapprove)+legend(r.approve,r.changes,r.disapprove);
+  getDoc(doc(DB,"public","results")).then(function(snap){
+    var all=snap.exists()?snap.data():null,r=all&&all.parts&&all.parts[String(n)];
+    if(!r){$("#res").innerHTML="<p class=\"note\">"+esc(t("noResults"))+"</p>";return}
+    var h="<p><b>"+r.total+"</b> "+esc(t("participants"))+(all.updated?" · <span class=\"muted\">"+esc(t("updated"))+" "+esc(all.updated.slice(0,10))+"</span>":"")+"</p>"+bar(r.approve,r.changes,r.disapprove)+legend(r.approve,r.changes,r.disapprove);
     h+="<h3>"+esc(t("byLives"))+"</h3>";
-    h+=r.by_lives.length?r.by_lives.map(function(g){return "<p><b>"+esc(g.group==="ayiti"?t("ayiti"):t("abroad"))+"</b> ("+g.n+")</p>"+bar(g.approve,g.changes,g.disapprove)}).join(""):"<p class=\"note\">"+esc(t("notEnough"))+"</p>";
+    h+=(r.byLives&&r.byLives.length)?r.byLives.map(function(g){return "<p><b>"+esc(g.group==="ayiti"?t("ayiti"):t("abroad"))+"</b> ("+g.n+")</p>"+bar(g.approve,g.changes,g.disapprove)}).join(""):"<p class=\"note\">"+esc(t("notEnough"))+"</p>";
     h+="<h3>"+esc(t("byOcc"))+"</h3>";
-    h+=r.by_occupation.length?r.by_occupation.map(function(g){return "<p><b>"+esc(occLabel(g.group))+"</b> ("+g.n+")</p>"+bar(g.approve,g.changes,g.disapprove)}).join(""):"<p class=\"note\">"+esc(t("notEnough"))+"</p>";
+    h+=(r.byOccupation&&r.byOccupation.length)?r.byOccupation.map(function(g){return "<p><b>"+esc(occLabel(g.group))+"</b> ("+g.n+")</p>"+bar(g.approve,g.changes,g.disapprove)}).join(""):"<p class=\"note\">"+esc(t("notEnough"))+"</p>";
     $("#res").innerHTML=h;
   }).catch(function(){$("#res").innerHTML=""});
-  getRev(n).then(function(r){$("#rev").innerHTML=(r&&r[0]&&r[0].body)?"<pre class=\"rev\">"+esc(r[0].body)+"</pre>":"<p class=\"note\">"+esc(t("noRevision"))+"</p>"}).catch(function(){});
+  getDoc(doc(DB,"revisions",String(n))).then(function(snap){var b=snap.exists()?snap.data().body:"";$("#rev").innerHTML=b?"<pre class=\"rev\">"+esc(b)+"</pre>":"<p class=\"note\">"+esc(t("noRevision"))+"</p>"}).catch(function(){});
 }
 
 /* ---------- submit ---------- */
@@ -78,21 +83,27 @@ function submit(e){
   e.preventDefault();
   var m=$("#msg");m.textContent="";
   if(!ready()){m.textContent=t("notReady");return}
+  if($("#hp").value){$("#done").hidden=false;return}
   var vote=(document.querySelector("input[name=vote]:checked")||{}).value;
   if(!vote){m.textContent=t("needVote");return}
   var comment=$("#comment").value.trim();
   if(vote!=="approve"&&comment.length<3){m.textContent=t("commentReq");return}
   var country=$("#country").value,name=$("#name").value.trim(),commune=$("#commune").value.trim(),occ=$("#occ").value;
-  if(name.length<2||!country||!commune||!occ||($("#occ").value==="Other"&&!$("#occOther").value.trim())){m.textContent=t("needProfile");return}
+  if(name.length<2||!country||!commune||!occ||(occ==="Other"&&!$("#occOther").value.trim())){m.textContent=t("needProfile");return}
   if(!$("#consent").checked){m.textContent=t("needConsent");return}
   if(!CODE){CODE=store("anks-code")||newCode();store("anks-code",CODE)}
-  var profile={name:name,country:country,lives:country==="HT"?"ayiti":"abroad",departement:country==="HT"?$("#dept").value:"",commune:commune,occupation:occ,occupation_other:$("#occOther").value,years_there:$("#years").value,years_since_left:country==="HT"?"":$("#left").value,age_range:$("#age").value};
+  var num=function(v){v=parseInt(v,10);return isNaN(v)?null:Math.max(0,Math.min(120,v))};
+  var email=$("#email").value.trim(),part=+$("#part").value;
   var btn=$("#send");btn.disabled=true;btn.textContent=t("sending");
-  api("rpc/submit_response",{p_code:CODE,p_profile:profile,p_part:+$("#part").value,p_vote:vote,p_comment:comment,p_comment_lang:$("#clang").value,p_wording:$("#wording").value,p_ui_lang:lang,p_email:$("#email").value,p_may_contact:$("#mayContact").checked,p_honeypot:$("#hp").value})
-  .then(function(){
+  sha(CODE).then(function(pid){return sha(CODE+":"+part).then(function(sid){
+    var batch=writeBatch(DB);
+    batch.set(doc(DB,"people",pid),{name:name,country:country,lives:country==="HT"?"ayiti":"abroad",departement:country==="HT"?$("#dept").value:"",commune:commune,occupation:occ,occupationOther:occ==="Other"?$("#occOther").value.trim():"",yearsThere:num($("#years").value),yearsSinceLeft:country==="HT"?null:num($("#left").value),ageRange:$("#age").value||null,at:serverTimestamp()});
+    if(email)batch.set(doc(DB,"emails",pid),{email:email,mayContact:$("#mayContact").checked,at:serverTimestamp()});else batch.delete(doc(DB,"emails",pid));
+    batch.set(doc(DB,"submissions",sid),{pid:pid,part:part,vote:vote,comment:comment,commentLang:$("#clang").value,wording:$("#wording").value.trim(),uiLang:lang,status:"new",at:serverTimestamp()});
+    return batch.commit();
+  })}).then(function(){
     saveProfile();
     $("#codeOut").textContent=CODE;$("#done").hidden=false;$("#done").scrollIntoView({block:"center"});
-    loadResults();
   }).catch(function(err){m.textContent=t("errors");try{console.warn(err.message)}catch(x){}})
   .then(function(){btn.disabled=false;btn.textContent=t("send")});
 }
@@ -101,7 +112,15 @@ function submit(e){
 function del(){
   var c=$("#delCode").value.trim(),m=$("#delMsg");m.textContent="";
   if(!c||!ready())return;
-  api("rpc/delete_my_data",{p_code:c}).then(function(r){m.textContent=r.deleted?t("delDone"):t("delNone");if(r.deleted&&store("anks-code")===c){store("anks-code","");store("anks-profile","");CODE=""}}).catch(function(){m.textContent=t("errors")});
+  sha(c).then(function(pid){
+    var jobs=[];for(var n=0;n<=47;n++)jobs.push(sha(c+":"+n));
+    return Promise.all(jobs).then(function(sids){
+      var batch=writeBatch(DB);
+      sids.forEach(function(sid){batch.delete(doc(DB,"submissions",sid))});
+      batch.delete(doc(DB,"emails",pid));batch.delete(doc(DB,"people",pid));
+      return batch.commit();
+    });
+  }).then(function(){m.textContent=t("delDone");if(store("anks-code")===c){store("anks-code","");store("anks-profile","");CODE=""}}).catch(function(){m.textContent=t("errors")});
 }
 
 /* ---------- start ---------- */
@@ -126,4 +145,3 @@ function init(){
   $("#delBtn").onclick=del;
 }
 init();
-})();

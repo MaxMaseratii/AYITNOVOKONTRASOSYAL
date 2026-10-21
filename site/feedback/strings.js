@@ -1,5 +1,6 @@
 window.VS={
 en:{
+updated:"Results last updated",noResults:"No results have been published for this section yet.",
 title:"Your voice on the Ayiti social contract",
 intro:"Choose a section, tell us what you think, and vote. Anyone can take part, in any language.",
 howH:"How your answer is used",
@@ -23,12 +24,13 @@ results:"What others think",small:"Groups with fewer than 20 people are not show
 participants:"participants",byLives:"By where people live",byOcc:"By occupation",ayiti:"Ayiti",abroad:"Abroad",
 revision:"Revision log",noRevision:"No revisions published yet.",
 signal:"These votes are an opinion signal, open to anyone. They are not a referendum and adopt or reject nothing.",
-delH:"Delete my data",delIntro:"Enter your private code to erase your profile, email, comments and votes.",delCode:"Private code",delBtn:"Delete everything",delDone:"Done. Your data was deleted.",delNone:"No data found for this code.",
+delH:"Delete my data",delIntro:"Enter your private code to erase your profile, email, comments and votes.",delCode:"Private code",delBtn:"Delete everything",delDone:"Done. Anything linked to this code was deleted.",delNone:"No data found for this code.",
 errors:"Something went wrong. Please check the form and try again.",notReady:"This site is not connected to its database yet.",
 needVote:"Please choose a vote.",needProfile:"Please fill in your name, country, commune or city, and occupation.",needConsent:"Please tick the consent box.",
 lang:"Language",total:"Total"
 },
 ht:{
+updated:"Dènye mizajou rezilta yo",noResults:"Poko gen rezilta ki pibliye pou seksyon sa a.",
 title:"Vwa ou sou Kontra Sosyal Ayiti a",
 intro:"Chwazi yon seksyon, di nou sa w panse, epi vote. Tout moun ka patisipe, nan nenpòt lang.",
 howH:"Ki jan nou itilize repons ou",
@@ -52,12 +54,13 @@ results:"Sa lòt moun panse",small:"Nou pa montre gwoup ki gen mwens pase 20 mou
 participants:"moun ki patisipe",byLives:"Dapre kote moun yo ap viv",byOcc:"Dapre travay yo",ayiti:"Ayiti",abroad:"Aletranje",
 revision:"Jounal chanjman",noRevision:"Poko gen chanjman ki pibliye.",
 signal:"Vòt sa yo se yon siy opinyon, louvri pou tout moun. Se pa yon referandòm e yo pa adopte ni rejte anyen.",
-delH:"Efase done m yo",delIntro:"Antre kòd prive w la pou efase pwofil ou, imèl ou, kòmantè w yo ak vòt ou yo.",delCode:"Kòd prive",delBtn:"Efase tout bagay",delDone:"Fini. Done w yo efase.",delNone:"Pa jwenn okenn done pou kòd sa a.",
+delH:"Efase done m yo",delIntro:"Antre kòd prive w la pou efase pwofil ou, imèl ou, kòmantè w yo ak vòt ou yo.",delCode:"Kòd prive",delBtn:"Efase tout bagay",delDone:"Fini. Nou efase tout sa ki te lye ak kòd sa a.",delNone:"Pa jwenn okenn done pou kòd sa a.",
 errors:"Gen yon bagay ki pa mache. Tanpri tcheke fòm lan epi eseye ankò.",notReady:"Sit sa a poko konekte ak baz done li a.",
 needVote:"Tanpri chwazi yon vòt.",needProfile:"Tanpri ranpli non w, peyi w, komin oswa vil ou, ak travay ou.",needConsent:"Tanpri make bwat konsantman an.",
 lang:"Lang",total:"Total"
 },
 fr:{
+updated:"Résultats mis à jour le",noResults:"Aucun résultat n’a encore été publié pour cette section.",
 title:"Votre voix sur le contrat social d’Haïti",
 intro:"Choisissez une section, dites-nous ce que vous en pensez et votez. Tout le monde peut participer, dans n’importe quelle langue.",
 howH:"Comment votre réponse est utilisée",
@@ -81,12 +84,13 @@ results:"Ce que pensent les autres",small:"Les groupes de moins de 20 personnes 
 participants:"participants",byLives:"Selon le lieu de vie",byOcc:"Selon le métier",ayiti:"Ayiti",abroad:"À l’étranger",
 revision:"Journal des révisions",noRevision:"Aucune révision publiée pour l’instant.",
 signal:"Ces votes sont un signal d’opinion, ouvert à tous. Ce n’est pas un référendum et cela n’adopte ni ne rejette rien.",
-delH:"Supprimer mes données",delIntro:"Saisissez votre code privé pour effacer votre profil, votre e-mail, vos commentaires et vos votes.",delCode:"Code privé",delBtn:"Tout supprimer",delDone:"Terminé. Vos données ont été supprimées.",delNone:"Aucune donnée trouvée pour ce code.",
+delH:"Supprimer mes données",delIntro:"Saisissez votre code privé pour effacer votre profil, votre e-mail, vos commentaires et vos votes.",delCode:"Code privé",delBtn:"Tout supprimer",delDone:"Terminé. Tout ce qui était lié à ce code a été supprimé.",delNone:"Aucune donnée trouvée pour ce code.",
 errors:"Une erreur s’est produite. Vérifiez le formulaire et réessayez.",notReady:"Ce site n’est pas encore relié à sa base de données.",
 needVote:"Veuillez choisir un vote.",needProfile:"Veuillez renseigner votre nom, votre pays, votre commune ou ville et votre métier.",needConsent:"Veuillez cocher la case de consentement.",
 lang:"Langue",total:"Total"
 },
 es:{
+updated:"Resultados actualizados el",noResults:"Todavía no se han publicado resultados para esta sección.",
 title:"Tu voz sobre el contrato social de Haití",
 intro:"Elige una sección, cuéntanos lo que piensas y vota. Cualquiera puede participar, en cualquier idioma.",
 howH:"Cómo se usa tu respuesta",
@@ -110,12 +114,13 @@ results:"Lo que piensan los demás",small:"No se muestran grupos de menos de 20 
 participants:"participantes",byLives:"Según dónde viven",byOcc:"Según ocupación",ayiti:"Ayiti",abroad:"En el extranjero",
 revision:"Registro de revisiones",noRevision:"Todavía no hay revisiones publicadas.",
 signal:"Estos votos son una señal de opinión abierta a cualquiera. No son un referéndum y no adoptan ni rechazan nada.",
-delH:"Borrar mis datos",delIntro:"Introduce tu código privado para borrar tu perfil, correo, comentarios y votos.",delCode:"Código privado",delBtn:"Borrar todo",delDone:"Listo. Tus datos se borraron.",delNone:"No se encontraron datos para este código.",
+delH:"Borrar mis datos",delIntro:"Introduce tu código privado para borrar tu perfil, correo, comentarios y votos.",delCode:"Código privado",delBtn:"Borrar todo",delDone:"Listo. Se borró todo lo vinculado a este código.",delNone:"No se encontraron datos para este código.",
 errors:"Algo salió mal. Revisa el formulario e inténtalo de nuevo.",notReady:"Este sitio todavía no está conectado a su base de datos.",
 needVote:"Elige un voto.",needProfile:"Completa tu nombre, país, comuna o ciudad y ocupación.",needConsent:"Marca la casilla de consentimiento.",
 lang:"Idioma",total:"Total"
 },
 pt:{
+updated:"Resultados atualizados em",noResults:"Ainda não há resultados publicados para esta seção.",
 title:"Sua voz sobre o contrato social do Haiti",
 intro:"Escolha uma seção, diga o que pensa e vote. Qualquer pessoa pode participar, em qualquer idioma.",
 howH:"Como sua resposta é usada",
@@ -139,7 +144,7 @@ results:"O que os outros pensam",small:"Grupos com menos de 20 pessoas não são
 participants:"participantes",byLives:"Por onde vivem",byOcc:"Por ocupação",ayiti:"Ayiti",abroad:"No exterior",
 revision:"Registro de revisões",noRevision:"Nenhuma revisão publicada ainda.",
 signal:"Estes votos são um sinal de opinião aberto a qualquer pessoa. Não são um referendo e não adotam nem rejeitam nada.",
-delH:"Apagar meus dados",delIntro:"Digite seu código privado para apagar seu perfil, e-mail, comentários e votos.",delCode:"Código privado",delBtn:"Apagar tudo",delDone:"Pronto. Seus dados foram apagados.",delNone:"Nenhum dado encontrado para este código.",
+delH:"Apagar meus dados",delIntro:"Digite seu código privado para apagar seu perfil, e-mail, comentários e votos.",delCode:"Código privado",delBtn:"Apagar tudo",delDone:"Pronto. Tudo o que estava ligado a este código foi apagado.",delNone:"Nenhum dado encontrado para este código.",
 errors:"Algo deu errado. Confira o formulário e tente de novo.",notReady:"Este site ainda não está conectado ao seu banco de dados.",
 needVote:"Escolha um voto.",needProfile:"Preencha seu nome, país, comuna ou cidade e ocupação.",needConsent:"Marque a caixa de consentimento.",
 lang:"Idioma",total:"Total"

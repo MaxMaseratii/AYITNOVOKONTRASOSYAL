@@ -1,0 +1,49 @@
+// Run: npm i @firebase/rules-unit-testing@3 firebase@10 firebase-tools; copy firestore.rules next to this file; then
+//   firebase emulators:exec --only firestore --project demo-anks "node rules.test.mjs"  (firebase.json needs a firestore emulator on port 8085)
+import { initializeTestEnvironment, assertSucceeds, assertFails } from '@firebase/rules-unit-testing';
+import { doc, setDoc, getDoc, deleteDoc, serverTimestamp, writeBatch, getDocs, collection, updateDoc } from 'firebase/firestore';
+import fs from 'fs';
+const env=await initializeTestEnvironment({projectId:'demo-anks',firestore:{rules:fs.readFileSync('firestore.rules','utf8'),host:'127.0.0.1',port:8085}});
+const pub=env.unauthenticatedContext().firestore();
+const pid='a'.repeat(64);
+const person={name:'Jean Pierre',country:'HT',lives:'ayiti',departement:'Ouest',commune:'Delmas',occupation:'Farmer',occupationOther:'',yearsThere:20,yearsSinceLeft:null,ageRange:'35-49',at:serverTimestamp()};
+const sub={pid,part:39,vote:'changes',comment:'Please change this',commentLang:'en',wording:'',uiLang:'en',status:'new',at:serverTimestamp()};
+let ok=0,bad=0;
+async function t(name,p){try{await p;ok++;console.log('PASS',name)}catch(e){bad++;console.log('FAIL',name,e.message.slice(0,120))}}
+await t('create person',assertSucceeds(setDoc(doc(pub,'people',pid),person)));
+await t('update person',assertSucceeds(setDoc(doc(pub,'people',pid),{...person,commune:'Pétion-Ville'})));
+await t('create email',assertSucceeds(setDoc(doc(pub,'emails',pid),{email:'a@b.co',mayContact:true,at:serverTimestamp()})));
+await t('create submission',assertSucceeds(setDoc(doc(pub,'submissions','s1'),sub)));
+await t('edit submission',assertSucceeds(setDoc(doc(pub,'submissions','s1'),{...sub,vote:'approve',comment:''})));
+await t('batch like the app',assertSucceeds((async()=>{const b=writeBatch(pub);b.set(doc(pub,'people',pid),person);b.delete(doc(pub,'emails',pid));b.set(doc(pub,'submissions','s2'),sub);await b.commit()})()));
+await t('deny read people',assertFails(getDoc(doc(pub,'people',pid))));
+await t('deny list submissions',assertFails(getDocs(collection(pub,'submissions'))));
+await t('deny read emails',assertFails(getDoc(doc(pub,'emails',pid))));
+await t('deny disapprove w/o comment',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,vote:'disapprove',comment:''})));
+await t('deny status accepted',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,status:'accepted'})));
+await t('deny extra field',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,adminNote:'x'})));
+await t('deny part 99',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,part:99})));
+await t('deny long comment',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,comment:'x'.repeat(5001)})));
+await t('deny bad occupation',assertFails(setDoc(doc(pub,'people','b'.repeat(64)),{...person,occupation:'Hacker'})));
+await t('deny country/lives mismatch',assertFails(setDoc(doc(pub,'people','b'.repeat(64)),{...person,lives:'abroad'})));
+await t('deny bad email',assertFails(setDoc(doc(pub,'emails','b'.repeat(64)),{email:'nope',mayContact:false,at:serverTimestamp()})));
+await t('deny fake timestamp',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,at:new Date()})));
+await t('deny public write results',assertFails(setDoc(doc(pub,'public','results'),{parts:{}})));
+await t('public read results',assertSucceeds(getDoc(doc(pub,'public','results'))));
+await t('public read revisions',assertSucceeds(getDoc(doc(pub,'revisions','39'))));
+await t('deny public write revisions',assertFails(setDoc(doc(pub,'revisions','39'),{body:'x'})));
+await t('deny settings read',assertFails(getDoc(doc(pub,'settings','main'))));
+await t('deny self-admin',assertFails(setDoc(doc(pub,'admins','u1'),{x:1})));
+await t('delete own',assertSucceeds(deleteDoc(doc(pub,'submissions','s1'))));
+// admin
+await env.withSecurityRulesDisabled(async c=>{await setDoc(doc(c.firestore(),'admins','adm'),{ok:true})});
+const adm=env.authenticatedContext('adm').firestore();
+const other=env.authenticatedContext('zzz').firestore();
+await t('admin list submissions',assertSucceeds(getDocs(collection(adm,'submissions'))));
+await t('admin read emails',assertSucceeds(getDocs(collection(adm,'emails'))));
+await t('non-admin denied',assertFails(getDocs(collection(other,'submissions'))));
+await t('admin update status',assertSucceeds(updateDoc(doc(adm,'submissions','s2'),{status:'accepted',adminNote:'ok'})));
+await t('admin publish results',assertSucceeds(setDoc(doc(adm,'public','results'),{parts:{}})));
+await t('admin log',assertSucceeds(setDoc(doc(adm,'accessLog','l1'),{uid:'adm',action:'login',at:serverTimestamp()})));
+console.log(ok,'passed',bad,'failed');
+await env.cleanup();process.exit(bad?1:0);
