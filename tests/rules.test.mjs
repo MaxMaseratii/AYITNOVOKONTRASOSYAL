@@ -30,6 +30,8 @@ await t('deny bad email',assertFails(setDoc(doc(pub,'emails','b'.repeat(64)),{em
 await t('deny fake timestamp',assertFails(setDoc(doc(pub,'submissions','s3'),{...sub,at:new Date()})));
 await t('deny public write results',assertFails(setDoc(doc(pub,'public','results'),{parts:{}})));
 await t('public read results',assertSucceeds(getDoc(doc(pub,'public','results'))));
+await t('public read live',assertSucceeds(getDoc(doc(pub,'public','live'))));
+await t('deny public write live',assertFails(setDoc(doc(pub,'public','live'),{on:true,at:serverTimestamp()})));
 await t('public read revisions',assertSucceeds(getDoc(doc(pub,'revisions','39'))));
 await t('deny public write revisions',assertFails(setDoc(doc(pub,'revisions','39'),{body:'x'})));
 await t('deny settings read',assertFails(getDoc(doc(pub,'settings','main'))));
@@ -44,6 +46,7 @@ await t('admin read emails',assertSucceeds(getDocs(collection(adm,'emails'))));
 await t('non-admin denied',assertFails(getDocs(collection(other,'submissions'))));
 await t('admin update status',assertSucceeds(updateDoc(doc(adm,'submissions','s2'),{status:'accepted',adminNote:'ok'})));
 await t('admin publish results',assertSucceeds(setDoc(doc(adm,'public','results'),{parts:{}})));
+await t('admin set live',assertSucceeds(setDoc(doc(adm,'public','live'),{on:true,at:serverTimestamp(),meet:'x'})));
 await t('admin log',assertSucceeds(setDoc(doc(adm,'accessLog','l1'),{uid:'adm',action:'login',at:serverTimestamp()})));
 console.log(ok,'passed',bad,'failed');
 await env.cleanup();process.exit(bad?1:0);

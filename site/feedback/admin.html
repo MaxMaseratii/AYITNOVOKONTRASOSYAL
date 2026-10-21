@@ -47,10 +47,10 @@ $("#go").onclick=function(){
   $("#lerr").textContent="";
   signInWithEmailAndPassword(auth,$("#em").value,$("#pw").value).then(function(c){UID=c.user.uid;return getDoc(doc(DB,"admins",UID))})
   .then(function(s){if(!s.exists())throw new Error("This account is not on the review team.");return log("login")})
-  .then(function(){$("#login").hidden=true;$("#app").hidden=false;tabs();show("overview")})
+  .then(function(){$("#login").hidden=true;$("#app").hidden=false;tabs();show("live")})
   .catch(function(e){$("#lerr").textContent=String(e.message||e)});
 };
-var T=[["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"]];
+var T=[["live","Go live"],["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"]];
 function tabs(){$("#tabs").innerHTML="";T.forEach(function(t){var b=document.createElement("button");b.textContent=t[1];b.className="alt";b.onclick=function(){show(t[0])};b.dataset.t=t[0];$("#tabs").appendChild(b)})}
 function show(id){Array.prototype.forEach.call(document.querySelectorAll("#tabs button"),function(b){b.className=b.dataset.t===id?"on":"alt"});$("#main").innerHTML="<p class='muted'>Loading…</p>";VIEWS[id]().catch(function(e){$("#main").innerHTML="<p class='err'>"+esc(e.message)+"</p>"})}
 function norm(t){return String(t||"").toLowerCase().replace(/[^\p{L}\p{N}]+/gu,"")}
@@ -68,7 +68,15 @@ function aggregate(subs,k){
   return out;
 }
 function settings(){return getDoc(doc(DB,"settings","main")).then(function(s){return Object.assign({minGroup:20,retentionMonths:12,reviewClosedAt:""},s.exists()?s.data():{})})}
+var MEET="https://meet.google.com/eep-kzqk-ooe";
 var VIEWS={
+live:function(){return getDoc(doc(DB,"public","live")).then(function(s){
+  var cur=s.exists()?s.data():{};var on=!!cur.on;
+  $("#main").innerHTML="<h3>"+(on?"You are LIVE":"You are not live")+"</h3><p>The room opens at 4:35 AM New York time and the live starts at 4:45 AM New York time, Monday to Friday. The site cannot see inside Google Meet, so tap the button when you start. It shows <b>I am live now</b> to everyone who has the page open. It switches itself off after 3 hours if you forget to end it.</p><p><button id='lv1'>"+(on?"Still live (refresh)":"I am live now, open Meet")+"</button> <button class='alt' id='lv0'>End live</button> <span id='lm'></span></p><p class='muted'>Meet link: "+esc(MEET)+"</p>";
+  function set(v){return setDoc(doc(DB,"public","live"),{on:v,at:serverTimestamp(),meet:MEET}).then(function(){return log(v?"live_on":"live_off")}).then(function(){$("#lm").textContent=v?"Live is on.":"Live is off.";show("live")}).catch(function(e){$("#lm").textContent=e.message})}
+  $("#lv1").onclick=function(){window.open(MEET,"_blank","noopener");set(true)};
+  $("#lv0").onclick=function(){set(false)};
+  return Promise.resolve()})},
 overview:function(){return loadAll().then(function(c){
   var by={};c.subs.forEach(function(r){var o=by[r.part]||(by[r.part]={n:0,a:0,c:0,d:0,nw:0,ab:0});o.n++;o[r.vote==="approve"?"a":r.vote==="changes"?"c":"d"]++;if(r.status==="new")o.nw++;if(r.p.lives==="abroad")o.ab++});
   var h="<p>"+c.subs.length+" submissions from "+Object.keys(c.people).length+" people.</p><table><tr><th>Section</th><th>All</th><th>Approve</th><th>With changes</th><th>Disapprove</th><th>Abroad</th><th>New</th></tr>";

@@ -34,3 +34,10 @@ Overview, filterable submissions (read each comment beside the person's profile,
 - Delete: a person deletes by code. The site cannot say whether anything existed, because the public cannot read.
 - A site that collects opinions is a target. Protect the Firebase account with two-step verification and review the access log.
 - The Kreyòl text in `strings.js` needs a native-speaker review before launch.
+
+## Daily live room (Google Meet)
+
+- The page shows the live schedule at the top of every tab: room opens 4:35 AM New York time, live at 4:45 AM New York time, Monday to Friday. Each visitor also sees the next live in their own local time.
+- The Meet link is in `site/index.html` (`LIVE_MEET`) and in `site/feedback/admin.html` (`MEET`). It is the repeating Google Calendar event, so the link never changes.
+- A website cannot see inside Google Meet. To show **I am live now**, sign in at `/feedback/admin.html` and tap **I am live now, open Meet** on the first tab. Tap **End live** when you finish. It switches itself off after 3 hours.
+- For the badge to work on the main page, set `LIVE_PROJECT` (your Firebase projectId) and `LIVE_KEY` (your Firebase apiKey) in `site/index.html`. Leave them empty and the page shows the schedule only.
