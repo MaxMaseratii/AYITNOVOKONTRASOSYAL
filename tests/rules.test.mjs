@@ -1,7 +1,7 @@
 // Run: npm i @firebase/rules-unit-testing@3 firebase@10 firebase-tools; copy firestore.rules next to this file; then
 //   firebase emulators:exec --only firestore --project demo-anks "node rules.test.mjs"  (firebase.json needs a firestore emulator on port 8085)
 import { initializeTestEnvironment, assertSucceeds, assertFails } from '@firebase/rules-unit-testing';
-import { doc, setDoc, getDoc, deleteDoc, serverTimestamp, writeBatch, getDocs, collection, updateDoc } from 'firebase/firestore';
+import { doc, setDoc, getDoc, deleteDoc, serverTimestamp, Timestamp, writeBatch, getDocs, collection, updateDoc } from 'firebase/firestore';
 import fs from 'fs';
 const env=await initializeTestEnvironment({projectId:'demo-anks',firestore:{rules:fs.readFileSync('firestore.rules','utf8'),host:'127.0.0.1',port:8085}});
 const pub=env.unauthenticatedContext().firestore();
@@ -48,5 +48,24 @@ await t('admin update status',assertSucceeds(updateDoc(doc(adm,'submissions','s2
 await t('admin publish results',assertSucceeds(setDoc(doc(adm,'public','results'),{parts:{}})));
 await t('admin set live',assertSucceeds(setDoc(doc(adm,'public','live'),{on:true,at:serverTimestamp(),meet:'x'})));
 await t('admin log',assertSucceeds(setDoc(doc(adm,'accessLog','l1'),{uid:'adm',action:'login',at:serverTimestamp()})));
+// live room access
+const p2='c'.repeat(64), p3='d'.repeat(64);
+const mk=(id,live)=>{const b=writeBatch(pub);b.set(doc(pub,'people',id),person);b.set(doc(pub,'emails',id),{email:'m@x.co',mayContact:false,live:live,at:serverTimestamp()});return b};
+const endTs=Timestamp.fromDate(new Date(Date.now()+30*864e5));
+await t('deny access when no cycle set',assertFails((async()=>{const b=mk(p2,true);b.set(doc(pub,'access',p2),{until:endTs,at:serverTimestamp()});await b.commit()})()));
+await t('admin set cycle',assertSucceeds(setDoc(doc(adm,'public','cycle'),{end:endTs,updated:serverTimestamp()})));
+await t('deny cycle write by public',assertFails(setDoc(doc(pub,'public','cycle'),{end:endTs})));
+await t('form batch creates access',assertSucceeds((async()=>{const b=mk(p2,true);b.set(doc(pub,'access',p2),{until:endTs,at:serverTimestamp()});await b.commit()})()));
+await t('deny access with wrong until',assertFails((async()=>{const b=mk(p3,true);b.set(doc(pub,'access',p3),{until:Timestamp.fromDate(new Date(Date.now()+400*864e5)),at:serverTimestamp()});await b.commit()})()));
+await t('deny access without people/email docs',assertFails(setDoc(doc(pub,'access',p3),{until:endTs,at:serverTimestamp()})));
+await t('deny access extra field',assertFails((async()=>{const b=mk(p3,true);b.set(doc(pub,'access',p3),{until:endTs,at:serverTimestamp(),admin:true});await b.commit()})()));
+await t('public get own access',assertSucceeds(getDoc(doc(pub,'access',p2))));
+await t('deny public list access',assertFails(getDocs(collection(pub,'access'))));
+await t('admin list access',assertSucceeds(getDocs(collection(adm,'access'))));
+await t('deny early renewal while active',assertFails(setDoc(doc(pub,'access',p2),{until:endTs,at:serverTimestamp()})));
+await env.withSecurityRulesDisabled(async c=>{await setDoc(doc(c.firestore(),'access',p2),{until:Timestamp.fromDate(new Date(Date.now()-864e5)),at:Timestamp.now()})});
+await t('renewal after expiry',assertSucceeds(setDoc(doc(pub,'access',p2),{until:endTs,at:serverTimestamp()})));
+await t('admin revoke',assertSucceeds(deleteDoc(doc(adm,'access',p2))));
+await t('deny email live non-bool',assertFails(setDoc(doc(pub,'emails',p3),{email:'m@x.co',mayContact:false,live:'yes',at:serverTimestamp()})));
 console.log(ok,'passed',bad,'failed');
 await env.cleanup();process.exit(bad?1:0);

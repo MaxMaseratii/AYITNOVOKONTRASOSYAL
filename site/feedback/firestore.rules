@@ -29,7 +29,8 @@ service cloud.firestore {
 
     function validEmail() {
       let d = request.resource.data;
-      return d.keys().hasOnly(['email','mayContact','at']) && d.keys().hasAll(['email','mayContact','at'])
+      return d.keys().hasOnly(['email','mayContact','live','at']) && d.keys().hasAll(['email','mayContact','at'])
+        && (!('live' in d.keys()) || d.live is bool)
         && s(d.email, 5, 200) && d.email.matches('^[^@ ]+@[^@ ]+\\.[^@ ]+$')
         && d.mayContact is bool && d.at == request.time;
     }
@@ -46,6 +47,25 @@ service cloud.firestore {
         && d.status == 'new' && d.at == request.time;
     }
 
+    // Live room access. The document id is the same secret hash as the person's other documents, so only the
+    // holder of the code can read it by id; nobody can list them except the review team. Access ends on the
+    // cycle date the review team sets in public/cycle. It cannot be created without a people and an emails document.
+    function cycleEnd() { return get(/databases/$(database)/documents/public/cycle).data.end; }
+    function validAccess(pid) {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['until','at']) && d.keys().hasAll(['until','at'])
+        && d.at == request.time && d.until == cycleEnd() && request.time < cycleEnd()
+        && existsAfter(/databases/$(database)/documents/people/$(pid))
+        && existsAfter(/databases/$(database)/documents/emails/$(pid));
+    }
+
+    match /access/{pid} {
+      allow get: if true;
+      allow list: if isAdmin();
+      allow create: if validAccess(pid);
+      allow update: if isAdmin() || (resource.data.until <= request.time && validAccess(pid));
+      allow delete: if true;
+    }
     match /people/{pid} {
       allow read: if isAdmin();
       allow create, update: if validPerson();

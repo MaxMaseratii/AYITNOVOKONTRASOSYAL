@@ -35,9 +35,21 @@ Overview, filterable submissions (read each comment beside the person's profile,
 - A site that collects opinions is a target. Protect the Firebase account with two-step verification and review the access log.
 - The Kreyòl text in `strings.js` needs a native-speaker review before launch.
 
-## Daily live room (Google Meet)
+## Daily live room (Google Meet), members only
 
-- The page shows the live schedule at the top of every tab: room opens 4:35 AM New York time, live at 4:45 AM New York time, Monday to Friday. Each visitor also sees the next live in their own local time.
-- The Meet link is in `site/index.html` (`LIVE_MEET`) and in `site/feedback/admin.html` (`MEET`). It is the repeating Google Calendar event, so the link never changes.
-- A website cannot see inside Google Meet. To show **I am live now**, sign in at `/feedback/admin.html` and tap **I am live now, open Meet** on the first tab. Tap **End live** when you finish. It switches itself off after 3 hours.
-- For the badge to work on the main page, set `LIVE_PROJECT` (your Firebase projectId) and `LIVE_KEY` (your Firebase apiKey) in `site/index.html`. Leave them empty and the page shows the schedule only.
+**Who sees it.** Only people who filled out the form and ticked the live room box. Everyone else sees a locked box with no schedule and no link. The page checks the person's private code against the `access` collection in Firestore.
+
+**Monthly cycle.** All access ends on one date, set in the admin page (**Go live** tab, **Access cycle**). The first cycle ends 21 Nov 2026 (start of that day, New York time). After that the Join button disappears by itself. People fill out the form again to get the next cycle. Send the renewal email 3 days before the end (21 Nov: send on 18 Nov). Each month, set the new end date (21 Dec, 21 Jan, and so on).
+
+**The real lock is Google Meet, not the page.** The Meet link is in the page code, so a technical visitor could find it. Protect the room in Google Calendar and Meet:
+1. Add the active members as guests on the repeating **Ayiti Live Analysis** event (admin page, **Members** tab, **Copy active emails**).
+2. In the event's Meet settings, set access to **Restricted**, so only invited people can join and you never have to admit anyone by hand. Guests must sign in to Google with the email you invited.
+3. On the end date, remove expired members from the guest list (Members tab, **Copy expired emails**).
+
+**One-time setup after Firebase is created.**
+1. Sign in at `/feedback/admin.html`, open **Go live**, and tap **Set cycle end** (21 Nov 2026 is pre-filled). Nobody can get access until this is set.
+2. In `site/index.html`, set `LIVE_PROJECT` (your Firebase projectId) and `LIVE_KEY` (your Firebase apiKey), and `FEEDBACK_URL`.
+
+**I am live now.** A website cannot see inside Google Meet. Tap **I am live now, open Meet** on the admin page's first tab. Members then see a red "I am live now" box. **End live** turns it off, and it turns itself off after 3 hours.
+
+**Privacy.** Email stays optional for the comment form. It is required only if the person ticks the live room box. It is used only to invite them and to remind them 3 days before access ends. The form and the privacy list say so.

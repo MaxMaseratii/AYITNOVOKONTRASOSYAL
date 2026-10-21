@@ -25,7 +25,7 @@ function sha(str){return crypto.subtle.digest("SHA-256",new TextEncoder().encode
 function setText(){
   document.documentElement.lang=lang;
   document.title=t("title")+" · Ayiti Nouvo Kontra Sosyal";
-  var map={"t-title":"title","t-intro":"intro","t-howH":"howH","t-privH":"privH","t-priv":"priv","l-section":"section","l-vote":"vote","v-approve":"approve","v-changes":"changes","v-disapprove":"disapprove","l-comment":"comment","l-clang":"commentLang","l-wording":"wording","l-about":"about","l-aboutNote":"aboutNote","l-name":"name","l-country":"country","l-dept":"dept","l-commune":"commune","l-occ":"occupation","l-occOther":"otherOcc","l-years":"years","l-left":"left","l-age":"age","l-email":"email","l-mayContact":"mayContact","l-consent":"consent","t-thanks":"thanks","t-codeNote":"codeNote","again":"another","t-results":"results","t-small":"small","t-signal":"signal","t-revision":"revision","t-delH":"delH","t-delIntro":"delIntro","l-delCode":"delCode","delBtn":"delBtn"};
+  var map={"t-title":"title","t-intro":"intro","t-howH":"howH","t-privH":"privH","t-priv":"priv","l-section":"section","l-vote":"vote","v-approve":"approve","v-changes":"changes","v-disapprove":"disapprove","l-comment":"comment","l-clang":"commentLang","l-wording":"wording","l-about":"about","l-aboutNote":"aboutNote","l-name":"name","l-country":"country","l-dept":"dept","l-commune":"commune","l-occ":"occupation","l-occOther":"otherOcc","l-years":"years","l-left":"left","l-age":"age","l-email":"email","l-mayContact":"mayContact","l-liveJoin":"liveJoin","l-consent":"consent","t-thanks":"thanks","t-codeNote":"codeNote","again":"another","t-results":"results","t-small":"small","t-signal":"signal","t-revision":"revision","t-delH":"delH","t-delIntro":"delIntro","l-delCode":"delCode","delBtn":"delBtn"};
   Object.keys(map).forEach(function(id){var e=document.getElementById(id);if(e)e.textContent=t(map[id])});
   $("#t-how").innerHTML=t("how").map(function(x){return "<li>"+esc(x)+"</li>"}).join("");
   $("#send").textContent=t("send");
@@ -94,19 +94,33 @@ function submit(e){
   if(!CODE){CODE=store("anks-code")||newCode();store("anks-code",CODE)}
   var num=function(v){v=parseInt(v,10);return isNaN(v)?null:Math.max(0,Math.min(120,v))};
   var email=$("#email").value.trim(),part=+$("#part").value;
+  var wantLive=$("#liveJoin").checked;
+  if(wantLive&&!email){m.textContent=t("liveNeedEmail");return}
+  var liveMsg="";
   var btn=$("#send");btn.disabled=true;btn.textContent=t("sending");
   sha(CODE).then(function(pid){return sha(CODE+":"+part).then(function(sid){
     var batch=writeBatch(DB);
     batch.set(doc(DB,"people",pid),{name:name,country:country,lives:country==="HT"?"ayiti":"abroad",departement:country==="HT"?$("#dept").value:"",commune:commune,occupation:occ,occupationOther:occ==="Other"?$("#occOther").value.trim():"",yearsThere:num($("#years").value),yearsSinceLeft:country==="HT"?null:num($("#left").value),ageRange:$("#age").value||null,at:serverTimestamp()});
-    if(email)batch.set(doc(DB,"emails",pid),{email:email,mayContact:$("#mayContact").checked,at:serverTimestamp()});else batch.delete(doc(DB,"emails",pid));
+    if(email)batch.set(doc(DB,"emails",pid),{email:email,mayContact:$("#mayContact").checked,live:wantLive,at:serverTimestamp()});else batch.delete(doc(DB,"emails",pid));
     batch.set(doc(DB,"submissions",sid),{pid:pid,part:part,vote:vote,comment:comment,commentLang:$("#clang").value,wording:$("#wording").value.trim(),uiLang:lang,status:"new",at:serverTimestamp()});
-    return batch.commit();
+    return (wantLive?Promise.all([getDoc(doc(DB,"public","cycle")),getDoc(doc(DB,"access",pid))]):Promise.resolve(null)).then(function(r){
+      if(r){
+        var end=r[0].exists()?r[0].data().end:null,ac=r[1].exists()?r[1].data():null;
+        if(!end||end.toMillis()<=Date.now())liveMsg=t("liveClosed");
+        else if(ac&&ac.until.toMillis()>Date.now())liveMsg=t("liveOk")+" "+fmtDate(ac.until.toDate());
+        else{batch.set(doc(DB,"access",pid),{until:end,at:serverTimestamp()});liveMsg=t("liveOk")+" "+fmtDate(end.toDate())}
+      }
+      return batch.commit();
+    });
   })}).then(function(){
     saveProfile();
+    var lm=$("#liveMsg");lm.textContent=liveMsg;lm.hidden=!liveMsg;
     $("#codeOut").textContent=CODE;$("#done").hidden=false;$("#done").scrollIntoView({block:"center"});
   }).catch(function(err){m.textContent=t("errors");try{console.warn(err.message)}catch(x){}})
   .then(function(){btn.disabled=false;btn.textContent=t("send")});
 }
+
+function fmtDate(d){try{return new Intl.DateTimeFormat(lang==="ht"?"fr":lang,{dateStyle:"long"}).format(d)}catch(e){return d.toISOString().slice(0,10)}}
 
 /* ---------- delete ---------- */
 function del(){
@@ -117,7 +131,7 @@ function del(){
     return Promise.all(jobs).then(function(sids){
       var batch=writeBatch(DB);
       sids.forEach(function(sid){batch.delete(doc(DB,"submissions",sid))});
-      batch.delete(doc(DB,"emails",pid));batch.delete(doc(DB,"people",pid));
+      batch.delete(doc(DB,"access",pid));batch.delete(doc(DB,"emails",pid));batch.delete(doc(DB,"people",pid));
       return batch.commit();
     });
   }).then(function(){m.textContent=t("delDone");if(store("anks-code")===c){store("anks-code","");store("anks-profile","");CODE=""}}).catch(function(){m.textContent=t("errors")});
