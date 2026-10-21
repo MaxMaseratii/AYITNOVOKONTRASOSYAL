@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ayiti Nouvo Kontra Sosyal · Public Voice</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--bg:#fff;--surface:#f5f6f8;--ink:#12151c;--muted:#555c6b;--line:#d7dbe3;--accent:#00209F;--accent-ink:#fff;--red:#C8102E;--ok:#0b6b3a;--warn:#8a5a00}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#10131a;--surface:#1a1f2a;--ink:#eef0f5;--muted:#a3abbb;--line:#30384a;--accent:#7f9cff;--accent-ink:#0b1030;--red:#ff6b81;--ok:#58d28d;--warn:#f0b64a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+[hidden]{display:none!important}
+.wrap{max-width:760px;margin:0 auto;padding:16px}
+header{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;border-bottom:4px solid var(--accent);padding-bottom:10px;margin-bottom:16px}
+h1{font-size:1.4rem;line-height:1.25;margin:0}
+h2{font-size:1.1rem;margin:0 0 8px}
+h3{font-size:1rem;margin:14px 0 6px}
+.brand{font-size:.8rem;color:var(--muted);letter-spacing:.05em;text-transform:uppercase}
+select,input,textarea,button{font:inherit;color:inherit}
+select,input[type=text],input[type=number],input[type=email],textarea{width:100%;padding:10px;border:1px solid var(--line);background:var(--bg);border-radius:0;min-height:44px}
+textarea{min-height:110px;resize:vertical}
+label{display:block;font-weight:600;margin:12px 0 4px}
+label.inline{display:flex;gap:10px;align-items:flex-start;font-weight:400;margin:8px 0}
+label.inline input{width:22px;height:22px;margin-top:2px;flex:none}
+.card{background:var(--surface);border:1px solid var(--line);padding:14px;margin:14px 0}
+.votes{display:grid;gap:8px}
+.votes label.inline{border:1px solid var(--line);padding:12px;margin:0;background:var(--bg);font-weight:600}
+.votes label.inline:has(input:checked){border-color:var(--accent);outline:2px solid var(--accent)}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-ink);border:0;padding:12px 20px;min-height:44px;font-weight:600;cursor:pointer;border-radius:0}
+.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.btn:disabled{opacity:.5}
+.err{color:var(--red);font-weight:600}
+.note{border-left:4px solid var(--accent);padding:2px 0 2px 12px;margin:12px 0;color:var(--muted)}
+.row{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.bar{display:flex;height:18px;border:1px solid var(--line);margin:4px 0}
+.bar i{display:block;height:100%}
+.b-a{background:var(--ok)}.b-c{background:var(--warn)}.b-d{background:var(--red)}
+.lg{display:flex;gap:14px;flex-wrap:wrap;font-size:.85rem;color:var(--muted)}
+.code{font:600 1.1rem ui-monospace,Menlo,monospace;background:var(--bg);border:1px dashed var(--accent);padding:10px;word-break:break-all;margin:8px 0}
+.hp{position:absolute;left:-9999px;height:0;overflow:hidden}
+ul.how{padding-left:1.2rem;margin:6px 0}
+table{border-collapse:collapse;width:100%;font-size:.9rem}td,th{border:1px solid var(--line);padding:6px 8px;text-align:left}
+details>summary{cursor:pointer;font-weight:600;padding:6px 0}
+pre.rev{white-space:pre-wrap;font:inherit;margin:6px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><div class="brand">Ayiti Nouvo Kontra Sosyal</div><h1 id="t-title"></h1></div>
+  <select id="lang" aria-label="Language" style="width:auto"></select>
+</header>
+<noscript><p class="err">This page needs JavaScript to send your answer. The document itself can be read without it.</p></noscript>
+<p id="t-intro"></p>
+<div class="card"><h2 id="t-howH"></h2><ul class="how" id="t-how"></ul></div>
+<div class="card"><h2 id="t-privH"></h2><p id="t-priv"></p></div>
+<p class="err" id="notReady" hidden></p>
+
+<form id="f" novalidate>
+  <label for="part" id="l-section"></label>
+  <select id="part"></select>
+
+  <fieldset style="border:0;padding:0;margin:14px 0 0"><legend id="l-vote" style="font-weight:600;padding:0"></legend>
+    <div class="votes" role="radiogroup">
+      <label class="inline"><input type="radio" name="vote" value="approve"><span id="v-approve"></span></label>
+      <label class="inline"><input type="radio" name="vote" value="changes"><span id="v-changes"></span></label>
+      <label class="inline"><input type="radio" name="vote" value="disapprove"><span id="v-disapprove"></span></label>
+    </div>
+  </fieldset>
+
+  <label for="comment" id="l-comment"></label>
+  <textarea id="comment" maxlength="5000"></textarea>
+  <div class="row">
+    <div><label for="clang" id="l-clang"></label><select id="clang"></select></div>
+  </div>
+  <label for="wording" id="l-wording"></label>
+  <textarea id="wording" maxlength="5000" style="min-height:80px"></textarea>
+
+  <div class="card" id="aboutCard">
+    <h2 id="l-about"></h2><div class="note" id="l-aboutNote"></div>
+    <label for="name" id="l-name"></label><input type="text" id="name" maxlength="120" autocomplete="name">
+    <div class="row">
+      <div><label for="country" id="l-country"></label><select id="country"></select></div>
+      <div id="deptBox"><label for="dept" id="l-dept"></label><select id="dept"></select></div>
+    </div>
+    <label for="commune" id="l-commune"></label><input type="text" id="commune" maxlength="120">
+    <div class="row">
+      <div><label for="occ" id="l-occ"></label><select id="occ"></select></div>
+      <div id="occOtherBox" hidden><label for="occOther" id="l-occOther"></label><input type="text" id="occOther" maxlength="120"></div>
+    </div>
+    <div class="row">
+      <div><label for="years" id="l-years"></label><input type="number" id="years" min="0" max="120" inputmode="numeric"></div>
+      <div id="leftBox" hidden><label for="left" id="l-left"></label><input type="number" id="left" min="0" max="120" inputmode="numeric"></div>
+      <div><label for="age" id="l-age"></label><select id="age"></select></div>
+    </div>
+    <label for="email" id="l-email"></label><input type="email" id="email" maxlength="200" autocomplete="email">
+    <label class="inline" id="mcBox"><input type="checkbox" id="mayContact"><span id="l-mayContact"></span></label>
+  </div>
+
+  <label class="inline"><input type="checkbox" id="consent"><span id="l-consent"></span></label>
+  <div class="hp" aria-hidden="true"><label>Website<input type="text" id="hp" tabindex="-1" autocomplete="off"></label></div>
+  <p class="err" id="msg" role="alert"></p>
+  <button class="btn" type="submit" id="send"></button>
+</form>
+
+<div class="card" id="done" hidden>
+  <p id="t-thanks"></p><div class="code" id="codeOut"></div><p class="note" id="t-codeNote"></p>
+  <button class="btn alt" type="button" id="again"></button>
+</div>
+
+<section id="resBox">
+  <h2 id="t-results"></h2>
+  <div id="res"></div>
+  <p class="note" id="t-small"></p><p class="note" id="t-signal"></p>
+  <details><summary id="t-revision"></summary><div id="rev"></div></details>
+</section>
+
+<section class="card" id="delBox">
+  <h2 id="t-delH"></h2><p id="t-delIntro"></p>
+  <label for="delCode" id="l-delCode"></label><input type="text" id="delCode" autocomplete="off">
+  <p style="margin-top:10px"><button class="btn alt" type="button" id="delBtn"></button></p><p id="delMsg"></p>
+</section>
+</div>
+<script src="config.js"></script>
+<script src="strings.js"></script>
+<script src="parts.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

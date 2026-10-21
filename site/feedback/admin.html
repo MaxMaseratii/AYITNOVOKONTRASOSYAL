@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Public Voice · Review team</title>
+<style>
+:root{--bg:#fff;--surface:#f5f6f8;--ink:#12151c;--muted:#555c6b;--line:#d7dbe3;--accent:#00209F;--red:#C8102E}
+@media (prefers-color-scheme:dark){:root{--bg:#10131a;--surface:#1a1f2a;--ink:#eef0f5;--muted:#a3abbb;--line:#30384a;--accent:#7f9cff;--red:#ff6b81}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:14px}h1{font-size:1.25rem}[hidden]{display:none!important}
+input,select,textarea,button{font:inherit;color:inherit;padding:8px;border:1px solid var(--line);background:var(--bg)}
+button{cursor:pointer;background:var(--accent);color:#fff;border:0;padding:8px 14px}button.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}.tabs button.on{outline:2px solid var(--ink)}
+table{border-collapse:collapse;width:100%;font-size:.85rem}td,th{border:1px solid var(--line);padding:5px 7px;text-align:left;vertical-align:top}
+.card{background:var(--surface);border:1px solid var(--line);padding:12px;margin:10px 0}.err{color:var(--red)}
+.filters{display:flex;gap:8px;flex-wrap:wrap}.muted{color:var(--muted)}pre{white-space:pre-wrap;margin:4px 0}
+</style></head><body><div class="wrap">
+<h1>Public Voice · Review team</h1>
+<div id="login" class="card">
+  <p>Sign in with the review-team account. Every access is logged.</p>
+  <p><input id="em" type="email" placeholder="email" autocomplete="username"> <input id="pw" type="password" placeholder="password" autocomplete="current-password"> <button id="go">Sign in</button></p>
+  <p class="err" id="lerr"></p>
+</div>
+<div id="app" hidden>
+  <div class="tabs" id="tabs"></div>
+  <div id="main"></div>
+</div>
+</div>
+<script src="config.js"></script>
+<script src="parts.js"></script>
+<script>
+(function(){
+var C=window.VOICE_CONFIG,TOKEN="",$=function(s){return document.querySelector(s)};
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
+function hdr(extra){var h={"apikey":C.SUPABASE_ANON_KEY,"Authorization":"Bearer "+(TOKEN||C.SUPABASE_ANON_KEY),"Content-Type":"application/json"};for(var k in extra)h[k]=extra[k];return h}
+function get(p){return fetch(C.SUPABASE_URL+"/rest/v1/"+p,{headers:hdr()}).then(function(r){if(!r.ok)return r.text().then(function(x){throw new Error(x)});return r.json()})}
+function rpc(n,b){return fetch(C.SUPABASE_URL+"/rest/v1/rpc/"+n,{method:"POST",headers:hdr(),body:JSON.stringify(b||{})}).then(function(r){return r.text().then(function(x){if(!r.ok)throw new Error(x);return x?JSON.parse(x):null})})}
+function patch(p,b){return fetch(C.SUPABASE_URL+"/rest/v1/"+p,{method:"PATCH",headers:hdr({"Prefer":"return=minimal"}),body:JSON.stringify(b)}).then(function(r){if(!r.ok)return r.text().then(function(x){throw new Error(x)})})}
+function upsert(p,b){return fetch(C.SUPABASE_URL+"/rest/v1/"+p,{method:"POST",headers:hdr({"Prefer":"resolution=merge-duplicates,return=minimal"}),body:JSON.stringify(b)}).then(function(r){if(!r.ok)return r.text().then(function(x){throw new Error(x)})})}
+function title(n){return n===0?"General":n+". "+window.PARTS_EN[n-1]}
+$("#go").onclick=function(){
+  $("#lerr").textContent="";
+  fetch(C.SUPABASE_URL+"/auth/v1/token?grant_type=password",{method:"POST",headers:{"apikey":C.SUPABASE_ANON_KEY,"Content-Type":"application/json"},body:JSON.stringify({email:$("#em").value,password:$("#pw").value})})
+  .then(function(r){return r.json()}).then(function(j){
+    if(!j.access_token)throw new Error(j.error_description||j.msg||"login failed");
+    TOKEN=j.access_token;return rpc("is_admin")
+  }).then(function(ok){if(ok!==true)throw new Error("This account is not on the review team.");return rpc("log_access",{p_action:"login"})}).then(function(){$("#login").hidden=true;$("#app").hidden=false;tabs();show("overview")})
+  .catch(function(e){$("#lerr").textContent=String(e.message||e)});
+};
+var T=[["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["rev","Revision log"],["exp","Export"],["data","Retention"]];
+function tabs(){$("#tabs").innerHTML="";T.forEach(function(t){var b=document.createElement("button");b.textContent=t[1];b.className="alt";b.onclick=function(){show(t[0])};b.dataset.t=t[0];$("#tabs").appendChild(b)})}
+function show(id){Array.prototype.forEach.call(document.querySelectorAll("#tabs button"),function(b){b.className=b.dataset.t===id?"on":"alt"});$("#main").innerHTML="<p class='muted'>Loading…</p>";VIEWS[id]().catch(function(e){$("#main").innerHTML="<p class='err'>"+esc(e.message)+"</p>"})}
+var VIEWS={
+overview:function(){return get("submissions?select=part,vote,status,people(lives)&limit=100000").then(function(rows){
+  var by={};rows.forEach(function(r){var o=by[r.part]||(by[r.part]={n:0,a:0,c:0,d:0,nw:0,ab:0});o.n++;o[r.vote==="approve"?"a":r.vote==="changes"?"c":"d"]++;if(r.status==="new")o.nw++;if(r.people&&r.people.lives==="abroad")o.ab++});
+  var h="<p>"+rows.length+" submissions in total.</p><table><tr><th>Section</th><th>All</th><th>Approve</th><th>With changes</th><th>Disapprove</th><th>Abroad</th><th>New</th></tr>";
+  for(var n=0;n<=47;n++){var o=by[n]||{n:0,a:0,c:0,d:0,nw:0,ab:0};h+="<tr><td>"+esc(title(n))+"</td><td>"+o.n+"</td><td>"+o.a+"</td><td>"+o.c+"</td><td>"+o.d+"</td><td>"+o.ab+"</td><td>"+o.nw+"</td></tr>"}
+  $("#main").innerHTML=h+"</table>"})},
+subs:function(){$("#main").innerHTML="<div class='filters'><select id='fp'><option value=''>All sections</option>"+Array.from({length:48},function(_,n){return "<option value='"+n+"'>"+esc(title(n))+"</option>"}).join("")+"</select><select id='fv'><option value=''>All votes</option><option>approve</option><option>changes</option><option>disapprove</option></select><select id='fs'><option value=''>All statuses</option><option>new</option><option>reviewed</option><option>accepted</option><option>declined</option><option>translate</option></select><select id='fl'><option value=''>All languages</option><option>en</option><option>ht</option><option>fr</option><option>es</option><option>pt</option><option>other</option></select><input id='fc' placeholder='country code'><input id='fo' placeholder='occupation'><button id='fgo'>Filter</button></div><div id='lst'></div>";
+  function load(){var q="submissions?select=*,people(name,country,lives,departement,commune,occupation,occupation_other,years_there,years_since_left,age_range)&order=updated_at.desc&limit=200";
+    if($("#fp").value)q+="&part=eq."+$("#fp").value;if($("#fv").value)q+="&vote=eq."+$("#fv").value;if($("#fs").value)q+="&status=eq."+$("#fs").value;if($("#fl").value)q+="&comment_lang=eq."+$("#fl").value;
+    if($("#fc").value)q+="&people.country=eq."+encodeURIComponent($("#fc").value.toUpperCase())+"&people=not.is.null";if($("#fo").value)q+="&people.occupation=ilike.*"+encodeURIComponent($("#fo").value)+"*&people=not.is.null";
+    return get(q).then(function(rows){$("#lst").innerHTML=rows.map(function(r){var p=r.people||{};return "<div class='card'><b>"+esc(title(r.part))+"</b> · "+esc(r.vote)+" · <span class='muted'>"+esc(r.comment_lang||"")+" · "+esc(r.status)+" · "+esc(r.updated_at.slice(0,16))+"</span><div class='muted'>"+esc(p.name)+" · "+esc(p.commune)+(p.departement?" ("+esc(p.departement)+")":"")+", "+esc(p.country)+" · "+esc(p.occupation_other||p.occupation)+" · "+esc(p.years_there==null?"?":p.years_there)+" y there"+(p.years_since_left!=null?" · left "+p.years_since_left+" y ago":"")+(p.age_range?" · "+esc(p.age_range):"")+"</div><pre>"+esc(r.comment)+"</pre>"+(r.wording?"<div><b>Proposed wording</b><pre>"+esc(r.wording)+"</pre></div>":"")+"<div class='filters'><select data-id='"+r.id+"' data-f='status'>"+["new","reviewed","accepted","declined","translate"].map(function(s){return "<option"+(s===r.status?" selected":"")+">"+s+"</option>"}).join("")+"</select><input data-id='"+r.id+"' data-f='public_reason' placeholder='public reason (if declined)' value='"+esc(r.public_reason||"")+"'><input data-id='"+r.id+"' data-f='admin_note' placeholder='private note / translation' value='"+esc(r.admin_note||"")+"'></div></div>"}).join("")||"<p>No results.</p>";
+      Array.prototype.forEach.call(document.querySelectorAll("#lst [data-f]"),function(e){e.onchange=function(){var b={};b[e.dataset.f]=e.value;patch("submissions?id=eq."+e.dataset.id,b).catch(function(x){alert(x.message)})}})})}
+  $("#fgo").onclick=function(){load().catch(function(e){$("#lst").textContent=e.message})};return load()},
+flags:function(){return get("flagged_campaigns?select=*").then(function(rows){$("#main").innerHTML="<p>Five or more near-identical comments are grouped as one organised position.</p>"+(rows.length?"<table><tr><th>Group</th><th>Comments</th><th>First</th><th>Last</th><th>Sections</th></tr>"+rows.map(function(r){return "<tr><td>"+esc(r.text_hash.slice(0,8))+"</td><td>"+r.n+"</td><td>"+esc(r.first_at.slice(0,16))+"</td><td>"+esc(r.last_at.slice(0,16))+"</td><td>"+esc((r.parts||[]).join(", "))+"</td></tr>"}).join("")+"</table>":"<p>None flagged.</p>")})},
+rev:function(){$("#main").innerHTML="<p>Write what was proposed (summarised, quotes anonymised) and what changed or not and why. It is shown publicly on the section page.</p><select id='rp'>"+Array.from({length:48},function(_,n){return "<option value='"+n+"'>"+esc(title(n))+"</option>"}).join("")+"</select><br><textarea id='rb' rows='12' style='width:100%;margin-top:8px'></textarea><p><button id='rs'>Save</button> <span id='rm'></span></p>";
+  function l(){return get("revision_log?part=eq."+$("#rp").value+"&select=body").then(function(r){$("#rb").value=r[0]?r[0].body:""})}
+  $("#rp").onchange=l;$("#rs").onclick=function(){upsert("revision_log",{part:+$("#rp").value,body:$("#rb").value,updated_at:new Date().toISOString()}).then(function(){$("#rm").textContent="Saved."}).catch(function(e){$("#rm").textContent=e.message})};return l()},
+exp:function(){$("#main").innerHTML="<p><button id='e1'>Download submissions (CSV, no emails)</button></p><p><button class='alt' id='e2'>Download emails (CSV)</button> <span class='muted'>Needs a second confirmation. The access is logged.</span></p>";
+  function csv(rows){if(!rows.length)return "";var k=Object.keys(rows[0]);return k.join(",")+"\n"+rows.map(function(r){return k.map(function(c){var v=r[c];if(v&&typeof v==="object")v=JSON.stringify(v);return "\""+String(v==null?"":v).replace(/"/g,"\"\"")+"\""}).join(",")}).join("\n")}
+  function dl(n,t){var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([t],{type:"text/csv"}));a.download=n;a.click()}
+  $("#e1").onclick=function(){rpc("log_access",{p_action:"export_submissions"}).then(function(){return get("submissions?select=*,people(name,country,lives,departement,commune,occupation,occupation_other,years_there,years_since_left,age_range)&limit=100000")}).then(function(r){dl("submissions.csv",csv(r.map(function(x){var p=x.people||{};delete x.people;delete x.ip_hash;return Object.assign(x,p)})))})};
+  $("#e2").onclick=function(){if(!confirm("Export email addresses? This is logged."))return;if(prompt("Type EMAILS to confirm")!=="EMAILS")return;rpc("log_access",{p_action:"export_emails"}).then(function(){return get("emails?select=*&limit=100000")}).then(function(r){dl("emails.csv",csv(r))})};
+  return Promise.resolve()},
+data:function(){return get("app_settings?select=*&key=neq.ip_salt").then(function(rows){$("#main").innerHTML="<p>Data are deleted automatically once the review is closed and the retention period has passed. Set <b>review_closed_at</b> (an ISO date such as 2027-06-30) when the review closes.</p>"+rows.map(function(r){return "<p><label>"+esc(r.key)+" <input data-k='"+esc(r.key)+"' value='"+esc(r.value)+"'></label></p>"}).join("")+"<p><button id='ss'>Save settings</button> <button class='alt' id='pg'>Run deletion now</button> <span id='sm'></span></p>";
+  $("#ss").onclick=function(){Promise.all(Array.prototype.map.call(document.querySelectorAll("[data-k]"),function(e){return upsert("app_settings",{key:e.dataset.k,value:e.value})})).then(function(){$("#sm").textContent="Saved."}).catch(function(e){$("#sm").textContent=e.message})};
+  $("#pg").onclick=function(){if(!confirm("Delete all data if the retention period has passed?"))return;rpc("purge_expired").then(function(n){$("#sm").textContent=n+" people deleted."}).catch(function(e){$("#sm").textContent=e.message})}})}
+};
+})();
+</script></body></html>
