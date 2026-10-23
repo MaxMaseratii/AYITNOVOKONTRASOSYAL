@@ -48,7 +48,7 @@ Overview, filterable submissions (read each comment beside the person's profile,
 
 **One-time setup after Firebase is created.**
 1. Sign in at `/feedback/admin.html`, open **Go live**, and tap **Set cycle end** (21 Nov 2026 is pre-filled). Nobody can get access until this is set.
-2. In `site/index.html`, set `LIVE_PROJECT` (your Firebase projectId) and `LIVE_KEY` (your Firebase apiKey), and `FEEDBACK_URL`.
+2. In `index.html`, set `LIVE_PROJECT` (your Firebase projectId) and `LIVE_KEY` (your Firebase apiKey), and `FEEDBACK_URL`.
 
 **I am live now.** A website cannot see inside Google Meet. Tap **I am live now, open Meet** on the admin page's first tab. Members then see a red "I am live now" box. **End live** turns it off, and it turns itself off after 3 hours.
 
