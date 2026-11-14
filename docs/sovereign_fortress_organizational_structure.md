@@ -12,6 +12,7 @@ Two corrections carried over from the design review, applied throughout:
 2. **Punitive/family-control mechanisms from earlier drafts are removed**, not softened: no forced DNA testing, no abolition of legal defense, no extrajudicial tribunals, no unilateral asset seizure by an internal security directorate. Where those drafts solved a real problem (child abandonment, unequal legal defense, corruption), the fix below solves the same problem through due process instead.
 3. **Parts 37–47 (October 2026 revision)** add the Dessalines Charter, a map of the 1987 Constitution and its reform proposals, a shield against private-sector capture of officials between selection and swearing-in, a child-protection and orphanage framework, armed-group judgment and reintegration, skills prisons, a technology hub, rules against foreign command of the public force, a strict border and a "cost of disrespect" doctrine, a full corruption and foreign-influence review, and a public comment-and-vote process (Part 47). Where a new Part conflicts with an older one (18.3, 19, 29.1, 33.2, 33.5, 35.2, 35.4), the newer Part governs and the older one carries a pointer.
 4. **Parts 48–60 (November 2026 revision)** add a duty for officials to speak for Haitians facing deportation (48), a strong border on land, sea and air (49), the Haiti Food Standard (50), a farm program built on natural and organic production (51), the invitation to return home (52), a disarmed society (53), a permanent National Identity and Passport Authority (54), one State Technology Center for every ministry and embassy (55), a counter-intelligence service under court control (56), family, tradition and Haitian identity (57), rules against political vacuum (58), growth and a costing rule (59), and a review with the capture test and the open decisions (60). Corrections to older Parts are listed in Part 60.2.
+5. **Parts 61–68 (November 2026, second revision)** add: firearms handed in by a fixed date and returned only through a very strict licence examination (61); a rule against carrying blades and tools in public (62); racism as a crime (63); a Certificate of Safety for every new building, builder licences by examination, and home-building loans (64); height limits, commune plans, no concerts in schools and licensed venues built by investors (65); water for every household (66); waste management (67); and the "safest country" goal with a yearly scorecard (68). Corrections to older Parts are listed in Part 68.5.
 
 ---
 
@@ -235,6 +236,11 @@ Each ministry below is mapped to the real, currently-existing Haitian ministry(i
 | **Sèvis Nasyonal Kont-Espyonaj** and its Oversight Commission | Tasked by the Executive Council as a body; warrants from the courts | 56 |
 | **Enstiti Memwa ak Idantite Ayisyen** | Independent cultural institute | 57 |
 | Permanent Electoral Council, National Dialogue Forum, fiscal council | Independent | 58, 59 |
+| Firearm Licence panels and deposit armories | Justice & Public Security (5.6), with a judge and a lot-drawn citizen on each panel | 61 |
+| Equality Office | Inside the Office of Citizen Protection | 63 |
+| Builder licensing, building inspectors, home-loan guarantee fund | Infrastructure (5.3) with the communes; Economy (5.1) for the fund | 64 |
+| Commune plans, venue licences | Communes, with Infrastructure (5.3) and Environment & Tourism (5.7) | 65 |
+| Water utilities and committees; waste service | Infrastructure (5.3) with the communes | 66, 67 |
 
 ---
 
@@ -1011,7 +1017,7 @@ The largest share of Haiti's housing problem isn't a gap to fill with new constr
 
 ### 34.5 Construction standards — the lesson the 2010 earthquake taught at enormous cost
 
-Much of the earthquake's death toll came from building failures that better, still-affordable construction methods would have prevented. **A mandatory seismic- and hurricane-resilient building code**, enforced by NASA-trained engineers (Part 17.2) through the Infrastructure Ministry, using cost-effective methods proven in comparable seismic contexts — confined masonry construction, used successfully in post-earthquake reconstruction in Peru and Colombia, costs little more than standard unreinforced construction but performs dramatically better. This isn't a luxury standard; it's the one place in this housing policy where cutting cost is not an acceptable tradeoff.
+Much of the earthquake's death toll came from building failures that better, still-affordable construction methods would have prevented. **A mandatory seismic- and hurricane-resilient building code**, enforced by NASA-trained engineers (Part 17.2) through the Infrastructure Ministry, using cost-effective methods proven in comparable seismic contexts — confined masonry construction, used successfully in post-earthquake reconstruction in Peru and Colombia, costs little more than standard unreinforced construction but performs dramatically better. This isn't a luxury standard; it's the one place in this housing policy where cutting cost is not an acceptable tradeoff. **Part 64** turns this into a Certificate of Safety, licensed builders, four inspections and free standard plans.
 
 ### 34.6 A separate track for the current emergency
 
@@ -1019,7 +1025,7 @@ Displacement from gang violence and DR deportations is happening now, not on the
 
 ### 34.7 Financing — channeling an existing pattern, not replacing it
 
-Diaspora-funded home construction is already a large, existing informal channel in Haiti — family members abroad already fund individual home building directly. Rather than competing with this, **diaspora bonds (Part 1's Brain-Gain Fund) get a housing-specific tranche**, giving diaspora investors a way to fund the cooperative system at scale, with the same transparency and permanence guarantees as an individual family home, but contributing to the shared, price-capping stock rather than only individual private construction.
+Diaspora-funded home construction is already a large, existing informal channel in Haiti — family members abroad already fund individual home building directly. Rather than competing with this, **diaspora bonds (Part 1's Brain-Gain Fund) get a housing-specific tranche**, giving diaspora investors a way to fund the cooperative system at scale, with the same transparency and permanence guarantees as an individual family home, but contributing to the shared, price-capping stock rather than only individual private construction. **Part 64.7** adds the individual home-building loan (*Prè Kay*), paid to a licensed builder in stages after each inspection.
 
 ### 34.8 Administration
 
@@ -1250,7 +1256,7 @@ What follows for this design, on my reading (a Haitian constitutional lawyer mus
 | **Art. 52-3, 268** — compulsory civic service for both sexes; military service at 18 | **Adapt** | Civic service is mostly a **skills and public-works service** (Parts 42, 44), not combat conscription |
 | **Arts. 263–263-2** — two corps only (army and police); no other armed corps; oath | **Keep** | Pairs with the ban on private armed groups |
 | **Art. 266** — the army defends the territory, **surveils the land, maritime and aerial frontiers**, helps the police on request, helps in disasters | **Keep** | Already supports "the army at the border line" (Part 44) |
-| **Art. 268-1, 268-2** — right to armed self-defense within the home; carrying outside needs the Police Chief's authorization; owners declare firearms | **Change (strict route)** | Part 53: the strictest regime now; replaced by a state duty of protection when the Constitution is changed |
+| **Art. 268-1, 268-2** — right to armed self-defense within the home; carrying outside needs the Police Chief's authorization; owners declare firearms | **Change (strict route)** | Parts 53 and 61: deposit and licence by strict examination now; replaced by a state duty of protection when the Constitution is changed |
 | **Art. 268-3** — the army has a monopoly on war weapons and munitions | **Keep** | |
 | **Arts. 269–274** — the police is an armed body under the Ministry of Justice; commander appointed for 3 years; academy; specialized sections | **Keep** | Added: payroll integrity and no foreign command (Part 44) |
 | **Arts. 282–284-4** — amendment rules | **Respect the text** | See 38.2–38.3 |
@@ -1950,7 +1956,7 @@ The eleven open decisions logged earlier remain open: the cost model; the Assemb
 19. How Haiti's consent interacts with the Gang Suppression Force's UN mandate.
 20. The size of the Defense Fund and Victim Justice Fund, and where the money comes from.
 
-**Added by the November 2026 revision:** decisions 21–32 are listed in Part 60.5.
+**Added by the November 2026 revisions:** decisions 21–32 are listed in Part 60.5 and decisions 33–44 in Part 68.6.
 
 ---
 
@@ -2280,7 +2286,7 @@ More than 670,000 people have been sent back from the Dominican Republic since O
 
 ### 53.4 The three stages
 
-**Stage A — Now, inside the 1987 Constitution.**
+**Stage A — Now, inside the 1987 Constitution.** *Revised by Part 61: every private firearm is deposited with the State by a fixed date, and one may be returned only to a person who passes the National Firearm Licence Examination. The points below apply where Part 61 is silent.*
 
 - No new permits to carry outside the home. Existing carry permits expire and are reviewed one by one.
 - **Every firearm declared** (Art. 268-2) within a fixed window, with a ballistic sample taken. An undeclared firearm after the window is a serious crime.
@@ -2321,7 +2327,7 @@ Armed groups hunt police officers at home and on the road. An unarmed officer of
 - **Who checks the armories?** The Inspector-General and the DSI Oversight Commission (Part 26.5), plus outside counts. Seizure and destruction figures are on the ledger so that seized weapons do not return to the street (Part 10.C).
 - **A state monopoly on arms is only as safe as the state.** This Part depends on Parts 33.2 and 44: an army that cannot police, a police under courts, no third armed body. Haiti's own history under the Duvaliers is the warning.
 - **A law does not collect a gun.** As long as weapons flow in through ports (Part 49.3), any ban empties slowly. The supply side decides the outcome.
-- Farmers' tools (machetes, hoes) are tools and are not covered.
+- Farmers' tools (machetes, hoes) are tools, not firearms. **Part 62** sets the rule for carrying blades and tools in public.
 
 ---
 
@@ -2682,6 +2688,517 @@ Parts 48–59: the duty to speak for Haitians facing deportation; a strong borde
 
 ---
 
+## PART 61 — FIREARMS: HAND THEM IN BY A DATE, THEN EARN ONE BACK BY EXAMINATION
+
+This Part revises Stage A of Part 53.4. It keeps the goal of Part 53 (a disarmed society) and uses the one door the 1987 Constitution leaves open.
+
+### 61.1 The rule
+
+1. **Deposit Day.** By a date fixed in the law, every private firearm in Haiti is handed to the State for safekeeping.
+2. **The licence.** A citizen who wants a firearm at home, as Article 268-1 allows, must pass the **National Firearm Licence Examination**. It is modeled on Japan's, and it is stricter.
+3. **After Deposit Day,** holding a firearm without a licence is a serious crime.
+
+### 61.2 Why Japan is the model
+
+In Japan a private person may not own a handgun. A hunter or sport shooter may own a shotgun or air rifle after roughly a dozen steps: a class, a written exam, a shooting test passed at 95% or better, a doctor's note on mental health and drug use, a police interview, a background check that reaches family, friends, neighbors and employer, an approved safe, a police inspection of the storage, a yearly police inspection of the gun, and a new class and exam every three years. Japan had about 0.25 guns per 100 people in 2019 and one death by gun violence in 2021.
+
+**The lesson: the exam does not ban anything. It makes sure that the very few people who hold a gun are the most careful people in the country.**
+
+### 61.3 Deposit Day
+
+- **Each département has its own date in the law**, none later than a fixed number of months after the law is published. The order follows the police coverage map (Part 26.3): where the State is present first, the date comes first. This is the answer to the danger named in Part 53.3: a family should not be asked to give up its only defense on a day when no police officer can reach it.
+- **Where:** police stations, Sovereign Houses, and mobile teams with churches and community leaders present.
+- **What the owner receives:** a signed receipt with the serial number; the weapon is photographed, test-fired for a ballistic record, sealed and stored in a state armory under the counting rules of Part 53.5.
+- **The owner still owns it** until the licence decision. A person who does not apply, or does not pass, chooses: sell it to the State at a published fair price, or have it destroyed. Property is taken only with payment (1987 Arts. 36–36-1).
+- **Illegal and unregistered weapons:** handing one in before Deposit Day brings no charge for possessing it. This covers possession only, not a crime committed with it. Cash, tools or farm inputs are given in exchange (Part 53.4).
+- **No exceptions by rank.** Ministers, judges, former officers, business owners and their guards deposit like everyone else. Private security companies follow Part 53.4.
+
+### 61.4 Who may sit the examination
+
+- Haitian citizen or legal resident, **25 or older**, with an identity card and a verified home address (Part 54).
+- No conviction for violence, threats, domestic violence, trafficking, or an offense with a weapon. No open case of that kind. No protection order against the person.
+- No link to an armed group (Part 41), checked by the counter-intelligence service under its warrant rules (Part 56).
+- No drug or alcohol dependency.
+- A written reason. Under Article 268-1 the only reason accepted for a private person is defense inside the home.
+
+### 61.5 The examination, step by step (draft)
+
+| Step | What happens | To pass |
+|---|---|---|
+| 1. Application | Form, fee, reason, list of everyone living in the home | Complete and true. A false answer bars the person for 10 years |
+| 2. Police interview | Why a firearm, where it will be kept, who lives in the home | Recorded on video |
+| 3. Medical | A doctor and a psychologist chosen by lot from an approved list, not by the applicant. Drug and alcohol test. Eyesight and hearing | Fit on every point |
+| 4. Household | **A private interview with the spouse or partner and each adult in the home**, alone | Every adult agrees. A refusal ends the file and is never shown to the applicant |
+| 5. Background | Criminal, court and police records. Interviews with neighbors, employer and two references | No sign of violence, threats or heavy drinking |
+| 6. Course | 40 hours over several weeks, in Kreyòl | Full attendance |
+| 7. Written test | 100 questions drawn at random from a large bank | **90 out of 100, and every "fatal" question right** |
+| 8. Handling test | 20 tasks with an unloaded firearm and dummy rounds | **Zero safety faults** |
+| 9. Shooting test | Fixed targets at set distances | **95% hits**, as in Japan |
+| 10. Judgment test | Twelve scenes on a simulator or with role players: a thief running away, a child in the dark, a drunk neighbor at the door, an armed intruder | Correct in all twelve. **One shot at a person who was not a deadly threat fails the whole exam** |
+| 11. Storage | A steel safe bolted to the wall or floor for the firearm; a second locked box in another place for ammunition | Inspected at home before the licence is given |
+| 12. Decision | A panel of four: a senior police officer, a judge, a psychologist, and a citizen drawn by lot | Written reasons. Appeal to the Administrative Court |
+
+**The course covers:** Article 268 of the Constitution and the self-defense articles of the Penal Code (272–274); when force is lawful and when it is murder; safe loading, unloading, carrying inside the home and cleaning; children and guns; storage; calming a conflict without a weapon; domestic violence and suicide risk; first aid for a gunshot wound; what to do and whom to call after any shot is fired.
+
+**Sample written questions:**
+
+1. You hear a noise in your yard at night. From the window you see a man carrying your generator toward the gate. May you shoot? *(No. He is leaving and threatens no life. Call the police.)* **Fatal question.**
+2. Where may a licensed firearm be carried? *(Nowhere outside the home, except unloaded and locked on the way to inspection or the range, with a transport note.)* **Fatal question.**
+3. A friend asks to borrow your firearm for one night. What do you do? *(Refuse. Lending is a crime.)* **Fatal question.**
+4. What is the first thing you do every time you pick up a firearm? *(Point it in a safe direction and check that it is unloaded.)*
+5. Your firearm is missing from the safe. How long do you have to report it? *(24 hours.)*
+6. Your partner tells you she is afraid of you. What does the law require? *(Deposit the firearm at the police station the same day.)*
+7. How must ammunition be stored? *(Locked, in a different place from the firearm.)*
+8. You have been drinking. May you open the safe? *(No.)*
+
+**Sample handling tasks:** show that the firearm is empty; load and unload dummy rounds while keeping the muzzle in the safe zone; hand the firearm to the examiner correctly; clear a jammed round; lock the firearm in a safe. Pointing the muzzle at any person, even for a second, or touching the trigger before the order to fire, is a safety fault.
+
+### 61.6 The licence
+
+- **One firearm, one home, one named person.** Open decision: whether handguns are excluded, as in Japan (Part 68.6).
+- **A small fixed number of rounds**, recorded. New rounds are sold only against the spent cases.
+- **Never outside the home.** There is no carry permit for private persons.
+- **Valid two years** (Japan: three). Renewal means the medical, household, written and shooting steps again.
+- **One unannounced home inspection each year.**
+- **Immediate loss of licence:** a threat, a complaint of domestic violence, drunkenness with the firearm, a failed inspection, a lost firearm not reported in 24 hours, lending it, or carrying it outside.
+- **Failing the exam:** one new attempt after 12 months. Three failures bar the person for five years.
+- **Fees** cover the full cost. The safe is the applicant's expense.
+
+### 61.7 "Almost impossible to pass": the honest version
+
+The request is for an exam almost nobody can pass. The exam above is very hard, and Japan shows that few people will hold a licence. Three limits must be kept:
+
+1. **It must be a real exam.** A test built so that nobody can pass is a ban by another name. Article 268-1 still stands, and a court would strike such a test down. A hard, fair exam, the same for everyone, survives in court.
+2. **An impossible exam creates a market for passes.** If only a bribe gets a licence, licences go to the rich and the connected, which is the opposite of the goal.
+3. **So the hardness is in the standards, not in the examiner's mood:** written tests graded without names (Part 17.3), every practical test on video, examiners rotated and assigned by lot, the question bank changed often, pass rates and licence counts published by commune, and the same exam for a senator as for a farmer.
+
+### 61.8 Capture test and honest limits
+
+- **Who checks the examiners?** The lot-drawn panel member, video review by the Inspector-General, the DSI Oversight Commission, and the Administrative Court on appeal.
+- **Who checks the armories holding the deposits?** The outside monthly count of Part 53.5. A deposit that leaks to a gang would destroy the program's trust in a day.
+- **The people this does not reach** are the armed groups. They will not come to Deposit Day. Parts 41 and 49 deal with them. If those Parts fail, this Part disarms only the honest.
+- The full ban of Part 53, Stage C, still needs the constitutional change.
+
+---
+
+## PART 62 — BLADES AND TOOLS: NOTHING CARRIED TO HARM
+
+### 62.1 The rule requested
+
+No Haitian carries anything that can harm another Haitian: no knife, no blade. Farm tools such as the machete stay at the farm or at home.
+
+### 62.2 What a law can and cannot do
+
+Every kitchen has a knife. Every farmer, butcher, fisher, cook, builder and coconut seller works with a blade. A law cannot remove sharp objects from a country, and a stone or a bottle can also kill. **What a law can do is end the habit of walking around armed.** That is how countries with strict knife laws write them: the offense is carrying a blade in a public place without a good reason.
+
+### 62.3 The rule, drafted
+
+1. **In public:** carrying a knife, machete, dagger, razor, club, chain or any object meant to hurt is an offense, unless the person has a **lawful reason**.
+2. **Lawful reasons (a closed list):** work that needs the tool, at the place of work; going straight between home and the farm, workshop, boat or market stall; buying or repairing the tool; a licensed cultural or religious event.
+3. **How a tool travels:** in a sheath or wrapped, and not in the hand, when passing through a town, a market or on public transport.
+4. **The machete:** it lives at the farm or at home. A farmer may carry it, sheathed, on the way between the two. It does not go to the bar, the market square, the school, the stadium, the church, the demonstration or the public office.
+5. **No-blade places, with no exception** other than staff tools kept on site: schools, courts, public offices, clinics and hospitals, polling places, stadiums and event venues (Part 65), bars and nightclubs, and public gatherings.
+6. **Street trades** (coconut sellers, butchers, fishmongers, cane sellers) carry a free trade card and keep the tool at the stall.
+7. **Sale:** no sale of any blade to a child. Combat knives, switchblades, sword canes and brass knuckles are not sold at all.
+8. **At home:** nothing changes. Kitchen and household tools are private.
+
+### 62.4 Penalties, by steps
+
+| Situation | Answer |
+|---|---|
+| First time, no threat, outside a no-blade place | Tool taken, written warning, short class |
+| Second time | Fine or community work |
+| In a no-blade place, or while drunk | Fine and possible jail |
+| Carried to threaten, or during another crime | Jail; the other crime is punished more heavily |
+
+A farmer on the road home with a sheathed machete is never an offender. The officer must write down the reason for every stop.
+
+### 62.5 Capture test and honest limits
+
+- **A search power is a bribe opportunity and a tool for harassment.** Every search is filmed by body camera, the person gets a receipt, and search numbers are published by commune and by unit. No search because of how a person looks or where they come from (Part 63).
+- **Rural life depends on the machete.** If the rule is enforced stupidly, it will be hated and ignored. Communal section agents (Part 4) explain it for a full year before the first fine.
+- People put down weapons when they trust that the police will come. This Part depends on Parts 26 and 44.
+
+---
+
+## PART 63 — RACISM IS A CRIME
+
+### 63.1 The principle
+
+Haiti is the country that ended slavery by its own hand and told the world that every human being is a person. Racism has no place on this soil, against a Haitian or against anyone.
+
+### 63.2 The model: Brazil
+
+Brazil's law on racial crimes (Law 7.716 of 1989) punishes refusing a job, a service, a school place or entry because of race or color. Law 14.532, signed on 11 January 2023, made racial insult a racial crime punished by **two to five years in prison** and a fine. The penalty rises when the act is committed by a public official, as "humor," or by several people, and an offender at a sports or cultural event can be banned from such places for three years. Brazil's courts treat racism as a crime that does not expire.
+
+### 63.3 The Haitian law, drafted
+
+| Offense | What it covers | Penalty (proposed range) |
+|---|---|---|
+| **Discrimination** | Refusing or limiting a job, pay, housing, a bank service, a school place, health care, a seat, or entry to a shop, hotel, beach, club or venue because of race, color, origin, or nationality | Fine, damages to the victim, closure of the business for repeat offenses, up to 3 years |
+| **Racial insult and harassment** | Attacking a person's dignity because of race, color or origin, face to face, at work or online | First offense: fine, community work, a course, damages. Serious or repeated: 2 to 5 years, as in Brazil |
+| **Incitement** | Calling for hatred, exclusion or violence against a group because of race, color or origin | 2 to 5 years; more if violence follows |
+| **Racist motive** | Any other crime (assault, murder, arson) committed for a racist reason | The penalty for that crime is raised by a third to a half |
+
+**Heavier when committed by:** a public official, a police officer or soldier, a teacher, an employer, or at a sports or cultural event (with a ban from venues).
+
+**It covers the Haitian forms too:**
+
+- **Color prejudice among Haitians** (light skin against dark skin, hair, features) in hiring, schools, banks, clubs and advertising (Part 38.6).
+- **Businesses on Haitian soil that treat foreigners better than Haitians** at the door, at the table or in pay.
+- **Foreigners and minorities in Haiti**, including Dominicans, who are protected exactly as Haitians are. Haiti cannot ask abroad for what it refuses at home (Parts 29.5, 48).
+
+### 63.4 How it is applied
+
+- **Ordinary courts only.** Prosecutors bring the case; a judge decides. No special tribunal and no administrative punishment (Part 6).
+- **An Equality Office** inside the Office of Citizen Protection takes complaints, helps victims, and sends trained testers to check whether businesses, landlords and employers treat people equally.
+- **A free lawyer** for every victim (Part 2.6).
+- **Schools** teach the history behind the law (Part 57.3).
+- **Haitians abroad** who suffer racism are supported by the Rights Defense Service (Part 45.4), which uses the other country's own laws.
+
+### 63.5 What the law does not touch
+
+Opinion, research, history, art, satire of the powerful, and criticism of any government, religion or policy remain free. The offense is an attack on persons because of what they are, or a call to harm them. The definitions are narrow on purpose.
+
+### 63.6 Capture test and honest limits
+
+- In Haiti's past, color was used as a political weapon, and "racist" can be thrown at an opponent to silence him. Only a prosecutor can open a case, only a judge can convict, and cases against candidates and journalists get the second review of Part 58.2.
+- Prison for words is a heavy tool. The draft keeps prison for serious and repeated acts and uses fines, damages and education first. **Open decision:** whether Haiti adopts Brazil's two-year minimum for every racial insult (Part 68.6).
+- A law changes behavior slowly. Hiring and admission by blind exam (Part 17) removes more discrimination than any trial.
+
+---
+
+## PART 64 — EVERY NEW BUILDING STANDS: HURRICANE-PROOF, EARTHQUAKE-PROOF, AND A LOAN TO BUILD IT
+
+This Part completes Parts 34.5 and 34.7.
+
+### 64.1 The starting point
+
+About 190,000 homes were destroyed or damaged in the 2010 earthquake, and engineers estimated that building to code could have cut the deaths by half. Haiti has had a national building code since 2012. The mayor's office gives permits, but most communes have a handful of engineers or none, inspectors have been chased from sites, and most houses are built by a mason with no drawing, weak blocks and too little steel.
+
+**The code exists. What is missing is the builder who knows it, the inspector who cannot be bought, and the money to build properly.**
+
+### 64.2 The rule
+
+No new building, public or private, rich or poor, is occupied without a **Certificate of Safety**. It confirms that the building resists the earthquake and the hurricane wind set for its zone, and that it does not stand where water, mud or the sea will take it.
+
+### 64.3 Seven requirements
+
+1. **A safe place.** Published hazard maps for every commune. No building in a ravine, a riverbed, a flood plain, a landslide slope or the coastal surge strip. Families already there get priority for safe plots (Part 34).
+2. **A plan.** Either a plan signed by a licensed engineer or architect, or one of the **free standard plans** (one- and two-storey confined-masonry houses with tied roofs, in several sizes) that the State publishes so that a poor family pays nothing for design.
+3. **A licensed builder** (64.4).
+4. **Tested materials.** Block makers, cement sellers and steel sellers are licensed; blocks and bars are sampled and tested; sea sand is forbidden. Weak blocks killed thousands in 2010.
+5. **Four inspections:** the site and foundation; columns and beams **before** concrete is poured; the roof and its ties; the finished building with its water tank, toilet and wiring.
+6. **The certificate.** Without it there is no electricity or water connection, no loan, no insurance, no sale and no rental.
+7. **A ten-year guarantee** from the builder on the structure, backed by a bond or insurance.
+
+**Built in from the start:** hurricane straps and shutters, a rainwater cistern (Part 66), a safe toilet, and space for waste sorting (Part 67).
+
+### 64.4 The builder's licence and its examination (draft)
+
+| Class | Who | May build |
+|---|---|---|
+| **A — *Bòs Mason Sètifye*** | Masons, carpenters, steel fixers | Houses of one or two storeys from the standard plans |
+| **B — Contractor** | Small firms with a licensed site supervisor | Up to the height limit of Part 65 for ordinary zones |
+| **C — Engineering firm** | Firms led by licensed engineers | Schools, hospitals, venues, bridges, anything large |
+
+**The Class A exam.** Many good masons read little, so the exam is **oral and practical, in Kreyòl, with pictures.**
+
+- **Course:** 120 hours, free, evenings and weekends, in every commune.
+- **Knowledge test (oral, 40 questions, pass at 32, fatal questions marked):** why columns and ring beams hold a house together; where a house must not be built; the concrete mix by the bucket; how long concrete must stay wet; how far apart the stirrups go; how to tie a roof so the wind does not lift it; why openings must not be too wide.
+- **Practical test (one day, on a test site):**
+  1. Set out a square corner and a level foundation.
+  2. Cut, bend and tie the steel for a column and a ring beam, with correct hooks and spacing.
+  3. Mix concrete to the right ratio and pass a slump test.
+  4. Lay a block wall, toothed to the column, straight and plumb.
+  5. Fix a roof timber with hurricane straps.
+  6. Pick out the bad blocks and bad bars from a sample pile.
+- **To pass:** every task done, and no **fatal fault** (missing stirrups, column steel not anchored, concrete with too much water, roof not tied down).
+- **The licence** is a card with a number. It lasts three years. One building that fails inspection through the builder's fault suspends it; a collapse cancels it and opens a criminal case.
+
+Class B and C add a written exam on the code, site safety, contracts and cost estimates, and require insurance.
+
+### 64.5 Inspectors that cannot be bought
+
+- Commune engineers recruited by exam (Part 17), paid well, **assigned to sites by lot** and rotated.
+- **Geotagged photos** of the steel before every pour, posted on the ledger with the inspector's signature (Part 8.2).
+- A second team re-inspects a random sample. Lifestyle audits apply (Part 46.2 F).
+- Any citizen can report a site through USSD.
+
+### 64.6 Buildings that already stand
+
+- **First:** every school, hospital, clinic, church, market hall and public office is assessed, and the dangerous ones are strengthened or closed.
+- **Homes:** free assessment, standard strengthening methods, and small grants and loans for the work.
+- Each commune has public buildings built to a higher standard that serve as **storm shelters**.
+
+### 64.7 *Prè Kay*: the home-building loan
+
+**The rule requested:** a person borrows to build a home, and the house is built by a construction company.
+
+1. **Who:** any adult with an identity (Part 54) and a title or cadastre certificate for the plot (Part 20), in Haiti or in the diaspora.
+2. **The money never passes through the borrower's hands or an official's.** The bank holds it and pays the **licensed builder in stages, after each passed inspection** of 64.3. No inspection, no payment.
+3. **Terms:** a long loan at a fixed rate, with payments limited to about 30% of household income. Payment by the national payment rail (Part 32); a relative abroad may pay directly from a remittance.
+4. **A public guarantee fund** shares the bank's risk so that banks lend to ordinary families (Part 59.1).
+5. **A standard contract** and a **published price guide per square meter** for the standard plans, so nobody is overcharged.
+6. **Disaster insurance** is included in the loan.
+7. **The family chooses the builder** from the public register, which shows each builder's licence, finished houses, inspection results and complaints.
+8. **Self-builders and cooperatives** may borrow too, if a licensed Class A or B builder supervises and signs. Construction companies must not become a toll gate.
+9. **Diaspora bonds** (Part 34.7) and pension savings (Part 23) supply long-term money.
+
+### 64.8 Capture test and honest limits
+
+- **Builders can form a cartel** and inspectors can sell certificates. Answers: the Competition Authority (Part 46.2 C), the price guide, inspection by lot with photos, re-inspection, and criminal liability for a collapse.
+- **A strict code raises cost.** Standard plans, bulk materials and loans must make the safe house affordable, or the poor will build without permits as before.
+- **"Proof" is too strong a word.** No building is proof against every earthquake or storm. The standard is that people get out alive and most buildings can be repaired.
+- Loans need land titles, and the cadastre is years from finished (Part 20).
+- No cost model exists (Part 59.3).
+
+---
+
+## PART 65 — THE SHAPE OF HAITI: LOW, GREEN, CLEAN AND ORDERLY, WITH REAL VENUES FOR CULTURE
+
+### 65.1 The vision
+
+A country you can breathe in. Towns of human height, with trees, shade, clean streets, squares, visible mountains and sea. Not a wall of towers. Neat, calm and beautiful, in the Haitian way.
+
+### 65.2 Height limits (proposed figures, for decision)
+
+| Zone | Limit |
+|---|---|
+| Villages, rural sections, coast, hillsides, heritage districts | 2 storeys |
+| Ordinary town neighborhoods | 4 storeys (about 15 m) |
+| Town centers and main avenues named in the commune plan | 6 storeys (about 22 m) |
+| A very small number of mapped districts in the largest cities | 8 storeys (about 30 m), the national ceiling |
+
+- **Nothing above the national ceiling**, anywhere, without a law voted for that one site after public hearings.
+- Paris and Washington are capital cities that kept low height limits by law and are admired for it.
+- In an earthquake country, low and mid-rise buildings are also easier to build safely and to escape from (Part 64).
+
+### 65.3 The honest trade-off
+
+Low buildings use more land, and Haiti is small, mountainous and crowded. If every town is one or two storeys, the towns spread over the farmland the country needs (Part 51). **So the model is compact and mid-rise:** three to six storeys in town, with a firm **town boundary** beyond which farmland and forest are protected.
+
+### 65.4 One plan per commune
+
+Each commune adopts a public plan, drawn with its residents, that fixes:
+
+- Streets wide enough for a fire truck, with sidewalks, drains and shade trees.
+- **Every street named, every house numbered.** An address is needed for the identity card, the ambulance, the mail and the loan.
+- Parks and squares within a short walk of every home; a minimum of green space per resident.
+- No building in ravines and riverbeds (Part 64.3); these become green corridors.
+- The coast stays public and open (1987 Art. 36-5).
+- Markets with stalls, water, toilets and waste points, so that streets are not markets.
+- Street lighting on solar power.
+- Tidy wiring, signs of limited size, painted and maintained façades, no abandoned wrecks or rubble.
+- Noise limits at night.
+- Protected heritage: the gingerbread houses, the old centers of Jacmel and Cap-Haïtien, forts and *lakou* (Part 57.4).
+- Public toilets, bus stops, cemeteries, sports grounds.
+
+### 65.5 Schools are for children: no concerts in schools
+
+- **No commercial concert, ticketed show, nightclub event or alcohol sale on school grounds**, public or private, by day or night.
+- **Still allowed:** the school's own teaching, sports, graduation, student shows and cultural days; community meetings; and use as an emergency shelter.
+- **Why:** crowds, alcohol, noise and damage in the place where children must be safe the next morning.
+- **Honest note:** schools rent their yards because they need money. The rule comes with a replacement line in the school budget (Part 59), and until venues exist, communes provide public squares and sports grounds for events.
+
+### 65.6 Real venues, built by investors
+
+The country needs proper halls: large arenas, concert halls and theatres of the kind that London has in the O2, the Royal Albert Hall and the Palladium.
+
+- **A venue licence** in three classes (hall, theatre, arena) with one national safety code: structure to Part 64, capacity limits, exits, fire systems, sound insulation, a medical post, a security plan, no weapons or blades (Parts 61–62), access for disabled people, transport and parking.
+- **Cultural districts** named in the commune plans, where venues, studios, restaurants and hotels are welcome and neighbors are protected from noise.
+- **Incentives for investors:** long land leases by open tender (Part 46.2 B), a time-limited tax holiday, duty-free stage and sound equipment, and fast permits with fixed deadlines.
+- **Haitian ownership and the diaspora first** where offers are equal; beneficial owners disclosed (Part 46.2 A).
+- **One national concert hall and one national arena**, by open competition for the design, built with private partners.
+- A small levy on tickets funds music and arts teaching in schools, so that the school loses the concert and gains the music teacher.
+
+### 65.7 Capture test and honest limits
+
+- **Zoning exceptions are sold in every country.** No minister, mayor or official can grant one. A change to a commune plan needs a public hearing, a citizen panel drawn by lot, and publication on the ledger. Every permit is public.
+- A plan on paper does not move a family out of a ravine. Safe plots and housing (Part 34) must exist first.
+- Investors come when there is security, electricity and customers with money to spend.
+
+---
+
+## PART 66 — WATER FOR EVERY HOUSEHOLD
+
+### 66.1 The starting point
+
+The World Bank reports that only **43% of Haitians in rural areas** have access to safe drinking water. Cholera arrived in October 2010 and killed more than 6,000 people in its first year, carried by a river. A national water and sanitation directorate (DINEPA) has existed since 2009; Part 5.3 keeps it.
+
+### 66.2 The targets (dates to be costed)
+
+1. **Stage 1:** safe water within a 15-minute walk of every home, at a public point with a fair, posted price.
+2. **Stage 2:** a tap in every yard or house in towns.
+3. **Always:** every school, clinic, market and public office has safe water and toilets first.
+4. **Sanitation:** a safe toilet for every household; no open defecation; sludge collected and treated.
+
+### 66.3 Where the water comes from
+
+- **Springs** are public domain (1987 Art. 36-5). Each is fenced, protected upstream and piped by gravity where possible.
+- **Boreholes with solar pumps** and raised tanks in the plains and dry zones.
+- **Rainwater:** a cistern is required in every new building (Part 64.3) and helped by grants in old ones.
+- **Rivers and reservoirs** with treatment plants for the large towns.
+- **Trees** on the slopes above every source (Part 51.4). Without the forest there is no spring.
+
+### 66.4 How it is run
+
+- **Local water committees**, elected by users, run small systems, with a trained paid operator and public accounts.
+- **Regional public utilities** run town networks, with meters.
+- **Price:** a first block of water each month at a very low price for every household, and a normal price above it. Nobody is cut off from the first block.
+- **Water kiosks and water trucks** are licensed, their water tested and their prices posted.
+- **Quality:** chlorine at every public point; samples tested each month; the result for each commune is published on the ledger and by SMS.
+- **Leaks and theft** are measured and published for each network.
+- **Drought and storm plans:** reserve tanks, emergency tankers, and repair teams ready before the hurricane season.
+
+### 66.5 Sanitation and drainage
+
+- Standard toilet designs for rural homes, with a grant for the poorest.
+- Septic tanks emptied by licensed services; treatment sites in each region; sewers in the dense town cores.
+- Handwashing points in schools and markets.
+- Drains and ravines cleaned before the rains (Part 67), because floodwater mixed with waste is how disease spreads.
+
+### 66.6 Capture test and honest limits
+
+- **Water sellers and truck owners profit from scarcity** and have blocked public networks before. Licences, posted prices and the Competition Authority apply.
+- **Committees can be captured** by a local boss. Accounts are public and boards rotate.
+- Pipes, pumps and treatment are costly, and pumps fail without maintenance money. The low first block must be paid for by the higher blocks and the budget.
+- Water in gang-held areas is controlled by armed groups (Part 41).
+
+---
+
+## PART 67 — WASTE: A CLEAN COUNTRY, NOTHING DUMPED, NOTHING BURNED
+
+### 67.1 The starting point
+
+Garbage piles in streets, markets, ravines and canals, and is burned in the open. A national solid-waste service (SNGRS) exists, and the capital's main dump at Truitier is an open site. When the rains come, the waste in the ravines blocks the water and people drown.
+
+### 67.2 The goal
+
+Every household and every market has its waste collected on fixed days. Nothing is dumped in a ravine, a river or the sea. Nothing is burned in the open. Most waste becomes compost or is recycled.
+
+### 67.3 The system
+
+1. **Sorting at home in three parts:** food and plant waste; plastics, metal, glass and paper; the rest.
+2. **Collection:** the commune is responsible. Fixed days, posted. Trucks on main roads; handcarts and tricycles in narrow streets and on hillsides.
+3. **Food and plant waste**, the largest share, goes to **compost sites** in each commune and returns to the farms (Part 51.2).
+4. **Recycling:** buy-back centers pay by weight for plastic, metal and glass. **A deposit on bottles and cans**, returned when the container comes back.
+5. **Plastics:** foam food boxes and thin plastic bags are not made, imported or sold. Water sold in sachets is replaced step by step by refill points (Part 66.4).
+6. **Producers pay:** importers and makers of packaged goods pay a fee per ton of packaging they put on the market, which funds collection (ties to Part 50).
+7. **Sanitary landfills** by region, lined and managed, replace open dumps. Old dumps are closed and covered.
+8. **Special waste:** medical waste, batteries, oil, electronics and chemicals have their own channels. No foreign waste enters (1987 Art. 258).
+9. **Rubble** from building sites is crushed and reused (Part 64).
+10. **The informal collectors**, who do much of the work today, are organized into cooperatives with contracts, equipment, health cover and fair pay.
+
+### 67.4 Clean streets
+
+- Bins in every market, square and bus stop; street-cleaning teams employed by the commune.
+- **Ravines and drains cleaned before each rainy season**, by paid local teams.
+- A monthly **cleaning *konbit*** in every neighborhood, with the commune providing tools and trucks.
+- Fines for dumping and littering, heavier for businesses and for trucks that dump at night.
+- A **Clean Commune ranking** published every quarter, with a prize budget for the best and help for the worst.
+
+### 67.5 Paying for it
+
+A small household fee collected with the water or electricity bill, free for the poorest; the packaging fee; sales of compost and recyclables; and the commune budget. Trucks and landfills are bought through open tender (Part 24).
+
+### 67.6 Capture test and honest limits
+
+- **Waste contracts are a classic source of corruption.** Trucks carry GPS; payment is per ton weighed at the landfill gate; routes and weights are on the ledger; citizens report a missed collection by USSD.
+- Landfill sites are fought by their neighbors. Sites are chosen by published criteria and public hearings, with payment to the host commune.
+- Sorting at home takes years of habit. Schools start it (Part 57.3).
+- Burning waste to make electricity is costly and suits Haiti's wet, organic waste poorly. Only small biogas pilots are planned.
+
+---
+
+## PART 68 — THE SAFEST COUNTRY ON EARTH: THE GOAL, THE SCORECARD, AND WHAT THIS REVISION LEAVES OPEN
+
+### 68.1 The goal
+
+Haiti aims to be a country where everyone lives in peace: no guns in private hands, no blades carried, no racism, houses that stand, clean water, clean streets, and help that comes when called. **The goal is written here as a measure, so that it can be checked every year.**
+
+### 68.2 What makes a country safe
+
+The safest countries are not safe mainly because of bans. They are safe because people trust the police and the courts, have work, know their neighbors, and expect that a wrong will be answered. Parts 61 and 62 remove weapons. Parts 2, 26, 41, 44, 51, 57 and 59 remove the reasons people pick them up. Both are needed.
+
+### 68.3 Things added so that nothing is missed
+
+- **One emergency number**, free, answered in Kreyòl, for police, fire, ambulance and rescue (Part 5.6).
+- **Road safety:** helmets for every motorcycle rider and passenger, speed limits in towns, no driving after drinking, yearly vehicle inspection, licensed and trained motorcycle-taxi drivers, safe crossings near schools.
+- **Fire safety:** a fire unit in every commune (Part 5.6), extinguishers and exits in every public building and venue (Part 65.6), safe storage of fuel and cooking gas.
+- **Violence at home:** shelters, a protected complaint line, trained officers and prosecutors, and the firearm rules of Part 61.6.
+- **Children:** Parts 35 and 40.
+- **Alcohol:** no sale to children; closing hours set by each commune.
+- **Mediation:** the commune civic panel (Part 2.1) settles neighbor and land quarrels before they turn violent.
+- **Mental health** care inside the health insurance (Part 31).
+- **Disaster drills** twice a year in every school and commune (Parts 5.6, 64.6).
+- **Lighting:** a lit street is a safer street (Part 65.4).
+
+### 68.4 The scorecard (published every year, by commune)
+
+| Measure | Direction |
+|---|---|
+| Homicides per 100,000 people | Down, toward the lowest in the Caribbean, then the lowest in the world |
+| Deaths and injuries by firearm | Down toward zero |
+| Kidnappings; armed robberies | Down toward zero |
+| Violence against women and children: cases reported, cases judged | Reporting up at first, then cases down |
+| Road deaths | Down |
+| Deaths in disasters; buildings collapsed | Down |
+| New buildings holding a Certificate of Safety | Up to 100% |
+| Households with safe water within 15 minutes; with a safe toilet | Up to 100% |
+| Waste collected; waste composted or recycled | Up |
+| Racism complaints received and judged | Published |
+| Police response time; share of people who say they trust the police | Faster; up |
+| Private firearms licensed; firearms deposited and destroyed | Published |
+
+Figures are collected by the statistics institute, checked by the fiscal council's method (Part 59.3), and open to any researcher. **A scorecard written by the people it grades is worth nothing.**
+
+### 68.5 Corrections to older Parts, the capture test, and what was not verified
+
+**Corrections:**
+
+| Older text | Correction |
+|---|---|
+| Part 53.4, Stage A (declare firearms, one per home) | Replaced by deposit and licence by examination (Part 61) |
+| Part 53.7 (farm tools not covered) | Tools are private at home and regulated in public (Part 62) |
+| Part 34.5 (a mandatory code) | Certificate of Safety, builder licences, inspections (Part 64) |
+| Part 34.7 (diaspora bonds for cooperatives) | Individual home loans added (Part 64.7) |
+| Part 5.3 (water and sanitation directorate) | Targets, prices and quality rules (Part 66); waste system (Part 67) |
+
+**Capture test:**
+
+| New rule or body | If captured, what stops it? |
+|---|---|
+| Firearm examiners and the licence panel (61) | Blind written grading, video, lot-drawn citizen member, Administrative Court |
+| Deposit armories (61) | Outside monthly count; Inspector-General |
+| Blade searches (62) | Body cameras, receipts, published search numbers, courts |
+| Racism prosecutions (63) | Prosecutor and judge only; second review for candidates and journalists |
+| Builder licences and building inspectors (64) | Inspection by lot, photos on the ledger, re-inspection, criminal liability |
+| Home loans (64) | Money paid only to the builder after inspection; price guide; public register |
+| Zoning and height (65) | No individual exceptions; hearings; lot-drawn panel; public permits |
+| Water committees and utilities (66) | Public accounts, rotating boards, published tests |
+| Waste contracts (67) | GPS, weighbridge, ledger, citizen reports |
+| The scorecard (68) | Independent statistics, open data |
+
+**Not verified in this revision:** the details of knife law abroad; that Brazil's Constitution makes racism a crime without bail or time limit (the 2023 law and its penalties were checked); the Paris and Washington height rules; the date and content of Haiti's building code beyond its existence; Haiti's earlier decrees on plastic bags and foam; the share of organic matter in Haitian waste. The Japan figures are from press reporting in 2022.
+
+### 68.6 Open decisions added (continuing Part 60.5)
+
+33. The Deposit Day calendar by département, and the fair price paid for firearms not returned.
+34. Whether handguns are excluded from the private licence, as in Japan.
+35. The minimum age (25 proposed) and the pass marks of the firearm exam.
+36. Whether a household member's refusal is an absolute stop (proposed) or one factor.
+37. The list of lawful reasons and no-blade places (Part 62).
+38. Prison ranges for racism offenses, and whether Brazil's two-year minimum applies to every racial insult.
+39. The earthquake and wind levels of the building code by zone, and who updates them.
+40. The terms of the home loan (length, rate, income share) and the size of the guarantee fund.
+41. The height limits and the national ceiling (Part 65.2).
+42. The sites and financing of the national concert hall and arena.
+43. The price of the first block of water, and the household waste fee.
+44. The sites of the regional landfills.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or another AI system to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -2689,3 +3206,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the October 2026 revision (Parts 37–47) changed in the overall picture:** the system now has a symbolic root (the 1805 Charter), an honest legal route (Part 38: ordinary law now, advisory citizen panels next, strict constitutional change last), a defense for the period between selection and swearing-in (Part 39), a child-protection framework that regulates fundraising appeals without regulating speech (Part 40), a judgment-first path out of armed groups (Part 41), prisons and a technology hub that give people a trade (Parts 42–43), a public force that no foreign party commands or pays (Part 44), a strict, origin-neutral trade gate plus a lawful cost for disrespect of Haitians anywhere (Part 45), a review that lists what cannot be fixed by design (Part 46), and a way for anyone to comment and vote on every section (Part 47).
 
 **What the November 2026 revision (Parts 48–60) changed:** Haitian officials now have a duty to speak, with evidence, whenever Haitians are abused during deportation, while accepting every country's right to apply its immigration law (Part 48). The border is built as four borders: the Line, the Gates, the coast, and the ports and airports (Part 49). Food sold in Haiti must meet one high health standard that applies to every country and to Haitian producers alike (Part 50), and Haitian farmers are paid to meet it (Part 51). Haitians abroad are invited home, with the obstacles removed and no false promises (Part 52). Private guns end in stages and no service weapon goes home (Part 53). Identity and passports get one permanent, independent house (Part 54); every ministry and embassy shares one State Technology Center (Part 55); a counter-intelligence service protects the state without arrest powers and without watching citizens' politics (Part 56). Family, language, history and faith are protected without policing private life (Part 57). No office is left empty (Part 58). Nothing starts without a published cost sheet (Part 59).
+
+**What the second November 2026 revision (Parts 61–68) changed:** private firearms are deposited by a fixed date and returned only through an examination stricter than Japan's (Part 61); blades and tools are not carried in public without a lawful reason (Part 62); racism is a crime tried in ordinary courts (Part 63); every new building needs a Certificate of Safety from licensed builders and independent inspectors, and families can borrow to build (Part 64); towns stay low, green and planned, schools host no concerts, and investors build licensed venues (Part 65); every household gets safe water (Part 66) and waste collection (Part 67); and the goal of being the safest country is measured each year on a public scorecard (Part 68).
