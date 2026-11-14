@@ -26,6 +26,11 @@ They are public, show the author's name and need a GitHub account. This project 
 ## What the review team does in `admin.html`
 Overview, filterable submissions (read each comment beside the person's profile, set status New / Reviewed / Accepted / Declined with a public reason / Needs translation), campaign detection (five or more near-identical comments in one hour), **Publish results** (with an option to count a campaign once), the public revision log for each section, CSV exports (emails behind a second confirmation), and retention.
 
+## Document downloads (`/read.html`)
+Everyone can read every Part in the reader. Downloading a Part or the full document needs a free account (name, email, country, password). It uses the same Firebase project and starts working as soon as `config.js` is filled and **Email/Password** sign-in is enabled (step 4). Each download writes one record: who, which Part (0 means the full document), which language, and when. Readers can see only their own profile. The **Downloads** tab of `admin.html` shows the list and exports it as CSV; viewing and exporting are logged. The downloaded file carries the reader's name, the date and the copyright notice.
+
+Limit: the text is public on the site, so the download record shows who used the button. It cannot stop someone from copying a public page. The legal protection is the copyright.
+
 ## Limits you should know
 - Results are a snapshot that a reviewer publishes, not a live counter. That is what keeps small groups hidden.
 - The private code is the only way to change or delete an answer. If someone loses it, they can answer again from a new browser and the old answer stays.

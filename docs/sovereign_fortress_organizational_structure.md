@@ -16,6 +16,7 @@ Two corrections carried over from the design review, applied throughout:
 4. **Parts 48–60 (November 2026 revision)** add a duty for officials to speak for Haitians facing deportation (48), a strong border on land, sea and air (49), the Haiti Food Standard (50), a farm program built on natural and organic production (51), the invitation to return home (52), a disarmed society (53), a permanent National Identity and Passport Authority (54), one State Technology Center for every ministry and embassy (55), a counter-intelligence service under court control (56), family, tradition and Haitian identity (57), rules against political vacuum (58), growth and a costing rule (59), and a review with the capture test and the open decisions (60). Corrections to older Parts are listed in Part 60.2.
 5. **Parts 61–68 (November 2026, second revision)** add: firearms handed in by a fixed date and returned only through a very strict licence examination (61); a rule against carrying blades and tools in public (62); racism as a crime (63); a Certificate of Safety for every new building, builder licences by examination, and home-building loans (64); height limits, commune plans, no concerts in schools and licensed venues built by investors (65); water for every household (66); waste management (67); and the "safest country" goal with a yearly scorecard (68). Corrections to older Parts are listed in Part 68.5.
 6. **Parts 69–79 (November 2026, third revision)** record the decisions taken on Parts 61–68 (69) and add: a national cleanliness service, lasting roads with fast repair, public toilets and maintained networks (70); energy and materials from waste, with every company taking back its bottles (71); book-first schooling built for the child's brain (72); the State University of Haiti rebuilt on three, then five, great campuses (73); a written contract for every job and wages always paid (74); shared prosperity and world companies on Haitian terms (75); a second chance for young people used by armed groups (76); justice for the great crimes, from Dessalines to today (77); and a model city (78). Part 79 lists the corrections and the decisions still open.
+7. **Parts 80–89 (November 2026, fourth revision)** answer the hardest objection to this design, seven leaders or one, and fix the rules of the Executive Council (80); replace three-member town halls and section councils with one accountable Mayor and one Section Coordinator (81); set who may serve, with Council members born in Haiti and officials' families living in Haiti (82); add a State Bar Examination and one standard for every profession (83); demand the accounts of the US$1.50 transfer levy and PetroCaribe under the rule "no levy without a ledger" (84); end *restavèk* and street childhood by a set date (85); regulate energy (86); take the lessons of the author's earlier diplomacy paper (87); and protect this work in law (88). Part 89 is the record. **Part 90** sets the 24-hour watch on the border Line and the rules for binational markets.
 
 ---
 
@@ -37,6 +38,8 @@ Two corrections carried over from the design review, applied throughout:
 ```
 
 No branch is senior to the judiciary on matters of law. No branch controls the judiciary's budget or removal process alone (see Part 2).
+
+**Part 80** sets out how the Executive Council decides (four votes, a seven-day clock, a two-year First Coordinator, public votes) and why seven are safer than one. **Part 82** sets who may sit on it.
 
 ---
 
@@ -107,6 +110,8 @@ NATION
 ```
 
 Every Super-Ministry below deploys staff at all five levels, using the same title tiers (Part 4), so a Haitian citizen encountering "the state" always understands the rank of the person in front of them regardless of which ministry they represent.
+
+**Part 81** adds the elected side of local government: one Mayor and Deputy per commune, one Section Coordinator per communal section, with the Communal Assembly holding the budget.
 
 ---
 
@@ -251,6 +256,12 @@ Each ministry below is mapped to the real, currently-existing Haitian ministry(i
 | Contract registry; labor fast track | Public Health & Social Dignity (5.5) with the labor courts | 74 |
 | Citizens' Wealth Fund | Independent board | 75 |
 | **Tribinal Verite Istorik**; Chambers for Grave Crimes and Grand Corruption | Memory and Identity Institute; ordinary courts | 77 |
+| First Coordinator of the Executive Council | Elected by the Assembly from the seven, one two-year term | 80 |
+| Mayor and Deputy; Section Coordinator | Elected locally; budget held by the Communal Assembly | 81 |
+| Legal Examination Board; Professional Standards Authority | Independent, mixed boards | 83 |
+| Child Protection Service | In every commune, within the system of Parts 35 and 40 | 85 |
+| Energy regulator (strengthened) | Independent, cross-selected board | 86 |
+| Diaspora Support Unit | Foreign Affairs (5.8), with the Rights Defense Service | 87 |
 
 ---
 
@@ -628,7 +639,7 @@ A 2012 constitutional amendment established dual citizenship in Haiti, though it
 
 ### 22.3 The one narrow exception, kept from the earlier draft
 
-The 4-year post-service dual-citizenship/foreign-residency restriction on **diplomats specifically** (Part on the Sovereign Diplomatic Corps) stays — that's a narrow, role-specific anti-blackmail safeguard for people who negotiate on the state's behalf, not a general citizenship rule, and shouldn't be confused with one. **Part 38.5 extends the same narrow, role-based logic** to the few posts that command force, intelligence, customs, the central bank or the Constitutional Court: the holder keeps no foreign citizenship or residence while in office, because a revocable visa is leverage; every other citizen, Assembly members included, keeps dual nationality.
+The 4-year post-service dual-citizenship/foreign-residency restriction on **diplomats specifically** (Part on the Sovereign Diplomatic Corps) stays — that's a narrow, role-specific anti-blackmail safeguard for people who negotiate on the state's behalf, not a general citizenship rule, and shouldn't be confused with one. **Part 38.5 extends the same narrow, role-based logic** to the few posts that command force, intelligence, customs, the central bank or the Constitutional Court: the holder keeps no foreign citizenship or residence while in office, because a revocable visa is leverage; every other citizen, Assembly members included, keeps dual nationality. **Part 82** adds: Executive Council members are born in Haiti and at least 35; the diaspora may serve in every other post; high officials live in Haiti with their families during the term.
 
 ### 22.4 Naturalization for long-term residents
 
@@ -758,6 +769,8 @@ An embassy in every country is a symbolic footprint Haiti's budget can't justify
 | **1 — Full embassy, maximum staffing** | United States (+ existing 6 consulates: Atlanta, Boston, Chicago, Miami, NYC, Orlando), Canada, Dominican Republic (+ existing 4 border consulates: Barahona, Dajabón, Higüey, Santiago), France, Brazil, Chile, Bahamas | Largest diaspora populations, or the single most operationally critical relationship (DR) |
 | **2 — New posts, making existing strategy real** | India, South Korea, and an African Union-adjacent mission (Addis Ababa) | Part 10.D's "Asymmetric Alliances" strategy names these partners explicitly but Haiti currently has no presence in any of them — without these posts, that strategy is a paragraph, not a policy |
 | **3 — Consulate or honorary-consul only** | Remaining Caribbean/Latin American states with smaller Haitian communities | Cost-efficient presence where full embassy staffing isn't justified by volume |
+
+**Part 87** adds the first step: an independent audit and a scorecard for every mission before any post is opened, merged or closed, and a day-and-night Diaspora Support Unit.
 
 ### 27.3 Staffing through the existing pipeline
 
@@ -1966,7 +1979,7 @@ The eleven open decisions logged earlier remain open: the cost model; the Assemb
 19. How Haiti's consent interacts with the Gang Suppression Force's UN mandate.
 20. The size of the Defense Fund and Victim Justice Fund, and where the money comes from.
 
-**Added by the November 2026 revisions:** decisions 21–32 are listed in Part 60.5 and decisions 33–44 in Part 68.6, and decisions 45–56 in Part 79.5.
+**Added by the November 2026 revisions:** decisions 21–32 are listed in Part 60.5 and decisions 33–44 in Part 68.6, decisions 45–56 in Part 79.5, and decisions 57–67 in Part 89.4.
 
 ---
 
@@ -3752,6 +3765,575 @@ New capitals and cities built from nothing often stay empty for years and enrich
 
 ---
 
+## PART 80 — SEVEN OR ONE? THE HONEST CASE FOR THE EXECUTIVE COUNCIL, AND THE RULES THAT MAKE IT WORK
+
+### 80.1 The objection, stated fairly
+
+Haitians have watched governments of several heads fail. The Transitional Presidential Council had nine members. It was set up in April 2024 and dissolved on 7 February 2026. In that time a state agency accused three of its members of bribery, a majority tried to dismiss the Prime Minister in its last weeks, and armed groups came to control most of the capital. Town halls run by three elected members are known for quarrels over the stamp and the money. Uruguay tried a nine-member national council from 1952 and abolished it by referendum in 1966, because majorities did not hold and nobody was clearly in charge.
+
+**So the question is fair: why would seven succeed where nine failed? Why not one person in charge?**
+
+### 80.2 What one person in charge has given Haiti
+
+- Presidents who made themselves rulers for life, and a dictatorship of twenty-nine years.
+- Presidents overthrown by coups, and one assassinated in his home in 2021.
+- Presidents who governed by decree when Parliament emptied.
+- A presidency worth so much that people kill, buy and cheat to hold it.
+
+**One person in charge is fast. It is also one person to buy, one person to threaten, and one person to remove. Haiti has paid that price many times.**
+
+### 80.3 Why the councils failed: five causes
+
+| Cause | What happened | 
+|---|---|
+| **1. Members were delegates of rival camps** | Each seat belonged to a party or sector. Each member answered to a sponsor, not to the country |
+| **2. Each member had spoils to defend** | Ministries, posts and contracts were divided among the camps. The fights were over jobs and money |
+| **3. No rule for deciding** | Decisions needed bargaining among all. One camp could block everything |
+| **4. A chair that changed every few months** | Nobody led long enough to finish anything, and nobody could be held to account |
+| **5. No way to remove a bad member** | Members accused of corruption stayed in their seats |
+
+None of these comes from the number seven or nine. They come from the rules.
+
+### 80.4 The one council that has lasted
+
+Switzerland has been governed by a council of seven since 1848. It works because of its rules: each member runs one department; decisions are taken by majority and then defended by all; the president of the year only chairs the meetings. Swiss commentators also name its weak points: it can be slow, and it is not always clear who answers for a mistake. Haiti cannot copy Switzerland. It can take the lesson: **a council works when the rules leave nothing to fight over and no way to block.**
+
+### 80.5 The design: one voice, seven keys
+
+This replaces the short description in Part 1.
+
+1. **Seven members, chosen one by one.** The Citizens' Assembly votes on each person separately, from a vetted pool, by two-thirds. No party lists, no sector seats, no camp owns a chair. Terms are staggered so the seven never change together (Part 13).
+2. **Nothing to divide.** The Council hires nobody: the civil service enters by examination (Part 17). The Council awards no contract: purchasing runs through the open system (Part 24). Ministers are chosen by the Assembly from an examination shortlist (Part 4). **The posts and contracts that the old councils fought over are simply not in the room.**
+3. **One job each.** Each member oversees a fixed group of ministries and answers for it in public. The seven are not seven presidents. They are a board with assigned duties.
+4. **A First Coordinator for two years.** The Assembly elects one of the seven as *Premye Kowòdonatè* for a single two-year term. This person speaks for the State, sets the agenda, signs what the Council has decided, and represents Haiti abroad. The people always know whom to look at. This revises the fast rotation of earlier drafts.
+5. **Decisions by four votes, with a clock.** Any matter is decided by a majority of four within seven days of being tabled. Nobody has a veto. If the Council fails to decide in time, the First Coordinator's written proposal takes effect and goes to the Assembly for confirmation within fifteen days. **A deadlock is not possible.**
+6. **One commander in an emergency.** Under the 48-hour emergency power (Parts 1, 21), the First Coordinator commands alone, in writing, and the Council and the Assembly review every order afterwards.
+7. **Every vote is public.** Each member's vote on each decision is on the ledger the same day. Collective decisions, personal responsibility.
+8. **A bad member can be removed** through the court-and-Assembly route of Part 25.2, without bringing down the other six.
+9. **No member commands the army, the police, the intelligence service or the prosecutors alone** (Parts 33, 44, 56).
+
+### 80.6 How the same test would have judged the Transitional Council
+
+| Rule in this design | The 2024–2026 Council |
+|---|---|
+| Members chosen individually from a vetted pool | Seats given to parties and sectors |
+| No posts or contracts to share | Ministries and directorates shared among camps |
+| Majority of four, seven-day clock, default rule | Long bargaining, blocking |
+| Two-year First Coordinator | Presidency rotating every few months |
+| Public votes; removal by court and Assembly | Accused members remained |
+
+### 80.7 Proving it before asking for trust
+
+- **Begin in the communes.** The new local rules of Part 81 are tried first. People judge what they see in their own town.
+- **Publish the speed.** The average time from a proposal to a decision is on the ledger every month.
+- **A review written into the law.** After six years an independent commission reports on whether the Council decided faster or slower, and cleaner or dirtier, than the governments before it. The Assembly must then confirm the model or put an alternative to the people.
+
+### 80.8 Honest limits
+
+- The evidence from other countries is mixed. One council has lasted; others failed.
+- A council is slower than one ruler in ordinary times. The price buys safety from capture.
+- Seven honest, able people must be found, each time.
+- The First Coordinator could grow into a president in all but name. The single term, the public votes and the Assembly's removal power are the guards.
+- **Open decision:** a two-year First Coordinator (proposed here), or a chair that rotates each year as in Switzerland.
+
+---
+
+## PART 81 — TOWN HALLS AND COMMUNAL SECTIONS THAT WORK: ONE MAYOR, ONE SECTION COORDINATOR, FEWER OFFICIALS
+
+### 81.1 The problem
+
+The 1987 Constitution gives each commune a Municipal Council of **three** elected members (Art. 66) and each communal section a council of **three** (CASEC, Art. 63) with an assembly (ASEC, Art. 63-1). Three people elected together, with no law saying who does what, often end in a fight for the signature, the stamp and the cash box. With about 149 communes and 570 sections, that is more than 2,100 elected executives before counting assembly members and delegates. The country pays many officials and gets little administration.
+
+### 81.2 The principle
+
+**One job, one person, one signature, one deadline.** Many people may deliberate. One person must answer.
+
+### 81.3 The commune
+
+| Function | Who | How chosen |
+|---|---|---|
+| **Decides the budget and the commune plan; watches the mayor** | The **Communal Assembly** | Citizens of the commune drawn by lot (Part 1), paid only for the days they sit |
+| **Leads the commune, speaks for it, signs** | **One Mayor**, with **one Deputy Mayor** who replaces the Mayor when absent | Elected together by the people of the commune for four years, renewable once |
+| **Runs the services every day** | The **Commune Officer** and staff (Part 4) | Career civil servants, by examination |
+| **Checks the accounts** | The commune ledger (Part 8) and the audit court | Automatic and independent |
+
+- The Mayor proposes; the Assembly decides the budget; the Commune Officer executes; the ledger shows every payment.
+- The Mayor hires nobody outside the civil-service rules and awards no contract outside the purchasing system.
+- **Recall:** the Communal Assembly can remove a Mayor by two-thirds after a finding by the audit court or a judge. The Deputy finishes the term.
+
+### 81.4 The communal section
+
+| Function | Who |
+|---|---|
+| **Voice of the section, first contact with the people** | **One Section Coordinator** (replacing the three-member CASEC), elected for four years |
+| **Deliberates, sets local priorities, hears complaints** | The **Section Assembly** (ASEC), unpaid except for sitting days |
+| **Delivers state services** | The **Communal Section Agent** (Part 4) at the Sovereign House (Part 3) |
+
+Part 38.5 rejected abolishing the CASEC and ASEC with nothing in their place. This Part keeps the most local level and makes it lean.
+
+### 81.5 The numbers
+
+| | Today | Proposed |
+|---|---|---|
+| Commune executives | 3 per commune (about 447) | 2 per commune (about 298) |
+| Section executives | 3 per section (about 1,710) | 1 per section (about 570) |
+| **Total elected local executives** | **about 2,150** | **about 870** |
+
+The savings pay for trained staff, who do the actual work.
+
+### 81.6 What can be done before the Constitution changes
+
+Articles 63 and 66 fix the number at three. Until they are changed by the legal route (Part 38.3), an ordinary law can end most of the quarrels:
+
+1. **The law names the roles:** the first on the list is Principal Mayor and signs; the second is in charge of finance and services; the third is in charge of civil status, markets and community relations.
+2. **A decision clock:** two votes decide within seven days.
+3. **Money only through the ledger** and the payment rail. No cash box, no personal stamp.
+4. **A dispute officer:** a judge of the peace settles a blocked council within ten days.
+5. The same rule applies to the three CASEC members.
+
+### 81.7 A government that is lean and does not burn out
+
+- **A ceiling on political posts** at every level, written in the law. Creating a new office requires closing another.
+- **Elected and selected officials decide. Trained staff execute.** No official does both.
+- **Every office has a deputy or alternate,** so that illness or leave does not stop the State, and nobody carries a post alone for years.
+- **Working hours, leave and medical checks apply to high offices too.** An exhausted minister makes bad decisions.
+- **Fewer meetings, written decisions, fixed deadlines** (Part 80.5).
+- **Shared services:** payroll, purchasing, computing and legal advice are provided once for all (Parts 24, 55), not rebuilt inside each office.
+- **A yearly public count** of officials and staff by level, with the cost.
+
+### 81.8 Honest limits
+
+- Electing one Mayor concentrates local power. The lot-drawn Assembly, the ledger and recall are the checks.
+- Elections for mayors need security (Part 58). Until then, interim agents must be chosen by a transparent rule, with caretaker powers only.
+- **Open decision:** whether the Mayor is elected by the people (proposed) or chosen by the Communal Assembly.
+
+---
+
+## PART 82 — WHO MAY SERVE: BORN IN HAITI FOR THE COUNCIL, OPEN TO THE DIASPORA, FAMILY IN HAITI
+
+### 82.1 The rules decided
+
+1. **The diaspora may serve.** Any Haitian abroad may hold public office and may enter the pool of candidates for any post, under the same examinations and vetting as everyone else.
+2. **The Executive Council is for people born in Haiti.** A member must be Haitian by origin, born on Haitian soil, and at least **35 years old** on the day of selection. (The 1987 Constitution already asks that a President be Haitian of origin and 35, Art. 135.) A Haitian born in Haiti who has lived abroad qualifies.
+3. **Whoever takes a high office lives in Haiti, with their family.** From the day of taking office and for the whole term, the official, the spouse or partner, and the minor children live in Haiti, and the children go to school in Haiti.
+
+### 82.2 Why the family rule
+
+An official whose children study in Montreal, whose family is treated in Miami and whose home is in Santo Domingo does not live with the schools, hospitals, roads and dangers that the office is meant to fix. **Those who govern Haiti should share its conditions.** The rule also removes a lever: a family abroad depends on a foreign visa, and a visa can be used to pressure an official (Part 22.3).
+
+### 82.3 Who is covered
+
+Members of the Executive Council; ministers and directors-general; judges of the highest courts; the heads of the central bank, the Identity Authority, the police, the army, customs, the intelligence service and the audit court; mayors; and members of the Citizens' Assembly during their term. Diplomats posted abroad are covered when they return.
+
+### 82.4 How it is applied fairly
+
+- **It is a condition of the office, not a punishment.** Nobody is forced to move. A person whose family cannot or will not come declines the post.
+- **Adult children are free.** Children already at university abroad may finish.
+- **Medical exception:** a family member who needs care that does not exist in Haiti may receive it abroad, by decision of an independent medical panel, published without the diagnosis.
+- **Separated parents:** the rule follows the custody decision of the court.
+- **The State protects the family:** secure housing where needed and the protection detail of Part 39. A rule that puts families in danger with no protection would keep good people away.
+- **Time to move:** six months from selection.
+- **Proof:** school enrolment and residence are declared with the asset declaration (Part 39) and checked. A false declaration ends the term.
+
+### 82.5 Nationality during the term
+
+Part 22 stands: dual nationality is protected for citizens. The few posts that command force, intelligence, customs, the central bank or the Constitutional Court, and now the Executive Council, hold no foreign citizenship or foreign residence while in office (Part 38.5).
+
+### 82.6 Honest limits
+
+- The rule narrows the pool. Some able people will refuse. That cost is accepted.
+- Schools and hospitals good enough for officials' families must exist. The rule will push those who govern to build them, which is its purpose.
+- A spouse has a career and rights of their own. The rule can ask; it cannot compel.
+- "Born in Haiti" excludes Haitians born abroad to Haitian parents from the Council. They may serve everywhere else. **Open decision:** whether this is the right line.
+
+---
+
+## PART 83 — JUSTICE AND THE PROFESSIONS: A STATE BAR EXAMINATION, AND THE HIGHEST STANDARD FOR EVERY PROFESSION
+
+### 83.1 Was the justice system restructured? What this document already does
+
+- **An independent judiciary as a fourth pillar** with its own protected budget (Part 2).
+- **Judges chosen by a nominating council and examinations**, removed only for proven misconduct (Parts 2.2–2.4).
+- **Cases assigned at random** (Part 2.5).
+- **A National Public Defender Service**, so the poor have a lawyer (Part 2.6).
+- **A fast end to long detention without trial** (Part 42.2).
+- **Permanent chambers for grave crimes and grand corruption** (Part 77).
+- **Fast labor justice** (Part 74), and courts that hear racism cases (Part 63).
+
+What was missing is the profession of law itself. This Part adds it.
+
+### 83.2 The State Bar Examination
+
+1. **One national examination** to become a lawyer, the same in every département, organized by the State through an independent **Legal Examination Board** (judges, law professors, practising lawyers elected by their peers, and citizens drawn by lot).
+2. **Written papers graded without names** (Part 17.3), an oral test before a panel assigned by lot, and an ethics paper that must be passed on its own.
+3. **Subjects:** constitutional law and the Dessalines Charter, civil and criminal law and procedure, land law, labor law, commercial law, ethics, and drafting in Kreyòl and French.
+4. **A pass mark fixed in advance.** Everyone who reaches it passes. There is no quota, so the profession cannot close its doors to protect itself.
+5. **Supervised practice** for a fixed period before full admission, with a place guaranteed in the Public Defender Service for those without connections.
+6. **Law schools are accredited** by the quality agency (Part 73.5), and each school's pass rate is published.
+
+### 83.3 Standards for lawyers in practice
+
+- **A public register** of every lawyer: licence number, status, and any sanction.
+- **Clients' money in a separate account**, audited.
+- **Written fee agreements**, in Kreyòl, before work begins (Part 74 applied to lawyers).
+- **Continuing education** each year to keep the licence.
+- **An independent Discipline Board** with citizens on it. Complaints are answered within fixed times, hearings are public, and sanctions are published.
+- **No lawyer may bribe, threaten or delay in bad faith.** A lawyer convicted of corrupting a judge or a clerk loses the licence for life.
+- The same rules, adapted, apply to **notaries, bailiffs, land surveyors and court clerks**, whose signatures decide who owns land (Part 20).
+
+### 83.4 Every profession
+
+A **Professional Standards Authority** applies one model to every regulated profession: doctors, nurses, midwives, pharmacists, dentists, engineers, architects, builders (Part 64.4), accountants, teachers (Part 72.5), surveyors, veterinarians, and others added by law.
+
+| Element | Rule |
+|---|---|
+| Entry | A national examination, graded without names, with a fixed pass mark |
+| Register | Public, searchable by name and licence number |
+| Renewal | Every few years, with proof of continuing education |
+| Discipline | An independent board with citizens; published decisions |
+| Protection of the public | Insurance or a guarantee fund for victims of malpractice |
+| Diplomas from abroad | A published equivalence list and a fixed time for an answer (Part 52.3) |
+| Titles | Using a professional title without a licence is a crime |
+
+### 83.5 Capture test and honest limits
+
+- **A profession that examines itself protects itself.** The boards mix peers, outsiders and citizens, and the pass mark is fixed in advance.
+- **An examination can be sold.** Blind grading, panels by lot, and published pass rates by school are the guards.
+- Bar associations are old and proud institutions. They are partners in the examination and discipline, and they keep their role of defending the profession's independence.
+- A country short of doctors and engineers must not make entry so slow that people leave. Standards are high; the process is fast.
+
+---
+
+## PART 84 — THE PEOPLE'S MONEY: THE US$1.50 ON EVERY TRANSFER, PETROCARIBE, AND THE RULE "NO LEVY WITHOUT A LEDGER"
+
+### 84.1 What is known
+
+- **The transfer levy.** Since 2011, US$1.50 has been taken from every money transfer sent to Haiti, and a charge has been taken on international telephone calls, in the name of education. Critics note that it began by executive decision, without a law. The National Education Fund (FNE) was created by a law of 17 August 2017.
+- **The amounts.** A central-bank report cited in the press gives about **US$120 million** collected on transfers from 2011 to 2018 alone. Other estimates differ.
+- **The accounts.** The 2017 law requires an outside audit to be published six months after each fiscal year. Commentators report finding no published audited accounts. Anti-corruption investigators searched the Fund's offices in June 2024. A minister asked the audit court to audit the Fund in October 2024. As of August 2025, no prosecution was reported. These points come from a signed opinion article that cites its sources; they are allegations until an audit or a court establishes them.
+- **PetroCaribe.** Haiti received oil from Venezuela on credit for years. The audit court's reports on how the proceeds were used are the starting file for the chambers of Part 77.4.
+
+**Haitians abroad have paid this levy on every transfer for fifteen years, and no complete public account exists. That is the kind of wound this whole framework is built to close.**
+
+### 84.2 Accounting for the past
+
+1. **A full forensic audit** of the transfer and call levies from the first day, and of the PetroCaribe funds, ordered by law, done by the audit court with outside forensic accountants, and published in full.
+2. **A public statement of account**: collected by year and by company; received by the State; spent, on what, for which school, through which contractor; and the difference.
+3. **The difference goes to the prosecutors** of the Chambers for Grand Corruption (Part 77.4). Recovered money returns to the schools.
+4. **Transfer companies and telephone operators publish** what they collected and what they handed over. A company that kept the money repays it with interest.
+
+### 84.3 The rule for every levy, from now on
+
+**No levy without a ledger.**
+
+1. **A law first.** No fee, tax or charge on the public without a law that states its purpose, its rate, and its end date.
+2. **A separate account**, visible on the public ledger in real time (Part 8): every amount in, every amount out.
+3. **A receipt for the payer.** Each person who pays receives a message showing the amount and the running total of the fund.
+4. **Spending that can be followed to the school door:** each payment names the school, the purpose and the supplier.
+5. **Payers on the board.** A fund paid by the diaspora has diaspora representatives, drawn by lot from those who pay, on its board.
+6. **An audit every year, published.** If the audit is not published on time, **collection stops automatically** until it is.
+7. **An end date.** Every levy expires and must be voted again.
+
+### 84.4 What the diaspora receives
+
+A public page shows what the transfer levy has paid for: schools built, meals served, teachers paid, by commune. If the State cannot show it, the State does not collect it.
+
+### 84.5 Honest limits
+
+- Old records may have been destroyed. The audit will have gaps, and it must say where.
+- People named in an audit are innocent until a court decides.
+- Recovering money takes years and often brings back only a part.
+
+---
+
+## PART 85 — THE END OF *RESTAVÈK*, AND NO CHILD LIVING ON THE STREET
+
+This Part turns the principles of Parts 35, 40 and 57 into a program with an end date.
+
+### 85.1 The facts
+
+Estimates of children living as unpaid servants in other people's homes range from 100,000 to 500,000; about 300,000 is the figure most often used. In a 2002 survey, 59% were girls. Many do not go to school, and they face a serious risk of beating and sexual abuse. Many are put out before age 15 and end on the street.
+
+**Poor rural parents send a child to town hoping for food and school. The practice continues because the countryside has too few schools and too little income. A law that only forbids it will fail.**
+
+### 85.2 The goal
+
+**Within five years of the start of the program, no child in Haiti lives as a servant in another household, and no child sleeps on the street.** The Dessalines Charter abolished servitude for all time (Part 37, Art. 2). This finishes that work.
+
+### 85.3 Stop the flow
+
+1. **A school and a meal in every communal section** (Parts 51, 72). This removes the main reason for sending a child away.
+2. **The family allowance** (Part 57.2), paid first in the communes that send the most children.
+3. **Birth registration** for every child (Parts 36, 54), so that no child is invisible.
+4. **No one may take a child into a household to work.** A child may live with relatives or a foster family only with a registered agreement, a visit by a social worker, and school attendance.
+5. **Recruiters** who move children for placement are prosecuted as traffickers.
+
+### 85.4 Free the children who are in it now
+
+1. **Find them through the schools, the clinics and the identity registry.** A child of school age who is not in school is visited.
+2. **A free telephone line** for children and neighbors.
+3. **Each child is seen by a social worker.** There are three outcomes: return to the family with support; stay where they are **as a foster child with full rights** (school, a bed, no work beyond ordinary chores, regular visits); or move to a licensed foster family.
+4. **Host families get one year** to register and meet the foster standard, without penalty. After that, keeping a child as a servant is a crime.
+5. **Abuse is prosecuted** without waiting.
+6. **Catch-up schooling** and care for the mind and body for every child freed.
+
+### 85.5 Children on the street
+
+- **Outreach teams** of trained social workers and former street youth, every night, in every city.
+- **Open centers:** a meal, a wash, a doctor, a safe bed, with no questions first.
+- **Family tracing** and supported return where the family is safe.
+- **Foster families and small family-style homes** when it is not (Part 40). No large institutions.
+- **School or a trade,** with the youth path of Part 76 for older children.
+- **No round-ups, no jail.** A child on the street is in danger, not a criminal.
+- **Adults who use children** to beg, steal, carry or sell their bodies are prosecuted.
+
+### 85.6 Who does it, and who checks
+
+A **Child Protection Service** in every commune, staffed by examination, inside the child-protection system of Parts 35 and 40. Numbers are published by commune each quarter: children identified, returned, fostered, in school. The Office of Citizen Protection inspects without notice, and children's own reports are heard by people outside the service.
+
+### 85.7 Honest limits
+
+- Haiti has few trained social workers. Training them is the first step and takes years.
+- If the allowance and the rural schools do not arrive, the children will come back to the towns.
+- Some host families treat the child well and will resent the State. The foster path respects them.
+- Five years is a goal. It depends on money that has not been costed (Part 59.3).
+
+---
+
+## PART 86 — ENERGY UNDER RULES: A REGULATOR WITH TEETH, POWER THAT STAYS ON, AND FAIR PRICES
+
+### 86.1 The starting point
+
+About one Haitian in three has electricity. In 2022 the state utility, EDH, could supply the capital four to six hours a day. It recovers about half of what it bills, public offices among those that do not pay, and the State has subsidized it by about US$250 million a year. Most power is made from imported fuel. An energy regulator, ANARSE, already exists.
+
+### 86.2 Who does what
+
+| Role | Who | Rule |
+|---|---|---|
+| **Policy** (targets, the national plan) | The Ministry (Part 5.3) | Voted by the Assembly |
+| **Regulation** (licences, prices, quality, fines) | **The energy regulator**, made independent | A board chosen by cross-selection, fixed terms, its own budget from a small fee on bills |
+| **Generation** | Public plants, private producers, cooperatives | Every contract by open tender. No contract signed in private |
+| **Grids and micro-grids** | Public, municipal or cooperative owners; private operators by concession | Grids stay public property (as for water, Part 69.6) |
+| **Customers** | Everyone | A published service standard and a place to complain |
+
+**One body cannot be the player and the referee.** The regulator owns no plant and sells no power.
+
+### 86.3 The rules
+
+1. **Prices by a published formula** based on real cost, reviewed in public hearings. A **lifeline block** at a low price for the first units each month.
+2. **Everyone pays, starting with the State.** Public offices pay their bills from their budgets, on the ledger. Prepaid meters for all customers.
+3. **Loss targets** for each grid, published. Operators that miss them lose income; those that beat them earn more.
+4. **Service standards:** hours of supply, time to reconnect, voltage. Customers are credited automatically when the standard is missed.
+5. **Fuel bought in the open:** tenders, volumes and prices on the ledger. Fuel has been one of the largest leaks of public money.
+6. **A fuel price rule** that moves in small, regular steps with the world price, with direct help to public transport and the poorest. Sudden large increases have caused riots; frozen prices have emptied the treasury.
+7. **Sun first.** Solar with batteries for communes and micro-grids (Part 5.3), hydropower kept in repair, wind where it blows, and biogas and waste plants (Part 71). The target for renewable power is set in the national plan.
+8. **Anyone may produce.** A home, farm or business with solar panels may sell surplus to the grid at a published price.
+9. **Quality marks** for panels, batteries, inverters and cables, tested by the national laboratory, so families are not sold rubbish.
+10. **Clean cooking.** Gas, ethanol and electric stoves replace charcoal step by step, with help for charcoal makers to change trade (Part 51.4).
+11. **Safety:** licensed electricians (Part 83.4), inspection of installations, protection of plants and lines.
+
+### 86.4 Capture test and honest limits
+
+- **Power contracts are a classic route for corruption.** Open tenders, published prices per unit, and disclosed owners (Part 46.2 A) are the guards.
+- **A regulator can be captured by the companies it regulates.** Board members are covered persons (Part 39), with a cooling-off period after they leave.
+- Armed groups have attacked plants and blocked fuel terminals. Energy security is part of public security.
+- People who have had free or stolen power for years will resist paying. The lifeline block and reliable supply must come with the meter.
+- Building generation and grids for the two-thirds without power costs billions and is not costed here.
+
+---
+
+## PART 87 — WHAT THE 2026–2030 DIPLOMACY AND DEVELOPMENT PAPER TEACHES
+
+An earlier paper by the same author, "Haiti: Development and Diplomacy Reform, 2026–2030," proposed a smaller diplomatic network and several national policies. This Part records what this framework takes from it.
+
+### 87.1 The method to keep
+
+That paper's best quality is its discipline: **check before acting, and never present an illustration as a fact.** It labels its own cost figures as hypothetical, corrects its own arithmetic, separates gross savings from money actually released, and ends with a list of things to verify. This framework adopts the same habit (Parts 46.5, 60.4, 68.5, 79.4).
+
+### 87.2 Diplomacy: adopted
+
+| From the paper | Where it goes |
+|---|---|
+| **Audit every mission before closing any.** Staffing, consular output, diplomatic output, trade results, finances, public access, integrity | Becomes the first step of Part 27 |
+| **A scorecard for each mission**, published in aggregate | Part 27, with the ledger (Part 8) |
+| **Five outcomes after the audit:** keep, strengthen, regionalize, merge, close | Part 27.2 |
+| **A Diaspora Support Unit, day and night:** emergencies, legal referral, case tracking, secure documents | Joins the Rights Defense Service (Part 45.4), the Identity Authority counters (Part 54) and the Return Desks (Part 52) |
+| **Regional hubs, non-resident ambassadors, honorary consuls and digital services** where a full embassy is not justified | Part 27, Tier 3 |
+| **Savings are counted net** of the cost of closing and moving, and moved to other uses only through the budget law | Part 59.3 |
+| **Yearly review,** with freedom to reopen a post | Part 27 |
+
+**Cautions the paper states, which this framework keeps:**
+
+- A regional embassy cannot serve citizens in another country without that country's consent.
+- An honorary consul cannot replace a professional consul where many Haitians live.
+- Passports cannot travel by ordinary mail; secure courier and identity checks are needed (Part 54).
+- Haiti cannot have full diplomatic relations with both Beijing and Taipei. Haiti's ties today are with Taiwan. Any change is a major national decision, to be taken openly by the Assembly, never by one official.
+
+**The lists differ.** The paper proposes 12 embassies and 3 special missions. Part 27 proposes tiers built around where Haitians live (the United States, Canada, the Dominican Republic, France, Brazil, Chile, the Bahamas) and new partners (India, South Korea, the African Union). **The audit decides,** not either list. Open decision.
+
+### 87.3 National policies: adopted or already present
+
+| From the paper | Status here |
+|---|---|
+| Service weapons issued at the start of the shift and returned at the end | Part 53.5 |
+| Warning against sudden disarmament without protection | Parts 53.3, 61.3 |
+| Food standards based on evidence; no sudden import bans | Part 50 |
+| **GMO foods:** restrict or prohibit | **Added:** labeling of all GMO food, approval before any GMO seed is planted, protection of Haitian seed varieties (Parts 28.3, 50). A total ban is an open decision for the Food Standards Board on the evidence |
+| **Unsafe cosmetics** | **Added:** the Food Standards Board's laboratory also tests cosmetics and skin products; products with mercury, strong steroids or banned bleaching agents are refused at the Gates |
+| Single-use plastics, step by step | Parts 67.3, 71.4 |
+| **NGO oversight:** registration, published budgets, audited accounts, reporting, alignment with national priorities, due process, and no obstacle to emergency relief | **Added** to Part 11: every NGO's projects and spending appear on the public ledger by commune |
+| **Begging** answered by social protection, shelters and work, not by criminal law | Parts 57.2, 85 |
+| Reduce dependence on aid by building tax collection, services and local production | Parts 11, 59 |
+
+### 87.4 Natural resources: said honestly
+
+- **Haiti has no proven commercial oil reserves.** Claims of large hidden reserves are unverified until an independent geological appraisal says otherwise. Haiti's access to Venezuelan oil was a political agreement, not a shared oil field.
+- **Minerals** have been reported, including metals. Their value is unknown until verified independently, and no licence is granted without the concession rules of Part 46.2 B and environmental safeguards.
+- **The wealth that is certain:** farmland, sea, sun, water, forests to restore, and people.
+- **A national geological survey** is commissioned, done with independent experts, and published. A country should know what is under its soil before anyone else does.
+
+### 87.5 Honest limits
+
+The paper's figures were illustrations. Its mission list, like Part 27's, has not been tested against real costs and caseloads. The audit comes first.
+
+---
+
+## PART 88 — PROTECTING THIS WORK IN LAW
+
+### 88.1 Authorship
+
+This framework, its text, structure, diagrams and website were prepared and built by **Bachelin Max Etienne, MD, MHSc**, who holds the copyright. © 2026 Bachelin Max Etienne. All rights reserved.
+
+### 88.2 What the law protects, and what it does not
+
+- **Copyright exists from the moment a work is written.** Haiti, the United Kingdom, the United States, Canada and France all belong to the Berne Convention, under which a work is protected in every member country without any formality.
+- **Copyright protects the words, the structure and the design. It does not protect ideas.** Anyone may argue for a lottery assembly or a public ledger. Nobody may copy this text, or publish it as their own, without permission.
+- **Registration is evidence, and in some countries a key to the courts.** The author can deposit the work with Haiti's copyright office (Bureau Haïtien du Droit d'Auteur) and register it with the United States Copyright Office, which is needed before suing in a US court. The United Kingdom has no register.
+- **Dated proof:** the public repository keeps a dated history of every version. A sealed copy can also be deposited with a notary.
+- **The name and the emblem** of the project can be registered as trademarks.
+
+### 88.3 The licence for readers
+
+Until the author decides otherwise:
+
+1. **Anyone may read, quote with the author's name, and share the link.**
+2. **Anyone may download a copy for personal study,** after registering (88.4).
+3. **Nobody may alter the text, sell it, or present it without the author's name.**
+4. **Political parties, candidates, organizations and media** may adopt or reproduce parts with written permission and visible credit.
+5. Translations are made or approved by the author.
+
+### 88.4 Downloads
+
+- A reader creates an account (name, email, country) to download a Part or the whole document.
+- **Each download is recorded:** who, which Part, and when. The reader is told this before downloading.
+- The record is used to know who is studying the work and to contact readers who agreed to be contacted. It is kept under the privacy rules of the public comment system (Part 47).
+- **Honest limit:** the text is readable on the website by anyone. A download record shows who used the download button. It cannot stop a determined person from copying a public page. The legal protection is the copyright, not the button.
+
+### 88.5 What this is not
+
+This is a citizen's proposal. It is not a document of the Government of Haiti. The national flag and arms appear as symbols of the country, not as a claim of official status.
+
+*This Part is general information, not legal advice. A lawyer in each country should confirm the steps before a dispute.*
+
+---
+
+## PART 89 — RECORD OF THE FOURTH NOVEMBER 2026 REVISION
+
+### 89.1 What changed
+
+| Older text | Change |
+|---|---|
+| Part 1: the Executive Council "coordinates only" with a rotating presidency | Rules for deciding, a two-year First Coordinator, assigned duties, public votes (Part 80) |
+| Parts 3–4: communes and sections served by civil servants and a Communal Assembly | One Mayor and Deputy, one Section Coordinator, the roles defined (Part 81) |
+| Part 22 and Part 38.5: nationality rules for a few posts | Council members born in Haiti and 35 or older; diaspora eligible elsewhere; family in Haiti (Part 82) |
+| Part 2: the judiciary | State Bar Examination and professional standards (Part 83) |
+| Part 46 and Part 77: corruption | The transfer levy and PetroCaribe audits; "no levy without a ledger" (Part 84) |
+| Parts 35, 40, 57: children | A five-year program to end *restavèk* and street childhood (Part 85) |
+| Part 5.3: energy | An independent regulator and rules (Part 86) |
+| Part 27: embassies | Audit first; scorecards; Diaspora Support Unit (Part 87) |
+| Parts 11, 50: NGOs, food | NGO spending on the ledger; GMO labeling; cosmetics testing (Part 87) |
+
+### 89.2 Capture test
+
+| New rule or body | If captured, what stops it? |
+|---|---|
+| First Coordinator (80) | One term; four votes needed; public votes; Assembly removal |
+| Mayor (81) | Lot-drawn Communal Assembly; ledger; recall after a court finding |
+| Family-residence checks (82) | Declared with assets; verified by the Integrity Desk (Part 39) |
+| Legal Examination Board and professional boards (83) | Mixed membership; blind grading; fixed pass mark; published rates |
+| Levy funds (84) | Real-time ledger; automatic stop without an audit; payers on the board |
+| Child Protection Service (85) | Published numbers; unannounced inspection; outside channel for children |
+| Energy regulator (86) | Cross-selected board; no ownership of plants; public hearings |
+| Mission audits (87) | Independent team; published method and aggregate results |
+
+### 89.3 What was checked, and what was not
+
+**Checked:** the dates and events of the Transitional Presidential Council (press report of 7 February 2026); Uruguay's council (encyclopedia entry); the Swiss Federal Council (Swiss public media); Articles 61–72, 135 and 157 of the 1987 Constitution; the restavèk estimates (encyclopedia entry citing studies); the electricity figures (US government commercial guide, May 2024); the transfer-levy facts (a signed opinion article of August 2025 citing the central bank and the 2017 law).
+
+**Not verified:** the exact number of communes and sections used in Part 81.5; the content of the audit court's PetroCaribe reports; the charge per minute on telephone calls; membership of the Berne Convention by each country named in Part 88 and the registration rules described there; the date the energy regulator was created. The author's own paper (Part 87) labels its figures as illustrative.
+
+### 89.4 Open decisions added
+
+57. A two-year First Coordinator or a yearly rotating chair (Part 80).
+58. Whether mayors are elected by the people or chosen by the Communal Assembly (Part 81).
+59. Whether Council members must be born in Haiti, or Haitian by origin wherever born (Part 82).
+60. The full list of posts covered by the family-residence rule (Part 82).
+61. The pass marks and the length of supervised practice for lawyers, and the list of regulated professions (Part 83).
+62. Whether the transfer levy continues after the audit, and at what rate (Part 84).
+63. The age limits and the foster standard in Part 85.
+64. The renewable-energy target and the lifeline block (Part 86).
+65. The final list of embassies, after the audit (Part 87).
+66. A total ban on GMO food, or labeling and approval (Part 87).
+67. The licence for this work: the terms of Part 88.3, or another.
+
+---
+
+## PART 90 — THE LINE WATCHED DAY AND NIGHT, AND BORDER MARKETS UNDER RULES
+
+This Part completes Parts 45.2 and 49.
+
+### 90.1 The Line, 24 hours a day
+
+1. **No post is ever empty.** Each Border Command post is staffed in three shifts, every day of the year. A relief unit covers illness and leave.
+2. **Night is covered like day:** night-vision equipment, lit crossing points, and patrols on changing schedules that nobody can predict.
+3. **One live picture.** Every post, tower, drone and sensor reports to the Border Operations Room (Part 49.2), which is also staffed day and night.
+4. **Coverage is published.** Each month the public ledger shows, for each section of the Line, the share of hours that were staffed. An empty hour is a reported fault.
+5. **Rotation.** Units change section on a fixed schedule so that no unit grows close to the smugglers of one place. Soldiers are paid on time, through the payment rail, by Haiti alone (Part 44.5).
+6. **The soldier's limits stay:** the army watches and stops; it does not judge, tax or trade. Anyone detained is handed to civilian authorities within 24 hours (Part 44.3).
+7. **Numbers come from the ground survey** (Part 49.2) and are voted with the budget. This document invents none.
+
+### 90.2 Binational markets under rules
+
+Twice a week, thousands of Haitian traders, most of them women, cross to buy and sell at markets on the border. These markets feed families on both sides. Today the largest is held on Dominican soil, fees are charged without receipts, and goods are seized without appeal.
+
+**The rules:**
+
+1. **A Haitian market hall at each Gate** (Part 49.4), so that Haitians can also trade on their own soil.
+2. **Market days and hours fixed** by a joint commission with the Dominican side, published, and changed only with notice.
+3. **A free trader card** for every small trader, with a fast lane (Part 45.2).
+4. **A small-trade allowance:** goods up to a published value per person per market day pass without duty. Above it, one simple flat duty is paid by phone, with a receipt.
+5. **A short, published list of controlled goods:** weapons, ammunition, drugs, counterfeit medicine, protected animals and plants, and food that fails the Haiti Food Standard (Part 50).
+6. **Posted fees, no cash to any official.** Every payment has a receipt and appears on the ledger.
+7. **Nothing is seized without a receipt** stating the reason, and an appeal is decided within 24 hours by a civilian officer.
+8. **Honest scales:** weights and measures are inspected each market day.
+9. **Safety for traders:** lighting, water, toilets, a first-aid post, women officers, and a complaint desk open during the whole market.
+10. **A market committee** of traders, chosen by the traders, meets the Gate director every month.
+11. **Mirror access:** Haitian traders sell on the Dominican side under the same conditions Dominican traders have in Haiti (Part 45.3).
+12. **Markets are not closed as a punishment.** Closing one hurts the poorest first. Any trade measure follows the documented ladder of Part 45.4.
+13. **Volumes, revenue and complaints are published** every month.
+
+### 90.3 Officials counted, département by département
+
+For each département the State publishes every year the number of mayors, section coordinators, judges, civil servants by rank, police officers and Border Command posts, with their cost (Part 81.7). The interactive map on the website shows the positions this plan creates in each département.
+
+### 90.4 Honest limits
+
+- A Line staffed 24 hours a day costs far more than the present one. It is built section by section (Part 49.6).
+- Market rules need Dominican agreement for the joint parts. Haiti can apply the rest alone on its own side.
+- The market days and the size of the border markets described here are from general knowledge and should be verified on site.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -3763,3 +4345,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the second November 2026 revision (Parts 61–68) changed:** private firearms are deposited by a fixed date and returned only through an examination stricter than Japan's (Part 61); blades and tools are not carried in public without a lawful reason (Part 62); racism is a crime tried in ordinary courts (Part 63); every new building needs a Certificate of Safety from licensed builders and independent inspectors, and families can borrow to build (Part 64); towns stay low, green and planned, schools host no concerts, and investors build licensed venues (Part 65); every household gets safe water (Part 66) and waste collection (Part 67); and the goal of being the safest country is measured each year on a public scorecard (Part 68).
 
 **What the third November 2026 revision (Parts 69–79) changed:** deposited firearms stay their owners' property and every purchase needs its own permit; handguns are excluded (Part 69). Racial insult brings community work twice, then prison, with an Equality Unit in every département (Part 69). Water and waste are under public control (Part 69). A national cleanliness service, protected road-maintenance money and fast repair keep the country in order (Part 70). Waste becomes gas, materials and power, and companies take back their bottles (Part 71). Children learn first from books, paper and teachers (Part 72), and the State University is rebuilt as great campuses with research (Part 73). Every job has a written contract and wages are enforced within weeks (Part 74). Wealth is opened to the majority by access, not by seizure (Part 75). Young people used by armed groups who committed no grave crime get a supervised way back (Part 76). History's great crimes get an official public truth, and living suspects face permanent chambers of the ordinary courts (Part 77). One existing city is renewed as the model for the rest (Part 78).
+
+**What the fourth November 2026 revision (Parts 80–89) changed:** the Executive Council keeps seven members but gains what earlier councils lacked: members chosen one by one, nothing to share out, a majority rule with a deadline, one First Coordinator for two years, and public votes (Part 80). Each commune has one Mayor and each section one Coordinator (Part 81). Council members are born in Haiti and at least 35; the diaspora may serve elsewhere; those who govern live in Haiti with their families (Part 82). Lawyers and every profession enter by national examination and answer to independent discipline (Part 83). The transfer levy and PetroCaribe are audited in full, and no levy exists without a public ledger (Part 84). *Restavèk* and street childhood end by a set date (Part 85). Energy has an independent referee (Part 86). Embassies are audited before they are changed (Part 87). The work is protected by copyright and downloads are recorded (Part 88). The border Line is staffed day and night, and border markets run under published rules (Part 90).

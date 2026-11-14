@@ -50,7 +50,7 @@ $("#go").onclick=function(){
   .then(function(){$("#login").hidden=true;$("#app").hidden=false;tabs();show("live")})
   .catch(function(e){$("#lerr").textContent=String(e.message||e)});
 };
-var T=[["live","Go live"],["members","Members"],["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"]];
+var T=[["live","Go live"],["members","Members"],["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"],["dls","Downloads"]];
 function tabs(){$("#tabs").innerHTML="";T.forEach(function(t){var b=document.createElement("button");b.textContent=t[1];b.className="alt";b.onclick=function(){show(t[0])};b.dataset.t=t[0];$("#tabs").appendChild(b)})}
 function show(id){Array.prototype.forEach.call(document.querySelectorAll("#tabs button"),function(b){b.className=b.dataset.t===id?"on":"alt"});$("#main").innerHTML="<p class='muted'>Loading…</p>";VIEWS[id]().catch(function(e){$("#main").innerHTML="<p class='err'>"+esc(e.message)+"</p>"})}
 function norm(t){return String(t||"").toLowerCase().replace(/[^\p{L}\p{N}]+/gu,"")}
@@ -73,6 +73,16 @@ function nyInstant(y,m,d,h,mi){var g=Date.UTC(y,m-1,d,h+5,mi);var p=nyParts(g);r
 function nyDate(ms){var p=nyParts(ms);return p.year+"-"+String(p.month).padStart(2,"0")+"-"+String(p.day).padStart(2,"0")}
 var MEET="https://meet.google.com/eep-kzqk-ooe";
 var VIEWS={
+dls:function(){return log("downloads_view").then(function(){return Promise.all([getDocs(collection(DB,"downloads")),getDocs(collection(DB,"readers"))])}).then(function(r){
+  var rows=[],rd={};r[1].forEach(function(d){rd[d.id]=d.data()});
+  r[0].forEach(function(d){var x=d.data();rows.push({when:ts(x.at),name:x.name,email:x.email,country:x.country,part:x.part,lang:x.lang,mayContact:!!(rd[x.uid]&&rd[x.uid].mayContact)})});
+  rows.sort(function(a,b){return b.when-a.when});
+  var by={};rows.forEach(function(x){by[x.part]=(by[x.part]||0)+1});
+  var top=Object.keys(by).sort(function(a,b){return by[b]-by[a]}).slice(0,12).map(function(k){return (k==="0"?"Full document":"Part "+k)+": "+by[k]}).join(" · ");
+  function csv(){var k=["when","name","email","country","part","lang","mayContact"];return k.join(",")+"\n"+rows.map(function(x){return k.map(function(c){var v=c==="when"?x.when.toISOString():x[c];return "\""+String(v==null?"":v).replace(/"/g,"\"\"")+"\""}).join(",")}).join("\n")}
+  $("#main").innerHTML="<p><b>"+rows.length+"</b> downloads by <b>"+Object.keys(rd).length+"</b> registered readers. Part 0 means the full document.</p><p class='muted'>"+esc(top)+"</p><p><button id='dcsv' class='alt'>Download this list (CSV)</button> <span class='muted'>The export is logged.</span></p><table><tr><th>When</th><th>Name</th><th>Email</th><th>Country</th><th>Part</th><th>Language</th><th>May contact</th></tr>"+rows.map(function(x){return "<tr><td>"+esc(x.when.toISOString().slice(0,16).replace("T"," "))+"</td><td>"+esc(x.name)+"</td><td>"+esc(x.email)+"</td><td>"+esc(x.country)+"</td><td>"+(x.part===0?"Full":x.part)+"</td><td>"+esc(x.lang)+"</td><td>"+(x.mayContact?"yes":"no")+"</td></tr>"}).join("")+"</table>";
+  $("#dcsv").onclick=function(){log("export_downloads").then(function(){var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([csv()],{type:"text/csv"}));a.download="downloads.csv";a.click()})};
+})},
 live:function(){return Promise.all([getDoc(doc(DB,"public","live")),getDoc(doc(DB,"public","cycle"))]).then(function(rr){
   var s=rr[0],cyc=rr[1].exists()?rr[1].data().end:null;var cyd=cyc?nyDate(cyc.toMillis()):"2026-11-21",cyr=cyc?nyDate(cyc.toMillis()-3*864e5):"2026-11-18";
   var cur=s.exists()?s.data():{};var on=!!cur.on;

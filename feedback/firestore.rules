@@ -98,6 +98,34 @@ service cloud.firestore {
       allow read: if request.auth != null && request.auth.uid == uid;
       allow write: if false;   // add the first admin by hand in the console
     }
+    // Document downloads (read.html). A reader signs in with email and password, saves a profile, and every
+    // download writes one record. Readers can read only their own profile. Only the review team reads the log.
+    function validReader() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['name','email','country','mayContact','at']) && d.keys().hasAll(['name','email','country','mayContact','at'])
+        && s(d.name, 2, 120) && s(d.country, 2, 60) && d.mayContact is bool
+        && d.email == request.auth.token.email && d.at == request.time;
+    }
+    function validDownload() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['uid','name','email','country','part','lang','at']) && d.keys().hasAll(['uid','name','email','country','part','lang','at'])
+        && d.uid == request.auth.uid && d.email == request.auth.token.email
+        && s(d.name, 2, 120) && s(d.country, 2, 60)
+        && d.part is int && d.part >= 0 && d.part <= 90      // 0 = the full document
+        && d.lang in ['en','ht'] && d.at == request.time
+        && exists(/databases/$(database)/documents/readers/$(request.auth.uid));
+    }
+    match /readers/{uid} {
+      allow get: if request.auth != null && (request.auth.uid == uid || isAdmin());
+      allow list: if isAdmin();
+      allow create, update: if request.auth != null && request.auth.uid == uid && validReader();
+      allow delete: if isAdmin();
+    }
+    match /downloads/{id} {
+      allow create: if request.auth != null && validDownload();
+      allow read, delete: if isAdmin();
+      allow update: if false;
+    }
     match /accessLog/{id} {
       allow create: if isAdmin() && request.resource.data.keys().hasOnly(['uid','action','at']) && request.resource.data.at == request.time;
       allow read: if isAdmin();
