@@ -1,4 +1,6 @@
 # AYITI NOUVO KONTRA SOSYAL (formerly "The Sovereign Fortress"): FULL ORGANIZATIONAL ARCHITECTURE
+
+**Prepared and built by Bachelin Max Etienne, MD, MHSc**
 ### Four Pillars, Eight Ministries, and the Complete Chain of Command
 *A structural design document — grounded in Haiti's real administrative geography (10 départements, 42 arrondissements, 149 communes (sources range 140–149), ~570 communal sections) and real existing ministry names, so the transition is recognizable rather than invented from nothing.*
 
@@ -13,6 +15,7 @@ Two corrections carried over from the design review, applied throughout:
 3. **Parts 37–47 (October 2026 revision)** add the Dessalines Charter, a map of the 1987 Constitution and its reform proposals, a shield against private-sector capture of officials between selection and swearing-in, a child-protection and orphanage framework, armed-group judgment and reintegration, skills prisons, a technology hub, rules against foreign command of the public force, a strict border and a "cost of disrespect" doctrine, a full corruption and foreign-influence review, and a public comment-and-vote process (Part 47). Where a new Part conflicts with an older one (18.3, 19, 29.1, 33.2, 33.5, 35.2, 35.4), the newer Part governs and the older one carries a pointer.
 4. **Parts 48–60 (November 2026 revision)** add a duty for officials to speak for Haitians facing deportation (48), a strong border on land, sea and air (49), the Haiti Food Standard (50), a farm program built on natural and organic production (51), the invitation to return home (52), a disarmed society (53), a permanent National Identity and Passport Authority (54), one State Technology Center for every ministry and embassy (55), a counter-intelligence service under court control (56), family, tradition and Haitian identity (57), rules against political vacuum (58), growth and a costing rule (59), and a review with the capture test and the open decisions (60). Corrections to older Parts are listed in Part 60.2.
 5. **Parts 61–68 (November 2026, second revision)** add: firearms handed in by a fixed date and returned only through a very strict licence examination (61); a rule against carrying blades and tools in public (62); racism as a crime (63); a Certificate of Safety for every new building, builder licences by examination, and home-building loans (64); height limits, commune plans, no concerts in schools and licensed venues built by investors (65); water for every household (66); waste management (67); and the "safest country" goal with a yearly scorecard (68). Corrections to older Parts are listed in Part 68.5.
+6. **Parts 69–79 (November 2026, third revision)** record the decisions taken on Parts 61–68 (69) and add: a national cleanliness service, lasting roads with fast repair, public toilets and maintained networks (70); energy and materials from waste, with every company taking back its bottles (71); book-first schooling built for the child's brain (72); the State University of Haiti rebuilt on three, then five, great campuses (73); a written contract for every job and wages always paid (74); shared prosperity and world companies on Haitian terms (75); a second chance for young people used by armed groups (76); justice for the great crimes, from Dessalines to today (77); and a model city (78). Part 79 lists the corrections and the decisions still open.
 
 ---
 
@@ -241,6 +244,13 @@ Each ministry below is mapped to the real, currently-existing Haitian ministry(i
 | Builder licensing, building inspectors, home-loan guarantee fund | Infrastructure (5.3) with the communes; Economy (5.1) for the fund | 64 |
 | Commune plans, venue licences | Communes, with Infrastructure (5.3) and Environment & Tourism (5.7) | 65 |
 | Water utilities and committees; waste service | Infrastructure (5.3) with the communes | 66, 67 |
+| Equality Units (one per département) | Office of Citizen Protection | 69 |
+| **Sèvis Nasyonal Pwòpte**; Road Maintenance Fund | Infrastructure (5.3) with the communes | 70 |
+| Biogas, recycling and waste-to-energy plants | Public ownership; Infrastructure (5.3) | 71 |
+| Five university campuses; National Research Fund | Autonomous State University; Human Capital (5.4) | 73 |
+| Contract registry; labor fast track | Public Health & Social Dignity (5.5) with the labor courts | 74 |
+| Citizens' Wealth Fund | Independent board | 75 |
+| **Tribinal Verite Istorik**; Chambers for Grave Crimes and Grand Corruption | Memory and Identity Institute; ordinary courts | 77 |
 
 ---
 
@@ -1956,7 +1966,7 @@ The eleven open decisions logged earlier remain open: the cost model; the Assemb
 19. How Haiti's consent interacts with the Gang Suppression Force's UN mandate.
 20. The size of the Defense Fund and Victim Justice Fund, and where the money comes from.
 
-**Added by the November 2026 revisions:** decisions 21–32 are listed in Part 60.5 and decisions 33–44 in Part 68.6.
+**Added by the November 2026 revisions:** decisions 21–32 are listed in Part 60.5 and decisions 33–44 in Part 68.6, and decisions 45–56 in Part 79.5.
 
 ---
 
@@ -2709,7 +2719,7 @@ In Japan a private person may not own a handgun. A hunter or sport shooter may o
 - **Each département has its own date in the law**, none later than a fixed number of months after the law is published. The order follows the police coverage map (Part 26.3): where the State is present first, the date comes first. This is the answer to the danger named in Part 53.3: a family should not be asked to give up its only defense on a day when no police officer can reach it.
 - **Where:** police stations, Sovereign Houses, and mobile teams with churches and community leaders present.
 - **What the owner receives:** a signed receipt with the serial number; the weapon is photographed, test-fired for a ballistic record, sealed and stored in a state armory under the counting rules of Part 53.5.
-- **The owner still owns it** until the licence decision. A person who does not apply, or does not pass, chooses: sell it to the State at a published fair price, or have it destroyed. Property is taken only with payment (1987 Arts. 36–36-1).
+- **The owner still owns it, always** (decided, Part 69.1). The firearm stays sealed in the state armory under the owner's name until the owner passes the examination. The licence gives access, not ownership. An owner may also choose to sell it to the State at a published price or have it destroyed; nothing is taken by force (1987 Arts. 36–36-1).
 - **Illegal and unregistered weapons:** handing one in before Deposit Day brings no charge for possessing it. This covers possession only, not a crime committed with it. Cash, tools or farm inputs are given in exchange (Part 53.4).
 - **No exceptions by rank.** Ministers, judges, former officers, business owners and their guards deposit like everyone else. Private security companies follow Part 53.4.
 
@@ -2755,7 +2765,7 @@ In Japan a private person may not own a handgun. A hunter or sport shooter may o
 
 ### 61.6 The licence
 
-- **One firearm, one home, one named person.** Open decision: whether handguns are excluded, as in Japan (Part 68.6).
+- **One firearm, one home, one named person. Handguns are excluded**, as in Japan (decided, Part 69.1). Every purchase needs its own permit (Part 69.1).
 - **A small fixed number of rounds**, recorded. New rounds are sold only against the spent cases.
 - **Never outside the home.** There is no carry permit for private persons.
 - **Valid two years** (Japan: three). Renewal means the medical, household, written and shooting steps again.
@@ -2836,7 +2846,7 @@ Brazil's law on racial crimes (Law 7.716 of 1989) punishes refusing a job, a ser
 | Offense | What it covers | Penalty (proposed range) |
 |---|---|---|
 | **Discrimination** | Refusing or limiting a job, pay, housing, a bank service, a school place, health care, a seat, or entry to a shop, hotel, beach, club or venue because of race, color, origin, or nationality | Fine, damages to the victim, closure of the business for repeat offenses, up to 3 years |
-| **Racial insult and harassment** | Attacking a person's dignity because of race, color or origin, face to face, at work or online | First offense: fine, community work, a course, damages. Serious or repeated: 2 to 5 years, as in Brazil |
+| **Racial insult and harassment** | Attacking a person's dignity because of race, color or origin, face to face, at work or online | **Decided (Part 69.3):** first insult, one month of community work; second, three months; third and after, prison of two years minimum (two to five, as in Brazil). Each with a fine, damages and a course |
 | **Incitement** | Calling for hatred, exclusion or violence against a group because of race, color or origin | 2 to 5 years; more if violence follows |
 | **Racist motive** | Any other crime (assault, murder, arson) committed for a racist reason | The penalty for that crime is raised by a third to a half |
 
@@ -2851,7 +2861,7 @@ Brazil's law on racial crimes (Law 7.716 of 1989) punishes refusing a job, a ser
 ### 63.4 How it is applied
 
 - **Ordinary courts only.** Prosecutors bring the case; a judge decides. No special tribunal and no administrative punishment (Part 6).
-- **An Equality Office** inside the Office of Citizen Protection takes complaints, helps victims, and sends trained testers to check whether businesses, landlords and employers treat people equally.
+- **An Equality Unit in every département** (Part 69.3), coordinated by **an Equality Office** inside the Office of Citizen Protection, which takes complaints, helps victims, and sends trained testers to check whether businesses, landlords and employers treat people equally.
 - **A free lawyer** for every victim (Part 2.6).
 - **Schools** teach the history behind the law (Part 57.3).
 - **Haitians abroad** who suffer racism are supported by the Rights Defense Service (Part 45.4), which uses the other country's own laws.
@@ -2863,7 +2873,7 @@ Opinion, research, history, art, satire of the powerful, and criticism of any go
 ### 63.6 Capture test and honest limits
 
 - In Haiti's past, color was used as a political weapon, and "racist" can be thrown at an opponent to silence him. Only a prosecutor can open a case, only a judge can convict, and cases against candidates and journalists get the second review of Part 58.2.
-- Prison for words is a heavy tool. The draft keeps prison for serious and repeated acts and uses fines, damages and education first. **Open decision:** whether Haiti adopts Brazil's two-year minimum for every racial insult (Part 68.6).
+- Prison for words is a heavy tool. The draft keeps prison for serious and repeated acts and uses fines, damages and education first. **Decided (Part 69.3):** community work for the first two insults, Brazil's two-year minimum from the third.
 - A law changes behavior slowly. Hiring and admission by blind exam (Part 17) removes more discrimination than any trial.
 
 ---
@@ -3009,7 +3019,7 @@ The country needs proper halls: large arenas, concert halls and theatres of the 
 - **Cultural districts** named in the commune plans, where venues, studios, restaurants and hotels are welcome and neighbors are protected from noise.
 - **Incentives for investors:** long land leases by open tender (Part 46.2 B), a time-limited tax holiday, duty-free stage and sound equipment, and fast permits with fixed deadlines.
 - **Haitian ownership and the diaspora first** where offers are equal; beneficial owners disclosed (Part 46.2 A).
-- **One national concert hall and one national arena**, by open competition for the design, built with private partners.
+- **One national concert hall and one national arena**, by open competition for the design, **financed by the private sector** (decided, Part 69.5).
 - A small levy on tickets funds music and arts teaching in schools, so that the school loses the concert and gains the music teacher.
 
 ### 65.7 Capture test and honest limits
@@ -3107,7 +3117,7 @@ A small household fee collected with the water or electricity bill, free for the
 - **Waste contracts are a classic source of corruption.** Trucks carry GPS; payment is per ton weighed at the landfill gate; routes and weights are on the ledger; citizens report a missed collection by USSD.
 - Landfill sites are fought by their neighbors. Sites are chosen by published criteria and public hearings, with payment to the host commune.
 - Sorting at home takes years of habit. Schools start it (Part 57.3).
-- Burning waste to make electricity is costly and suits Haiti's wet, organic waste poorly. Only small biogas pilots are planned.
+- Burning wet, organic waste to make electricity works badly. **Part 71** therefore sends organic waste to biogas, recyclables to recycling plants, and only dry residue to a waste-to-energy plant in the largest cities, under strict conditions.
 
 ---
 
@@ -3184,6 +3194,8 @@ Figures are collected by the statistics institute, checked by the fiscal council
 
 ### 68.6 Open decisions added (continuing Part 60.5)
 
+*Most of these were decided in Part 69; see the table in Part 79.1.*
+
 33. The Deposit Day calendar by département, and the fair price paid for firearms not returned.
 34. Whether handguns are excluded from the private licence, as in Japan.
 35. The minimum age (25 proposed) and the pass marks of the firearm exam.
@@ -3199,12 +3211,555 @@ Figures are collected by the statistics institute, checked by the fiscal council
 
 ---
 
+## PART 69 — DECISIONS TAKEN ON PARTS 61–68
+
+The author of this framework has decided most of the questions left open in Part 68.6. This Part records each decision. Where it differs from the earlier text, **this Part governs.**
+
+### 69.1 Firearms (revises Part 61)
+
+1. **The firearm always belongs to its owner.** The State does not buy it by force and does not destroy it. After Deposit Day it stays sealed in the state armory, under the owner's name, for as long as needed. The licence gives **access**, not ownership. An owner who never passes may leave it stored, sell it to the State at a published price, pass it to an heir (who must also pass to take it home), or ask for it to be destroyed.
+2. **Handguns are excluded** from the private licence, as in Japan. A deposited handgun stays the owner's property in the armory. It does not go home.
+3. **Minimum age 25.** Pass marks as drafted in Part 61.5.
+4. **A refusal by any adult in the household is an absolute stop.**
+5. **Sales are regulated, one firearm at a time:**
+   - Only a **licensed dealer** may sell. Dealers are few, pass their own examination, keep stock in an inspected vault, and are audited every month.
+   - **A purchase permit is needed for every single firearm, before the purchase.** The permit names the buyer, the dealer, the type and the serial number. No permit, no sale.
+   - A permit is given only to a person who holds a valid licence and has no firearm at home yet (one home, one firearm).
+   - **No private sales, gifts or loans.** A transfer between two people passes through a dealer and a new permit.
+   - **Imports:** a permit for each shipment, checked at the port against the list (Part 49.3).
+   - **Ammunition:** sold only to the licence holder, in the fixed small quantity, against the spent cases.
+   - Every sale, permit and round is in the national firearm register.
+
+### 69.2 Blades (Part 62)
+
+The list of lawful reasons and no-blade places in Part 62.3 is approved as drafted.
+
+### 69.3 Racism (revises Parts 63.3 and 63.6)
+
+**The ladder for racial insult:**
+
+| Offense | Penalty |
+|---|---|
+| **First insult** | **One month of community work**, a fine, damages to the victim, and a course |
+| **Second insult** | **Three months of community work**, a larger fine, damages, and a course |
+| **Third insult, and every one after** | **Prison, two years minimum** (two to five years, as in Brazil) |
+
+- Discrimination, incitement and racist motive keep the penalties of Part 63.3. Serious cases go straight to prison terms without passing through the ladder.
+- **The law protects everyone on Haitian soil, foreigners included, Dominicans included.**
+- **An Equality Unit in every département** (ten units): investigators, trained testers, victim support officers and school educators, recruited by examination (Part 17). The units take complaints, build files for prosecutors and run prevention in schools and workplaces. They are not courts; judges decide (the 1987 Constitution, Art. 173-2, forbids special courts). The units also create skilled public jobs in every département.
+
+### 69.4 Building and home loans (Part 64)
+
+- **The State backs the home loan,** so that every house is built to the standard: a public guarantee to the bank, a reduced interest rate for the standard plans, and free plans and inspections.
+- The earthquake and wind levels by zone (decision 39) remain open. They are set by a technical committee of engineers and published.
+
+### 69.5 Towns and venues (Part 65)
+
+- **The height limits of Part 65.2 are approved.**
+- **Venues are financed by the private sector.** The State gives no construction money. It offers the land lease by open tender, the licence and the rules. Schools are for school activities only (Part 65.5).
+- A model city is added (Part 78).
+
+### 69.6 Water and waste (Parts 66–67)
+
+**The State takes control.** Springs, wells, reservoirs, networks, treatment plants, landfills, recycling plants and energy plants are public property and are run by public bodies (national agencies, regional utilities, communes). Private firms may work as contractors chosen by open tender. They never own the source, the network or the site, and prices are set by a public regulator. Parts 70 and 71 complete this.
+
+---
+
+## PART 70 — A COUNTRY THAT WORKS AND SHINES: CLEANING, ROADS, TOILETS AND POWER, KEPT IN ORDER
+
+### 70.1 The standard
+
+The level of cleanliness and upkeep seen in Japan and in China's large cities. Their systems are the model: clear public duties, daily routine, fast repair, and a culture that starts at school.
+
+### 70.2 The National Cleanliness Service (*Sèvis Nasyonal Pwòpte*)
+
+- **A public service with a branch in every commune**, under one national standard. Workers are recruited locally, trained, uniformed, equipped, insured and paid on time. It is a respected job with a career ladder.
+- **Daily work:** streets, markets, squares, bus stops, drains, beaches and public toilets, on a posted timetable. Markets are washed every night.
+- **A written standard for each kind of place** (how clean, how often), and inspectors who score it. Scores are published by commune (Part 67.4).
+- **Machines where they pay, hands where they must:** sweepers and washers on main roads, teams with carts in narrow streets.
+- **Citizens' side:** bins everywhere, sorting at home (Part 67.3), fines for dumping, and the monthly *konbit*.
+- **School:** as in Japan, pupils clean their own classrooms and yard every day. A child who has cleaned a floor does not throw paper on a street.
+
+### 70.3 Public toilets
+
+- A network of clean public toilets in every market, station, square, beach and public office, with water, soap, light and an attendant.
+- A small fee or free, by commune choice; always free for children.
+- Cleaned on a timetable that is signed on the door. Inspected and scored.
+- Built and run by the Cleanliness Service; maintenance money is fixed in the budget before a toilet is built.
+
+### 70.4 Roads: build to last, repair fast
+
+1. **Design for water.** Water destroys roads. Every road is built with drains, culverts and slope protection.
+2. **Choose materials by total cost over 30 years**, not by the cheapest first price. Open, published comparison for each project.
+3. **The builder guarantees the road** for a fixed number of years and repairs defects at its own cost.
+4. **A Road Maintenance Fund** fed by a fixed share of fuel and vehicle revenue, protected by law. It cannot be spent on new projects.
+5. **Fast repair rule:** a hole reported on a main road is made safe within 24 hours and repaired within 72 hours; on other roads within a week. Reports by phone or USSD; repair times published by commune.
+6. **Local road brigades** in every commune for drains, verges and small repairs, all year. Regular small work is cheaper than rebuilding.
+7. **Weigh stations** on main routes. Overloaded trucks destroy roads.
+8. **Dig once.** Water, power and fibre are laid together in shared ducts, so a new road is not cut open a month later.
+9. **A public register** of every road, bridge and drain: condition, last repair, next repair.
+
+### 70.5 Electricity and other networks
+
+- Published reliability targets for each grid and micro-grid (hours of supply, time to restore after a fault).
+- Maintenance crews and spare parts stocked before the hurricane season.
+- Honest meters and billing through the payment rail (Part 32).
+- The same asset register and maintenance-fund rule as roads, for power lines, water pipes, public buildings and street lights.
+
+### 70.6 Capture test and honest limits
+
+- **Maintenance money is the first thing stolen or cut**, because nobody cuts a ribbon for a repaired drain. The protected fund, the public register and the published repair times are the answer.
+- **A cleaning service can become a payroll of ghost workers.** Biometric attendance, payroll on the ledger (Part 8), and outside scoring.
+- Japan's cleanliness comes from generations of habit as much as from a service. The school rule is the long game.
+- No cost model exists yet (Part 59.3).
+
+---
+
+## PART 71 — ENERGY AND MATERIALS FROM WASTE
+
+This Part revises Part 67.6. The decision is to build plants that turn waste into electricity, to recycle at scale, and to make every company take back its own bottles and packaging.
+
+### 71.1 A warning to learn from
+
+Addis Ababa built Africa's best-known waste-to-energy plant, Reppie, for about US$120 million. A 2025 review reports that it handles less than half of its planned 1,400 tons a day and produces about half of its planned electricity, because the city's waste is mostly wet and organic and burns badly. It also leaves about 85 tons of toxic ash a day, and waste pickers lost income. **Haitian waste is also mostly wet and organic. A plant copied from a country with dry, sorted waste would fail the same way.**
+
+### 71.2 The Haitian design: three streams, three plants
+
+| Stream | Goes to | Produces |
+|---|---|---|
+| **Food and plant waste** (the largest share) | **Biogas plants** and compost sites | Gas for electricity and cooking; fertilizer for farms (Part 51) |
+| **Bottles, plastic, metal, glass, paper, cardboard** | **Recycling plants** | Materials sold to industry; jobs |
+| **Dry residue** that cannot be recycled | **A waste-to-energy plant**, only for the largest cities | Electricity for the grid |
+
+Old dumps are capped and their gas is captured and burned for power.
+
+### 71.3 Conditions before a waste-to-energy plant is built
+
+1. A **one-year study of the real waste** of that city: what it contains, how wet it is, how much energy it holds.
+2. **Sorting already working**, so that only dry residue is burned.
+3. **Air-pollution limits at the strictest international level**, with a continuous public reading of the chimney on the ledger.
+4. **A safe, lined site for the ash**, planned and paid for from day one.
+5. **Public ownership** (Part 69.6), built by open international tender (Part 24), with at least two technology suppliers compared.
+6. **No contract that forces the city to deliver a fixed tonnage.** Such contracts punish recycling.
+7. Waste pickers' cooperatives have contracts in the sorting and recycling plants (Part 67.3).
+
+### 71.4 Every company buys back its bottles
+
+- **Deposit on every bottle and can.** The buyer pays a small deposit and gets it back at any shop or buy-back point.
+- **Take-back duty:** each producer and importer must collect and recycle a rising share of what it puts on the market, to a published target. It may run its own system or pay into the public one.
+- **Refillable glass first** for drinks made in Haiti.
+- **Reports are public.** A company that misses its target pays the cost of the missing collection, plus a penalty.
+- The same duty covers tires, batteries, electronics and oil.
+
+### 71.5 Capture test and honest limits
+
+- **A large plant is a large contract.** The tender, the price per unit of electricity and the beneficial owners are public (Part 46.2 A).
+- A plant built before sorting works will burn fuel, not waste.
+- Biogas and recycling create more jobs per ton than burning and cost far less. They come first.
+- No plant size, cost or site is given here because none has been studied.
+
+---
+
+## PART 72 — THE BEST MINDS: SCHOOLS BUILT FOR THE CHILD'S BRAIN
+
+### 72.1 The goal
+
+Haitian children educated to the level of the best systems in the world, able to rival graduates of any university. The method is the one the Scandinavian countries are returning to: books, paper, handwriting, reading, thinking, and excellent teachers.
+
+### 72.2 What Sweden did
+
+Sweden had put tablets into schools from the earliest years. In 2023 its government changed course: more printed textbooks, quiet reading time and handwriting; an end to digital learning for children under six; and hundreds of millions of kronor for books. Its Karolinska Institute stated that digital tools impair rather than enhance learning. Critics answer that the evidence is not simple and that other causes also lowered reading scores.
+
+**What this document takes from it:** the youngest children learn with books, pencils, voices and hands. Technology comes later, as a subject to master. The claim that computers make children less intelligent is stronger than the evidence. The evidence does support keeping screens away from the early years and giving them a limited, purposeful place afterwards.
+
+### 72.3 The rules
+
+| Age | Rule |
+|---|---|
+| **0–6** | No screens in preschool. Play, song, stories, movement, drawing, Kreyòl spoken well |
+| **6–12** | **Books, paper and handwriting.** Reading aloud every day. Mental arithmetic. A printed textbook for every child in every subject. No tablets for lessons. No personal phones in school |
+| **12–15** | Computing begins as a **subject** in a computer room: typing, how a computer works, first programming. Homework stays on paper |
+| **15–18** | Programming, data, and **how artificial intelligence works and how it fails**. AI tools are studied, and are not used to write a pupil's work. Examinations are handwritten |
+
+The skills of Part 43 still matter. A country cannot sell digital services with a workforce that met a computer at twenty. The order is what counts: a trained mind first, the machine second.
+
+### 72.4 What builds a brain
+
+- **Food.** A child who has not eaten does not learn. A daily school meal from Haitian farms (Part 51.2).
+- **The first thousand days:** nutrition and care for mothers and babies (Parts 31, 36), and preschool for every child from age three.
+- **The mother tongue first** (Part 57.3).
+- **Reading:** a library in every school, a reading hour every day, books printed in Haiti in Kreyòl and French.
+- **Mathematics and science** with real experiments, simple laboratories and school gardens.
+- **Music, art, chess and sport** every week. They train memory, attention and discipline.
+- **Sleep and health:** vision and hearing tests, deworming, clean water and toilets (Parts 66, 70).
+- **Character:** pupils clean their school (Part 70.2), serve their community, and learn the Dessalines Charter (Part 37).
+
+### 72.5 Teachers
+
+- Teaching becomes one of the best-paid and most respected public careers (Part 5.4 pay floor), entered by examination (Part 17).
+- University-level training for every teacher, with a year of supervised practice. Finland requires a master's degree of its teachers; Haiti moves toward that step by step.
+- Inspectors who coach, and a ban on violence against pupils.
+- Smaller classes each year, by a published target.
+
+### 72.6 Excellence without leaving anyone behind
+
+- The same curriculum and the same printed books for the child in Cité Soleil and the child in Pétion-Ville.
+- **A school of excellence in every département**, entered by blind examination, with boarding and full scholarships, and places reserved for rural communes.
+- National competitions in mathematics, science, writing and history.
+- Catch-up classes for children who missed years of school.
+
+### 72.7 Honest limits
+
+- Most Haitian schools are private and many are poor. The rules need inspection and public money to mean anything.
+- Books, meals and trained teachers for every child are the largest cost in this document after security.
+- Results take a generation.
+
+---
+
+## PART 73 — THE STATE UNIVERSITY OF HAITI, REBORN
+
+### 73.1 The starting point
+
+The State University of Haiti (UEH) took its present form in 1960, from schools of law and medicine that go back to the 1820s. The 1987 Constitution makes it autonomous, makes higher education free, and orders the State to finance it (Arts. 208–209). It is scattered across many small faculties, most in Port-au-Prince, with schools in several provincial towns and a campus at Limonade in the north. Its buildings were largely destroyed in 2010. In 2010 it could admit only about 15% of applicants.
+
+### 73.2 The plan: three great campuses, then five
+
+| Campus | Where | Leading fields |
+|---|---|---|
+| **North** | Limonade and Cap-Haïtien (built on the existing campus) | Agriculture and food science, history and heritage, tourism, marine science |
+| **West** | A safe site in the capital region, chosen by published criteria | Medicine and public health, law, engineering, economics, public administration |
+| **South** | Les Cayes region | Environment and forestry, fisheries, earthquake and hurricane engineering, education |
+| Then **Artibonite** | Gonaïves region | Water and irrigation, rice and staple crops, energy |
+| Then **Center** | Hinche region | Veterinary science, rural development, cross-border studies |
+
+Each campus is a real university town: lecture halls, laboratories, a large library, student housing, sports grounds, a teaching hospital or farm, reliable power and internet, built to Part 64.
+
+### 73.3 Research for the nation
+
+- **National research institutes** inside the campuses, on what Haiti needs: seeds and soils, earthquake-safe building, tropical disease, water, solar energy, the Kreyòl language, Haitian history, data and computing.
+- **A National Research Fund**: grants awarded by review panels of scientists that include foreign reviewers, never by a minister. The Constitution already tells the State to encourage research (Art. 210).
+- **Doctoral programs**, so Haiti trains its own professors.
+- Results are published openly and tied to the farm program, the building code, the health system and the Technology Hub (Parts 43, 51, 64).
+
+### 73.4 People
+
+- **Full-time professors**, recruited by open international competition, paid to teach and research, not by the hour.
+- **Diaspora chairs:** Haitian academics abroad teach and lead laboratories for a term or a year (Part 52.2).
+- **Students** enter by blind national examination. Tuition is free. Scholarships cover housing and food, with places reserved for every département and for poor families. Graduates in medicine, teaching and engineering owe a period of service in Haiti.
+- **Partnerships** with leading universities abroad for joint degrees and laboratories, under Haitian governance.
+
+### 73.5 Governance
+
+- **Autonomy is kept and made real:** a budget share fixed by law, paid on schedule, published on the ledger.
+- An elected rector and a university council, with outside members (alumni, diaspora scientists, employers) and student and staff seats.
+- The public quality agency required by the Constitution (Art. 211) evaluates every program, public and private, and publishes the results.
+- No party, minister or armed group names a dean.
+
+### 73.6 Honest limits
+
+- A university that rivals the world's best takes decades and large, steady money. A realistic target is to be the best in the Caribbean in chosen fields within fifteen years.
+- Strikes, politics and insecurity have closed the university many times. Autonomy with a guaranteed budget, and security around campuses, are conditions.
+- Professors will come only if pay, laboratories and safety are real.
+
+---
+
+## PART 74 — WORK WITH DIGNITY: A CONTRACT FOR EVERY JOB, AND WAGES ALWAYS PAID
+
+### 74.1 The problem
+
+Many employers in Haiti pay late, pay less than agreed, or do not pay at all, and the worker has no paper to prove the job existed. The Constitution promises every employee a fair wage (Art. 35-1). Labor courts and labor inspectors exist. Without proof and without speed, they help few people.
+
+### 74.2 The rules
+
+1. **No work without a written contract, signed before the first day.** This covers every job: office, factory, shop, farm labor, construction, domestic work, security, and work by the day.
+2. **A one-page standard contract** in Kreyòl: who, what work, where, hours, pay, pay day, length. Free, at every Sovereign House and on any phone.
+3. **Registered in two minutes.** The employer enters the contract by USSD or app; the worker confirms with a code. Both receive a copy. For day labor there is a shorter form. A rule that takes an hour would destroy the jobs it protects.
+4. **Wages are paid through the national payment rail** (Part 32), on the date in the contract. The payment record is the proof. Cash wages above a small amount are not legal proof of payment.
+5. **Unpaid wages are a debt with first rank,** ahead of the employer's other debts.
+
+### 74.3 When the employer does not pay
+
+| Step | Time limit | What happens |
+|---|---|---|
+| Complaint by phone or at the labor office | Day 0 | The system checks the contract and the payment record |
+| Labor inspector's order to pay | Within 10 days | Wages due, plus interest |
+| Labor court, fast track | Within 45 days | Judgment: wages, plus an equal amount as penalty |
+| Enforcement | At once | Seizure from the employer's account through the rail |
+
+- **Employees can sue**, free of charge, with a public lawyer (Part 2.6), alone or as a group.
+- **No revenge.** Dismissing or threatening a worker for complaining doubles the penalty.
+- **Repeat offenders** lose public contracts and licences; managers answer personally.
+- **The State obeys the same rule.** Public salaries and payments to contractors are paid on time, and delays are published (Part 58.2, rule 8). The State has been one of the worst payers.
+- No contract? The law presumes the worker's account of the job is true, and the employer pays a fine.
+
+### 74.4 Honest limits
+
+- Most Haitians work for themselves or informally. The rule protects them only when someone hires them.
+- Small employers fear paperwork and tax. The contract registry is not used to tax micro-businesses for a fixed number of years, and this is written in the law.
+- Inspectors and labor judges must be many, trained and honest (Parts 17, 39).
+
+---
+
+## PART 75 — HAITIANS OWN HAITI'S ECONOMY: SHARED PROSPERITY, AND WORLD COMPANIES ON HAITIAN TERMS
+
+### 75.1 The concern
+
+In some countries the majority holds political power and a small minority holds most of the wealth. South Africa is the best-known case. Haiti has its own version: a few families and importers control much of trade, banking and distribution, while most Haitians have no title, no credit and no way in. A country where the local majority feels left out of its own economy is not stable.
+
+### 75.2 The approach
+
+**Open the doors. Do not take from one group to give to another.** Programs that hand shares or contracts to people because of who they are tend to enrich a small connected circle. What spreads wealth is access: to land, credit, markets, skills, contracts and justice.
+
+1. **Break the gates.** The Competition Authority (Part 46.2 C) ends import and distribution monopolies. Anyone who meets the rules may import, bank and trade.
+2. **Land titles** for small owners (Part 20). Title is the first capital of the poor.
+3. **Credit** for small firms, cooperatives and farmers through the guarantee fund (Part 59.1), with lending figures published by commune and by size of borrower.
+4. **Public contracts:** a share reserved for small Haitian firms and cooperatives, paid on time (Parts 24, 74).
+5. **Workers as owners:** cooperatives, and profit-sharing or share plans in large firms and in concessions.
+6. **A Citizens' Wealth Fund** that holds the State's shares in ports, mines, telecoms and other concessions (Part 46.2 B) and pays a yearly dividend to every adult through the payment rail.
+7. **Local hiring and training** by every large investor: published targets for Haitian staff at every level, including management, and a training budget.
+8. **Equal treatment** in banks, hiring and service (Part 63), tested by the Equality Units.
+9. **Open registers** of who owns companies, land and concessions (Part 46.2 A).
+10. **Education** that does not depend on a family's money (Parts 72, 73).
+
+**What is not done:** no seizure of lawful property, no blaming of any group by color or origin (Part 63 applies to everyone), no closed door to honest investors.
+
+### 75.3 Measured every year
+
+Share of adults with a title, a bank account and access to credit; share of public contracts won by small firms; share of managers in large firms who are Haitian; the gap between the richest and the poorest tenth. Published with the scorecard (Part 68.4).
+
+### 75.4 Large technology companies in Haiti
+
+**The request:** make companies such as Amazon, Google and Facebook open offices in Haiti.
+
+**What is possible:**
+
+- **Haiti cannot force a foreign company to open an office.** A company that is ordered to do so can simply stop serving a small market, and Haitians would lose the service.
+- **Haiti can set the conditions for doing business with Haitians:**
+  1. A large digital platform that earns money from Haitian users **registers a legal representative in Haiti**, answers to Haitian courts, and pays tax on its Haitian revenue.
+  2. It protects Haitians' data under Haitian law (Parts 6, 54).
+  3. It supports Kreyòl in its products.
+- **Haiti can make itself worth an office:** the Technology Hub (Part 43), graduates from the new university (Part 73), the same time zone as the eastern United States, a workforce that speaks Kreyòl, French, English and Spanish, reliable power and fibre, and security.
+- **The State as a customer:** large public contracts for software and cloud services require a local team and training of Haitian engineers (Parts 24, 55).
+- **Incentives tied to results:** tax relief only for jobs actually created and people actually trained, with an end date (Part 43.6).
+
+A realistic first step is engineering, support and language-technology teams of tens or hundreds of people. A regional headquarters follows a record of stability.
+
+### 75.5 Honest limits
+
+- Wealth gaps close over decades, even with good policy.
+- A wealth fund pays a real dividend only if concessions are honest and profitable.
+- Powerful families will resist competition with every tool they have, including the financing of politicians and armed groups (Parts 41.3, 46.2).
+
+---
+
+## PART 76 — A SECOND CHANCE: YOUNG PEOPLE WHO SERVED ARMED GROUPS WITHOUT COMMITTING GRAVE CRIMES
+
+This Part adds a youth track to the Reintegration Program of Part 41.4.
+
+### 76.1 Who
+
+Children and young people used by armed groups as lookouts, messengers, carriers or cooks, who did not kill, rape, kidnap or torture. Many were recruited as children, by hunger, fear or force.
+
+### 76.2 Principles
+
+1. **A child recruited by an armed group is a victim first.** The adult who recruited the child committed a grave crime and is prosecuted for it.
+2. **No one is cleared by a rumor or condemned by one.** A screening panel (a judge, a social worker, a community elder drawn by lot) confirms each case. The police do not decide alone.
+3. **If a grave crime is later proved, the case goes to court** (Part 41.2). The second chance is for those who truly did not commit one.
+4. **Under eighteen: no criminal record.** The file is confidential.
+
+### 76.3 The path (12 to 24 months)
+
+- **Safety:** removal from the armed group's area if needed, with the family when possible, and protection from revenge.
+- **Health:** medical care and care for the mind, including for drugs and trauma.
+- **School:** catch-up classes to a certificate (Part 72.6).
+- **A trade:** the mason's licence (Part 64.4), solar and electrical work, farming (Part 51), mechanics, cooking, digital skills (Part 43).
+- **A paid place:** apprenticeships and first jobs in the road brigades and the Cleanliness Service (Part 70), reforestation, construction and farm cooperatives, with a contract (Part 74).
+- **A stipend** through the payment rail during training, at or below what an honest worker earns nearby (Part 41.4).
+- **A mentor** for two years: a trained adult from the community.
+- **Giving back:** community service, and telling what they know to the truth process (Part 41.5), protected.
+- **Return:** a public welcome by the community, with churches, elders and victims' groups, where the community agrees.
+
+### 76.4 Honest limits
+
+- Communities that buried their dead may refuse to take anyone back. Victims are heard first, and nobody is forced on a neighborhood.
+- Armed groups punish those who leave. Protection must be real.
+- Jobs must exist at the end, or the path leads back.
+- Some will lie about what they did. The screening and the open door to prosecution are the safeguard.
+
+---
+
+## PART 77 — JUSTICE FOR THE GREAT CRIMES: FROM DESSALINES TO TODAY
+
+### 77.1 The request
+
+A special court for all the crimes committed against the nation, beginning with the crime against Dessalines, and including the corruption cases.
+
+### 77.2 Two limits, and how to honor the request inside them
+
+1. **The 1987 Constitution forbids special courts** "under any name whatever" (Art. 173-2). Justice must be done by ordinary courts. The lawful tool is a **specialized chamber inside the ordinary courts**. Haiti has begun: two specialized judicial poles, one for complex financial crimes and one for mass crimes, were inaugurated on 27 May 2026.
+2. **A court cannot try the dead.** Jean-Jacques Dessalines was assassinated at Pont-Rouge on 17 October 1806. No one can be sentenced for it. What can be done is to establish the truth officially, in public, and to restore honor.
+
+So the answer has two bodies.
+
+### 77.3 The Tribunal of Historical Truth (*Tribinal Verite Istorik*)
+
+A permanent, solemn body of historians, jurists and elders, cross-selected (scholars elected by peers, citizens drawn by lot, a diaspora seat), attached to the Memory and Identity Institute (Part 57.4). **It gives findings, not sentences.** It hears evidence in public, publishes a judgment of history, and orders acts of memory.
+
+**Its first cases, in order:**
+
+1. **The assassination of the Founder, 1806:** who planned it, who gained, and what the country lost.
+2. **The 1825 ransom** imposed by France and the loans that followed: the full account, and the basis for a claim of restitution.
+3. **The occupation of 1915–1934:** the seizure of the treasury, forced labor, the killings.
+4. **The 1937 massacre** of Haitians in the Dominican Republic.
+5. **The dictatorship of 1957–1986:** the dead, the disappeared, the stolen money.
+6. **The coups and massacres** since 1986.
+7. **The cholera epidemic of 2010.**
+8. **The looting of public funds** across governments.
+
+**What follows a finding:** an official record; names restored; monuments and days of memory; the school curriculum (Part 57.3); and, where a foreign state or body is responsible, a formal claim carried by Haitian diplomacy (Parts 10, 27). Where living suspects exist, the file goes to the prosecutors of 77.4.
+
+### 77.4 The Chambers for Grave Crimes and Grand Corruption
+
+Built on the two existing poles, inside the ordinary courts, made permanent by law.
+
+- **What they try:** theft of public funds (starting with the PetroCaribe file and the audits already made), bribery in contracts and customs, financing of armed groups, massacres, political assassinations, kidnapping networks, mass sexual violence.
+- **Judges and prosecutors:** selected by examination and vetting (Parts 17, 39), three judges per case, cases assigned at random (Part 2.5), protected with their families.
+- **Their own investigators**, forensic accountants and a witness-protection program.
+- **Deadlines** for each stage, published. A file cannot sleep.
+- **Stolen money is traced and brought home**, in Haiti and abroad, and goes to the Victim Justice Fund (Part 45.4) and the public ledger.
+- **Trials in absence** for those who flee, with a right to a new trial on return, and extradition requests.
+- **Time limits:** no time limit for crimes against humanity. For grand corruption, the clock starts only when the crime is discovered.
+- **Fair trial:** full defense rights, public hearings, appeal. A trial that is not fair convicts no one in the eyes of history.
+
+### 77.5 The obstacle that must be named
+
+Under the 1987 Constitution, a president, prime minister or minister is tried for crimes in office by the **High Court of Justice**, which is the Senate, after an accusation voted by the Chamber of Deputies (Arts. 185–190). With no parliament, or a friendly one, no high official is ever tried. This has protected the powerful for decades. **Ending it needs a constitutional change** (Part 38): former officials answer to the ordinary chambers like any citizen.
+
+### 77.6 Capture test and honest limits
+
+- **A justice chamber can become a weapon against opponents.** Random assignment, three judges, appeal, the second-court review of cases against candidates (Part 58.2), and public hearings are the checks.
+- **The Tribunal of Historical Truth could be used to write a party's version of history.** Its members are cross-selected, its hearings are public, and it has no power over any living person.
+- Judges in Haiti are threatened and killed. Protection decides whether any of this happens.
+- A foreign state will not pay because a Haitian body says it should. The finding is the base of a long diplomatic and legal effort.
+
+---
+
+## PART 78 — A MODEL CITY: BEAUTIFUL, DIFFERENT, AND WORTH THE JOURNEY
+
+### 78.1 The idea
+
+One Haitian city that shows what the whole country will become: clean, green, low, safe, with its own style, a place tourists cross the world to see. Then the next city, and the next.
+
+### 78.2 Renew a real city before building a new one
+
+New capitals and cities built from nothing often stay empty for years and enrich those who bought the land early. Haiti already has cities with history and beauty. **The first model city is an existing one**, chosen by published criteria: security, an airport or port, heritage, water, a nearby university campus, and local support. Cap-Haïtien, with the Citadelle and Sans-Souci nearby and the Limonade campus, and Jacmel, with its historic center, are natural candidates. The choice is an open decision.
+
+### 78.3 What the model city has
+
+- **Everything in Parts 64 to 71, done first and done fully:** safe buildings, the commune plan, water in every home, daily cleaning, sorted waste, public toilets, lit streets, repaired roads.
+- **A Haitian look:** galleries, courtyards, color, wood and stone, the gingerbread tradition, set by a design guide written with Haitian architects and chosen by open competition.
+- **A waterfront and a center for walking,** shaded, with squares, fountains, markets for crafts and food, and no traffic in the old streets.
+- **A culture district** with private venues (Part 65.6), museums, a botanical garden, and music every week.
+- **History you can visit:** restored forts, houses and sites, with trained local guides (Part 57.4).
+- **Hotels and guesthouses** owned largely by Haitians and returnees (Parts 52, 75), and a hospitality school.
+- **Safety:** a visible, courteous, well-trained police presence (Part 26) and a 24-hour visitor help line.
+
+### 78.4 Against speculation
+
+- Before the city is announced, land prices in the area are recorded. Public projects buy at that recorded value.
+- Residents are not pushed out. Owners and tenants get titles, improvement loans and first right to the new shops and stalls.
+- Every sale of public land is by open tender on the ledger.
+
+### 78.5 Honest limits
+
+- Tourists come to places that are safe. Tourism follows security (Part 33.6).
+- One beautiful city beside nine neglected ones breeds anger. The model city is a pilot with a timetable for the others.
+- No cost has been calculated.
+
+---
+
+## PART 79 — RECORD OF THIS REVISION
+
+### 79.1 Decisions closed
+
+| Open decision | Decision |
+|---|---|
+| 33 (deposit calendar; price for firearms) | Firearm stays the owner's property in the state armory; no forced sale. Calendar by département still to be set |
+| 34 (handguns) | Excluded |
+| 35 (age and pass marks) | Age 25; pass marks as drafted |
+| 36 (household refusal) | Absolute stop |
+| 37 (lawful reasons, no-blade places) | Approved as drafted |
+| 38 (racism penalties) | One month, then three months of community work, then two years minimum; an Equality Unit in every département |
+| 40 (home loan) | State-backed; terms still to be costed |
+| 41 (height limits) | Approved |
+| 42 (concert hall and arena) | Private financing |
+| 43 (water price, waste fee) | Public control; figures still to be costed |
+| 44 (landfill sites) | Replaced by the three-plant system of Part 71; sites still to be studied |
+
+**Still open:** 39 (earthquake and wind levels by zone).
+
+### 79.2 Corrections to older Parts
+
+| Older text | Correction |
+|---|---|
+| Part 61.3 (owner sells to the State or the firearm is destroyed) | The firearm stays the owner's, stored (Part 69.1) |
+| Part 61.6 (handguns an open decision) | Excluded (Part 69.1) |
+| Part 63.3 (first insult: fine and course) | The ladder of Part 69.3 |
+| Part 63.4 (an Equality Office) | Plus an Equality Unit in every département |
+| Part 67.6 (burning waste for power not planned) | Waste-to-energy for the largest cities under conditions (Part 71) |
+| Part 65.6 (national hall with private partners) | Privately financed (Part 69.5) |
+| Part 41.4 (reintegration) | Youth track added (Part 76) |
+| Part 41.5 (victims and truth) | Tribunal of Historical Truth and permanent chambers added (Part 77) |
+| Part 5.4 (education) | Book-first schooling and the university plan (Parts 72, 73) |
+
+### 79.3 Capture test on the new bodies
+
+| New body or rule | If captured, what stops it? |
+|---|---|
+| Firearm dealers and purchase permits (69) | Monthly audit, national register, port checks |
+| Equality Units (69) | They build files only; prosecutors and judges decide |
+| Cleanliness Service and road fund (70) | Biometric attendance, outside scoring, protected fund, public repair times |
+| Waste and energy plants (71) | Open tender, public chimney readings, no fixed-tonnage contract |
+| School rules (72) | Inspection, published results by school |
+| University (73) | Fixed budget share, quality agency, outside council members |
+| Contract registry and labor fast track (74) | Payment-rail records, court, no-tax promise written in law |
+| Citizens' Wealth Fund (75) | Independent board, audit court, dividends paid directly to citizens |
+| Youth screening panels (76) | Judge on each panel; prosecution stays open |
+| Historical Truth Tribunal (77) | Cross-selected, public, no power over persons |
+| Grave-crime chambers (77) | Random assignment, three judges, appeal, second review for political cases |
+| Model city (78) | Recorded land values, tenders on the ledger |
+
+### 79.4 What was checked, and what was not
+
+**Checked in this revision:** Sweden's 2023 return to books (press report); Haiti's two judicial poles (UN report); Articles 35-1, 173-2 and 208–212 of the 1987 Constitution; the Reppie plant figures (a 2025 report by an anti-incineration network, so read it as one side of the argument); the university's history (encyclopedia entry).
+
+**Not verified:** the practices attributed to Japan and China in Part 70; Finland's teacher requirement; the PetroCaribe audit findings; Articles 185–190 on the High Court of Justice; the dates and facts of the historical cases in Part 77.3, which are stated from general knowledge and are for the Tribunal itself to establish; the description of South Africa in Part 75.1; that the largest share of Haitian waste is organic; what Haiti's Labor Code now requires for written contracts.
+
+### 79.5 Open decisions added
+
+45. Storage period and any storage fee for deposited firearms that are never licensed.
+46. The number of licensed firearm dealers.
+47. Which city gets the first waste-to-energy study, and the take-back targets for producers.
+48. The fast-repair deadlines for roads, and the share of fuel revenue for the maintenance fund.
+49. The ages in Part 72.3, and how the rules apply to private schools.
+50. Three campuses or five, their sites, and the university's budget share.
+51. The threshold of "small" cash wages, and the tax-free period for the contract registry.
+52. The design of the Citizens' Wealth Fund and its dividend.
+53. The size threshold for digital platforms that must register in Haiti.
+54. The list and order of cases before the Tribunal of Historical Truth.
+55. Whether the High Court of Justice is abolished or reformed.
+56. Which city is the first model city.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
-This document is designed to be handed to a legislative drafting body, an economist, or another AI system to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
+This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
 
 **What the October 2026 revision (Parts 37–47) changed in the overall picture:** the system now has a symbolic root (the 1805 Charter), an honest legal route (Part 38: ordinary law now, advisory citizen panels next, strict constitutional change last), a defense for the period between selection and swearing-in (Part 39), a child-protection framework that regulates fundraising appeals without regulating speech (Part 40), a judgment-first path out of armed groups (Part 41), prisons and a technology hub that give people a trade (Parts 42–43), a public force that no foreign party commands or pays (Part 44), a strict, origin-neutral trade gate plus a lawful cost for disrespect of Haitians anywhere (Part 45), a review that lists what cannot be fixed by design (Part 46), and a way for anyone to comment and vote on every section (Part 47).
 
 **What the November 2026 revision (Parts 48–60) changed:** Haitian officials now have a duty to speak, with evidence, whenever Haitians are abused during deportation, while accepting every country's right to apply its immigration law (Part 48). The border is built as four borders: the Line, the Gates, the coast, and the ports and airports (Part 49). Food sold in Haiti must meet one high health standard that applies to every country and to Haitian producers alike (Part 50), and Haitian farmers are paid to meet it (Part 51). Haitians abroad are invited home, with the obstacles removed and no false promises (Part 52). Private guns end in stages and no service weapon goes home (Part 53). Identity and passports get one permanent, independent house (Part 54); every ministry and embassy shares one State Technology Center (Part 55); a counter-intelligence service protects the state without arrest powers and without watching citizens' politics (Part 56). Family, language, history and faith are protected without policing private life (Part 57). No office is left empty (Part 58). Nothing starts without a published cost sheet (Part 59).
 
 **What the second November 2026 revision (Parts 61–68) changed:** private firearms are deposited by a fixed date and returned only through an examination stricter than Japan's (Part 61); blades and tools are not carried in public without a lawful reason (Part 62); racism is a crime tried in ordinary courts (Part 63); every new building needs a Certificate of Safety from licensed builders and independent inspectors, and families can borrow to build (Part 64); towns stay low, green and planned, schools host no concerts, and investors build licensed venues (Part 65); every household gets safe water (Part 66) and waste collection (Part 67); and the goal of being the safest country is measured each year on a public scorecard (Part 68).
+
+**What the third November 2026 revision (Parts 69–79) changed:** deposited firearms stay their owners' property and every purchase needs its own permit; handguns are excluded (Part 69). Racial insult brings community work twice, then prison, with an Equality Unit in every département (Part 69). Water and waste are under public control (Part 69). A national cleanliness service, protected road-maintenance money and fast repair keep the country in order (Part 70). Waste becomes gas, materials and power, and companies take back their bottles (Part 71). Children learn first from books, paper and teachers (Part 72), and the State University is rebuilt as great campuses with research (Part 73). Every job has a written contract and wages are enforced within weeks (Part 74). Wealth is opened to the majority by access, not by seizure (Part 75). Young people used by armed groups who committed no grave crime get a supervised way back (Part 76). History's great crimes get an official public truth, and living suspects face permanent chambers of the ordinary courts (Part 77). One existing city is renewed as the model for the rest (Part 78).
