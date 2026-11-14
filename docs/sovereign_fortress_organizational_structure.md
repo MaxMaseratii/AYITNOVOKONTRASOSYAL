@@ -1,4 +1,4 @@
-# THE SOVEREIGN FORTRESS: FULL ORGANIZATIONAL ARCHITECTURE
+# AYITI NOUVO KONTRA SOSYAL (formerly "The Sovereign Fortress"): FULL ORGANIZATIONAL ARCHITECTURE
 ### Four Pillars, Eight Ministries, and the Complete Chain of Command
 *A structural design document — grounded in Haiti's real administrative geography (10 départements, 42 arrondissements, 149 communes (sources range 140–149), ~570 communal sections) and real existing ministry names, so the transition is recognizable rather than invented from nothing.*
 
@@ -11,6 +11,7 @@ Two corrections carried over from the design review, applied throughout:
 1. **A Fourth Pillar (independent judiciary) is added.** No branch — not the Assembly, not the Executive Council, not the civil service — can detain, fine, seize assets, or silence press without a court that answers to neither of them. This is the single change that determines whether the rest of this document is a democracy or isn't.
 2. **Punitive/family-control mechanisms from earlier drafts are removed**, not softened: no forced DNA testing, no abolition of legal defense, no extrajudicial tribunals, no unilateral asset seizure by an internal security directorate. Where those drafts solved a real problem (child abandonment, unequal legal defense, corruption), the fix below solves the same problem through due process instead.
 3. **Parts 37–47 (October 2026 revision)** add the Dessalines Charter, a map of the 1987 Constitution and its reform proposals, a shield against private-sector capture of officials between selection and swearing-in, a child-protection and orphanage framework, armed-group judgment and reintegration, skills prisons, a technology hub, rules against foreign command of the public force, a strict border and a "cost of disrespect" doctrine, a full corruption and foreign-influence review, and a public comment-and-vote process (Part 47). Where a new Part conflicts with an older one (18.3, 19, 29.1, 33.2, 33.5, 35.2, 35.4), the newer Part governs and the older one carries a pointer.
+4. **Parts 48–60 (November 2026 revision)** add a duty for officials to speak for Haitians facing deportation (48), a strong border on land, sea and air (49), the Haiti Food Standard (50), a farm program built on natural and organic production (51), the invitation to return home (52), a disarmed society (53), a permanent National Identity and Passport Authority (54), one State Technology Center for every ministry and embassy (55), a counter-intelligence service under court control (56), family, tradition and Haitian identity (57), rules against political vacuum (58), growth and a costing rule (59), and a review with the capture test and the open decisions (60). Corrections to older Parts are listed in Part 60.2.
 
 ---
 
@@ -221,6 +222,20 @@ Each ministry below is mapped to the real, currently-existing Haitian ministry(i
 | DG Defans Nasyonal | National defense | General budget |
 | DG Defans Legal Entènasyonal (GLDD) | Overseas legal representation for Haitian citizens abroad | General budget |
 
+### 5.9 Bodies added by the November 2026 revision, and where they sit
+
+| Body | Sits | Part |
+|---|---|---|
+| Spokesperson for Haitians Abroad; Return Desks | Ministry of Foreign Affairs (5.8) | 48, 52 |
+| Border Command (the Line) and the enlarged Coast Guard | Defense (5.8) and Justice & Public Security (5.6) | 49 |
+| Food Standards Board and national food laboratory | Independent board; works with Agriculture (5.2) and Health (5.5) | 50 |
+| Natural-farming program (floor price, certification, inputs) | Ministry of Food Security & Agriculture (5.2) with the SEB (5.1) | 51 |
+| **Otorite Nasyonal Idantite ak Paspò** | Independent constitutional authority | 54 |
+| **Sant Nasyonal Teknoloji Leta** | Technical agency with a liaison from every ministry | 55 |
+| **Sèvis Nasyonal Kont-Espyonaj** and its Oversight Commission | Tasked by the Executive Council as a body; warrants from the courts | 56 |
+| **Enstiti Memwa ak Idantite Ayisyen** | Independent cultural institute | 57 |
+| Permanent Electoral Council, National Dialogue Forum, fiscal council | Independent | 58, 59 |
+
 ---
 
 ## PART 6 — PRESS, INTERNET & DIGITAL RIGHTS (institutional design, not a censorship code)
@@ -281,7 +296,7 @@ All grades and all individual salaries are published on the open digital ledger,
 ### 8.3 Who runs it, and who watches the people running it
 
 - **Entry**: the civil servant who executes the transaction logs it automatically at the point of action — no separate reporting office that could edit or delay it first.
-- **Verification**: the DSI and any citizen can flag anomalies (citizen flags auto-trigger a DSI review); the Cyber-Defense Directorate continuously stress-tests the system's integrity.
+- **Verification**: the DSI and any citizen can flag anomalies (citizen flags auto-trigger a DSI review); the Cyber-Defense Directorate continuously stress-tests the system's integrity (its defensive work now sits in the State Technology Center, Part 55).
 - **Maintenance**: the physical network is run by the Infrastructure Ministry's telecom directorate; the software is maintained by NASA-exam engineers plus open-source public contribution. Any code change altering data retention or access rules requires sign-off from the Tribinal Administratif ak Ekonomik, since that's effectively rule-making, not routine maintenance.
 - **Watching the watchers**: a rotating civic panel (same model as the Justice of the Peace panels) reviews system uptime and access complaints quarterly, publicly.
 
@@ -294,7 +309,7 @@ This design makes the *classic* corruption-based interference model — buy or p
 ### 9.1 What genuinely gets harder
 
 - **No single bribable office.** Sortition removes the "buy the president" strategy outright — there's no one to buy before the lottery, and the person it produces has no campaign debt to anyone. The 26-day rotating figurehead removes the assassination/blackmail incentive that concentrated executive power creates.
-- **No single technical target.** A hostile actor can't erase the treasury by breaching one server — they'd need to compromise more than 70% of 140 physically distributed nodes simultaneously.
+- **No single technical target.** A hostile actor can't erase the treasury by breaching one server — they'd need to compromise more than 70% of the physically distributed commune nodes (149 today) simultaneously.
 - **No single court to capture.** Influencing the judiciary requires compromising multiple independently-timed, independently-selected bodies rather than one nomination fight.
 - **Reduced loan-conditionality leverage.** The Zero-IMF mandate removes one of the two channels historically used to force Haitian policy changes from outside (the 1994–95 tariff reduction under IMF/US pressure being the clearest precedent).
 - **A visible paper trail.** Covert payments to individual officials are harder to launder through a budget line when that line is published the day it's spent, queryable by SMS by any citizen.
@@ -477,6 +492,8 @@ Haiti's Transitional Presidential Council concluded its mandate on February 7, 2
 
 This matters for sequencing in two ways: there is already a live, internationally recognized electoral process underway, and there are parts of the country where no institution — old or new — currently has functioning reach. Neither fact is addressed by designing a better org chart.
 
+**Update, November 2026:** the elections were postponed again in October 2026. The electoral council's calendar published on 28 October 2026 sets the first round for 18 July 2027 and a second round for 4 October 2027, reportedly with a constitutional referendum on the first-round day (press reports; see Parts 38.2 and 58). Read "2026–2027 electoral cycle" below as "the next electoral cycle."
+
 ### 18.2 What this document actually is, honestly
 
 This is a citizen-authored proposal, not a governing text, and it shouldn't be presented as one. Its legitimate path is as **advocacy material** — something a candidate, a party, or a civil society coalition running in the 2026–2027 electoral cycle can adopt, campaign on, and bring into a legitimately elected parliament, not a document that bypasses that process. A constitution imposed without broad participatory drafting tends to fail at ratification even when its content is sound — Chile's 2019–2023 constitutional process produced two drafts that were both rejected by referendum, in part because the drafting itself didn't build broad enough ownership before the final vote. That's the lesson to build in from the start, not discover after a failed referendum.
@@ -513,6 +530,9 @@ Modeled on Germany's Basic Law, which places core principles beyond ordinary ame
 - Slavery and servitude forever abolished, including child servitude and trafficking (Dessalines Charter Art. 2; Part 37)
 - The anti-capture core of Part 39: the zero-gift rule, the giver's debarment and disgorgement, the Offer Register, and the independence of the Integrity Desk
 - Haitian command and Haitian pay of the public force, the contractor rules, and the ban on foreign bases without a two-thirds vote and a referendum (Part 44.5, rules 1, 4, 7, 9), and the rule that the armed force obeys civil authority and does not deliberate
+- The limits on the counter-intelligence service: no power of arrest or detention, no watching of lawful political, press, religious or union activity, no immunity from the courts (Part 56.5)
+- The independence of the National Identity and Passport Authority, and the rule that no one is refused an identity document for political reasons (Part 54.4)
+- No public office without a lawful holder or lawful caretaker, and no caretaker may bind the country beyond caretaker powers (Part 58.5)
 
 These are entrenched because they're the specific mechanisms that prevent this system from being captured or converted into what it was built to replace — a future Assembly voting to weaken them is exactly the failure mode this document exists to prevent.
 
@@ -551,7 +571,7 @@ Many rural Haitian households have generations of de facto occupancy without for
 
 ### 20.4 Dispute resolution and integrity
 
-Disputed claims go to the reformed **Civic Tribunal** (the 5-citizen local panel with state legal counsel, already built in Part 2's territorial justice design), with appeal to the Court of First Instance. The resulting registry is stored on the same 140-node public ledger (Part 8) — a land registry is just another category of public record, and using the same tamper-evident architecture blocks the classic corruption of land registries in weak states: backdating deeds, or quietly selling the same parcel's title to two different buyers.
+Disputed claims go to the reformed **Civic Tribunal** (the 5-citizen local panel with state legal counsel, already built in Part 2's territorial justice design), with appeal to the Court of First Instance. The resulting registry is stored on the same commune-node public ledger (Part 8; 149 nodes today) — a land registry is just another category of public record, and using the same tamper-evident architecture blocks the classic corruption of land registries in weak states: backdating deeds, or quietly selling the same parcel's title to two different buyers.
 
 ---
 
@@ -596,7 +616,7 @@ The 4-year post-service dual-citizenship/foreign-residency restriction on **dipl
 
 ### 22.4 Naturalization for long-term residents
 
-Five years of continuous legal residence, demonstrated Kreyòl proficiency, and a clean record — consistent with Haiti's existing naturalization framework, administered through the Ministry of Justice's immigration directorate with the same anonymized, auditable process used elsewhere in this document.
+Five years of continuous legal residence, demonstrated Kreyòl proficiency, and a clean record — consistent with Haiti's existing naturalization framework, administered through the Ministry of Justice's immigration directorate with the same anonymized, auditable process used elsewhere in this document. **Part 54** moves nationality records, identity cards and passports into one permanent Identity Authority; **Part 52** sets out the return program for Haitians abroad.
 
 ---
 
@@ -699,6 +719,7 @@ The GSF is explicitly a support and transitional force, not a permanent one, und
 - **Judicial Police**: investigations, feeding directly into the independent prosecution service (Part 5.6) — this division already exists in the current PNH and is retained.
 - **Administrative Police**: community patrol, the public-facing branch, operating under the off-duty disarmament and biometric weapon-lockup rules established earlier in this document.
 - **Inspector-General function**: retained from the existing PNH structure as the internal-affairs check, with findings now feeding directly into the cross-selected DSI Oversight Commission (Part 25.2) rather than staying purely internal — closing the "who checks the police's own internal watchdog" gap.
+- **Weapons:** the lockup rule is completed by Part 53.5 (no service weapon at home, for every armed service and every rank), with the officer-protection measures of Part 53.6.
 
 ### 26.6 Added by the October 2026 revision (see Part 44)
 
@@ -728,7 +749,7 @@ All diplomatic staff are NASA Foreign Service Track graduates (Part 5.8, Part 17
 
 ### 27.4 Consular services for the diaspora specifically
 
-Every Tier 1 post functions as more than a formal diplomatic office — it's a physical access point for: passport and civil-documentation services, a direct GLDD legal-assistance intake point (Part on the Dominican Republic legal defense work), and the local liaison for the Brain-Gain Diaspora Fund and the Continental Tribunes (Part 1). Given how central the diaspora is to this entire document's economic strategy, the embassy network is designed as infrastructure for that relationship, not just formal state-to-state representation.
+Every Tier 1 post functions as more than a formal diplomatic office — it's a physical access point for: passport and civil-documentation services, a direct GLDD legal-assistance intake point (Part on the Dominican Republic legal defense work), and the local liaison for the Brain-Gain Diaspora Fund and the Continental Tribunes (Part 1). Given how central the diaspora is to this entire document's economic strategy, the embassy network is designed as infrastructure for that relationship, not just formal state-to-state representation. **Part 54** puts an Identity Authority counter in every post; **Part 52** adds a Return Desk; **Part 48** gives the embassy in Santo Domingo a duty to speak within 72 hours of a grave incident.
 
 ---
 
@@ -754,11 +775,15 @@ A **state seed bank**, distinct from the SPS import-testing standard (that's a p
 
 Self-sufficiency and land reform are not separate projects. A farmer won't invest in irrigation, soil quality, or multi-year crops on land they don't have a secure claim to — Part 20's national cadastre isn't a nice-to-have alongside this agricultural strategy, it's a load-bearing precondition for it.
 
+### 28.5 Added by the November 2026 revision
+
+**Part 51** turns these targets into a farm program built on natural and organic production (floor price, state purchasing, cheap certification, inputs, credit, storage, processing). **Part 50** sets the food standard that creates the demand.
+
 ---
 
 ## PART 29 — DOMINICAN REPUBLIC RELATIONS: BORDER, COMMERCE, AND RESPONSE
 
-This is a live situation, not a hypothetical: well over 600,000 people have been deported from the DR to Haiti since late 2024 by the Dominican authorities' own counts (about 380,000 in 2025 and more than 226,500 from January to July 2026), including documented cases of pregnant women, nursing mothers, and unaccompanied minors deported despite the DR's own law nominally protecting those groups. The design below has to hold two things at once: real border and commercial sovereignty, and a response mechanism disciplined enough that it can't be turned into a personal or corrupt tool later.
+This is a live situation, not a hypothetical: well over 600,000 people have been deported from the DR to Haiti since late 2024 by the Dominican authorities' own counts (about 380,000 in 2025 and more than 226,500 from January to July 2026), including documented cases of pregnant women, nursing mothers, and unaccompanied minors deported despite the DR's own law nominally protecting those groups. Updated count: 670,500 repatriations from October 2024 to June 2026 by the Dominican migration authority's figures (Part 48.1). **Part 48** adds the duty of Haitian officials to speak; **Part 49** strengthens the border on land, sea and air. The design below has to hold two things at once: real border and commercial sovereignty, and a response mechanism disciplined enough that it can't be turned into a personal or corrupt tool later.
 
 ### 29.1 Full border control — the operational detail
 
@@ -952,7 +977,7 @@ Part 26 already built the recruitment, vetting, and phased-deployment pipeline. 
 
 ### 33.4 Private security regulation
 
-Currently a large, under-regulated sector in Haiti. **A licensing and oversight regime**, administered by the Ministry of Justice & Public Security: mandatory registration, the same NASA-adjacent background vetting standard used for public officers, a firearms registry cross-checked against the biometric lockup system's logic (Part 1), and private security firms barred from operating in any capacity that resembles independent domestic policing — the same boundary drawn around the military in 33.2 applies here for the same reason.
+Currently a large, under-regulated sector in Haiti. **A licensing and oversight regime**, administered by the Ministry of Justice & Public Security: mandatory registration, the same NASA-adjacent background vetting standard used for public officers, a firearms registry cross-checked against the biometric lockup system's logic (Part 1), and private security firms barred from operating in any capacity that resembles independent domestic policing — the same boundary drawn around the military in 33.2 applies here for the same reason. **Part 53.4** adds: company weapons stay in a licensed armory or at the guarded post and never go home with a guard.
 
 ### 33.5 Border protection — consolidated reference
 
@@ -1103,6 +1128,7 @@ Teachers (Part 5.4's National Teaching Corps), pediatric health workers (Part 5.
 - **Certificate issued at the point of delivery**, by the attending hospital, clinic, or midwife, logged directly into the civil registry administered through the NASA-vetted registrar corps.
 - **A 1–3 month parental declaration window** at the commune-level Sovereign House, formally linking the birth certificate to citizenship (Part 22) — with a **penalty-free extension for families facing genuine access barriers** (remote communes, disrupted travel), so the deadline itself never becomes the mechanism that creates an undocumented child.
 - This closes, at the source, the exact documentation gap already identified in Part 29.4 — Haitian citizens deported from the DR who lack formal ID despite being citizens. Going forward, that gap stops being created in the first place.
+- **Part 54** makes the civil registry part of one permanent Identity Authority: the unique national number is given here, at birth, for life.
 
 ### 36.2 The naming standard — narrow, and about the child, not about origin
 
@@ -1177,6 +1203,7 @@ This Part is based on the English text of the 1987 Constitution as amended throu
 ### 38.1 Where things stand (October 2026)
 
 - The 1987 Constitution is in force. The Council of Ministers abandoned the project to replace it on **9 October 2025**, after more than a year of consultations criticized for cost, doubtful legality and distraction from security and elections. The official line: elections will be held "under the 1987 Constitution, despite all the problems we know it contains." One secondary source says a new attempt was relaunched in February 2026; I could not confirm details, so treat that as unverified.
+- **Update, November 2026:** the 13 December 2026 first round was postponed. The electoral council's new calendar (28 October 2026) gives 18 July 2027 for the first round and 4 October 2027 for the second, reportedly with a referendum on constitutional changes on the first-round day. If that is confirmed, the Art. 284-3 problem in 38.2 applies to it directly.
 - The Transitional Presidential Council's mandate ended on 7 February 2026. Prime Minister Alix Didier Fils-Aimé is the sole executive under a political pact among parties and civil-society groups. The first-round election is scheduled for 13 December 2026 (a runoff on 21 February 2027, a government on 12 March 2027); dates have slipped repeatedly.
 
 ### 38.2 The legal problem this document must face honestly
@@ -1223,6 +1250,7 @@ What follows for this design, on my reading (a Haitian constitutional lawyer mus
 | **Art. 52-3, 268** — compulsory civic service for both sexes; military service at 18 | **Adapt** | Civic service is mostly a **skills and public-works service** (Parts 42, 44), not combat conscription |
 | **Arts. 263–263-2** — two corps only (army and police); no other armed corps; oath | **Keep** | Pairs with the ban on private armed groups |
 | **Art. 266** — the army defends the territory, **surveils the land, maritime and aerial frontiers**, helps the police on request, helps in disasters | **Keep** | Already supports "the army at the border line" (Part 44) |
+| **Art. 268-1, 268-2** — right to armed self-defense within the home; carrying outside needs the Police Chief's authorization; owners declare firearms | **Change (strict route)** | Part 53: the strictest regime now; replaced by a state duty of protection when the Constitution is changed |
 | **Art. 268-3** — the army has a monopoly on war weapons and munitions | **Keep** | |
 | **Arts. 269–274** — the police is an armed body under the Ministry of Justice; commander appointed for 3 years; academy; specialized sections | **Keep** | Added: payroll integrity and no foreign command (Part 44) |
 | **Arts. 282–284-4** — amendment rules | **Respect the text** | See 38.2–38.3 |
@@ -1708,7 +1736,7 @@ This keeps the entrenched clause intact: **no independent domestic policing by t
 3. **No single foreign supplier or trainer.** No country trains, equips or finances more than about a third of any cohort or equipment class, so no single government holds the spare-parts, ammunition or training supply line. Contracts are on the ledger; ammunition and spare-parts stock is held in Haiti.
 4. **Haiti pays its own force.** Salaries come from the national budget. Donor money may fund equipment and training, but **salaries and promotions are never paid or decided by a foreign party**, because whoever pays decides.
 5. **Selection for foreign courses is by blind merit and rotation,** not by a foreign embassy's preference. Trainees disclose all per-diems, scholarships and gifts. A foreign government may not pay a Haitian officer personally.
-6. **One channel for foreign intelligence,** run by the DSI under the Oversight Commission (Part 25.2), logged and minuted. No foreign service has direct access to Haitian databases, the biometric registry or the ledger.
+6. **One channel for foreign intelligence,** logged and minuted. **Revised by Part 56.3:** the channel is run by the counter-intelligence service under its own Oversight Commission, not by the DSI, so that anti-corruption and intelligence are separate bodies. No foreign service has direct access to Haitian databases, the biometric registry or the ledger.
 7. **Contractors on a short leash.** A private military or security company may be used only in a declared emergency, by public contract on the ledger, under Haitian command and Haitian law, with a time limit, no immunity, and a Haitian officer present at any armed operation. Their abuses are tried in Haitian courts.
 8. **Leverage disclosure and the role rule.** Commanders, the heads of intelligence, customs and the police, and judges of the Constitutional Court hold **no foreign citizenship or residence** while in office; they and their families disclose all foreign assets and accounts (Part 38.5). A visa is a leash; this removes the leash from the posts where it would do most harm.
 9. **No foreign base** or permanent foreign garrison without a two-thirds Assembly vote *and* a referendum, and no secret annex to any agreement.
@@ -1729,6 +1757,7 @@ This Part extends Part 29 and Part 30. It keeps the Tier 1–3 response ladder o
 ### 45.1 The numbers that define the relationship
 
 - **Dominican exports to Haiti, January–May 2026: US$563.1 million (up 24%).** Haitian exports to the Dominican Republic over the same period: **US$0.35 million (down 91.5%).** Source: Dominican customs data as reported in the Dominican press. At that pace Dominican sales to Haiti exceed US$1.3 billion a year (my extrapolation). The ratio is roughly 1,600 to 1.
+- **Full year 2025: US$1,202.9 million, 8.2% of all Dominican exports, up 34.3%. Haiti was the Dominican Republic's third export market, after the United States and India** (Dominican figures reported 30 March 2026).
 - Earlier: US$775.8 million in January–August 2025, while the official land border was closed to everything except a corridor for essentials, mainly food.
 - What moves: Dominican **free-zone** exports to Haiti are mostly textiles and plastics; **national-regime** exports include steel bars, cement and wheat flour. Haitian exports to the DR are mainly rags, rope and cord, shirts, ethyl alcohol, and pesticides.
 - **Deportations:** more than 600,000 people returned from the DR since late 2024 by Dominican counts (Part 29).
@@ -1766,6 +1795,8 @@ Strictness is a property of customs *integrity*, not of tariff height. The IMF's
 5. **Build the Haitian side at the same time:** cheap certification, extension services, seeds and organic inputs, cold chain and market access (Part 28). Without this, a standard simply moves money to importers.
 6. **Reciprocity ("mirror access").** For every product category the DR is allowed to sell under these standards, Haiti seeks the same access for the same Haitian category. If a category of Haitian goods that meets the standard is blocked in the DR, Haiti asks the DR's government, the CARICOM–DR trade framework and the WTO to resolve it, and the Executive Council may restrict the corresponding Dominican category **only through the Tier 1–3 ladder** (Part 29.3), with the beneficiary of the measure disclosed (45.5). Haiti's strongest opening position: *we apply the same standards to everyone, and we want the same access we give.*
 7. **Legal homework before launch:** a published legal opinion on WTO and CARICOM–DR compatibility for each measure. Safeguard measures against import surges, anti-dumping and countervailing procedures, and standards regulation are the lawful tools; unilateral discriminatory tariffs are the last resort and carry the most risk.
+
+**Completed by Part 50** (the Haiti Food Standard: safety and labels, composition rules for processed food, natural and organic by category) and **Part 51** (the farm program).
 
 ### 45.4 "Never disrespect a Haitian": the cost-of-disrespect doctrine
 
@@ -1919,6 +1950,8 @@ The eleven open decisions logged earlier remain open: the cost model; the Assemb
 19. How Haiti's consent interacts with the Gang Suppression Force's UN mandate.
 20. The size of the Defense Fund and Victim Justice Fund, and where the money comes from.
 
+**Added by the November 2026 revision:** decisions 21–32 are listed in Part 60.5.
+
 ---
 
 ## PART 47 — PUBLIC VOICE: HOW ANYONE CAN COMMENT, VOTE AND CHANGE THIS DOCUMENT
@@ -1971,8 +2004,688 @@ Giving a political opinion under a real name can be dangerous in a country where
 
 ---
 
+## PART 48 — THE DUTY TO SPEAK: HAITIAN OFFICIALS, DEPORTATIONS AND THE RIGHTS OF HAITIANS IN THE DOMINICAN REPUBLIC
+
+This Part adds a duty to Parts 29 and 45. Those Parts build the evidence file and the ladder of costs. This Part makes sure the Haitian state **says out loud** what the file shows, every time, in a steady and lawful voice.
+
+### 48.1 The record so far
+
+- Dominican migration authorities count **670,500 repatriations between October 2024 and June 2026**, about 32,000 a month, and 196,321 in the first half of 2026 (Dirección General de Migración, reported in the Dominican press on 2 July 2026).
+- Haitian officials have spoken, but rarely and unevenly. The embassy in Santo Domingo complained in October 2021 that fundamental rights and due process were not respected. The Foreign Minister condemned "dehumanizing acts" on 7 October 2024. The Dominican ambassador was called in to the foreign ministry in April 2025. In May 2025 the government accused the Dominican Republic of xenophobic acts against pregnant and nursing women.
+- Between those dates there were long silences. The deportations did not stop, and a statement was never followed by a published file, a legal filing or a measurable request.
+
+**The problem is not that Haiti never speaks. The problem is that it speaks without a rule, without evidence attached, and without follow-up.**
+
+### 48.2 The three-sentence doctrine
+
+Every Haitian official who speaks on this subject says the same three things, in this order:
+
+1. **The Dominican Republic has the right to apply its immigration law.** Haiti does not ask any country to stop enforcing its own rules.
+2. **No country has the right to abuse a person while applying its law.** Due process, family unity, medical care, and protection of pregnant women, nursing mothers, children and the elderly are owed to every human being. Skin color is not a legal status.
+3. **Haiti documents every case and answers every abuse, lawfully.** The answer follows the ladder of Parts 29.3 and 45.4.
+
+This doctrine is firm and it cannot be called anti-Dominican, because its first sentence accepts Dominican sovereignty. It keeps the argument on the abuse, where Haiti is strong.
+
+### 48.3 The duty, written as a rule
+
+| Event | Who must act | Deadline | What is published |
+|---|---|---|---|
+| A documented grave incident (a death, a beating, a raid on a hospital or school, deportation of a pregnant woman, a nursing mother or an unaccompanied child) | The ambassador in Santo Domingo and the Foreign Minister | **72 hours** | A public statement with the Case File number (Part 45.4), and a diplomatic note |
+| Every month | The Rights Defense Service (Part 45.4) | By the 10th | A **Monthly Deportation Report**: numbers received at each Gate, protected persons among them, cases opened, answers received from Dominican authorities |
+| Every three months | The Foreign Minister, in person | Fixed dates | A public briefing to the Assembly (or Parliament), broadcast on radio in Kreyòl |
+| Every session of the OAS, the UN Human Rights Council and CARICOM heads of government | The head of the Haitian delegation | Each session | The item is raised and the report is filed in the record |
+
+**The silence rule.** If the 72-hour statement is not made, the minister posts the reason on the ledger within the next 24 hours. A third unexplained silence in one year sends the minister before the Assembly to answer. Silence stays possible when it protects a victim or a negotiation, but it must be a decision with a name on it, not a habit.
+
+**One voice.** A named **Spokesperson for Haitians Abroad** (inside the Foreign Ministry, a career diplomat, not a political appointee) speaks daily. The embassy and the consulates in the Dominican Republic give that office its facts.
+
+### 48.4 Haiti's own homework
+
+A state that demands respect for its citizens must first give them papers. Many Haitians in the Dominican Republic are in an irregular situation partly because they hold no Haitian document at all.
+
+- **Mobile document units** of the Identity Authority (Part 54) work inside the Dominican Republic all year. In 2025 a special mission issued about 25,000 passports there; this becomes permanent work with a published monthly count.
+- **Consular presence at detention centers** every day they operate, with a rapid-response lawyer (Part 45.4).
+- **Reception at the Gates** (Part 29.4): water, food, medical triage, a phone call, transport money, and registration, within the first hours.
+- **A standing offer to the Dominican government:** a joint protocol on returns (hours of handover, lists sent in advance, no night returns, no separation of children, medical screening). Haiti publishes the offer, so a refusal is also on the record.
+
+### 48.5 Guardrails
+
+- **Only what can be proved.** A statement cites a Case File. No rumor, no number without a source. Credibility is the asset (Part 45.4).
+- **No hate.** The doctrine names acts and officials, never a people. Haitian officials who insult Dominicans as a nation are corrected publicly. Dominican churches, lawyers, journalists and businesses who defend Haitians are allies.
+- **No private gain.** Speaking loudly must not be a way to launch a trade measure that enriches someone (Part 45.5).
+
+### 48.6 Honest limits
+
+Words do not stop a truck. Haiti's leverage is small, and the Dominican government may ignore every statement. The purpose is a steady public record that courts, allies, the diaspora and Dominican society can use, and a state that its own citizens can see standing behind them.
+
+---
+
+## PART 49 — A STRONG BORDER: THE LINE, THE COAST, THE SKY AND THE PEOPLE WHO LIVE THERE
+
+This Part builds on Parts 29.1, 44.3 and 45.2. Those Parts decided **who** does what: the army holds the Line, civilians run the Gates. This Part says **how strong** the border must be and what a strong border is made of.
+
+### 49.1 The border is four borders
+
+1. **The land Line** with the Dominican Republic, about 380 km.
+2. **The four Gates** (Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres).
+3. **The coast**, about 1,700 km, with many small landing places.
+4. **The ports and airports.** UN reporting says most illegal weapons reach Haiti by sea and air from the United States, hidden in containers and cargo. **A wall of soldiers on the land Line does nothing about a container in a port.** Ports and airports are Gates and get the same rules as Part 45.2.
+
+### 49.2 The Line
+
+- **A continuous presence.** Border Command posts are placed so that each can see or reach the next by patrol and radio. The number of posts comes from a ground survey, published, not from a political promise.
+- **A patrol road** along the Line where the terrain allows, and marked, maintained boundary pillars. A border nobody can drive is a border nobody controls.
+- **Eyes that do not sleep:** observation towers, cameras, drones and ground sensors on the known crossing paths and river fords, feeding one Border Operations Room that the army and the Gates both see.
+- **The rivers.** Shared water (the Massacre, the Artibonite, the Pedernales) is managed through a joint technical commission with published data, so that water never again becomes a reason to close the border.
+- **Rules of engagement** from Part 44.3 apply: published rules, body cameras, handover to civilians within 24 hours, no fees collected by any unit, independent review of every death.
+
+### 49.3 The coast and the sky
+
+- **The Coast Guard** (today a police unit) grows, with bases in the north, the south, the Gulf of Gonâve and the Grand'Anse, coastal radar on the main approaches, and the same Haitian-command and Haitian-pay rules as Part 44.5.
+- **Every wharf is registered.** Landing cargo at an unregistered place is a crime; registered small wharves get a simple logbook and random visits.
+- **Airstrips.** Every airstrip is registered and watched; unregistered strips are closed.
+- **Ports and airports:** 100% of containers risk-scored, scanners with images kept for audit, random inspection assignment, and the arms-interdiction unit of Part 10.C present at each one.
+
+### 49.4 The border people
+
+The best guard of a frontier is a population that lives well on it.
+
+- **A Border Development Zone:** the border communes get priority for roads, clinics, schools, water, electricity and phone coverage. An empty, poor frontier belongs to smugglers.
+- **Haitian market halls** on the Haitian side of each Gate, with cold rooms, scales, toilets, lighting and security. Today the largest binational market, at Dajabón, is held on the Dominican side; Haitian traders deserve a safe place on their own soil.
+- **The micro-trade card** of Part 45.2 keeps the *madan sara* legal.
+- **A border resident card** for people who cross daily for work, school or family, through the Gates, with a fast lane.
+- **Community observers** drawn by lot report abuse by anyone, including Haitian soldiers and customs officers.
+
+### 49.5 People crossing
+
+Entering Haiti outside a Gate is an offense handled by civilians, with a judge within 48 hours. Haiti's own rules for foreigners stay those of Part 29.5: uniform, lawful, never a mirror of abuse. A strong border is strict about goods, weapons and papers. It is never cruel to people.
+
+### 49.6 Checks and honest limits
+
+- **Who checks the Border Command?** The Defense Nominating Council and civilian minister (Part 33.2), the 24-hour handover log on the ledger, the Office of Citizen Protection with unannounced visits, and citizen observers. A different body, chosen a different way.
+- **Cost.** Posts, roads, radar, boats and scanners are expensive. No cost model exists yet (Part 59).
+- **Sequence.** The army is still small (Part 44.1). The Line is built section by section, starting where arms and contraband cross most.
+- **Corruption moves.** When the Gates become honest, smugglers go to the Line and the coast. That is why all four borders are built together.
+
+---
+
+## PART 50 — THE HAITI FOOD STANDARD (*ESTANDA MANJE AYITI*): NATURAL, SAFE AND CLEAN FOR EVERY PLATE
+
+This Part completes Part 45.3. It answers a direct request.
+
+### 50.1 The request
+
+Raise Haiti's food rules very high: organic and natural food, the highest norms, no processed food such as hot dogs. Do it as a health standard, without naming a ban, so that most Dominican food no longer passes, and the Dominican Republic learns to respect its third-largest customer.
+
+### 50.2 What is true in the request, and what must be changed
+
+**What is true.**
+
+- Haiti is a very large customer. In 2025 it was the Dominican Republic's **third export market** after the United States and India: **US$1,202.9 million, 8.2% of all Dominican exports, up 34.3%** (Dominican figures reported 30 March 2026). In some earlier years it ranked second.
+- A country may set its own level of health protection, even above international standards. World Trade Organization rules allow it when there is a scientific reason (SPS Agreement, Art. 3.3).
+- There is a real health case. Cheap, salty, fatty, heavily processed food is linked to high blood pressure, diabetes and heart disease, which are among the leading causes of death in Haiti. The World Health Organization's cancer agency classifies processed meat as a cause of cancer in humans, and the WHO asks every country to remove industrial trans fats.
+
+**What must be changed.**
+
+- **A health rule that is really a punishment is illegal, and it would fail.** The same WTO rules require a standard to rest on science, to treat all countries and local producers alike, and not to be "a disguised restriction on international trade" (Arts. 2.2, 2.3, 5.5). If Haitian officials say in public that the standard exists to punish the Dominican Republic, they hand the other side its legal case.
+- **So the two tools stay separate.** The **food standard** is about health and applies to everyone, including Haitian factories. The **answer to abuse** is the open, documented ladder of Parts 29.3 and 45.4. Haiti does not hide one inside the other.
+- **A real standard still changes the trade.** The country that sells the most processed food to Haiti is the country most affected by an honest rule on processed food. Haiti does not need a pretext. It needs a true standard, applied to all, and the patience to enforce it.
+- **Hungry people come first.** Close to six million Haitians face acute food insecurity. About 80% of the rice Haiti eats is imported. A rule that empties the market stalls before Haitian farms can fill them would hurt the poor first and would be reversed within weeks. Every step below is tied to a measured supply test.
+
+### 50.3 The standard: three layers, every origin, Haitian producers included
+
+**Layer 1 — Safety and truth (starts first, for all food).**
+
+- Limits on pesticide residues, germs, heavy metals and toxins, checked by sampling at the Gates and in markets.
+- A label in Kreyòl and French: ingredients, origin, dates, lot code.
+- **Black warning labels** on the front of the pack for high salt, high sugar, high saturated fat (the model used in Chile and Mexico).
+- No expired, re-dated or re-bagged food. Lot traceability from factory to shelf (Part 45.2).
+
+**Layer 2 — Composition (12 to 24 months after the law).**
+
+- **No industrial trans fat** in any food sold in Haiti.
+- **Caps on salt, added sugar, nitrites and certain dyes and additives**, set by the Food Standards Board from published science.
+- **Processed meats** (hot dogs, salami, sausages, canned meat) must meet a composition rule: a minimum share of real meat, no mechanically separated meat sold as meat, a nitrite cap, a salt cap. A product that meets the rule enters. One that does not is refused. **Nothing is banned by name or by country.**
+- **Schools, hospitals, prisons and every state kitchen** buy and serve no ultra-processed products at all. This is the state deciding what the state buys.
+- No advertising of warning-label products to children.
+
+**Layer 3 — Natural and organic by category (when the supply test is passed).**
+
+- For each fresh category (eggs, poultry, vegetables, fruit, plantain, roots, beans, then others), the Board publishes a **sufficiency index**: how much Haiti produces and how much it eats. This is the test that Article 251 of the 1987 Constitution needs.
+- When Haitian supply reaches a published threshold, the category requires **certified natural or organic** production for every seller, local or foreign.
+- If a storm or a drought breaks supply, a **public, time-limited shortage window** opens by the index, never by a minister's signature (Part 45.3).
+
+### 50.4 Who decides, and how it stays honest
+
+- A **Food Standards Board**: scientists and doctors elected by their peers, farmers and market women drawn by lot, a consumer seat, and no importer or food manufacturer. Members are covered persons (Part 39).
+- **Written science file for every limit**, published before it takes effect, with a comment period. This is also Haiti's legal defense.
+- **A national food laboratory** and departmental labs. A standard without a lab is a bribe menu.
+- **Exemptions are the danger.** Nobody sells exemptions, because nobody can grant one: only the published index opens a shortage window (Part 45.5 guardrails apply, with the list of who gains).
+- **Notification** to trading partners and the WTO before each layer starts, and a published legal opinion (Part 45.3, point 7).
+
+### 50.5 What this does to the relationship with the Dominican Republic
+
+- Dominican producers who meet the standard keep selling. Those who do not, adapt or lose the market. That is a rule of the market, said without insult.
+- Haiti asks for **mirror access**: the same Haitian products, meeting the same standard, enter the Dominican Republic (Part 45.3, point 6).
+- **Respect comes from being a customer who has a choice.** Each category Haiti grows itself (Part 51) is a category where no neighbor can use hunger as leverage.
+
+### 50.6 Honest limits
+
+- Processed meat is cheap protein for poor families. The composition rule will raise its price. Eggs, poultry, fish and beans from Part 51 must arrive at the same time, or the rule hurts the people it is meant to protect.
+- Smuggling grows when rules tighten. The Line and customs integrity (Parts 45.2, 49) carry this Part.
+- Labs, inspectors and extension agents cost money and take years to train.
+- A trading partner may still file a complaint. The science file and equal treatment are the defense. There is no guarantee.
+- The health facts in 50.2 come from general knowledge of WHO positions and were not re-checked against the source documents in this revision (Part 60.4).
+
+---
+
+## PART 51 — HAITIAN FARMING FIRST: NATURAL AND ORGANIC PRODUCTION AS A NATIONAL INDUSTRY
+
+Part 28 set the staple basket and the phases. Part 50 raises the standard for what may be sold. This Part pays the Haitian farmer to meet it.
+
+### 51.1 The idea
+
+Most Haitian smallholders use very little chemical fertilizer or pesticide, because they cannot afford them. What looks like poverty is also a starting advantage: **much of Haitian farming is close to natural already.** The work is to raise yields without losing that, to certify it cheaply, and to make sure the farmer has a buyer.
+
+### 51.2 The eight incentives
+
+1. **A guaranteed buyer.** The State Export Board (Part 5.1) buys the staple basket at a published floor price, at the commune depot, paid the same day through the national payment rail (Part 32).
+2. **The state eats Haitian.** School meals, hospitals, prisons, the police and the army buy from Haitian farmers and cooperatives first, with a legal minimum share that rises each year. (Brazil's school-meal law reserves at least 30% of purchases for family farms; that is the model.)
+3. **Cheap certification.** A **participatory guarantee system**: groups of farmers certify each other under public rules with spot checks by the state lab. No expensive foreign certifier for the local market. Export certification is paid by the state the first time.
+4. **Inputs that fit.** Compost and bio-fertilizer plants in each département, improved local seed from the state seed bank (Part 28.3), tools, small irrigation, and animal health agents.
+5. **Credit without land papers.** Crop loans through cooperatives and the payment rail, with the purchase contract as the guarantee, until the cadastre (Part 20) reaches the farm.
+6. **Storage and roads.** Solar cold rooms and drying floors at commune level (Part 5.2), and farm-to-market roads ranked by tons moved.
+7. **Processing in Haiti.** Small plants for flour (cassava, breadfruit, maize), juice, dried fruit, peanut butter, eggs and poultry, with priority at the Technology Hub (Part 43) and in procurement (Part 24.3). **This is the honest replacement for imported processed food: Haitian food, processed simply, to the Haiti Food Standard.**
+8. **Export premium.** Mango, cacao, coffee, vetiver, and organic produce for the diaspora market, sold under one protected label, *Pwodui Natirèl Ayiti*.
+
+### 51.3 Targets (to be costed)
+
+- A published sufficiency index for each category of Part 50.3, updated every quarter.
+- First categories to reach the threshold: **eggs, poultry, plantain, roots, beans, vegetables.** These grow fast, employ many people and replace imports directly.
+- Rice follows the Artibonite irrigation program (Part 28.2). It is the hardest and the slowest.
+
+### 51.4 Trees, soil and water
+
+Farming on bare hills washes away. Fruit and timber trees on slopes, paid for by a yearly payment per living tree, cooking-fuel alternatives to charcoal, and watershed committees in each commune are part of the farm program, under the constitutional duty to restore forest cover (1987 Art. 253-1).
+
+### 51.5 Capture test and honest limits
+
+- **The floor price can be captured** by large traders posing as farmers. Purchases are per registered farmer with a ceiling, posted on the ledger by commune (Part 8.1).
+- **Cooperatives can be captured** by a local boss. Boards rotate; accounts are public.
+- **"Organic" does not feed a country by slogan.** Yields must rise. Where a safe, modern input is needed to stop hunger, "natural and safe" comes before "certified organic."
+- **Storms and drought** will break supply some years. The strategic reserve (Part 10.A) and the shortage window (Part 50.3) exist for that.
+
+---
+
+## PART 52 — *RETOUNEN LAKAY*: INVITING HAITIANS TO COME HOME
+
+### 52.1 The principle
+
+Every Haitian abroad has a standing invitation to return, to visit, to invest, or to serve from where they are. The invitation is honest: **nobody is told to come back to danger.** Return follows security, commune by commune (Part 18.4). The state's task is to remove every obstacle that is not danger.
+
+### 52.2 Four ways to come home
+
+| Way | For whom | What the state offers |
+|---|---|---|
+| **Full return** | Families and professionals who move back | The Return Package (52.3) |
+| **Return in stages** | Doctors, teachers, engineers, builders | Paid missions of one to twelve months in a hospital, school, ministry or commune, with housing and a safe posting |
+| **Invest from abroad** | Savers and business owners | Diaspora bonds, co-investment through the Hub (Part 43), secure land title (Part 20), a business registered in one day |
+| **Serve from abroad** | Anyone with a skill | A **Diaspora Skills Register**: remote teaching, telemedicine, mentoring, translation, and review of this document (Part 47) |
+
+### 52.3 The Return Package
+
+- **One desk.** A Return Desk in every Tier 1 embassy and consulate (Part 27) and at each airport and Gate. One file, one officer, one list of steps.
+- **Papers first.** Identity card, passport and civil records issued or renewed by the Identity Authority (Part 54) before departure.
+- **Dual nationality protected** (Part 22.2). Children born abroad are registered as Haitian at the consulate.
+- **Diplomas and licenses recognized** within a fixed time by a published equivalence list. A nurse trained in Montreal or Santiago does not wait three years to work.
+- **Household goods, tools and one work vehicle enter duty-free**, once, with an anti-abuse rule.
+- **Housing and land.** Priority access to the cooperative housing program (Part 34) and to title regularization for family land (Part 20).
+- **Pensions follow the person.** Social-security agreements with the main host countries so that years worked abroad count.
+- **Schooling.** Placement for children, with Kreyòl and French support.
+- **Start-up support.** Small grants and loans for returning farmers and trades through Parts 43 and 51.
+
+### 52.4 Those who did not choose to return
+
+More than 670,000 people have been sent back from the Dominican Republic since October 2024 (Part 48.1), and others arrive from the United States, the Bahamas and the Turks and Caicos. Many have nothing and some have never lived in Haiti. Reception (Part 29.4) continues into a **12-month reintegration path**: papers, health, a place to stay, schooling for children, and a job or farm placement through Parts 42 and 51. A deportee is a citizen coming home, not a problem to hide.
+
+### 52.5 Guardrails and honest limits
+
+- **Voluntary.** No pressure, no penalty for staying abroad, no loss of rights.
+- **No false promise.** The Return Desk publishes the security map and what is available in each commune.
+- **No two classes.** Benefits are start-up help with an end date, not a permanent privilege over Haitians who never left.
+- **Capture.** Duty-free entry is an old smuggling route. Each use is logged per person on the ledger and checked.
+- **The limit:** people return when there is safety, work, schools and electricity. This Part removes paperwork. The rest of the document must deliver the reasons.
+
+---
+
+## PART 53 — A DISARMED SOCIETY: NO GUNS IN PRIVATE HANDS, NO SERVICE WEAPON AT HOME
+
+### 53.1 The rule requested
+
+1. No private person in Haiti owns or carries a firearm.
+2. No soldier, police officer, customs officer, prison officer or agent of any service keeps a firearm at home. Weapons are drawn at the start of duty and returned at the end.
+
+### 53.2 The facts
+
+- The UN human rights office estimates **270,000 to 500,000 illegal firearms** in circulation in Haiti, most of them held by gangs and vigilante groups (reported October 2025). Haiti makes no firearms. They come from abroad (Parts 10.C, 49.1).
+- **The 1987 Constitution protects a gun at home.** Article 268-1 gives every citizen "the right to armed self-defense, within the bounds of his domicile," and says carrying outside the home needs express, reasoned authorization from the Chief of Police. Article 268-2 requires owners to declare their firearms to the police. Article 268-3 gives the army the monopoly on weapons of war.
+- The Penal Code (Arts. 272–274) recognizes self-defense against violent entry into a home. The Ministry of Justice reminded the public of this in March 2023.
+- Police weapons already follow an off-duty lockup rule in this document (Parts 5.6, 26.5). Part 33.4 puts private security firearms on a registry.
+
+### 53.3 What follows, said plainly
+
+- **Rule 2 can be done now**, by regulation and by law.
+- **Rule 1 needs a constitutional change.** Article 268-1 cannot be removed by an ordinary law. It follows the legal route of Part 38.3. Until then, the strictest regime that the Constitution allows applies (53.4, Stage A).
+- **Order matters.** If the state takes guns from law-abiding families while armed groups keep hundreds of thousands, it has disarmed the victims and nobody else. **Protection comes first, collection second, the full ban third.** Each stage starts in a commune only when the published police coverage map (Part 26.3) shows that the state is truly present there.
+
+### 53.4 The three stages
+
+**Stage A — Now, inside the 1987 Constitution.**
+
+- No new permits to carry outside the home. Existing carry permits expire and are reviewed one by one.
+- **Every firearm declared** (Art. 268-2) within a fixed window, with a ballistic sample taken. An undeclared firearm after the window is a serious crime.
+- One firearm per home at most, kept locked, never an assault-type weapon (already reserved to the army by Art. 268-3).
+- **Buy-back and amnesty windows** with cash, tools or farm inputs, run with churches, schools and community leaders. Collected weapons are destroyed in public and counted on the ledger.
+- Sale of firearms and ammunition to private persons stops.
+- **Private security companies:** weapons belong to the company, are stored in a licensed armory or at the guarded post, are signed out per shift, and never go home with a guard. Companies whose rifles reach gangs lose their license and their owners are prosecuted.
+
+**Stage B — As each commune is secured.**
+
+- The armed-group program of Part 41 disarms groups under judgment.
+- Voluntary surrender becomes the norm, and the home exception is narrowed by law as far as the Constitution allows.
+
+**Stage C — After the constitutional change.**
+
+- **No private firearm ownership.** Article 268-1 is replaced by a state duty: *the State owes every resident protection, and answers for failing to give it.*
+- A final surrender period with compensation, then the ban is complete.
+- Self-defense remains a legal defense for a person who is attacked. What ends is the private gun.
+
+### 53.5 The service-weapon rule (can start now)
+
+- **Biometric armories** in every station, post and barracks. A weapon leaves only against the officer's fingerprint and returns at the end of duty. Every movement is logged.
+- **Every weapon and every box of ammunition is counted** each month by an outside inspector. A missing weapon opens an inquiry the same day.
+- Applies to every rank, including commanders, and to bodyguards of officials (who are on duty when armed).
+- Japan is a working example: officers there generally leave their firearms at the station when their shift ends.
+
+### 53.6 The risk in the service rule, and the answer
+
+Armed groups hunt police officers at home and on the road. An unarmed officer off duty is a target. The rule stays, and the state answers the risk in other ways:
+
+- **Protected housing** for officers and their families near stations in high-risk areas, and state transport to and from duty.
+- Officers' home addresses are protected data. A leak is a crime.
+- A rapid-response line for any officer or family under threat, and relocation when needed.
+- **Open decision (Part 60.5):** whether a judge may grant a named officer under a documented death threat a short, logged exception. This document's answer today is no, with the protections above. The question is recorded because officers' lives depend on getting it right.
+
+### 53.7 Capture test and honest limits
+
+- **Who checks the armories?** The Inspector-General and the DSI Oversight Commission (Part 26.5), plus outside counts. Seizure and destruction figures are on the ledger so that seized weapons do not return to the street (Part 10.C).
+- **A state monopoly on arms is only as safe as the state.** This Part depends on Parts 33.2 and 44: an army that cannot police, a police under courts, no third armed body. Haiti's own history under the Duvaliers is the warning.
+- **A law does not collect a gun.** As long as weapons flow in through ports (Part 49.3), any ban empties slowly. The supply side decides the outcome.
+- Farmers' tools (machetes, hoes) are tools and are not covered.
+
+---
+
+## PART 54 — THE NATIONAL IDENTITY AND PASSPORT AUTHORITY: ONE PERMANENT HOUSE FOR WHO IS HAITIAN
+
+### 54.1 Why a permanent institution
+
+Today identity is split. The National Identification Office (ONI) issues the national ID card and its unique number. The Directorate of Immigration and Emigration issues passports. The National Archives and local civil-status officers hold birth, marriage and death records. Each has had long delays, shortages of blank booklets and cards, middlemen who sell places in line, and cases of false documents. A Haitian without papers cannot vote, bank, travel, inherit land, or prove nationality when deported.
+
+### 54.2 The institution
+
+**Otorite Nasyonal Idantite ak Paspò (ONIP)**: one permanent, independent public authority, protected in the Constitution like the Central Bank (Part 25.2, fix 7).
+
+It brings under one roof:
+
+1. The **civil registry** (births, marriages, deaths), fed at birth by Part 36.
+2. The **unique national number**, given once, at birth registration, for life.
+3. The **national identity card.**
+4. The **passport** (production, issue, renewal).
+5. **Nationality records** (Part 22): certificates of nationality, naturalization files, registration of children born abroad.
+6. **Verification services**: a yes-or-no check that a document is real, for banks, employers, courts and foreign consulates, with the person's consent.
+
+### 54.3 Where the citizen meets it
+
+- **Every commune:** a counter at the Sovereign House (Part 3).
+- **Every embassy and consulate:** the same counter, the same system, the same price (Part 27.4).
+- **Mobile units** for remote sections, prisons, hospitals, displacement camps and Haitian communities abroad, starting with the Dominican Republic (Part 48.4).
+- **Fixed, published times and prices.** For example: identity card in 10 working days, passport in 15, emergency travel document in 48 hours. If the deadline is missed, the fee is returned. The real figures are set after a capacity study.
+- **First identity card free.** Fees are paid only through the national payment rail (Part 32), never in cash to a person.
+- **No middlemen.** Appointments are given by the system. Selling a place in line is a crime; staff rotate; every file shows which officer touched it.
+
+### 54.4 Independence and checks
+
+- **Director:** one fixed, non-renewable term, chosen by cross-selection (a nominating council of civil-registry professionals, citizens drawn by lot, and a judge; confirmed by two-thirds of the Assembly). Removed only like a judge (Part 2.4).
+- **No one may be refused a document for political reasons.** A refusal is written, reasoned, and appealable to the Administrative Court within days.
+- **The registry cannot be used to erase a person.** Removing or altering a record needs a court order. Every change leaves a trace.
+- **Privacy:** the Press and Digital Rights Commission (Part 6) audits the Authority. Biometric data are stored in Haiti, encrypted, and used only to prove identity. No bulk access for police, intelligence or any foreign service (Parts 44.5, 56). A single file may be opened by a judge's warrant.
+- **Backups:** the registry is copied to the commune nodes of the ledger (Part 8.2) in protected form, so an earthquake, a fire or an attack on one building cannot destroy the nation's records. Paper archives are scanned and preserved.
+- **Supply:** at least two suppliers for blank passports and cards, and a six-month stock held in Haiti, so a contract dispute never stops production again.
+
+### 54.5 Honest limits
+
+- Merging offices with their own staff, habits and budgets is slow and will be resisted.
+- A central identity system is powerful. In the wrong hands it is a tool of control. The checks in 54.4 are the reason this Part exists in this form.
+- People with no birth record at all need a careful, humane late-registration process with witnesses (Part 36), or the new system simply locks them out.
+
+---
+
+## PART 55 — THE STATE TECHNOLOGY CENTER: ONE DIGITAL HOUSE FOR EVERY MINISTRY AND EVERY EMBASSY
+
+### 55.1 The problem
+
+Each ministry and embassy builds its own website, buys its own hosting, uses private email accounts, and depends on whichever contractor it found. Sites go down, domains expire, citizens cannot tell a real government page from a false one, and state data sit on foreign servers nobody chose on purpose.
+
+### 55.2 The institution
+
+**Sant Nasyonal Teknoloji Leta (SNTL)**: a permanent technical agency that builds, hosts and protects the digital systems of the whole state.
+
+**What it runs:**
+
+- **One government domain** and one address pattern for every ministry, agency, commune, embassy and consulate.
+- **One web platform:** shared design, Kreyòl first then French, works on a cheap phone and a slow connection, readable by screen readers.
+- **Hosting:** a national data center and a second one in another département, plus an encrypted offline backup in a third Haitian location, all under Haitian keys (Part 43.5 rule 4).
+- **Official email and messaging** for every public servant. State business on private accounts ends.
+- **One login for citizens**, tied to the Identity Authority (Part 54), for every online service.
+- **A security operations room** working day and night: monitoring, patching, incident response, drills. It takes over the defensive duties of the Cyber-Defense Directorate; any offensive action stays under the rule of Part 25.2, fix 6.
+- **The embassy network:** secure links, the consular service platform, and equipment standards for every post abroad.
+- **Shared tools:** payments through the national rail (Part 32), forms, appointment booking, document verification, open data.
+- **The public ledger's infrastructure** (Part 8.3), which this center maintains but does not own.
+
+### 55.3 A representative from every ministry
+
+- **Each ministry, the judiciary, the Assembly, the Identity Authority and the Foreign Service place one senior liaison officer inside the Center**, full time, for a fixed rotation. The liaison knows the ministry's services, sets its priorities, and signs off on what is built for it.
+- Together the liaisons form the **Digital Council**, which meets weekly and publishes its decisions.
+- **The ministry owns its data and its content. The Center owns the pipes.** The Center's engineers cannot read a ministry's records; they keep the system running. Access to data is logged under the name of the person, with a reason.
+
+### 55.4 Rules that keep it safe and honest
+
+1. **Open standards and open-source by default**, so no vendor can hold the state hostage. The code of public services is published (Part 8.2).
+2. **No single supplier** for more than a set share of equipment or cloud services; contracts by open tender on the ledger (Part 24).
+3. **Staff by exam** (Part 17), paid enough to keep them, with a diaspora engineer corps serving in stages (Part 52).
+4. **Independent security audit every year**, by a team that the Center does not choose, with the summary published.
+5. **Privacy watchdog:** the Press and Digital Rights Commission (Part 6) can inspect at any time.
+6. **No kill switch.** The Center cannot shut down the internet, a news site or a citizen's account. Any such order needs the judicial and Assembly steps of Part 6.
+7. **Continuity plan:** each ministry can run its essential services for a set number of days if the Center is down.
+
+### 55.5 Capture test and honest limits
+
+- **A single center is a single target.** Two sites, offline backups, drills and the continuity plan reduce the risk. They do not remove it.
+- **Whoever runs the pipes is tempted to look inside.** The separation in 55.3, logs, the outside audit and the Commission are the checks: different bodies, chosen differently.
+- **Electricity and connectivity** decide whether any of this works in the communes. The Sovereign House counters and USSD access (Part 8.2) remain the route for most citizens.
+- Skilled engineers are few and are recruited abroad. Pay, purpose and the return program must hold them.
+
+---
+
+## PART 56 — COUNTER-INTELLIGENCE: PROTECTING THE STATE FROM SPIES WITHOUT SPYING ON THE PEOPLE
+
+### 56.1 Why Haiti needs it
+
+Foreign services, traffickers and armed groups watch Haitian officials, listen to their phones, place people inside ministries and the police, and learn about operations before they happen. A state that cannot keep a secret cannot protect a witness, plan an operation or negotiate a contract. This document so far gives one channel for foreign intelligence (Part 44.5, rule 6) and places it with the anti-corruption directorate. That mixes two jobs. This Part separates them.
+
+### 56.2 Why Haiti must be careful
+
+- Under the Duvaliers, the secret police and the Tonton Macoute turned "state security" into terror against citizens.
+- In November 2020 a presidential decree created a National Intelligence Agency (ANI) whose agents were armed and anonymous, could enter homes and seize documents, answered to the President alone, and could not be taken to court without the President's permission. The bar association, human-rights organizations and foreign partners condemned it.
+
+**The design below is built to be the opposite of that decree on every point.**
+
+### 56.3 The service
+
+**Sèvis Nasyonal Kont-Espyonaj (SNKE)**: a small, civilian, professional service.
+
+**What it does (a closed list):**
+
+1. **Counter-surveillance:** finds listening devices, trackers and hidden cameras in government buildings, vehicles, courts, embassies and officials' homes; secures official phones and meeting rooms.
+2. **Counter-espionage:** detects and exposes agents of foreign governments working secretly inside Haitian institutions.
+3. **Counter-infiltration:** detects links between public servants and armed groups or traffickers, and refers them to prosecutors.
+4. **Protective security:** standards for guarding documents, buildings and people; clearance checks for sensitive posts.
+5. **Threat analysis:** arms routes, gang financing, kidnapping networks, attacks on critical infrastructure, for the police, the army, customs and the Executive Council.
+6. **The single channel** for exchanges with foreign services, logged and minuted. This revises Part 44.5, rule 6: the channel moves from the DSI to this service, under the same oversight.
+
+**What it may never do:**
+
+- **No arrest, no detention, no interrogation rooms, no prisons.** It hands cases to the police and prosecutors.
+- **No weapons** except for trained protection officers on duty, under the armory rule of Part 53.5.
+- **No watching of political parties, journalists, lawyers, judges, unions, churches, student groups, human-rights groups or peaceful protest.** Political opinion is not a threat to the state.
+- **No interception, entry or search without a warrant** from a panel of the Administrative and Economic Court, for a named target, a stated reason and a fixed time.
+- **No bulk collection** and no bulk access to the identity registry, the ledger or telecom records (Parts 54.4, 55.3).
+- **No immunity.** Agents answer to ordinary courts. A citizen harmed by the service can sue without anyone's permission.
+- **No operations abroad** beyond protecting Haitian embassies.
+
+### 56.4 Who controls it
+
+| Question | Answer |
+|---|---|
+| Who directs it? | A Director with one fixed, non-renewable term, proposed by a nominating council (senior career officers, citizens drawn by lot, a judge) and confirmed by two-thirds of the Assembly. Not the choice of one person |
+| Who gives it tasks? | The Executive Council as a body, in writing. No single member, and no minister, may task it alone |
+| Who authorizes intrusive measures? | The court panel, case by case |
+| Who watches it? | An **Intelligence Oversight Commission**: citizens drawn by lot and cleared, a retired judge, a member chosen by the Assembly, a member chosen by the press and bar associations. It sees every warrant and every file, hears complaints, and reports publicly twice a year |
+| Who checks the money? | The Superior Court of Auditors, with cleared auditors. The total budget and staff number are public |
+| What happens to old files? | Data are deleted on a schedule. A person may ask the Commission to check whether they were watched unlawfully |
+| Who protects the whistleblower? | A protected channel straight to the Commission |
+
+### 56.5 Entrenched
+
+Three lines join the entrenched clauses (Part 19.1): **the service has no power of arrest or detention; it may not watch lawful political, press, religious or union activity; its agents have no immunity from the courts.**
+
+### 56.6 Honest limits
+
+- A secret service asks to be trusted. The answer here is warrants, a lot-drawn commission and public totals. Oversight bodies can also be captured (Part 46.3, attack 14).
+- Skilled technical staff and equipment are scarce and often come with foreign strings. Rule 3 of Part 44.5 (no single foreign supplier or trainer) applies.
+- A small service will miss things. That is the price of keeping it small and lawful.
+- Staff vetting is the weakest point: the first infiltration target is the service itself.
+
+---
+
+## PART 57 — FAMILY, TRADITION AND HAITIAN IDENTITY: KEEPING FAITH WITH THE ANCESTORS
+
+### 57.1 The principle
+
+Haiti was founded by people who refused to be property. Their inheritance is freedom, dignity, land for those who work it, solidarity (*konbit*), the extended family and its yard (*lakou*), faith, the Kreyòl language, and a refusal to be commanded from outside. **The state's job is to protect and strengthen these things, not to police private life.** A government that orders families how to live would betray the same ancestors. This Part keeps the limits set in Parts 14 and 36: no collective punishment, no forced testing, no test of how "Haitian" a name or a person is.
+
+### 57.2 Strengthening the family
+
+- **Every child registered and named at birth** (Part 36), with both parents recorded where known.
+- **Both parents answer for their children.** Child support is set by the family court and collected through the payment rail (Parts 5.5, 32).
+- **A family allowance** for young children, paid to the caregiver, tied to vaccination and school attendance. Amount to be costed (Part 59).
+- **Protection of every family form Haitians actually live in.** Marriage, and also *plasaj* (long-term unions without a ceremony), give partners and children clear rights to support, housing and inheritance. Children are equal whatever their parents' status; the 1987 Constitution (Art. 260) already tells the State to protect all families, whether or not they are formed by marriage.
+- **Maternity and paternity leave** in formal work, and maternity support for women in informal work through the health insurance (Part 31).
+- **Elders at home.** The universal pension (Part 23) and a caregiver allowance keep grandparents in the family, which is the Haitian way and also the cheapest and kindest.
+- **No child in servitude.** The *restavèk* practice ends: support goes to the poor family so that it can keep its child (Parts 35, 40; Dessalines Charter Art. 2).
+- **Housing and land** policies favor family ownership and the family yard (Parts 20, 34).
+- **Family before institutions** in every child-protection decision (Part 40.2).
+
+### 57.3 Language, history and schooling
+
+- **Kreyòl is the language of the first years of school**, of the administration and of the courts. French is taught well as a second official language, and English and Spanish as languages of the region. A child learns best in the language of the home.
+- **Haitian history at the center of the curriculum:** the Taíno people, slavery, the revolution, 1804, Dessalines, Toussaint, Christophe, Pétion, Catherine Flon, the 1825 ransom imposed by France, the occupation of 1915–1934, the dictatorship, and the long fight for democracy. The Dessalines Charter is the first civics lesson (Part 37.2).
+- **Civic service** (Part 38.4) includes work in a commune other than one's own, so young Haitians know their whole country.
+
+### 57.4 Culture and memory
+
+- A permanent **Enstiti Memwa ak Idantite Ayisyen**, bringing together under one independent board the work now spread across the heritage institute (ISPAN), the National Bureau of Ethnology, the National Archives' historical collections and the Haitian Creole Academy's partners. It protects sites (the Citadelle, Sans-Souci, Vertières, forts, *lakou*), archives, oral history, music (konpa, rara, twoubadou), crafts, cooking (*soup joumou* is on UNESCO's heritage list), and traditional medicine and farming knowledge.
+- **National days** kept with meaning: 1 January (Independence), 2 January (Ancestors), 18 May (Flag), 17 October (Dessalines), 18 November (Vertières).
+- **Return of heritage:** Haitian objects and archives held abroad are listed and requested.
+- **The diaspora's children** get Kreyòl and history classes through the embassies and online (Part 52).
+
+### 57.5 Faith
+
+Freedom of religion is complete. Catholic, Protestant, Vodou, Muslim and other communities are equal before the law. The state funds none and persecutes none. Faith communities are partners in schools, clinics, weapon buy-backs and reception of returnees, under the same child-protection and financial rules as everyone (Part 40).
+
+### 57.6 What "traditional" does not mean
+
+- It does not mean inequality. The founders abolished the idea that one person is worth less than another. Haitians are equal before the law (1987 Art. 18), and women hold at least 30% of posts in national life (Art. 17-1; Part 38.4), and so are children of every birth.
+- It does not mean closing the door. Haitian culture was made from African, Taíno and European roots and has always taken in what it found useful.
+- It does not mean the state inspects homes, beliefs or names.
+
+### 57.7 Capture test and honest limits
+
+- "Identity" is easy to turn into a weapon against opponents ("not a real Haitian"). **No office in this document may rule on who is authentically Haitian.** Nationality is a legal fact recorded by the Identity Authority (Part 54), and nothing else.
+- The Institute's board is cross-selected (scholars elected by peers, artists and elders drawn by lot, a diaspora seat) so that no government writes history alone.
+- An allowance without a budget is a promise. See Part 59.
+
+---
+
+## PART 58 — NO MORE EMPTY CHAIRS: RULES THAT END POLITICAL INSTABILITY
+
+### 58.1 The pattern
+
+Haiti's crises repeat one shape. A mandate ends and no successor has been chosen. Parliament empties. A president rules by decree or a prime minister rules alone. Elections are promised and postponed. In October 2026 the elections were postponed again; the electoral council's new calendar puts the first round on **18 July 2027** and a second round on 4 October 2027. Haiti has not held a national election since 2016 and has had no elected president since July 2021.
+
+**Instability is, first of all, empty chairs.** The rules below fill them by design.
+
+### 58.2 Rules for the transition (ordinary law, inside the 1987 Constitution)
+
+1. **A calendar law.** Election dates are fixed by law, not by announcement. A delay needs a public finding by the electoral council, with reasons, and automatically sets the new date within a fixed limit.
+2. **The Permanent Electoral Council** that the 1987 Constitution has promised since 1987 is finally set up, with members chosen by cross-selection and a fixed budget share, so that each election is not organized by a new provisional body.
+3. **Caretaker rule.** A government whose term has ended, or that was never elected, has a short closed list of powers: daily administration, security, the election itself, and emergencies. It may not sign concessions, long contracts, treaties or constitutional changes (Part 46.2 B).
+4. **Vote where it is safe, protect where it is not.** Elections proceed by territory as security allows (Part 18.4), with displaced citizens voting where they live now. Open decision: whether a partial result may seat a parliament.
+5. **Results anyone can check.** Each polling station's tally sheet is photographed and posted on the ledger the same night.
+6. **A fast electoral court** with fixed deadlines. Disputes end in a courtroom, with a date.
+7. **Losers are safe.** A recognized status for the opposition: seats on oversight committees, access to public media, protection from revenge prosecutions (any case against a recent candidate is assigned at random and reviewed by a second court). **When losing is not dangerous, losing is accepted.**
+8. **The budget does not stop.** If no budget is voted, last year's budget continues month by month. Salaries of teachers, nurses and police are never a hostage.
+9. **Succession is automatic.** If the head of state or government dies, resigns or is removed, a written order of succession applies within hours, and the successor's powers are caretaker powers until a vote.
+
+### 58.3 How the finished design removes the pattern
+
+- **The Assembly is drawn by lot on a fixed date** (Parts 1, 16). No campaign to fund, no election to postpone, and a draw cannot be suspended, even in an emergency (Part 21.2).
+- **No single ruler.** The seven-member Executive Council with a rotating presidency (Part 1) leaves no throne to seize or to kill for.
+- **Staggered terms** (Part 13): ministers, judges, the central bank and the Identity Authority do not all change together.
+- **Removal goes through courts and votes** (Part 25.2), not through the street or the barracks.
+- **The army obeys and does not deliberate** (Parts 33.2, 44.5).
+- **Money and force are Haitian** (Parts 39, 44.5, 46.2 D): no outside party pays the people who decide.
+
+### 58.4 A standing table
+
+A permanent **National Dialogue Forum**: parties, churches, unions, employers, farmers' and women's organizations, youth, the diaspora, and citizens drawn by lot. It has no power to govern. It meets on a fixed schedule, in public, so that the first conversation between opponents is not held in the middle of a crisis.
+
+### 58.5 Entrenched
+
+Two lines join Part 19.1: **no public office is left without a lawful holder or a lawful caretaker; no caretaker may bind the country beyond its caretaker powers.**
+
+### 58.6 Honest limits
+
+- Rules do not stop a gun. Where armed groups decide who may vote, no calendar law is enough (Parts 25.3, 41).
+- A caretaker can ignore the caretaker rule if no court is strong enough to say so (Part 46.5, point 1).
+- The electoral council's new calendar reportedly joins a constitutional referendum to the first round. Article 284-3 of the 1987 Constitution forbids amending the Constitution by referendum (Part 38.2). This document takes no side between the parties, and notes that the legal question is open and serious.
+
+---
+
+## PART 59 — WORK AND GROWTH, AND HOW TO PAY FOR ALL THIS
+
+### 59.1 Growth comes from seven things
+
+1. **Safety.** No investor, farmer or teacher plans in a place where roads are held by armed groups. Every growth figure in Haiti follows the security map (Parts 26, 41).
+2. **Cheap, steady electricity.** Solar micro-grids by commune (Part 5.3) and honest billing. Power is the first cost of every workshop and cold room.
+3. **Roads and ports that work.** Farm roads ranked by tons moved (Part 51), ports that clear a container in a published number of hours (Part 45.2).
+4. **Land you can prove is yours** (Part 20).
+5. **Money that reaches small business.** The payment rail (Part 32), a public guarantee fund that shares the risk of bank loans to small firms and cooperatives, and diaspora co-investment (Parts 43, 52).
+6. **A state that is easy to deal with.** A company registered in one day, taxes paid on a phone, one inspection list, written reasons for every refusal (Parts 46.2 F, 55).
+7. **Skills** (Parts 5.4, 17, 42, 43).
+
+### 59.2 Where the jobs are
+
+| Sector | Why here | Parts |
+|---|---|---|
+| **Food and farming** | The largest employer; the Food Standard creates demand for Haitian eggs, poultry, vegetables, flour and juice | 28, 50, 51 |
+| **Building** | Earthquake-safe housing, roads, clinics, schools, border posts, market halls | 34, 49 |
+| **Light industry** | Clothing, and processing of Haitian farm goods, with decent labor standards | 10.A, 24.3 |
+| **Energy and water** | Installing and maintaining solar grids, wells, irrigation | 5.3 |
+| **Tourism and culture** | History, coast, music, food, once security allows | 33.6, 57.4 |
+| **Digital work** | Services sold abroad from Haiti; state systems built by Haitians | 43, 55 |
+| **Care** | Nurses, midwives, teachers, elder care | 31, 36 |
+
+### 59.3 Paying for it: the costing rule
+
+This document repeats one admission: **there is no cost model** (Part 46.5, point 3). It becomes a rule.
+
+1. **No Part starts without a published cost sheet:** what it costs to set up, what it costs each year, who pays, and what is cut or delayed if the money is short.
+2. **An order of priority when money is short:** (1) security, courts and the Gates; (2) identity papers and the ledger; (3) health, schools and food; (4) farm roads, power and irrigation; (5) everything else.
+3. **Where money can come from, in order of honesty:**
+   - Customs and tax that are already owed and not collected (Parts 45.2, 49). This is the first and largest source.
+   - Ending ghost workers and inflated contracts (Parts 24, 44.4).
+   - Royalties and profit shares from concessions (Part 46.2 B).
+   - Diaspora bonds for projects that earn (power, housing, irrigation), never for salaries.
+   - Grants and loans without governance strings (Parts 10.D, 11).
+4. **A rule against spending tomorrow's money:** recurring costs (salaries, allowances, pensions) are funded only from recurring revenue.
+5. **An independent fiscal council** (economists elected by peers, citizens drawn by lot) publishes its own estimate of every budget and every new program, beside the government's.
+
+### 59.4 Honest limits
+
+- The state's revenue is small, and the list of promises in this document is long. Many Parts will wait years.
+- Growth depends on things Haiti does not control: storms, world food and fuel prices, the policies of the United States and the Dominican Republic, remittances.
+- No figure is given here because none has been calculated. A cost model built with Haitian economists is the most useful next piece of work on this document.
+
+---
+
+## PART 60 — THE NOVEMBER 2026 REVISION: WHAT CHANGED, WHAT WAS TESTED, WHAT STAYS OPEN
+
+### 60.1 What this revision added
+
+Parts 48–59: the duty to speak for Haitians facing deportation; a strong border on land, sea and air; the Haiti Food Standard; a farm program built on natural production; the invitation to return; a disarmed society; a permanent Identity and Passport Authority; one State Technology Center; a counter-intelligence service under courts; family, tradition and identity; rules against empty chairs; and a costing rule.
+
+### 60.2 Where older Parts were corrected
+
+| Older text | Correction |
+|---|---|
+| Parts 18.1 and 38.1 gave a first-round election date of 13 December 2026 | Postponed. New calendar: 18 July 2027 (Part 58.1) |
+| Part 29 gave deportation figures to July 2026 | Dominican official count added: 670,500 from October 2024 to June 2026 (Part 48.1) |
+| Part 45.1 extrapolated Dominican exports to Haiti | Full-year 2025 figure added: US$1,202.9 million, third export market (Part 50.2) |
+| Part 44.5, rule 6 placed the foreign-intelligence channel in the DSI | Moved to the counter-intelligence service (Part 56.3) |
+| Parts 9.1 and 20.4 said "140 nodes" | Aligned with Part 8: one node per commune, 149 today |
+| Part 8.3 and Part 25.2 gave cyber defense to a directorate without a home | Defensive work sits in the State Technology Center (Part 55.2) |
+| Parts 5.6, 26.5 and 33.4 set weapon lockup rules in pieces | Gathered and completed in Part 53 |
+| Parts 27.4 and 36 handled passports and civil records separately | United in the Identity Authority (Part 54) |
+
+### 60.3 The capture test on every new body
+
+| New body or rule | If captured, what stops it? | Different body, chosen differently? |
+|---|---|---|
+| Duty to speak (48) | Silence is logged; the Assembly questions the minister; the Rights Defense Service publishes the report anyway | Yes |
+| Border Command (49) | Civilian Gates, 24-hour handover log, Citizen Protector, lot-drawn observers | Yes |
+| Food Standards Board (50) | Published science file, no power to exempt, shortage window by index, Administrative Court | Yes |
+| Farm purchase program (51) | Per-farmer ceiling on the ledger, rotating cooperative boards, audit court | Yes |
+| Return benefits (52) | Per-person log, customs audit | Yes |
+| Armories (53) | Outside monthly count, Inspector-General, DSI Oversight Commission | Yes |
+| Identity Authority (54) | Court order to alter a record, privacy commission, appeal within days, node backups | Yes |
+| State Technology Center (55) | Ministries own data, outside audit, privacy commission, no kill switch | Yes |
+| Counter-intelligence (56) | Court warrants, lot-drawn Oversight Commission, audit court, no immunity | Yes, but oversight capture remains possible |
+| Memory and Identity Institute (57) | Cross-selected board; no power over persons | Yes |
+| Caretaker rule (58) | Electoral court, audit court's binding review of contracts | Depends on a court strong enough to say no |
+| Fiscal council (59) | It only publishes; it decides nothing | Yes |
+
+### 60.4 What I could not verify in this revision
+
+- The health statements in Part 50.2 (WHO positions on processed meat and trans fats), the Chile and Mexico labels, Brazil's 30% school-meal rule, the Japanese police practice and the UNESCO listing in Part 57.4 are from general knowledge and were not re-read at the source.
+- The July 2027 calendar and the referendum attached to it come from press reports of the electoral council's announcement of 28 October 2026. Dates in Haiti move.
+- Whether the 2020 intelligence agency still exists or operates.
+- The current structure and delays of the ONI and the passport service.
+- Coastline and border lengths are approximate.
+- The wording of Articles 18 and 260 of the 1987 Constitution cited in Part 57 was not re-read in this revision.
+- The Kreyòl names of the new bodies need review by a native speaker.
+
+### 60.5 Open decisions added (continuing the list in Part 46.6)
+
+21. Whether a judge may grant a threatened officer a short exception to the no-weapon-at-home rule (Part 53.6).
+22. Whether sport shooting or any other private use survives Stage C of Part 53.
+23. The salt, sugar, nitrite and additive limits, and the sufficiency threshold for each food category (Part 50).
+24. Whether processed meats face a composition rule only, or also a special tax.
+25. The list of offices merged into the Identity Authority, and its fees and deadlines (Part 54).
+26. Where the State Technology Center sits in the structure of government, and the site of the two data centers (Part 55).
+27. The size of the counter-intelligence service and the exact list of sensitive posts needing clearance (Part 56).
+28. The amount and funding of the family allowance (Part 57.2).
+29. The legal form given to *plasaj* (Part 57.2).
+30. Whether a partial election, held only where it is safe, may seat a parliament (Part 58.2).
+31. The powers on the caretaker list (Part 58.2).
+32. The cost model (Part 59.3). This one decides the order of all the others.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or another AI system to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
 
 **What the October 2026 revision (Parts 37–47) changed in the overall picture:** the system now has a symbolic root (the 1805 Charter), an honest legal route (Part 38: ordinary law now, advisory citizen panels next, strict constitutional change last), a defense for the period between selection and swearing-in (Part 39), a child-protection framework that regulates fundraising appeals without regulating speech (Part 40), a judgment-first path out of armed groups (Part 41), prisons and a technology hub that give people a trade (Parts 42–43), a public force that no foreign party commands or pays (Part 44), a strict, origin-neutral trade gate plus a lawful cost for disrespect of Haitians anywhere (Part 45), a review that lists what cannot be fixed by design (Part 46), and a way for anyone to comment and vote on every section (Part 47).
+
+**What the November 2026 revision (Parts 48–60) changed:** Haitian officials now have a duty to speak, with evidence, whenever Haitians are abused during deportation, while accepting every country's right to apply its immigration law (Part 48). The border is built as four borders: the Line, the Gates, the coast, and the ports and airports (Part 49). Food sold in Haiti must meet one high health standard that applies to every country and to Haitian producers alike (Part 50), and Haitian farmers are paid to meet it (Part 51). Haitians abroad are invited home, with the obstacles removed and no false promises (Part 52). Private guns end in stages and no service weapon goes home (Part 53). Identity and passports get one permanent, independent house (Part 54); every ministry and embassy shares one State Technology Center (Part 55); a counter-intelligence service protects the state without arrest powers and without watching citizens' politics (Part 56). Family, language, history and faith are protected without policing private life (Part 57). No office is left empty (Part 58). Nothing starts without a published cost sheet (Part 59).
