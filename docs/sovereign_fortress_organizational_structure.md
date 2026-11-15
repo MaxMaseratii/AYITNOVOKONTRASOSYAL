@@ -18,7 +18,8 @@ Two corrections carried over from the design review, applied throughout:
 6. **Parts 69–79 (November 2026, third revision)** record the decisions taken on Parts 61–68 (69) and add: a national cleanliness service, lasting roads with fast repair, public toilets and maintained networks (70); energy and materials from waste, with every company taking back its bottles (71); book-first schooling built for the child's brain (72); the State University of Haiti rebuilt on three, then five, great campuses (73); a written contract for every job and wages always paid (74); shared prosperity and world companies on Haitian terms (75); a second chance for young people used by armed groups (76); justice for the great crimes, from Dessalines to today (77); and a model city (78). Part 79 lists the corrections and the decisions still open.
 7. **Parts 80–89 (November 2026, fourth revision)** answer the hardest objection to this design, seven leaders or one, and fix the rules of the Executive Council (80); replace three-member town halls and section councils with one accountable Mayor and one Section Coordinator (81); set who may serve, with Council members born in Haiti and officials' families living in Haiti (82); add a State Bar Examination and one standard for every profession (83); demand the accounts of the US$1.50 transfer levy and PetroCaribe under the rule "no levy without a ledger" (84); end *restavèk* and street childhood by a set date (85); regulate energy (86); take the lessons of the author's earlier diplomacy paper (87); and protect this work in law (88). Part 89 is the record. **Part 90** sets the 24-hour watch on the border Line and the rules for binational markets.
 8. **Parts 91–97 (November 2026, fifth revision)** make the NASA the one human-resources house for every ministry and lock merit into the payroll, and add targeted pools for skilled roles (91); a service oath, no party work in post, and a Service Charter for equal, fast, clear service (92); the Assembly's calendar, roll call, quorum and absence rules with a reserve list (93); one to three months of training before or at the start of every post, and learning for life (94); what each département grows and how food travels (95); sport in every school and section with school championships (96). Part 97 is the record.
-9. **Parts 98–102 (November 2026, sixth revision)** bring money to farmers and small business: a free account for every adult, a development bank, new collateral, farm insurance and fair lending (98); rebuild *konbit*, help at birth and death, the *lakou*, and life beyond the crowded city (99); protect children and promote Haitian culture, with bans only by a judge (100); and set strict drug laws like Japan's, with treatment, testing, and deportation and a life ban for foreign offenders (101). Part 102 is the record.
+9. **Parts 98–102 (November 2026, sixth revision)** bring money to farmers and small business: a free account for every adult, a development bank, new collateral, farm insurance and fair lending (98); rebuild *konbit*, help at birth and death, the *lakou*, and life beyond the crowded city (99); protect children and promote Haitian culture, with bans only by a judge (100); and set strict drug laws like Japan's, with treatment, testing, and cost recovery, deportation and a ban on return for foreign offenders (101). Part 102 is the record.
+10. **Parts 103–108 (November 2026, seventh revision)** set a light, simple tax system with a reserve fund (103); the rights of people with disabilities (104); mental health care near home (105); consumer protection and bans on harmful skin and hair products (106); a living wage and profit sharing (107). Part 108 is the record, and also updates the digital *sòl* (98.9) and the rules for foreign drug offenders (101.5).
 
 ---
 
@@ -4768,8 +4769,15 @@ Within ten years: every adult has a free basic account; every farmer and small b
 The *sòl* (rotating savings group) has financed Haitian families for generations.
 
 - It is **recognized and left free.** No licence is needed for a *sòl* among people who know each other.
-- An **optional digital *sòl*** on the payment rail records each payment and each turn, so no one can disappear with the pot.
+- **Digital *sòl* apps** may be offered by private companies, cooperatives and banks, **licensed by the central bank** and connected to the payment rail. The licence requires:
+  1. Members' money kept in a **protected trust account at a bank,** never mixed with the company's own money and never lent out.
+  2. Identity checks for every member (Part 54).
+  3. The order of turns, every payment and every payout **visible to all members** of the group.
+  4. All fees shown before joining, in Kreyòl.
+  5. Protection against a member who receives the pot and stops paying: a deposit, insurance, or turns ordered by payment record.
+  6. Members' data protected (Part 6) and never sold.
 - A *sòl* group that saves regularly can use its record to get a group loan (98.5).
+
 
 ### 98.10 The diaspora as investor
 
@@ -4933,10 +4941,15 @@ Japan has very low drug use and very strict laws: possession and use of drugs ar
 
 ### 101.5 Foreigners
 
-- **A foreigner convicted of any drug offence** in Haiti serves the sentence, is then **deported, and banned for life** from entering Haiti.
+- **A foreigner convicted of a drug offence** serves the sentence in full.
+- The court also orders the person to **pay the costs of the arrest, the trial, the administrative fees and the deportation,** according to a published schedule of costs.
+- These costs are taken first from money and goods seized and from any bail.
+- **A person who can pay and refuses** stays in custody after the sentence until the costs are paid, up to a maximum set by law. **A person who truly cannot pay** is deported at the end of the sentence, because keeping them in prison would cost Haiti more; the debt stays on record and the person's country is asked to pay for the travel.
+- After deportation, the person is **banned from entering Haiti for five years, and in any case until the costs are paid.** A second drug offence brings a **life ban.**
 - **A foreigner with a drug conviction anywhere** may be refused a visa or entry.
 - Diplomatic immunity is respected, but the person is declared unwelcome (*persona non grata*) and the case is made public.
-- **Haitian citizens are never deported;** they are judged and treated in Haiti (Part 22).
+- **Haitian citizens are never deported.** They receive the same sentences and the same order to pay the costs, by instalments on the payment rail (Part 32). A citizen who can pay and refuses faces the same limited extra custody.
+
 
 ### 101.6 Testing
 
@@ -4992,6 +5005,328 @@ Random drug tests for police, soldiers, Coast Guard, customs officers, judges, p
 
 ---
 
+## PART 103 — TAXES PEOPLE ARE WILLING TO PAY: LIGHT, SIMPLE, FAIR, VISIBLE, AND A RESERVE FOR BAD DAYS
+
+### 103.1 Where Haiti stands
+
+- Haiti collects very little tax: about **5–6% of the national economy (GDP)**, one of the lowest levels in the world (World Bank figures reported for 2023 and 2024).
+- The average for Latin America and the Caribbean is about **21%**, and the average of rich OECD countries about **34%** (2023). The United Kingdom is above 30%.
+- At the same time, people who do pay feel taxed too much: many import charges stack on top of each other, while large exemptions and smuggling let others pay nothing.
+
+**The problem is not that taxes are too low or too high. It is that too few pay, the rules are complicated, and nobody sees where the money goes.**
+
+### 103.2 The goal
+
+1. **Enough to run the country and save for emergencies:** raise total tax revenue step by step to about **15% of GDP within ten years.**
+2. **Never heavy:** total taxes do not exceed **20% of GDP** unless two-thirds of the Citizens' Assembly vote for it, for a limited time. Haiti stays lighter than the United Kingdom and below the Latin American average.
+3. **Raise money by collecting from everyone, not by raising rates.** Most of the increase comes from customs and taxes already owed and not collected, from ending exemptions for the connected, and from simple regimes that bring small businesses in.
+
+### 103.3 Six principles
+
+1. **Few taxes.** A handful of clear taxes instead of dozens of small fees.
+2. **Low rates, wide base.** Everyone pays a little; nobody pays a lot.
+3. **The poor pay no income tax.** Income up to the living wage (Part 107) is tax-free.
+4. **No favours.** No exemption without a law, a published cost, a named beneficiary for large ones, and an end date.
+5. **Pay by phone, in minutes.** No queue, no cash to an officer.
+6. **See where your money goes.** Every gourde is on the ledger (Part 8).
+
+### 103.4 The taxes
+
+| Tax | Who pays | Proposed rule |
+|---|---|---|
+| **Income tax** | People with income above the living wage | Tax-free up to the living wage; then **10%, 15%, 20%, and 25% at the top** (Haiti's current top rate is 30%). Thresholds rise with prices every year. Employers withhold it from wages |
+| **Company tax** | Companies on their profit | **25%** (today 30%), with an allowance for companies that share profits with workers (Part 107) |
+| **Small business tax** | Traders, workshops and small firms below a published turnover | **One small monthly payment by phone**, a low share of turnover, replacing income tax, company tax and TCA. No accountant needed |
+| **TCA (sales tax)** | Buyers, collected by registered businesses | **Stays at 10%.** Zero on basic local food, medicines, school books and farm inputs. Small sellers below the threshold do not charge it |
+| **Property tax** | Owners of buildings and land | Paid to the commune; see 103.5 |
+| **Excise** | Buyers of alcohol, tobacco, sugary drinks, luxury cars | Moderate rates, partly earmarked for health (Part 31) |
+| **Customs** | Importers | Published values, one window, receipts (Parts 45, 49); stacked charges merged into one clear duty |
+| **Social contributions** | Employers and workers | Pension and health insurance (Parts 23, 31), collected with income tax in one payment |
+
+**Fuel:** taxed lightly and steadily. Any change is announced in advance and phased in, never overnight.
+
+**Remittances:** no new tax on money sent home. The existing levy is decided only after the audit of Part 84.
+
+### 103.5 Property tax that stays in the commune
+
+- **Based on the cadastre** (Part 20): each property has a published value that the owner can contest.
+- **Low rate.** **A modest family home is exempt.**
+- **Higher on land kept empty** in towns and on large unused estates, so that land is built on or farmed instead of held for speculation.
+- **Higher on second homes and luxury property.**
+- **All of it stays in the commune** and is spent on local services. The commune publishes what it collected and how it was spent.
+- **Pay early, pay less:** a small discount for paying on time.
+
+### 103.6 How taxes are collected
+
+1. **One number:** the national ID number (Part 54) is the tax number.
+2. **Pre-filled returns:** the tax office fills in what it already knows (wages, bank interest, property). The person checks and confirms by phone.
+3. **Payment by phone** on the payment rail (Part 32), with an instant receipt.
+4. **No cash to any tax officer, ever.** An officer who accepts cash is dismissed.
+5. **Audits by rule:** some files are chosen at random and some by published risk signs, never by an officer's choice. Inspectors rotate.
+6. **Rights:** a written reason for every assessment; a free tax ombudsman; appeal to the administrative court; no seizure of a family home for a small debt.
+7. **A one-time fresh start:** a short period to declare and pay past taxes without penalties, then firm enforcement.
+8. **Big payers first:** the largest companies and the richest people are checked first and most often, with their tax paid published in totals by sector.
+
+### 103.7 Why people will be willing to pay
+
+- **The receipt shows the use.** Every tax receipt shows how each 100 gourdes of public money was spent last year: schools, health, police, roads, the reserve.
+- **Local money, local choice.** Citizens of each commune vote each year on how to spend part of the local budget (participatory budgeting).
+- **Visible results.** Tax revenue and spending by commune are on the ledger; a citizen can see the road or the clinic that their taxes built.
+- **Fairness.** No one escapes: the list of all tax exemptions, their cost and the large beneficiaries is published every year.
+- **Respect.** Clear rules, fast service and no bribes (Part 92).
+
+### 103.8 The National Reserve Fund: money for bad days
+
+Hurricanes, earthquakes, epidemics and price shocks will come. Haiti saves for them in good years.
+
+1. **Each year, at least 3% of tax revenue** goes into the **National Reserve Fund,** plus half of any unexpected windfall revenue.
+2. **Target:** the fund reaches the cost of **three months of state spending,** then is kept at that level.
+3. **Safe:** managed by the central bank under published rules, in safe assets, never lent to the government for ordinary spending.
+4. **Only for real emergencies:** money is released only after a declared disaster or emergency (Part 21), by a public vote of the Assembly, with every payment on the ledger.
+5. **Refilled after use,** on a published schedule.
+6. **Together with insurance:** regional disaster insurance (Part 98.6) pays fast after a storm; the reserve pays the rest.
+
+### 103.9 Capture test and honest limits
+
+| Risk | What stops it |
+|---|---|
+| Exemptions for friends | Law, cost, beneficiary and end date published; the fiscal council reports on them (Part 59.3) |
+| Officers take bribes | No cash; random and rule-based audits; rotation |
+| The reserve is raided | Release only after a declared emergency and a public Assembly vote |
+
+- **The rates above are proposals.** The independent fiscal council (Part 59.3) must model them before any law.
+- Most economic activity in Haiti is informal. The small-business tax and phone payment aim to bring it in gently; it will take years.
+- Lower rates can reduce revenue at first if collection does not improve quickly.
+
+---
+
+## PART 104 — EVERY HAITIAN COUNTS: THE RIGHTS OF PEOPLE WITH DISABILITIES
+
+### 104.1 Where Haiti stands
+
+Haiti has ratified the United Nations Convention on the Rights of Persons with Disabilities. Its **law of 13 March 2012** forbids discrimination, calls for access to buildings, transport and information, and requires private employers with more than 20 workers to reserve **2% of jobs** for people with disabilities. The State has a Secretary of State for the integration of persons with disabilities (BSEIPH). The 2010 earthquake left many thousands more Haitians with disabilities. **The law exists. It is not applied.**
+
+### 104.2 The principle
+
+**A disability is a difference, not a curse, and not a reason to be left out.** People with disabilities have the same rights as everyone, and the duty of the State and society is to remove the barriers.
+
+### 104.3 Rights made real
+
+1. **Education:** every school accepts children with disabilities, with support (ramps, adapted material, trained teachers, assistants). Special classes only when the family chooses them.
+2. **Haitian Sign Language** is an official language of instruction for deaf children, taught to teachers and families, with interpreters in courts, hospitals, public offices and on national television news.
+3. **Braille and audio** for public documents, ballots, schoolbooks, and the Service Charter (Part 92).
+4. **Accessible buildings:** every new public building and every building open to the public meets the access standard (Part 64): ramps, wide doors, accessible toilets. Existing public buildings are adapted within ten years, schools and clinics first.
+5. **Transport:** new buses and stations are accessible; reserved seats; drivers trained.
+6. **Health and devices:** wheelchairs, prostheses, hearing aids, glasses and therapy are covered by health insurance (Part 31). **A rehabilitation centre in every département.**
+7. **Early help:** disabilities are detected early during the first-week visit and child health checks (Parts 36, 99.4), and families get support from the start.
+8. **Work:** the 2% quota is enforced in private firms; **the public service reserves 4% of posts;** an adaptation fund pays for workplace changes. Employers who do not meet the quota pay into that fund.
+9. **Income:** a disability allowance for those who cannot work, and a caregiver allowance for families who care for a person with a severe disability.
+10. **Voting and public life:** accessible polling places, help to vote in secret, and people with disabilities eligible for every pool and post (Part 91), with reasonable adjustments.
+11. **Protection:** abuse, abandonment or exploitation of a person with a disability is an aggravated crime. Living with family and community comes before any institution.
+12. **In disasters:** emergency plans list and help people with disabilities first (Part 21).
+
+### 104.4 Who makes it happen
+
+- **An independent Disability Rights Office** that receives complaints, inspects, and can fine. Its board includes organizations of people with disabilities.
+- **Counted:** the census and surveys use standard questions on disability, and results are published by commune.
+- **Nothing about us without us:** organizations of people with disabilities sit on the boards of education, health, transport and building standards.
+- **Changing minds:** public campaigns, in Kreyòl, against the belief that disability is a punishment or a curse.
+
+### 104.5 Honest limits
+
+- Adapting buildings and training teachers costs money and time. The plan starts with schools, clinics and public offices.
+- A quota without inspection is a promise on paper. Inspections and published results are the test.
+
+---
+
+## PART 105 — MENTAL HEALTH: CARE NEAR HOME, IN KREYÒL, WITH THE FAMILY AND THE COMMUNITY
+
+### 105.1 Where Haiti stands
+
+In 2011, Haiti was reported to have **fewer than 20 psychiatrists for more than 10 million people.** Since then, earthquakes, hurricanes, kidnappings, armed-group violence and displacement have left very many Haitians with trauma, grief, depression and anxiety. Many people with mental illness are hidden at home, chained, or left on the street. **A country cannot heal while its people carry wounds nobody treats.**
+
+### 105.2 The principle
+
+**Mental health is health.** Care is offered near home, in Kreyòl, with respect, with the family, and without shame. It builds on what Haiti already has: the family, the *lakou*, the church and the community (Part 99).
+
+### 105.3 Care in layers
+
+| Level | Who | What |
+|---|---|---|
+| **Section** | Community health agents and trained volunteers | Listening, psychological first aid, spotting serious illness, home visits, referral |
+| **Commune clinic** | A nurse or doctor trained in mental health, and a psychologist | Treatment of common problems (depression, anxiety, trauma, alcohol and drugs), medicines, counselling |
+| **Département hospital** | A psychiatric unit inside the general hospital | Short stays for serious illness, emergencies, specialist care |
+| **National** | Modernized public psychiatric hospitals and a training centre | The most serious cases, training, research |
+
+The world's health agencies have shown that general nurses and doctors can treat the most common mental illnesses with short training. Haiti uses that approach first, because it cannot wait for hundreds of psychiatrists.
+
+### 105.4 For the people who need it most
+
+- **Victims of violence, kidnapping and rape:** trauma care, free, confidential, and linked to the courts only if the victim chooses (Parts 41, 77).
+- **Children:** a trained counsellor for every group of schools; play and sport as care (Part 96); help for children who saw violence.
+- **Young people leaving armed groups** (Part 76) and people in prison (Part 42): treatment as part of their path back.
+- **People who use drugs or alcohol:** treatment centres (Part 101.8).
+- **Mothers:** care for depression during and after pregnancy.
+- **The elderly:** care for dementia, with support for the family.
+- **Public workers** under heavy stress: police, soldiers, nurses, teachers, members of the Assembly (Part 93): confidential support and rest.
+
+### 105.5 A free line, day and night
+
+A **free, 24-hour help line in Kreyòl** by phone and message, with trained listeners and a link to emergency help.
+
+### 105.6 Preventing suicide
+
+A national prevention plan: the help line, follow-up care for anyone who has attempted it, training for health workers, teachers and pastors to recognize the danger, responsible reporting rules for the media, and control of the means most often used.
+
+### 105.7 Rights and dignity
+
+1. **No chains, no cages, no beating,** at home, in a hospital, a church, a temple or a prison. Families who do this out of fear get help, not punishment, the first time.
+2. **Treatment without consent** only when a person is a danger to themselves or others, decided by two doctors, reviewed by a judge within 72 hours, and limited in time.
+3. **Equal cover:** mental health care is covered by health insurance (Part 31) on the same terms as physical care.
+4. **No discrimination** at work, in school or in housing because of a mental illness.
+
+### 105.8 Working with faith and tradition
+
+Many Haitians first go to a pastor, a priest or a *houngan* when they suffer. The mental health service **works with them with respect:** training in recognizing serious illness, a referral path, and a shared rule — **no harm, no chains, no abandonment.** People keep their faith and also receive care.
+
+### 105.9 Training the people
+
+- **Funded training** (Part 17.2) for psychologists, psychiatric nurses, social workers and psychiatrists, with service in the départements afterward.
+- Mental health in the training of every doctor, nurse, teacher and police officer.
+- **Peer support groups** in every commune: people who have recovered help others, in the *konbit* spirit.
+
+### 105.10 Honest limits
+
+- Specialists will be few for many years. Training general health workers is the fastest path.
+- Stigma changes slowly. Public campaigns with known Haitian figures help.
+- Trauma will keep coming while violence continues. Security (Parts 41, 68) is also mental health.
+
+---
+
+## PART 106 — THE CONSUMER IS PROTECTED: HONEST PRICES, REAL PRODUCTS, REFUNDS, AND NO POISON IN CREAMS OR HAIR PRODUCTS
+
+### 106.1 The problem
+
+Haitians pay for fake medicines, expired food, products that break in a week with no refund, scales that cheat, and creams that damage the skin and the kidneys. Skin-lightening products sold in markets can contain **mercury,** strong **steroid** medicines and **hydroquinone** without any warning. **The buyer has no one to turn to.**
+
+### 106.2 The Consumer Protection Agency
+
+An independent agency with inspectors in every département, a free phone line, power to test, seize, fine and recall, and a board that includes consumer associations. It works with the Food Standard laboratory (Part 50) and customs at the Gates and ports (Parts 45, 49).
+
+### 106.3 The buyer's rights
+
+1. **Clear prices** in gourdes, displayed before purchase, including all taxes.
+2. **Honest weights and measures,** checked in markets and shops (Part 90.2).
+3. **Labels in Kreyòl or French:** what it is, what it contains, who made it, the expiry date, how to use it safely.
+4. **Refund, repair or replacement** for a product that is defective or not as described: within 30 days for all goods, and within a one-year warranty for appliances, phones, vehicles and building materials.
+5. **No sale of expired food or medicine.** Expired goods are seized and destroyed.
+6. **Fake goods:** counterfeit medicines are a serious crime (Part 50); counterfeit goods are seized and destroyed, and importers are prosecuted.
+7. **Fast justice:** a small-claims procedure decided within 30 days, without a lawyer.
+8. **Recalls:** a dangerous product is recalled publicly, by radio and text message.
+9. **Online and phone sales:** the same rights, plus a 7-day right to cancel.
+
+### 106.4 Fair prices without shortages
+
+General price controls cause empty shelves and black markets. Fair prices come instead from **competition** (a competition authority that breaks up cartels and monopolies), **published market prices** of staples every day (Part 95.4), local production (Part 51), and honest customs (Part 45). **In a declared emergency** (Part 21), raising the price of essentials (water, food, fuel, medicine, building materials) far above normal is forbidden for a limited time.
+
+### 106.5 Safe skin and hair products: what is banned and why
+
+| Product or ingredient | Rule | Why (the science) |
+|---|---|---|
+| **Mercury** in any cosmetic, cream or soap | **Banned** | Mercury passes through the skin and damages the kidneys and the nerves, and harms unborn children. The Minamata Convention on Mercury requires its parties to stop the making, import and sale of mercury-added cosmetics |
+| **Hydroquinone** in cosmetics | **Banned in cosmetics;** allowed only as a medicine on a doctor's prescription | Long use can cause permanent dark-blue patches on the skin (ochronosis) and irritation. The European Union does not allow it in skin cosmetics |
+| **Strong steroid creams** (such as clobetasol) sold as lighteners | **Prescription only** | Without medical control they thin the skin, cause infections, stretch marks and acne, and can disturb the body's hormones |
+| **Lead, arsenic and other heavy metals** in cosmetics and hair dyes | **Banned above trace levels** | Toxic to the brain and organs, especially in children |
+| **Formaldehyde** and formaldehyde-releasing ingredients in hair straighteners and "keratin" treatments | **Banned** | Formaldehyde is classified as a cause of cancer in humans; it irritates the eyes and lungs of users and hairdressers. The US food and drug agency has proposed banning it in hair-smoothing products |
+| **Chemical hair relaxers and straighteners** | **Strict labeling and warnings; not sold for use on children** | A large US National Institutes of Health study (2022) found more uterine cancer among women who used hair straighteners often. The link is being studied further; until then, warnings and protection of children are the prudent rule |
+
+**How it is enforced:**
+
+- **Every cosmetic and hair product sold in Haiti is registered,** with its full ingredient list in Kreyòl or French.
+- **Imports are tested** at the Gates and ports; **market samples are tested** every month.
+- **Sellers of banned products** are fined and their stock destroyed; **importers and makers** are prosecuted.
+- **Hairdressers and beauticians** are trained in safe products and good ventilation.
+
+### 106.6 Beauty without harm
+
+The demand for lighter skin comes from the color prejudice that Part 63 makes illegal in hiring, schools and advertising. The agency and the Ministry of Health run campaigns that celebrate Haitian beauty in every shade, and **advertising for skin lightening is banned.**
+
+### 106.7 Honest limits
+
+- Banned products will still be smuggled. Testing at the Gates, market checks and public campaigns reduce them; none ends them alone.
+- Inspectors can be bribed. Rotation, body cameras and published inspection results are the defense (Part 62).
+- Science changes. The banned list is reviewed every two years by the agency with independent scientists, and every change is explained publicly.
+
+---
+
+## PART 107 — PAY THAT LETS PEOPLE LIVE WITH DIGNITY: A LIVING WAGE AND A SHARE OF THE PROFIT
+
+### 107.1 The principle
+
+**A full-time job must pay enough to live with dignity:** food, housing, transport, school for the children, health care, and a little saved. **When a company makes a profit, the workers who made it receive a share.**
+
+### 107.2 The living wage
+
+1. **A National Wage Council** builds on Haiti's existing wage council: employers, unions, independent economists and citizens drawn by lot.
+2. **The method is published:** each year the council measures the cost of a basic basket for a family (food, rent, transport, school, health, clothing) in each département.
+3. **The minimum wage is set from that cost** and adjusted every year for prices. Sectors may have different minimums, never below the national floor.
+4. **A path, not a jump:** where today's wage is far below the living wage, the council sets a schedule to close the gap within a few years, so that jobs are not lost overnight.
+5. **Paid always, paid on time,** with a written contract (Part 74), through the payment rail (Part 32).
+
+### 107.3 A share of the profit
+
+Basing all pay on profits would be unfair to workers: profits change from year to year, can be hidden, and are often zero in a new company. So **base pay is the living wage or more, always, and profit sharing comes on top:**
+
+1. **Every company with 20 or more workers** shares a part of its net profit with its workers each year, by a formula set in law (for example, a fixed share of profit after tax). France has required this of companies with 50 or more employees for decades.
+2. **Every worker receives a share,** in proportion to salary and time worked, with a minimum for the lowest paid.
+3. **The accounts are audited,** and workers' representatives can see them. Hiding profit (for example by paying it out to related companies abroad) is fraud.
+4. **The share is lightly taxed** for the worker, and the company receives a tax allowance (Part 103.4).
+5. **Smaller companies** are encouraged to share profits voluntarily, with the same tax advantages.
+
+### 107.4 Fair pay inside the company
+
+- Large companies publish **the ratio between the highest salary and the middle salary.**
+- **Equal pay** for women and men for the same work.
+- The public service follows the same grade system (Part 7), and pays the living wage at the lowest grade.
+
+### 107.5 Honest limits
+
+- A minimum wage set too high, too fast, can push jobs into the informal sector or abroad, especially in clothing factories. That is why the council uses evidence and a schedule.
+- Most Haitians work for themselves. A wage law does not reach them; credit (Part 98), markets (Part 95) and the small-business tax (Part 103) do.
+- Profit sharing depends on honest accounts. Audits and penalties for hidden profits are the condition.
+
+---
+
+## PART 108 — RECORD OF THIS REVISION (PARTS 103–107, AND CHANGES TO PARTS 98 AND 101)
+
+### 108.1 What changed
+
+| Older text | Change |
+|---|---|
+| Part 59: costing and growth | A full tax system with low rates, a wide base, pay by phone, the receipt that shows the use, a 20% ceiling and a National Reserve Fund (Part 103) |
+| Part 92.4: priority lines | Full rights for people with disabilities (Part 104) |
+| Part 31: health insurance | Mental health care in layers, a 24-hour line, rights against chains and abuse (Part 105) |
+| Part 50: food standard; Part 87: cosmetics testing | A Consumer Protection Agency, refunds, labels, and bans on mercury, hydroquinone cosmetics, formaldehyde straighteners and other harmful products (Part 106) |
+| Part 74: contracts and wages paid | A living wage set from the cost of living, and profit sharing in companies of 20 or more (Part 107) |
+| Part 98.9: a digital *sòl* on the payment rail | Digital *sòl* run by **licensed private companies, cooperatives and banks**, with client money protected in trust (Part 98.9) |
+| Part 101.5: foreign drug offenders banned for life | Foreigners pay the costs of their arrest, trial and deportation; detention for refusal to pay when able, up to a limit; ban of **five years** and until costs are paid; life ban for a repeat offence. Haitians receive the same sentences and cost orders, without deportation |
+
+### 108.2 What was checked, and what was not
+
+**Checked:** Haiti's tax revenue (World Bank figures in a September 2025 press article); the 2023 Latin American and OECD averages (Inter-American Development Bank); Haiti's income tax brackets and 10% TCA (a tax guide); the 2012 disability law and its 2% quota (press article); the 2011 report of fewer than 20 psychiatrists (press article); the Minamata Convention's rule on mercury in cosmetics (Convention website); the delays of the US proposal to ban formaldehyde in hair straighteners (press reports).
+
+**Not verified:** Haiti's current company tax rate and property tax rules; the current number of mental health professionals; the date Haiti ratified the disability convention and whether Haiti is a party to the Minamata Convention; the details of France's profit-sharing law; the current composition of Haiti's wage council.
+
+### 108.3 Open decisions added
+
+78. The income tax rates, the company tax rate, and the 15% revenue target and 20% ceiling (Part 103).
+79. The share of revenue saved each year and the size of the National Reserve Fund (Part 103.8).
+80. The public-service disability quota of 4% (Part 104).
+81. The profit-sharing formula and the company size from which it applies (Part 107).
+82. The maximum extra detention for a foreigner who can pay the costs of Part 101.5 and refuses (Part 101.5).
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -5008,4 +5343,6 @@ This document is designed to be handed to a legislative drafting body, an econom
 
 **What the fifth November 2026 revision (Parts 91–97) changed:** no salary is paid to anyone hired outside a published ranked list, and every ministry's hiring belongs to one independent human-resources house (Part 91). Citizens may aim for a skilled role through a targeted pool, by exam and qualification, never by paying for better odds (Part 91.5). Every public worker swears to serve the country, not a party, and every office posts what it needs, what it costs and how long it takes (Part 92). The Assembly meets on a fixed calendar, votes by name, and fills any empty seat from a reserve list within two weeks (Part 93). Every official is trained before serving, including how to defend Haiti abroad (Part 94). Each commune's food is mapped and moved by a cool chain and coastal boats (Part 95). Every school gets a field, a court and a PE teacher, with championships from the commune to the nation (Part 96).
 
-**What the sixth November 2026 revision (Parts 98–102) changed:** every adult gets a free account, and farmers and small firms can borrow against animals, tools, contracts and stored harvests, with a guarantee fund, index insurance and one clear price in Kreyòl (Part 98). The *konbit*, mutual help at birth and death, the *lakou* and community mediation are protected, and services and agencies move out of the crowded capital (Part 99). Haitian music and stories get airtime and money, children are protected by age, time and place, and only a judge can ban content that recruits for armed groups, threatens, or celebrates real crimes (Part 100). Drugs are illegal to make, sell, carry or use; traffickers lose their assets; first-time users choose treatment or prison; foreign offenders are deported and banned for life (Part 101).
+**What the sixth November 2026 revision (Parts 98–102) changed:** every adult gets a free account, and farmers and small firms can borrow against animals, tools, contracts and stored harvests, with a guarantee fund, index insurance and one clear price in Kreyòl (Part 98). The *konbit*, mutual help at birth and death, the *lakou* and community mediation are protected, and services and agencies move out of the crowded capital (Part 99). Haitian music and stories get airtime and money, children are protected by age, time and place, and only a judge can ban content that recruits for armed groups, threatens, or celebrates real crimes (Part 100). Drugs are illegal to make, sell, carry or use; traffickers lose their assets; first-time users choose treatment or prison; foreign offenders pay the costs of their case, are deported, and are banned for at least five years (Parts 101, 108).
+
+**What the seventh November 2026 revision (Parts 103–108) changed:** taxes stay light (never above 20% of GDP without a two-thirds vote), few and simple, paid by phone, with no income tax on the living wage and a receipt that shows where the money went; 3% of revenue each year goes to a National Reserve Fund for disasters (Part 103). The 2012 disability law is enforced, with inclusive schools, sign language, access and work quotas (Part 104). Mental health care reaches every section and commune, with a 24-hour line and no chains (Part 105). Buyers get refunds, labels and fast small claims, and mercury, cosmetic hydroquinone, formaldehyde straighteners and skin-lightening advertising are banned (Part 106). Pay is at least a living wage, and companies of 20 or more share profits with workers (Part 107).

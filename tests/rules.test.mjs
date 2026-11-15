@@ -84,7 +84,7 @@ await t('record a download',assertSucceeds(setDoc(doc(rd,'downloads','d1'),dlr))
 await t('record full-document download',assertSucceeds(setDoc(doc(rd,'downloads','d2'),{...dlr,part:0,lang:'en'})));
 await t('deny download as someone else',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,uid:'reader2'})));
 await t('deny download with false email',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,email:'x@y.zz'})));
-await t('deny download part out of range',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,part:103})));
+await t('deny download part out of range',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,part:109})));
 await t('deny download bad language',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,lang:'fr'})));
 await t('deny download old date',assertFails(setDoc(doc(rd,'downloads','d3'),{...dlr,at:Timestamp.fromDate(new Date(2020,1,1))})));
 await t('deny anonymous download',assertFails(setDoc(doc(pub,'downloads','d3'),dlr)));
