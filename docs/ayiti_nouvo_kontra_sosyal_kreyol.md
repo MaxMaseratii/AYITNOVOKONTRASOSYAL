@@ -18,6 +18,7 @@ De koreksyon ki soti nan revizyon konsepsyon an, epi ki aplike nan tout dokiman 
 6. **Pati 69–79 (novanm 2026, twazyèm revizyon)** anrejistre desizyon yo pran sou Pati 61–68 (69) epi ajoute: yon sèvis nasyonal pwòpte, wout ki dire ak reparasyon rapid, twalèt piblik ak rezo ki byen antreteni (70); enèji ak materyo ki soti nan fatra, kote chak konpayi reprann boutèy li (71); yon lekòl ki mete liv an premye e ki fèt pou sèvo timoun nan (72); Inivèsite Leta Ayiti rebati sou twa, apre sa senk, gwo kanpis (73); yon kontra ekri pou chak travay ak salè ki toujou peye (74); pwosperite pataje ak konpayi mondyal ki travay dapre kondisyon Ayiti (75); yon dezyèm chans pou jèn gwoup ame te itilize (76); jistis pou gwo krim yo, depi Desalin rive jodi a (77); ak yon vil modèl (78). Pati 79 bay lis koreksyon yo ak desizyon ki rete ouvè yo.
 7. **Pati 80–89 (novanm 2026, katriyèm revizyon)** reponn objeksyon ki pi difisil kont plan sa a, sèt dirijan oswa yon sèl, epi fikse règ Konsèy Egzekitif la (80); ranplase meri twa manm ak konsèy seksyon yo ak yon sèl Majistra ki rann kont ak yon sèl Kowòdonatè Seksyon (81); fikse ki moun ki ka sèvi, kote manm Konsèy la dwe fèt ann Ayiti epi fanmi ofisyèl yo dwe viv ann Ayiti (82); ajoute yon Egzamen Leta pou Bawo a ak yon sèl estanda pou chak pwofesyon (83); mande kont sou prelèvman US$1.50 sou transfè lajan yo ak sou PetroCaribe dapre règ "pa gen prelèvman san rejis" (84); mete fen nan *restavèk* ak nan lavi timoun nan lari anvan yon dat fiks (85); reglemante enèji (86); pran leson ki nan ansyen dokiman otè a sou diplomasi (87); epi pwoteje travay sa a nan lalwa (88). Pati 89 se kote tout sa anrejistre. **Pati 90** fikse siveyans 24 èdtan sou 24 sou Liy fwontyè a ak règ pou mache binasyonal yo.
 8. **Pati 91–97 (novanm 2026, senkyèm revizyon)** fè NASA a tounen sèl kay resous imen pou chak ministè epi yo fèmen merit la nan peyewòl la, ak pisin sible pou wòl ki mande konpetans (91); yon sèman sèvis, pa gen travay pou pati nan pòs, ak yon Chat Sèvis pou menm sèvis rapid e klè pou tout moun (92); kalandriye Asanble a, apèl, kowòm ak règ absans ak yon lis rezèv (93); youn a twa mwa fòmasyon anvan oswa nan kòmansman chak pòs, ak aprann toutan (94); sa chak depatman pwodui ak kijan manje vwayaje (95); espò nan chak lekòl ak chak seksyon ak chanpyona lekòl (96). Pati 97 se rejis la.
+9. **Pati 98–102 (novanm 2026, sizyèm revizyon)** pote lajan bay kiltivatè ak ti biznis: yon kont gratis pou chak granmoun, yon bank devlopman, nouvo garanti, asirans jaden ak prè onèt (98); rebati konbit, èd pou nesans ak lanmò, lakou a, ak lavi deyò vil ki twò chaje (99); pwoteje timoun epi ankouraje kilti ayisyen, ak entèdiksyon sèlman pa yon jij (100); epi fikse lwa dwòg sevè tankou Japon, ak tretman, tès, ak depòtasyon ak entèdiksyon pou tout lavi pou etranje ki fè ofans (101). Pati 102 se rejis la.
 
 ---
 
@@ -4700,6 +4701,296 @@ Espò bati sante, disiplin, travay an ekip ak fyète. Li okipe jèn yo epi li ke
 
 ---
 
+## PATI 98 — LAJAN KI TRAVAY POU AYISYEN: BANK, EKONOMI, AK PRÈ POU JADEN AK TI BIZNIS
+
+### 98.1 Pwoblèm nan an chif
+
+Yon etid Bank Mondyal pibliye an 2019 te jwenn:
+
+- se sèlman anviwon **0,8% prè bank yo** ann Ayiti ki te ale nan agrikilti, pi gwo anplwayè peyi a;
+- se sèlman anviwon **3% granmoun andeyò** ki te gen yon prè fòmèl, e se sèlman anviwon **17%** ki te gen yon kont nan yon enstitisyon finansye;
+- kiltivatè ki prete nan men moun peye souvan **10 a 20% pou yon sèl sezon**, e gen kèk ponya ki mande **plis pase 20% pa mwa**;
+- gwo baryè yo se: pa gen garanti yo aksepte, tè san papye, pa gen asirans kont siklòn ak sechrès, pa gen ase wout ak depo, epi bank yo wè agrikilti twò riske.
+
+**Ayisyen fè ekonomi epi yo travay di. Lajan an pa rive jwenn yo.** Bank yo prete depo yo bay kèk gwo konpayi ak Leta, pandan kiltivatè a, madan sara a ak jèn ki gen yon ti atelye ale kay ponya.
+
+### 98.2 Objektif la
+
+Nan dis ane: chak granmoun gen yon kont debaz gratis; chak kiltivatè ak chak ti biznis ka prete a yon pri jis yo pibliye; okenn fanmi pa pèdi tè li oswa rekòt li nan men yon ponya; e sistèm finansye a kenbe kanpe lè siklòn pase.
+
+### 98.3 Yon kont gratis pou chak granmoun
+
+1. **Yon kont debaz sou sistèm peman nasyonal la** (Pati 32), yo louvri l ak kat idantite nasyonal la, san frè chak mwa, ou ka sèvi avè l sou telefòn, ak yon kat debi si w mande l.
+2. **Tout peman piblik ale la:** salè, pansyon, alokasyon fanmi, acha rekòt, ranbousman.
+3. **Ajan nan chak seksyon kominal** (boutik, kès popilè, pwen lapòs) kote moun ka depoze ak retire lajan kach.
+
+### 98.4 Bank Devlopman Ayisyen an
+
+1. **Yon sèl bank devlopman piblik** pou jaden, lapèch, transfòmasyon, ti ak mwayen biznis, lojman ak jèn antreprenè, yo bati l ak enstitisyon finansye piblik Leta genyen deja olye yo kreye yon lòt bò kote yo.
+2. **Li prete sitou atravè lòt moun.** Li refinanse kès popilè, enstitisyon mikwofinans ak bank komèsyal ki prete kiltivatè ak ti biznis, pou ofisye prè a rete pre moun k ap prete a.
+3. **Pa gen prè politik.** Se ofisye prè ki fòme ki pran desizyon kredi dapre règ yo pibliye. Yon prè pou yon minis, yon manm Asanble, yon jij, fanmi yo oswa konpayi yo, yo pibliye l ak non moun nan epi komite odit konsèy la apwouve l (Pati 39).
+4. **Yon konsèy kwaze** (bank santral, òganizasyon kiltivatè ak biznis, kès popilè, ekspè endepandan, sitwayen yo tire osò), ak kont chak ane yo odite epi pibliye.
+5. **Rezilta yo sou rejis piblik la:** prè pa komin, pa sektè, pa sèks ak pa gwosè; to moun ki pa ka peye; konbyen chak prè koute.
+
+### 98.5 Fè prè posib san papye tè
+
+1. **Yon fon garanti** (Pati 59.1) ki peye yon pati nan pèt la si yon prè pou jaden oswa ti biznis pa peye, pa egzanp mwatye. Moun ki prete a toujou kenbe yon pati nan risk la, pou l kontinye tcheke byen.
+2. **Nouvo bagay ka sèvi garanti:** bèt, zouti, motosiklèt, yon kontra acha ak Biwo Ekspòtasyon Leta a (Pati 51.2), ak **resi depo:** yon kiltivatè depoze diri, kafe oswa kakawo nan depo anbalaj komin nan (Pati 95.4), li resevwa yon resi, epi li prete sou resi a olye li vann nan sezon rekòt lè pri a pi ba.
+3. **Yon rejis piblik garanti mobil,** sou entènèt, pou yon moun ki prete ka wè si yon bèt oswa yon machin deja sèvi garanti.
+4. **Prè an gwoup** atravè koperativ ak gwoupman kiltivatè, kote manm yo garanti youn lòt.
+5. **Kadas tè a** (Pati 20) ap pèmèt tè sèvi garanti pita, ak yon règ: **yo pa ka sezi kay yon fanmi ak dènye ti moso tè li pou yon ti prè.**
+
+### 98.6 Asirans kont siklòn ak sechrès
+
+- **Asirans jaden pa endis:** lè lapli, van oswa yon tranblemanntè depase yon nivo yo mezire nan yon zòn, chak kiltivatè ki asire la touche otomatikman, san yon enspektè pa bezwen vizite chak jaden.
+- **Leta peye yon pati nan prim lan** pou ti kiltivatè nan premye ane yo.
+- Ayiti sèvi tou ak **asirans dezas rejyonal** pou Leta li menm, pou lajan piblik rive vit apre yon siklòn.
+
+### 98.7 Règ pou prete onètman
+
+1. **Yon sèl pri, an kreyòl.** Chak prè montre tout sa li koute pa ane, tout frè ladan l, nan yon sèl chif, sou yon sèl paj, an kreyòl. Frè kache pa valab.
+2. **Yo pibliye to enterè mwayen pa kalite enstitisyon** chak twa mwa, pou moun ka konpare.
+3. **Lisans pou ponya.** Nenpòt moun ki prete lajan pou fè pwofi kòm biznis anrejistre. Menas, vyolans, pran papye yon timoun, oswa pran tè san lòd tribinal se krim.
+4. **Yon sèvis plent ak medyasyon gratis** nan bank santral la pou diskisyon sou bank ak prè.
+5. **Yon istwa kredi pou pòv yo.** Biwo enfòmasyon kredi bank santral la mete kès popilè, mikwofinans, ak peman alè bòdwo telefòn ak kouran ladan l, pou yon moun ki pa janm gen prè bank ka toujou pwouve li peye.
+6. **Asirans depo:** yon fon bank yo peye pwoteje depo ti epay yo.
+
+### 98.8 Bank ki prete ann Ayiti
+
+- Bank santral la kontinye epi ranfòse ankourajman li yo (rezèv obligatwa pi ba) pou bank ki prete agrikilti ak ti biznis.
+- **Chak bank pibliye** chak twa mwa konbyen nan depo li yo li prete sektè prive ann Ayiti, pa sektè ak pa depatman.
+- **Nouvo bank ak nouvo kès popilè ka antre** anba règ prideyans sevè, pou se pa kèk enstitisyon sèlman ki deside pou tout peyi a.
+- **Kès popilè ak mikwofinans** gen yon lwa modèn epi yo sipèvize yo dapre risk, pou epay yo an sekirite.
+
+### 98.9 Ekonomi tradisyonèl: sòl la
+
+Sòl la finanse fanmi ayisyen depi plizyè jenerasyon.
+
+- Yo **rekonèt li epi yo kite l lib.** Pa bezwen lisans pou yon sòl ant moun ki konnen youn lòt.
+- Yon **sòl dijital, si moun vle,** sou sistèm peman nasyonal la anrejistre chak peman ak chak men, pou pèsonn pa ka disparèt ak kòb la.
+- Yon gwoup sòl ki fè ekonomi regilyèman ka sèvi ak istwa li pou jwenn yon prè an gwoup (98.5).
+
+### 98.10 Dyaspora a kòm envestisè
+
+- **Kont ak bon dyaspora** pou pwojè ki rapòte (kouran, irigasyon, lojman), janm pou salè (Pati 59.3).
+- **Yon transfè ka tounen yon prè lojman:** yon fanmi ki resevwa transfè regilyèman ka sèvi ak istwa sa a pou prete pou yon kay ki bati dapre nòm sekirite a (Pati 64).
+
+### 98.11 Aprann sou lajan
+
+Leson sou lajan nan chak lekòl depi laj 10 an: fè ekonomi, enterè, bidjè, sòl la, kijan pou li yon prè, ak kijan pou rekonèt yon magouy. Kou kout gratis pou kiltivatè ak machann nan chak Kay Souvren.
+
+### 98.12 Tès kapti ak limit onèt
+
+| Risk | Sa ki kanpe l |
+|---|---|
+| Bank devlopman an tounen kanari zanmi | Prè pou moun ki kouvri yo pibliye; konsèy kwaze; odit |
+| Fon garanti a peye pou move prè | Moun ki prete yo kenbe yon pati nan pèt la; yo pibliye to peman pa enstitisyon |
+| Konpayi asirans kaptire asirans lan | Apèl dòf piblik; règ peman pibliye anvan sezon an |
+
+- Yon bank devlopman ka pèdi anpil lajan. Bank agrikòl plizyè peyi te tonbe akoz prè politik ak dèt yo efase. Bank sa a prete sitou atravè lòt moun, li kite moun ki prete yo nan risk, epi li entèdi efase dèt an mas eksepte apre yon dezas yo deklare ak yon règ yo pibliye.
+- Règ pri jis ka fè kèk moun ki prete kite mache a. Se pou sa règ la se transparans ak lisans, se pa yon plafon di ki voye prè yo anba tab.
+- Anyen nan sa a pa mache toutotan gwoup ame kontwole wout yo. Sekirite vini anvan (Pati 59.1).
+
+---
+
+## PATI 99 — YON NASYON KONBIT: FANMI, VWAZEN, AK LAVI DEYÒ VIL KI TWÒ CHAJE
+
+### 99.1 Sa Ayiti te genyen, e li dwe kenbe
+
+Ann Ayiti, lè yon moun mouri, vwazen yo te vini: yo fè manje, yo veye tout nwit lan, yo pote kès la epi yo bay sa yo kapab. Lè yon timoun fèt, fanm lakou a te vin ede. Lè yon jaden te bezwen netwaye, konbit la te rasanble, yo travay ansanm ak chante, epi yo manje ansanm. **Se te pi fò sekirite sosyal Ayiti te janm genyen, e li pa t koute Leta anyen.** Vil ki twò chaje, vyolans ak migrasyon kraze anpil nan sa. Pati sa a pwoteje l epi rebati l.
+
+### 99.2 Prensip la
+
+**Leta sipòte fanmi ak kominote yo. Li pa ranplase yo, e li pa ba yo lòd.** Yo ofri èd, yo pa janm enpoze l (Pati 57.1).
+
+### 99.3 Rekonèt ak sipòte konbit
+
+1. **Jou Konbit:** chak seksyon kominal ka fè jou travay kominotè (wout, kanal, pwòpte, plante pyebwa, reparasyon lekòl). Komin nan bay zouti, materyo, dlo ak yon manje; Kowòdonatè Seksyon an (Pati 81) anrejistre travay la.
+2. **Konbit pou moun ki nan bezwen:** yon fanmi kay li domaje, oswa yon vèv ki pa ka travay jaden li, ka mande seksyon an yon konbit.
+3. **Patisipasyon lib e volontè.** Pèsonn pa oblije, pèsonn pa peye ak vòt, e pèsonn pa pini paske li pa vini.
+4. **Travay konbit konte** pou sèvis sivik jèn yo (Pati 38.4).
+
+### 99.4 Nesans ak lanmò: okenn fanmi pou kont li
+
+1. **Chak nesans:** yon vizit yon ajan sante kominotè nan premye semèn nan (Pati 36), yon twous bebe, ak enskripsyon nesans lan lakay.
+2. **Chak lanmò yon moun ki pòv:** yon alokasyon lantèman yo peye sou sistèm peman nasyonal la nan 48 è, yon plas diy nan yon simityè piblik yo antretni, ak èd pou batistè lanmò a.
+3. **Sosyete èd mityèl** (sosyete, sosyete lantèman, gwoup legliz) jwenn rekonesans ak yon anrejistreman senp, pwoteksyon kont magouy, epi yo ka resevwa yon ti kontribisyon piblik anplis lè kont yo klè.
+
+### 99.5 Lakou a nan lojman
+
+- Pwogram lojman an (Pati 34) ak règ sou tè (Pati 20) pèmèt **lakou fanmi**: plizyè kay yon fanmi otou yon lakou yo pataje, sou yon sèl tè, bati dapre nòm sekirite a (Pati 64).
+- Nouvo katye fèt otou **lakou yo pataje, ti plas, yon mache, yon lekòl ak yon teren espò** (Pati 96), pa ranje mi san fen.
+- **Granmoun aje rete ak fanmi yo** (Pati 57.2): yon alokasyon pou moun k ap okipe yo, vizit lakay, ak sant lajounen nan chak komin kote granpapa ak grann rankontre.
+
+### 99.6 Vwazen rezoud ti kont yo
+
+- **Yon biwo medyasyon kominotè nan chak seksyon kominal** pou ti diskisyon (lizyè tè, bèt, bwi, ti dèt, kont fanmi), medyatè ki fòme e kominote a chwazi ki okipe l, epi yo ekri akò a.
+- **Medyasyon gratis e volontè.** Li pa janm okipe krim vyolan, abi seksyèl oswa abi sou timoun; sa yo ale lapolis ak nan tribinal. Nenpòt moun ka ale nan tribinal pito.
+
+### 99.7 Lavi deyò vil ki twò chaje
+
+Pòtoprens grandi san plan paske travay, lekòl, lopital ak biwo te tout la. Pou lavi bon nan chak depatman:
+
+1. **Sèvis swiv moun:** yon lopital nan chak chèflye depatman, yon klinik nan 30 minit (Pati 5.5), lekòl segondè nan chak komin, kanpis inivèsite gaye nan tout peyi a (Pati 73).
+2. **Leta kite kapital la:** ajans nasyonal yo chita nan diferan depatman — pa egzanp ajans agrikilti nan Latibonit, lapèch nan Sid, ajans fwontyè toupre Pòt yo. Mwens moun bezwen deplase al nan kapital la pou travay pou Leta oswa pou regle afè ak li.
+3. **Travay kote tè a ye:** izin transfòmasyon, depo anbalaj ak chanm frèt nan komin yo (Pati 51, 95), pou yo transfòme manje kote li pouse.
+4. **Kouran ak entènèt nan chak seksyon** (Pati 5.3), pou yon jèn ka travay pou yon konpayi aletranje soti nan yon bouk.
+5. **Vil gwosè ki kòrèk:** plan komin nan (Pati 65) kenbe vil yo ba e vèt, ak mache, plas ak jaden.
+6. **Pèsonn pa oblije deplase.** Moun chwazi. Leta fè chwa pou rete oswa pou retounen lakay vin yon vrè chwa (Pati 52).
+
+### 99.8 Tès kapti ak limit onèt
+
+- Yon chèf lokal ka fè yon konbit tounen travay fòse, oswa yon pati ka fè l tounen yon okazyon pou achte vòt. Li volontè, dosye yo piblik, e senbòl pati entèdi ladan l (Pati 92).
+- Sosyete èd mityèl jere lajan; magouy rive. Kont klè se kondisyon pou sipò piblik.
+- Deplase ajans yo deyò kapital la koute lajan epi li ka deranje sèvis. Sa fèt biwo pa biwo, ak yon plan yo pibliye.
+
+---
+
+## PATI 100 — PWOTEJE TIMOUN AK KILTI AYISYEN: ANKOURAJE ANVAN, LIMITE SA KI FÈ MAL, ENTÈDI SÈLMAN PA YON JIJ
+
+### 100.1 Enkyetid la
+
+Anpil Ayisyen pè kilti ki soti deyò ap ranplase pa yo: mizik ak fim vyolan, chante k ap fè lwanj gwoup ame, ak respè k ap pèdi. Gwoup ame sèvi ak rezo sosyal, videyo mizik ak chante pou rekrite timoun, menase moun ak selebre ansasina. **Fòk yo pwoteje timoun yo, e fòk kilti ayisyen an fò.**
+
+### 100.2 Chwa Pati sa a fè
+
+Yon konsèy ki entèdi mizik, fim oswa tatou se yon zouti danjere. Nenpòt moun ki kontwole l deside sa Ayisyen ka tande ak wè, e yo ka sèvi avè l pou fèmen bouch chante revandikasyon ak moun ki kritike, jan diktati te fè l ann Ayiti ak lòt kote. Tès kapti a mande: "Si move moun te kontwole konsèy sa a, kisa yo t ap entèdi?" Repons lan se: chante ki kont yo.
+
+Kidonk Pati sa a fè twa bagay:
+
+1. **Ankouraje kilti ayisyen fò,** pou li genyen pa kalite ak prezans.
+2. **Pwoteje timoun** ak règ klè sou laj, lè ak kote.
+3. **Entèdi sèlman sa ki fè mal dirèkteman** (rekrite pou gwoup ame, menas, selebre vrè krim, kontni seksyèl ak timoun), e **sèlman pa lòd yon jij.**
+
+### 100.3 Ankouraje kilti ayisyen
+
+- **Mizik ayisyen sou radyo ayisyen:** estasyon radyo difize omwen mwatye mizik ayisyen (fèt ann Ayiti oswa pa dyaspora a), e estasyon televizyon omwen 40% pwogram ayisyen, sou senk ane.
+- **Finansman:** Fon Istwa Ayisyen an (Pati 40.8) sipòte fim, seri, mizik, pwogram pou timoun ak jwèt videyo ayisyen, an kreyòl anvan.
+- **Mizik nan chak lekòl** (Pati 72): konpa, rara, twoubadou, mizik rasin, mizik klasik ak mizik legliz, ak enstriman.
+- **Festival ak jou nasyonal** (Pati 57.4) finanse nan chak depatman; kanaval ak rara an sekirite e sipòte.
+- **Kreyòl sou entènèt:** kontni ayisyen sou platfòm yo, desen anime an kreyòl pou timoun, ak sipò pou kreyatè ayisyen.
+
+### 100.4 Pwoteje timoun
+
+1. **Klasman pa laj** pou fim, seri, jwèt videyo ak videyo mizik, pa yon konsèy klasman endepandan (paran, pwofesè, atis, sikològ timoun, sitwayen yo tire osò). Klasman an enfòme paran; li pa entèdi.
+2. **Règ sou lè:** televizyon ak radyo pa difize kontni vyolan oswa seksyèl anvan 10 è diswa.
+3. **Règ sou kote:** pa gen kontni vyolan oswa seksyèl nan lekòl, espas timoun, bis piblik oswa ekran piblik. Sinema tcheke laj pou fim pou granmoun.
+4. **Sou entènèt:** platfòm k ap travay ann Ayiti ofri kontwòl paran an kreyòl epi yo aji vit sou lòd tribinal (100.5).
+5. **Piblisite:** pa gen piblisite alkòl, tabak oswa jwèt aza ki vize timoun, ni toupre lekòl.
+6. **Pa gen tatou sou timoun:** li entèdi pou fè tatou sou yon moun ki poko gen 18 an.
+7. **Paran an premye:** konsèy gratis pou paran sou ekran, jwèt ak danje sou entènèt.
+
+### 100.5 Sa ki entèdi, ak kijan
+
+Sa yo se krim, se yon jij ki deside, se pa yon ministè:
+
+- **Kontni gwoup ame fè oswa peye** pou rekrite, menase, rakèt oswa selebre vrè ansasina, kidnapin oswa kadejak.
+- **Menas dirèk ak ankourajman** vyolans kont moun oswa gwoup yo idantifye (Pati 6; Pati 63 pou rasis).
+- **Kontni seksyèl ak timoun,** nan nenpòt fòm.
+
+Yon jij ka bay lòd pou retire kontni sa yo epi fèmen yon kont. Yo pibliye chak lòd ak rezon li, e moun ka fè apèl. **Okenn minis, chèf lapolis oswa konsèy pa ka entèdi yon chante, yon fim oswa yon liv pa desizyon.**
+
+### 100.6 Tatou ak stil pèsonèl
+
+- **Granmoun deside pou tèt yo.** Tatou, cheve ak rad se chwa prive (Pati 57.6).
+- **Sèvis an inifòm** (lapolis, lame, ladwàn, Gad Kòt) ka fikse règ sou tatou ki parèt pandan yo an inifòm, tankou anpil lame ak lapolis fè.
+- **Mak gang:** yon tatou pa janm yon krim e li pa janm yon prèv krim pou kont li.
+
+### 100.7 Limit onèt
+
+- Pifò jèn jwenn mizik ak fim yo sou telefòn ki soti aletranje. Kota sou radyo ak televizyon ayisyen ede, men vrè repons lan se kontni ayisyen ki bon ase pou konpetisyon.
+- "Mizik vyolan" vle di bagay diferan pou diferan moun. Yon règ ki baze sou gou ta aplike inegalman epi li ta ka vize katye pòv. Se pou sa Pati sa a entèdi konpòtman (rekrite, menase, selebre vrè krim), se pa stil.
+- **Desizyon ouvè:** pwopozisyon otè a pou ale pi lwen epi limite tatou, mizik ak fim vyolan pa lalwa anrejistre nan Pati 102.
+
+---
+
+## PATI 101 — DWÒG: SEVÈ TANKOU JAPON, AK TRETMAN POU MOUN KI DEPANDAN, E PA GEN BYENVENI POU ETRANJE K AP SÈVI AK DWÒG
+
+### 101.1 Poukisa sa enpòtan kounye a
+
+Ayiti vin tounen yon gwo pwen tranzi pou dwòg k ap soti Amerik di Sid pou ale Etazini ak nan Karayib la. Nasyonzini avèti gwoup ame ki kontwole koridò kle yo gen lyen ak rezo trafik entènasyonal. An jiyè 2025, otorite ayisyen te sezi 1,045 kg kokayin toupre Latòti, pi gwo sezi depi plis pase 30 an. **Lajan dwòg achte zam, polisye, jij ak vòt.** Yon peyi ki vle vin pi an sekirite sou latè (Pati 68) dwe fèmen pòt sa a.
+
+### 101.2 Modèl la
+
+Japon gen anpil mwens moun ki sèvi ak dwòg e li gen lwa trè sevè: posede ak sèvi ak dwòg se krim, sèvi ak kanabis vin tounen yon krim apa depi desanm 2024, e etranje yo kondane pou zafè dwòg depòte epi yo refize yo antre. Ayiti pran menm fèmte a, anndan pwòp Konstitisyon li, ki aboli pèn lanmò (1987, Atik 20).
+
+### 101.3 Règ yo
+
+1. **Pa gen dwòg lejal pou plezi.** Kanabis, kokayin, krak, ewoyin, metanfetamin, dwòg sentetik ak tout sa ki sanble yo entèdi pou plante, fabrike, enpòte, vann, pote oswa sèvi avè yo. Ministè Sante a, ansanm ak komisyon kontwòl dwòg la, mete yon lis piblik ajou.
+2. **Medikaman moun ka abize** (gwo kalmandoulè, kalman, estimilan) vann sèlman nan famasi, sou yon preskripsyon ki anrejistre, epi yo anrejistre chak vant.
+3. **Alkòl ak tabak rete lejal** pou granmoun 18 an oswa plis, san vann bay minè, san vann toupre lekòl, e san piblisite ki vize jèn yo. Bwason tradisyonèl tankou kleren fèt dapre Estanda Manje a (Pati 50).
+
+### 101.4 Pinisyon (limit pou ekip k ap ekri lwa a fikse egzakteman)
+
+| Ofans | Pinisyon |
+|---|---|
+| **Trafik, enpòte, fabrike oswa vann** | Pèn prizon long, pi lou pou gwo kantite, pou vann bay timoun, toupre lekòl, oswa lè se yon ofisyèl piblik; **yo konfiske tout byen ki soti nan komès la** (Pati 46) |
+| **Finanse oswa pwoteje trafikan** (ofisyèl, polisye, sòlda, jij, ladwàn) | Pèn ki pi lou nan Pati sa a, revokasyon, pèdi dwa pansyon yo te genyen pandan krim nan |
+| **Posede oswa sèvi, premye fwa** | Kondanasyon kriminèl, ak yon chwa: **tretman sipèvize ak tès pandan 6 a 12 mwa,** oswa prizon. Si moun nan reyisi, pèn nan sispann |
+| **Posede oswa sèvi, plizyè fwa** | Prizon, ak tretman anndan (Pati 42) |
+| **Kondui, pilote, oswa pote zam anba dwòg** | Prizon ak pèdi lisans lan |
+
+### 101.5 Etranje
+
+- **Yon etranje yo kondane pou nenpòt ofans dwòg** ann Ayiti fè pèn li, apre sa **yo depòte l, epi yo entèdi l antre ann Ayiti pou tout lavi.**
+- **Yon etranje ki gen yon kondanasyon dwòg nenpòt kote** ka refize viza oswa antre.
+- Yo respekte imite diplomatik, men yo deklare moun nan pa byenveni (*persona non grata*) epi yo fè ka a piblik.
+- **Yo pa janm depòte sitwayen ayisyen;** yo jije yo epi trete yo ann Ayiti (Pati 22).
+
+### 101.6 Tès
+
+Tès dwòg osò pou polisye, sòlda, Gad Kòt, ofisye ladwàn, jij, anplwaye prizon, pilòt, chofè bis ak kamyon, ak nenpòt moun ki pote yon zam ki gen lisans (Pati 61). Yon tès pozitif vle di retire moun nan nan sèvis, yon dezyèm tès, epi disiplin. Laboratwa akredite fè tès yo, ak dwa pou yon dezyèm echantiyon.
+
+### 101.7 Fèmen wout yo
+
+- **Siveyans lanmè, lè ak tè** (Pati 49, 90): rada, Gad Kòt, waf anrejistre, kontenè yo eskane, Liy fwontyè a sou siveyans 24 è.
+- **Chak pis aterisaj anrejistre;** yo detwi yon pis ki pa anrejistre.
+- **Swiv lajan an:** inite entèlijans finansye a (UCREF) ak rejis piblik la (Pati 8) swiv lajan dwòg; bank rapòte tranzaksyon ki sispèk (Pati 98).
+- **Koperasyon rejyonal** ak patnè Karayib ak Ameriken sou entèlijans ak ekstradisyon, **anba kòmandman ayisyen** (Pati 44).
+
+### 101.8 Prevansyon ak tretman
+
+- **Prevansyon nan chak lekòl** depi laj 10 an, espò ak mizik kòm altènativ (Pati 72, 96).
+- **Yon sant tretman nan chak depatman** ak swen san entène nan chak komin, gratis anba asirans sante a (Pati 31).
+- **Yo ede fanmi yo,** yo pa fè yo wont: konsèy ak gwoup sipò.
+- **Jèn gwoup ame te sèvi** pou pote oswa vann dwòg swiv chemen dezyèm chans Pati 76 la si yo pa t fè okenn gwo krim.
+
+### 101.9 Tès kapti ak limit onèt
+
+- **Lwa dwòg ka tounen yon zouti pou vize pòv yo** pandan gwo trafikan yo achte libète yo. Yo pibliye kantite pousuit pa kantite yo sezi ak pa nivo (ti machann nan lari, transpòtè, òganizatè, moun ki finanse). Yon sistèm ki mete sèlman ti machann nan lari nan prizon pa mache.
+- **Mete dwòg sou yon moun** se yon krim grav. Yo filme chak fouy (Pati 62), e yo peze epi sele dwòg yo sezi devan yon temwen.
+- **Lwa sevè pa mache pou kont yo.** Si Japon gen mwens dwòg, se tou akoz kilti, fanmi ak yon lapolis fò; Ayiti dwe bati sa yo tou.
+- Tretman koute lajan, men prizon koute plis.
+
+---
+
+## PATI 102 — REJIS REVIZYON SA A (PATI 98–101)
+
+### 102.1 Sa ki chanje
+
+| Ansyen tèks | Chanjman |
+|---|---|
+| Pati 32 ak 59.1: sistèm peman an ak fon garanti a | Yon kont gratis pou chak granmoun; yon bank devlopman; nouvo garanti; asirans jaden; règ pou prete onètman; sòl la (Pati 98) |
+| Pati 57: fanmi ak tradisyon | Konbit, èd pou nesans ak lanmò, lakou a, medyasyon kominotè, lavi deyò vil ki twò chaje (Pati 99) |
+| Pati 6 ak 40.8: medya ak istwa | Kota kontni ayisyen, pwoteksyon timoun pa laj, lè ak kote, entèdiksyon sèlman pa yon jij (Pati 100) |
+| Pa t gen okenn Pati sou dwòg | Lwa dwòg sevè, tretman, depòtasyon ak entèdiksyon pou tout lavi pou etranje ki fè ofans, tès, fèmen wout yo (Pati 101) |
+
+### 102.2 Sa yo te tcheke, ak sa yo pa t tcheke
+
+**Tcheke:** etid Bank Mondyal 2019 la sou finansman agrikòl ann Ayiti; avètisman Nasyonzini ak sezi jiyè 2025 la toupre Latòti (atik laprès); chanjman desanm 2024 nan lwa kanabis Japon (atik laprès).
+
+**Pa verifye:** pinisyon egzak nan lwa japonè a ak konbyen tan Japon entèdi antre; lwa dwòg Ayiti genyen jodi a ak travay komisyon kontwòl dwòg li; chif prè ak kont jodi a (chif 2019 yo ka chanje); règ asirans depo ak enfòmasyon kredi bank santral la jodi a.
+
+### 102.3 Desizyon ouvè yo ajoute
+
+73. **Kilti:** apwòch Pati 100 la (ankouraje, pwoteje timoun, entèdi sèlman pa yon jij), oswa pwopozisyon otè a pou limite tatou, mizik ak fim vyolan pa lalwa.
+74. Pinisyon egzak pou dwòg ak longè tretman sipèvize a (Pati 101).
+75. Kota radyo ak televizyon pou kontni ayisyen (Pati 100).
+76. Ki enstitisyon piblik ki fòme bank devlopman an (Pati 98).
+77. Ki ajans nasyonal ki deplase nan ki depatman (Pati 99).
+
+---
+
 ## REZIME: SA POU NOU POTE POU PI DEVAN
 
 Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, oswa nenpòt moun k ap revize l pou kontinye amelyore l — se yon eskèlèt estrikti, se pa yon konstitisyon ki fini. Pwochen etap onèt pou nenpòt pati ladan l se menm kesyon nou poze toupatou a: *si yo ta kaptire biwo sa a oswa règ sa a, oswa si yo ta abize l, kisa ki kanpe sa — epi èske mekanis ki kanpe l la se yon lòt ògàn, ki chwazi yon lòt jan, sou yon lòt kalandriye, pase sa l ap kontwole a?* Kèlkeswa kote repons lan se "anyen" oswa "menm moun yo," seksyon sa a bezwen yon lòt revizyon anvan yo aplike l.
@@ -4715,3 +5006,5 @@ Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, os
 **Sa katriyèm revizyon novanm 2026 la (Pati 80–89) chanje:** Konsèy Egzekitif la kenbe sèt manm, men li jwenn sa konsèy anvan yo te manke: manm yo chwazi youn pa youn, anyen pou yo separe ant yo, yon règ majorite ak yon dat limit, yon sèl Premye Kowòdonatè pou dezan, ak vòt piblik (Pati 80). Chak komin gen yon sèl Majistra e chak seksyon gen yon sèl Kowòdonatè (Pati 81). Manm Konsèy yo fèt ann Ayiti e yo gen omwen 35 an; dyaspora a ka sèvi nan lòt pòs; moun k ap gouvène yo rete ann Ayiti ak fanmi yo (Pati 82). Avoka ak chak pwofesyon antre pa egzamen nasyonal e yo rann kont devan yon disiplin endepandan (Pati 83). Prelèvman sou transfè lajan an ak PetroCaribe pase odit nèt, e okenn prelèvman pa egziste san yon rejis piblik (Pati 84). *Restavèk* ak lavi timoun nan lari fini anvan yon dat ki fikse (Pati 85). Enèji gen yon abit endepandan (Pati 86). Yo fè odit anbasad yo anvan yo chanje yo (Pati 87). Travay la pwoteje pa dwa otè, e yo anrejistre telechajman yo (Pati 88). Liy fwontyè a gen moun sou li lajounen kou lannuit, e mache fwontyè yo mache anba règ yo pibliye (Pati 90).
 
 **Sa senkyèm revizyon novanm 2026 la (Pati 91–97) chanje:** pèsonn pa touche salè si yo anboche l andeyò yon lis klasman yo pibliye, e anbochaj chak ministè se pou yon sèl kay resous imen endepandan (Pati 91). Sitwayen ka vize yon wòl ki mande konpetans nan yon pisin sible, pa egzamen ak kalifikasyon, janm pa peye pou plis chans (Pati 91.5). Chak travayè piblik fè sèman pou l sèvi peyi a, se pa yon pati, e chak biwo afiche sa li bezwen, konbyen sa koute ak konbyen tan sa pran (Pati 92). Asanble a reyini sou yon kalandriye fiks, li vote ak non chak moun, e li ranpli nenpòt chèz vid ak yon lis rezèv nan de semèn (Pati 93). Chak ofisyèl resevwa fòmasyon anvan li sèvi, tankou kijan pou defann Ayiti aletranje (Pati 94). Yo fè kat manje chak komin epi yo deplase l ak yon chèn fre ak batiman sou lakòt (Pati 95). Chak lekòl jwenn yon teren, yon teren plizyè espò ak yon pwofesè edikasyon fizik, ak chanpyona soti nan komin rive nan nasyon an (Pati 96).
+
+**Sa sizyèm revizyon novanm 2026 la (Pati 98–102) chanje:** chak granmoun jwenn yon kont gratis, e kiltivatè ak ti biznis ka prete sou bèt, zouti, kontra ak rekòt ki nan depo, ak yon fon garanti, asirans pa endis ak yon sèl pri klè an kreyòl (Pati 98). Konbit, èd mityèl pou nesans ak lanmò, lakou a ak medyasyon kominotè jwenn pwoteksyon, e sèvis ak ajans deplase soti nan kapital ki twò chaje a (Pati 99). Mizik ak istwa ayisyen jwenn tan sou lè ak lajan, timoun jwenn pwoteksyon pa laj, lè ak kote, e se sèlman yon jij ki ka entèdi kontni ki rekrite pou gwoup ame, ki menase oswa ki selebre vrè krim (Pati 100). Dwòg entèdi pou fabrike, vann, pote oswa sèvi; trafikan pèdi byen yo; moun k ap sèvi premye fwa chwazi tretman oswa prizon; etranje ki fè ofans depòte epi entèdi pou tout lavi (Pati 101).

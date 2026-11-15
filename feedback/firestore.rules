@@ -111,7 +111,7 @@ service cloud.firestore {
       return d.keys().hasOnly(['uid','name','email','country','part','lang','at']) && d.keys().hasAll(['uid','name','email','country','part','lang','at'])
         && d.uid == request.auth.uid && d.email == request.auth.token.email
         && s(d.name, 2, 120) && s(d.country, 2, 60)
-        && d.part is int && d.part >= 0 && d.part <= 90      // 0 = the full document
+        && d.part is int && d.part >= 0 && d.part <= 102      // 0 = the full document
         && d.lang in ['en','ht'] && d.at == request.time
         && exists(/databases/$(database)/documents/readers/$(request.auth.uid));
     }

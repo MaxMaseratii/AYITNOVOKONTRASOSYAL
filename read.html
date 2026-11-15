@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Ayiti Nouvo Kontra Sosyal · Document</title>
-<meta name="description" content="The full 97-part document, in English and Kreyòl ayisyen. Prepared and built by Bachelin Max Etienne, MD, MHSc.">
+<meta name="description" content="The full 102-part document, in English and Kreyòl ayisyen. Prepared and built by Bachelin Max Etienne, MD, MHSc.">
 <meta name="author" content="Bachelin Max Etienne, MD, MHSc">
 <meta name="copyright" content="© 2026 Bachelin Max Etienne. All rights reserved.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -130,9 +130,9 @@ var qs=/[?&]l=(en|ht)/.exec(location.search);if(qs)lang=qs[1];
 var DOC={},cur=1,query="";
 function t(k){return UI[lang][k]}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]})}
-function label(s){return s.id===0?t("intro"):s.id===-1?s.t:s.id===99?t("sum"):s.t.replace(/^(PART|PATI) \d+\s*[—-]\s*/,"")}
-function num(s){return s.id>=1&&s.id<=90?String(s.id):"·"}
-function key(s){return s.id===0?"intro":s.id===-1?"about":s.id===99?"summary":"p"+s.id}
+function label(s){return s.id===0?t("intro"):s.id===-1?s.t:s.id===999?t("sum"):s.t.replace(/^(PART|PATI) \d+\s*[—-]\s*/,"")}
+function num(s){return s.id>=1&&s.id<=102?String(s.id):"·"}
+function key(s){return s.id===0?"intro":s.id===-1?"about":s.id===999?"summary":"p"+s.id}
 function idx(k){var d=DOC[lang];for(var i=0;i<d.length;i++)if(key(d[i])===k)return i;return -1}
 function plain(h){var d=document.createElement("div");d.innerHTML=h;return d.textContent}
 function load(l){
@@ -155,11 +155,11 @@ function show(i,keepScroll){
   $("#doc").innerHTML=s.h;
   [].forEach.call(document.querySelectorAll("#tocL a"),function(a){var on=+a.dataset.i===i;a.setAttribute("aria-current",on?"true":"false");if(on&&a.scrollIntoView&&window.innerWidth>900)a.scrollIntoView({block:"nearest"})});
   $("#prev").disabled=i===0;$("#next").disabled=i===d.length-1;
-  $("#dl1").hidden=!(s.id>=1&&s.id<=90);
-  document.title=(s.id>=1&&s.id<=90?t("part")+" "+s.id+" · ":"")+"Ayiti Nouvo Kontra Sosyal";
+  $("#dl1").hidden=!(s.id>=1&&s.id<=102);
+  document.title=(s.id>=1&&s.id<=102?t("part")+" "+s.id+" · ":"")+"Ayiti Nouvo Kontra Sosyal";
   if(query)hilite();
   if(!keepScroll)window.scrollTo(0,0);
-  if(window.innerWidth<=900)$("#toc").open=false;
+  if(window.innerWidth<=1020)$("#toc").open=false;
 }
 function hilite(){
   var re=new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),"gi"),w=document.createTreeWalker($("#doc"),NodeFilter.SHOW_TEXT),n,list=[];
@@ -173,7 +173,7 @@ function search(v){
   var ql=query.toLowerCase(),hits=[];
   d.forEach(function(s,i){if(s.x==null)s.x=plain(s.h);var p=s.x.toLowerCase().indexOf(ql);if(p>=0){var c=0,q=p;while(q>=0){c++;q=s.x.toLowerCase().indexOf(ql,q+ql.length)}hits.push({i:i,c:c,sn:s.x.slice(Math.max(0,p-70),p+ql.length+110)})}});
   $("#dl1").hidden=true;
-  $("#doc").innerHTML="<h2>"+hits.length+" "+esc(t("results"))+" “"+esc(query)+"”</h2>"+(hits.length?"<ul class='res'>"+hits.map(function(h){var s=d[h.i];return "<li><a href='#"+key(s)+"'><b>"+(s.id>=1&&s.id<=90?s.id+". ":"")+esc(label(s))+"</b> · "+h.c+"<span>…"+esc(h.sn)+"…</span></a></li>"}).join("")+"</ul>":"<p>"+esc(t("none"))+"</p>");
+  $("#doc").innerHTML="<h2>"+hits.length+" "+esc(t("results"))+" “"+esc(query)+"”</h2>"+(hits.length?"<ul class='res'>"+hits.map(function(h){var s=d[h.i];return "<li><a href='#"+key(s)+"'><b>"+(s.id>=1&&s.id<=102?s.id+". ":"")+esc(label(s))+"</b> · "+h.c+"<span>…"+esc(h.sn)+"…</span></a></li>"}).join("")+"</ul>":"<p>"+esc(t("none"))+"</p>");
 }
 function route(keep){
   var h=location.hash.replace(/^#/,"")||"p1";var i=idx(h);show(i<0?idx("p1"):i);
@@ -189,7 +189,7 @@ $("#next").onclick=function(){if(cur<DOC[lang].length-1)location.hash=key(DOC[la
 [].forEach.call(document.querySelectorAll(".seg button"),function(b){b.onclick=function(){setLang(b.dataset.l)}});
 var tm;$("#q").addEventListener("input",function(e){clearTimeout(tm);var v=e.target.value;tm=setTimeout(function(){search(v)},180)});
 $("#doc").addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a[href^='#']");if(a&&query){query="";$("#q").value=""}});
-if(window.innerWidth<=900)$("#toc").open=false;
+if(window.innerWidth<=1020)$("#toc").open=false;
 
 /* ---------- downloads: account required, every download recorded ---------- */
 var C=(window.VOICE_CONFIG||{}).firebase||{},READY=!!(C.projectId&&C.apiKey),FB=null,USER=null,PROFILE=null,want=null;

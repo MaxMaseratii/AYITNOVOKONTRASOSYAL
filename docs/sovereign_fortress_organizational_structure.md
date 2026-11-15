@@ -18,6 +18,7 @@ Two corrections carried over from the design review, applied throughout:
 6. **Parts 69–79 (November 2026, third revision)** record the decisions taken on Parts 61–68 (69) and add: a national cleanliness service, lasting roads with fast repair, public toilets and maintained networks (70); energy and materials from waste, with every company taking back its bottles (71); book-first schooling built for the child's brain (72); the State University of Haiti rebuilt on three, then five, great campuses (73); a written contract for every job and wages always paid (74); shared prosperity and world companies on Haitian terms (75); a second chance for young people used by armed groups (76); justice for the great crimes, from Dessalines to today (77); and a model city (78). Part 79 lists the corrections and the decisions still open.
 7. **Parts 80–89 (November 2026, fourth revision)** answer the hardest objection to this design, seven leaders or one, and fix the rules of the Executive Council (80); replace three-member town halls and section councils with one accountable Mayor and one Section Coordinator (81); set who may serve, with Council members born in Haiti and officials' families living in Haiti (82); add a State Bar Examination and one standard for every profession (83); demand the accounts of the US$1.50 transfer levy and PetroCaribe under the rule "no levy without a ledger" (84); end *restavèk* and street childhood by a set date (85); regulate energy (86); take the lessons of the author's earlier diplomacy paper (87); and protect this work in law (88). Part 89 is the record. **Part 90** sets the 24-hour watch on the border Line and the rules for binational markets.
 8. **Parts 91–97 (November 2026, fifth revision)** make the NASA the one human-resources house for every ministry and lock merit into the payroll, and add targeted pools for skilled roles (91); a service oath, no party work in post, and a Service Charter for equal, fast, clear service (92); the Assembly's calendar, roll call, quorum and absence rules with a reserve list (93); one to three months of training before or at the start of every post, and learning for life (94); what each département grows and how food travels (95); sport in every school and section with school championships (96). Part 97 is the record.
+9. **Parts 98–102 (November 2026, sixth revision)** bring money to farmers and small business: a free account for every adult, a development bank, new collateral, farm insurance and fair lending (98); rebuild *konbit*, help at birth and death, the *lakou*, and life beyond the crowded city (99); protect children and promote Haitian culture, with bans only by a judge (100); and set strict drug laws like Japan's, with treatment, testing, and deportation and a life ban for foreign offenders (101). Part 102 is the record.
 
 ---
 
@@ -4701,6 +4702,296 @@ Sport builds health, discipline, teamwork and pride. It keeps young people busy 
 
 ---
 
+## PART 98 — MONEY THAT WORKS FOR HAITIANS: BANKS, SAVINGS, AND LOANS FOR FARMS AND SMALL BUSINESS
+
+### 98.1 The problem in numbers
+
+A World Bank study published in 2019 found that:
+
+- only about **0.8% of bank loans** in Haiti went to agriculture, the country's largest employer;
+- only about **3% of rural adults** had a formal loan, and only about **17%** had an account at a financial institution;
+- farmers who borrow informally often pay **10–20% for one crop season**, and some moneylenders charge **more than 20% a month**;
+- the main barriers are no accepted collateral, land without papers, no insurance against storms and drought, few roads and stores, and banks that see farming as too risky.
+
+**Haitians save and work hard. The money does not reach them.** Deposits are lent to a few large firms and to the state, while the farmer, the *madan sara* and the young workshop owner go to the moneylender.
+
+### 98.2 The goal
+
+Within ten years: every adult has a free basic account; every farmer and small business can borrow at a fair, published price; no family loses its land or its harvest to a loan shark; and the financial system survives storms without collapsing.
+
+### 98.3 A free account for every adult
+
+1. **A basic account on the payment rail** (Part 32), opened with the national ID card, free of monthly fees, usable by phone, with a debit card on request.
+2. **Every public payment goes there:** wages, pensions, family allowance, farm purchases, refunds.
+3. **Agents in every communal section** (shops, credit unions, post points) where cash can be put in and taken out.
+
+### 98.4 The Haitian Development Bank
+
+1. **One public development bank** for farms, fishing, processing, small and medium business, housing and young entrepreneurs, built from the State's existing public financial institutions rather than a new one beside them.
+2. **It mostly lends through others.** It refinances credit unions, microfinance institutions and commercial banks that lend to farmers and small firms, so the loan officer stays close to the borrower.
+3. **No political loans.** Credit decisions are made by trained loan officers under published rules. A loan to a minister, an Assembly member, a judge, their families or their companies is published by name and approved by the board's audit committee (Part 39).
+4. **A cross-selected board** (central bank, farmers' and business organizations, credit unions, independent experts, citizens drawn by lot), and annual accounts audited and published.
+5. **Results on the ledger:** loans by commune, sector, gender and size; default rates; cost per loan.
+
+### 98.5 Making loans possible without land papers
+
+1. **A guarantee fund** (Part 59.1) that pays part of the loss if a farm or small-business loan fails, for example half. The lender always keeps part of the risk, so it still checks carefully.
+2. **New things can serve as collateral:** animals, tools, motorbikes, a purchase contract with the State Export Board (Part 51.2), and **warehouse receipts:** a farmer stores rice, coffee or cocoa at the commune packing house (Part 95.4), receives a receipt, and borrows against it instead of selling at harvest when prices are lowest.
+3. **A public register of movable collateral,** online, so that a lender can see if an animal or a machine is already pledged.
+4. **Group loans** through cooperatives and farmers' groups, where members guarantee each other.
+5. **The land cadastre** (Part 20) will later let land serve as collateral, with a rule that **a family's home and last plot cannot be seized for a small loan.**
+
+### 98.6 Insurance against storms and drought
+
+- **Farm insurance by index:** when rain, wind or an earthquake passes a measured level in a zone, every insured farmer there is paid automatically, without an inspector visiting each field.
+- **The State pays part of the premium** for small farmers in the first years.
+- Haiti also uses **regional disaster insurance** for the State itself, so that public money arrives quickly after a hurricane.
+
+### 98.7 Fair lending rules
+
+1. **One price, in Kreyòl.** Every loan shows the total yearly cost, all fees included, in one number, on one page, in Kreyòl. Hidden fees are void.
+2. **Average interest rates by type of lender are published** each quarter, so borrowers can compare.
+3. **Licences for moneylenders.** Anyone who lends for profit as a business registers. Threats, violence, seizing a child's papers, or taking land without a court order are crimes.
+4. **A free complaint and mediation service** at the central bank for bank and loan disputes.
+5. **A credit history for the poor.** The central bank's credit information office includes credit unions, microfinance, and on-time payment of phone and electricity bills, so that a person without a bank loan can still prove they pay.
+6. **Deposit insurance:** small savers' deposits are protected by a fund paid for by the banks.
+
+### 98.8 Banks that lend in Haiti
+
+- The central bank continues and strengthens its incentives (lower reserve requirements) for banks that lend to agriculture and small business.
+- **Each bank publishes** each quarter how much of its deposits it lends to the private sector in Haiti, by sector and département.
+- **New banks and credit unions may enter** under strict prudential rules, so that a few institutions do not decide for the whole country.
+- **Credit unions and microfinance** are regulated by a modern law and supervised by risk, so that savers are safe.
+
+### 98.9 Traditional savings: the *sòl*
+
+The *sòl* (rotating savings group) has financed Haitian families for generations.
+
+- It is **recognized and left free.** No licence is needed for a *sòl* among people who know each other.
+- An **optional digital *sòl*** on the payment rail records each payment and each turn, so no one can disappear with the pot.
+- A *sòl* group that saves regularly can use its record to get a group loan (98.5).
+
+### 98.10 The diaspora as investor
+
+- **Diaspora accounts and bonds** for projects that earn (power, irrigation, housing), never for salaries (Part 59.3).
+- **A remittance can become a mortgage:** a family that receives regular transfers can use that record to borrow for a house built to the safety standard (Part 64).
+
+### 98.11 Learning about money
+
+Money lessons in every school from the age of 10: saving, interest, budgets, the *sòl*, how to read a loan, and how to recognize a fraud. Free short courses for farmers and traders at every Sovereign House.
+
+### 98.12 Capture test and honest limits
+
+| Risk | What stops it |
+|---|---|
+| The development bank becomes a piggy bank for friends | Published loans to covered persons; cross-selected board; audits |
+| The guarantee fund pays for bad loans | Lenders keep part of the loss; payout rates published by lender |
+| Insurance is captured by insurers | Public tender; payout rules published before the season |
+
+- A development bank can lose a lot of money. Several countries' farm banks failed through political loans and forgiven debts. This bank lends mostly through others, keeps lenders at risk, and forbids mass debt forgiveness except after a declared disaster with a published rule.
+- Fair-price rules can push some lenders out of the market. That is why the rule is transparency and licensing, not a hard cap that drives lending underground.
+- None of this works while armed groups control roads. Security comes first (Part 59.1).
+
+---
+
+## PART 99 — A *KONBIT* NATION: FAMILY, NEIGHBOURS, AND LIFE BEYOND THE CROWDED CITY
+
+### 99.1 What Haiti had, and must keep
+
+In Haiti, when someone died, the neighbours came: they cooked, sat up through the night, carried the coffin and gave what they could. When a child was born, the women of the *lakou* came to help. When a field had to be cleared, the *konbit* gathered, worked together with songs, and ate together. **This is the strongest social security Haiti ever had, and it cost the State nothing.** Crowded cities, violence and migration have broken much of it. This Part protects and rebuilds it.
+
+### 99.2 The principle
+
+**The State supports families and communities. It does not replace them, and it does not order them.** Help is offered, never imposed (Part 57.1).
+
+### 99.3 *Konbit* recognized and supported
+
+1. **Konbit Days:** each communal section may hold community work days (roads, drains, cleaning, tree planting, school repair). The commune supplies tools, materials, water and a meal; the Section Coordinator (Part 81) records the work.
+2. **Konbit for the needy:** a family whose house was damaged, or a widow who cannot work her field, may ask the section for a *konbit*.
+3. **Participation is free and voluntary.** Nobody is forced, paid in votes, or punished for not coming.
+4. **Konbit work counts** toward young people's civic service (Part 38.4).
+
+### 99.4 Birth and death: no family alone
+
+1. **Every birth:** a visit by a community health agent in the first week (Part 36), a baby kit, and birth registration at home.
+2. **Every death of a poor person:** a burial allowance paid on the payment rail within 48 hours, a dignified place in a maintained public cemetery, and help with the death certificate.
+3. **Mutual aid societies** (*sosyete*, funeral and burial societies, church groups) are recognized by a simple registration, protected from fraud, and may receive a small public matching contribution when their accounts are clear.
+
+### 99.5 The *lakou* in housing
+
+- The housing program (Part 34) and the land rules (Part 20) allow **family compounds**: several houses of one family around a shared yard, on one plot, built to the safety standard (Part 64).
+- New neighbourhoods are designed around **shared courtyards, small squares, a market, a school and a sports ground** (Part 96), not endless rows of walls.
+- **Elders stay with the family** (Part 57.2): a caregiver allowance, home visits, and day centres in every commune where grandparents meet.
+
+### 99.6 Neighbours settle small quarrels
+
+- **A community mediation desk in every communal section** for small disputes (boundaries, animals, noise, small debts, family quarrels), run by trained mediators chosen by the community, with the agreement written down.
+- **Mediation is free and voluntary.** It never handles violent crimes, sexual abuse or abuse of children, which go to the police and courts. Anyone can go to court instead.
+
+### 99.7 Life beyond the crowded city
+
+Port-au-Prince grew without a plan because jobs, schools, hospitals and offices were all there. To make life good in every département:
+
+1. **Services follow people:** a hospital in every département capital, a clinic within 30 minutes (Part 5.5), secondary schools in every commune, university campuses spread across the country (Part 73).
+2. **The State leaves the capital:** national agencies are based in different départements — for example farm agencies in the Artibonite, fisheries in the South, border agencies near the Gates. Fewer people must move to the capital to work for the State or to deal with it.
+3. **Jobs where the land is:** processing plants, packing houses and cold rooms in the communes (Parts 51, 95), so food is processed where it grows.
+4. **Power and internet in every section** (Part 5.3), so a young person can work for a company abroad from a village.
+5. **Towns of the right size:** the commune plan (Part 65) keeps towns low and green, with markets, squares and gardens.
+6. **No one is forced to move.** People choose. The State makes the choice to stay or to return home a real one (Part 52).
+
+### 99.8 Capture test and honest limits
+
+- A *konbit* can be turned into forced labour by a local boss, or into a vote-buying event by a party. It is voluntary, records are public, and party symbols are forbidden at it (Part 92).
+- Mutual aid societies handle money; fraud happens. Clear accounts are the condition for public support.
+- Moving agencies out of the capital costs money and can disrupt service. It happens office by office, with a published plan.
+
+---
+
+## PART 100 — PROTECTING CHILDREN AND HAITIAN CULTURE: PROMOTE FIRST, LIMIT WHAT HARMS, BAN ONLY BY A JUDGE
+
+### 100.1 The concern
+
+Many Haitians worry that imported culture is replacing their own: violent music and films, songs that celebrate armed groups, and a loss of respect. Armed groups use social media, music videos and songs to recruit children, threaten people and celebrate killings. **Children must be protected, and Haitian culture must be strong.**
+
+### 100.2 The choice this Part makes
+
+A board that bans music, films or tattoos is a dangerous tool. Whoever controls it decides what Haitians may hear and see, and it can be used to silence protest songs and critics, as dictatorships have done in Haiti and elsewhere. The capture test asks: "If the wrong people controlled this board, what would they ban?" The answer is: songs against them.
+
+So this Part does three things:
+
+1. **Promote Haitian culture strongly,** so that it wins by quality and presence.
+2. **Protect children** with clear rules on age, time and place.
+3. **Ban only what causes direct harm** (recruiting for armed groups, threats, celebrating real crimes, sexual content involving children), and **only by a judge's order.**
+
+### 100.3 Promote Haitian culture
+
+- **Haitian music on Haitian airwaves:** radio stations broadcast at least half Haitian music (made in Haiti or by the diaspora), and television stations at least 40% Haitian programs, reached over five years.
+- **Funding:** the Storytelling Fund (Part 40.8) supports Haitian films, series, music, children's programs and video games, in Kreyòl first.
+- **Music in every school** (Part 72): konpa, rara, twoubadou, mizik rasin, classical and church music, with instruments.
+- **Festivals and national days** (Part 57.4) funded in every département; carnival and *rara* safe and supported.
+- **Kreyòl online:** Haitian content on platforms, children's cartoons in Kreyòl, and support for Haitian creators.
+
+### 100.4 Protect children
+
+1. **Age ratings** for films, series, video games and music videos, by an independent rating board (parents, teachers, artists, child psychologists, citizens drawn by lot). Ratings inform parents; they do not ban.
+2. **Time rules:** television and radio do not broadcast violent or sexual content before 10 p.m.
+3. **Place rules:** no violent or sexual content in schools, children's spaces, public buses or public screens. Cinemas check age for adult films.
+4. **Online:** platforms operating in Haiti offer parental controls in Kreyòl and act quickly on court orders (100.5).
+5. **Advertising:** no advertising of alcohol, tobacco or gambling aimed at children, or near schools.
+6. **No tattoos on children:** tattooing a person under 18 is forbidden.
+7. **Parents first:** free guidance for parents on screens, games and online risks.
+
+### 100.5 What is banned, and how
+
+These are crimes, decided by a judge, not by a ministry:
+
+- **Content made or paid for by armed groups** to recruit, threaten, extort or celebrate real killings, kidnappings or rapes.
+- **Direct threats and incitement** to violence against identified people or groups (Part 6; Part 63 for racism).
+- **Sexual content involving children,** in any form.
+
+A judge can order the removal of such content and the closing of an account. Every order is published with its reason and can be appealed. **No minister, police chief or board can ban a song, a film or a book by decision.**
+
+### 100.6 Tattoos and personal style
+
+- **Adults decide for themselves.** Tattoos, hair and dress are private choices (Part 57.6).
+- **Uniformed services** (police, army, customs, Coast Guard) may set rules on visible tattoos while in uniform, like many armies and police forces.
+- **Gang marks:** a tattoo is never a crime and never proof of a crime on its own.
+
+### 100.7 Honest limits
+
+- Most young people get their music and films on phones from abroad. Quotas on Haitian radio and television help, but the real answer is Haitian content good enough to compete.
+- "Violent music" means different things to different people. A rule built on taste would be applied unequally and could target poor neighbourhoods. That is why this Part bans conduct (recruiting, threats, celebrating real crimes), not styles.
+- **Open decision:** the author's proposal to go further and restrict tattoos and violent music and films by law is recorded in Part 102.
+
+---
+
+## PART 101 — DRUGS: STRICT LIKE JAPAN, WITH TREATMENT FOR THE ADDICTED AND NO WELCOME FOR FOREIGN USERS
+
+### 101.1 Why this matters now
+
+Haiti has become a major transit point for drugs moving from South America toward the United States and the Caribbean. The United Nations has warned that armed groups controlling key corridors are linked to international trafficking networks. In July 2025, Haitian authorities seized 1,045 kg of cocaine near Tortuga, the largest seizure in more than 30 years. **Drug money buys guns, police, judges and votes.** A country that wants to be the safest on earth (Part 68) must shut this door.
+
+### 101.2 The model
+
+Japan has very low drug use and very strict laws: possession and use of drugs are crimes, cannabis use was made a separate crime in December 2024, and foreigners convicted of drug offences are deported and refused entry. Haiti adopts the same firmness, inside its own Constitution, which abolished the death penalty (1987, Art. 20).
+
+### 101.3 The rules
+
+1. **No legal recreational drugs.** Cannabis, cocaine, crack, heroin, methamphetamine, synthetic drugs and their analogues are illegal to grow, make, import, sell, carry or use. A published list is updated by the Ministry of Health with the drug control commission.
+2. **Medicines that can be abused** (strong painkillers, sedatives, stimulants) are sold only by pharmacies, on a registered prescription, with every sale recorded.
+3. **Alcohol and tobacco remain legal** for adults 18 and over, with no sale to minors, no sale near schools, and no advertising aimed at the young. Traditional drinks such as *kleren* are made under the Food Standard (Part 50).
+
+### 101.4 Penalties (ranges for the drafting body to set exactly)
+
+| Offence | Penalty |
+|---|---|
+| **Trafficking, importing, making, or selling** | Long prison sentences, heavier for large amounts, for selling to children, near schools, or by a public official; **all assets from the trade confiscated** (Part 46) |
+| **Financing or protecting traffickers** (officials, police, soldiers, judges, customs) | The heaviest sentences in this Part, removal from office, loss of pension rights earned during the crime |
+| **Possession or use, first time** | Criminal conviction, with a choice: **supervised treatment and testing for 6–12 months,** or prison. Success leads to a suspended sentence |
+| **Possession or use, repeated** | Prison, with treatment inside (Part 42) |
+| **Driving, piloting, or carrying a weapon under drugs** | Prison and loss of the licence |
+
+### 101.5 Foreigners
+
+- **A foreigner convicted of any drug offence** in Haiti serves the sentence, is then **deported, and banned for life** from entering Haiti.
+- **A foreigner with a drug conviction anywhere** may be refused a visa or entry.
+- Diplomatic immunity is respected, but the person is declared unwelcome (*persona non grata*) and the case is made public.
+- **Haitian citizens are never deported;** they are judged and treated in Haiti (Part 22).
+
+### 101.6 Testing
+
+Random drug tests for police, soldiers, Coast Guard, customs officers, judges, prison staff, pilots, bus and truck drivers, and anyone who carries a licensed firearm (Part 61). A positive test means removal from duty, a second test, and discipline. Tests are done by accredited laboratories, with a right to a second sample.
+
+### 101.7 Closing the routes
+
+- **Sea, air and land watch** (Parts 49, 90): radar, Coast Guard, registered wharves, scanned containers, the Line watched 24 hours.
+- **Every airstrip registered;** an unregistered landing strip is destroyed.
+- **Follow the money:** the financial intelligence unit (UCREF) and the ledger (Part 8) trace drug money; banks report suspicious transactions (Part 98).
+- **Regional cooperation** with Caribbean and American partners on intelligence and extradition, **under Haitian command** (Part 44).
+
+### 101.8 Prevention and treatment
+
+- **Prevention in every school** from age 10, sport and music as the alternative (Parts 72, 96).
+- **A treatment centre in every département** and outpatient care in every commune, free under the health insurance (Part 31).
+- **Families are helped,** not shamed: counselling and support groups.
+- **Young people used by armed groups** to carry or sell drugs follow the second-chance path of Part 76 if they committed no grave crime.
+
+### 101.9 Capture test and honest limits
+
+- **Drug laws can become a tool to target the poor** while the big traffickers buy their freedom. Prosecution numbers are published by amount seized and by level (street seller, transporter, organizer, financier); a system that jails only street sellers is failing.
+- **Planting drugs on someone** is a serious crime. Every search is filmed (Part 62), and seized drugs are weighed and sealed in front of a witness.
+- **Strict laws do not work alone.** Japan's low drug use also comes from culture, family and strong policing; Haiti must build those too.
+- Treatment costs money, but prison costs more.
+
+---
+
+## PART 102 — RECORD OF THIS REVISION (PARTS 98–101)
+
+### 102.1 What changed
+
+| Older text | Change |
+|---|---|
+| Parts 32 and 59.1: the payment rail and the guarantee fund | A free account for every adult; a development bank; new collateral; farm insurance; fair lending rules; the *sòl* (Part 98) |
+| Part 57: family and tradition | *Konbit*, help at birth and death, the *lakou*, community mediation, life beyond the crowded city (Part 99) |
+| Parts 6 and 40.8: media and storytelling | Haitian content quotas, child protection by age, time and place, bans only by a judge (Part 100) |
+| No earlier Part on drugs | Strict drug law, treatment, deportation and life ban for foreign offenders, testing, closing the routes (Part 101) |
+
+### 102.2 What was checked, and what was not
+
+**Checked:** the World Bank's 2019 study of farm finance in Haiti; the United Nations warning and the July 2025 seizure near Tortuga (press report); the December 2024 change to Japan's cannabis law (press report).
+
+**Not verified:** the exact penalties in Japanese law and the length of Japan's entry ban; Haiti's current drug law and the work of its drug control commission; current loan and account figures (the 2019 numbers may have changed); the current deposit insurance and credit information rules of the central bank.
+
+### 102.3 Open decisions added
+
+73. **Culture:** the approach of Part 100 (promote, protect children, ban only by a judge), or the author's proposal to restrict tattoos and violent music and films by law.
+74. The exact drug penalties and the length of supervised treatment (Part 101).
+75. The radio and television quotas for Haitian content (Part 100).
+76. Which public institutions form the development bank (Part 98).
+77. Which national agencies move to which départements (Part 99).
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -4716,3 +5007,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the fourth November 2026 revision (Parts 80–89) changed:** the Executive Council keeps seven members but gains what earlier councils lacked: members chosen one by one, nothing to share out, a majority rule with a deadline, one First Coordinator for two years, and public votes (Part 80). Each commune has one Mayor and each section one Coordinator (Part 81). Council members are born in Haiti and at least 35; the diaspora may serve elsewhere; those who govern live in Haiti with their families (Part 82). Lawyers and every profession enter by national examination and answer to independent discipline (Part 83). The transfer levy and PetroCaribe are audited in full, and no levy exists without a public ledger (Part 84). *Restavèk* and street childhood end by a set date (Part 85). Energy has an independent referee (Part 86). Embassies are audited before they are changed (Part 87). The work is protected by copyright and downloads are recorded (Part 88). The border Line is staffed day and night, and border markets run under published rules (Part 90).
 
 **What the fifth November 2026 revision (Parts 91–97) changed:** no salary is paid to anyone hired outside a published ranked list, and every ministry's hiring belongs to one independent human-resources house (Part 91). Citizens may aim for a skilled role through a targeted pool, by exam and qualification, never by paying for better odds (Part 91.5). Every public worker swears to serve the country, not a party, and every office posts what it needs, what it costs and how long it takes (Part 92). The Assembly meets on a fixed calendar, votes by name, and fills any empty seat from a reserve list within two weeks (Part 93). Every official is trained before serving, including how to defend Haiti abroad (Part 94). Each commune's food is mapped and moved by a cool chain and coastal boats (Part 95). Every school gets a field, a court and a PE teacher, with championships from the commune to the nation (Part 96).
+
+**What the sixth November 2026 revision (Parts 98–102) changed:** every adult gets a free account, and farmers and small firms can borrow against animals, tools, contracts and stored harvests, with a guarantee fund, index insurance and one clear price in Kreyòl (Part 98). The *konbit*, mutual help at birth and death, the *lakou* and community mediation are protected, and services and agencies move out of the crowded capital (Part 99). Haitian music and stories get airtime and money, children are protected by age, time and place, and only a judge can ban content that recruits for armed groups, threatens, or celebrates real crimes (Part 100). Drugs are illegal to make, sell, carry or use; traffickers lose their assets; first-time users choose treatment or prison; foreign offenders are deported and banned for life (Part 101).
