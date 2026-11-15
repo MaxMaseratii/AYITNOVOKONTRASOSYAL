@@ -20,6 +20,7 @@ De koreksyon ki soti nan revizyon konsepsyon an, epi ki aplike nan tout dokiman 
 8. **Pati 91–97 (novanm 2026, senkyèm revizyon)** fè NASA a tounen sèl kay resous imen pou chak ministè epi yo fèmen merit la nan peyewòl la, ak pisin sible pou wòl ki mande konpetans (91); yon sèman sèvis, pa gen travay pou pati nan pòs, ak yon Chat Sèvis pou menm sèvis rapid e klè pou tout moun (92); kalandriye Asanble a, apèl, kowòm ak règ absans ak yon lis rezèv (93); youn a twa mwa fòmasyon anvan oswa nan kòmansman chak pòs, ak aprann toutan (94); sa chak depatman pwodui ak kijan manje vwayaje (95); espò nan chak lekòl ak chak seksyon ak chanpyona lekòl (96). Pati 97 se rejis la.
 9. **Pati 98–102 (novanm 2026, sizyèm revizyon)** pote lajan bay kiltivatè ak ti biznis: yon kont gratis pou chak granmoun, yon bank devlopman, nouvo garanti, asirans jaden ak prè onèt (98); rebati konbit, èd pou nesans ak lanmò, lakou a, ak lavi deyò vil ki twò chaje (99); pwoteje timoun epi ankouraje kilti ayisyen, ak entèdiksyon sèlman pa yon jij (100); epi fikse lwa dwòg sevè tankou Japon, ak tretman, tès, ak peman frè, depòtasyon ak entèdiksyon pou retounen pou etranje ki fè ofans (101). Pati 102 se rejis la.
 10. **Pati 103–108 (novanm 2026, setyèm revizyon)** fikse yon sistèm taks lejè e senp ak yon fon rezèv (103); dwa moun ki gen andikap (104); swen sante mantal toupre lakay (105); pwoteksyon konsomatè ak entèdiksyon pwodui po ak cheve ki danjere (106); yon salè pou viv ak pataj pwofi (107). Pati 108 se rejis la, e li mete ajou sòl dijital la (98.9) ak règ pou etranje ki fè ofans dwòg (101.5).
+11. **Pati 109 (novanm 2026)** dekri mouvman pasifik ki ka fè plan sa a genyen pa mwayen legal: anviwon 416,500 sitwayen òganize, fòme e san vyolans — 3,5% Ayiti — bati an ekip dis moun, ak demand klè, san yon sèl chèf, ak lajan klè ak yon kalandriye ki mache ak eleksyon yo.
 
 ---
 
@@ -5326,6 +5327,167 @@ Mete tout salè sou pwofi ta enjis pou travayè yo: pwofi chanje chak ane, yo ka
 
 ---
 
+## PATI 109 — REVOLISYON SAN ZAM: ÒGANIZE 3,5% AYISYEN POU GENYEN PLAN SA A PA MWAYEN LEGAL
+
+### 109.1 Poukisa nou bezwen yon mouvman
+
+Yon bon plan sou papye pa chanje anyen. Moun k ap pwofite sistèm jodi a pa p adopte dokiman sa a paske li byen ekri. **Li vin lalwa sèlman si ase sitwayen òganize e disipline mande l, vote pou li, epi veye l** — sou chemen legal Pati 18 ak 38 yo: kandida ki angaje yo pou li, yon Palman ki vote l, panèl sitwayen ki pwouve li mache, ak chanjman konstitisyonèl pa chemen strik la.
+
+Pati sa a dekri mouvman sa a. Se yon revolisyon nan ansyen sans mo a — yon vire nèt — **ki fèt san zam, san boule, e san kraze lalwa.**
+
+### 109.2 Sa rechèch la di, onètman
+
+- Syantis politik **Erica Chenoweth ak Maria Stephan** te etidye gwo kanpay pèp soti 1900 rive 2006. **Kanpay san vyolans yo te reyisi apeprè de fwa plis pase kanpay vyolan yo,** sitou paske anpil plis moun ka antre nan yon mouvman pasifik — granmoun, jèn, fanm, travayè, kwayan — e paske fòs sekirite ak ofisyèl yo pi dispoze chanje bò lè yo pa atake yo.
+- Done sa yo bay **"règ 3,5% la":** okenn kanpay nan premye done yo pa t echwe apre **3,5% popilasyon an te patisipe nan pi gwo moman li.**
+- **Chenoweth li menm avèti** se **yon tandans, se pa yon lwa.** Li mezire gwosè **pi gwo moman** patisipasyon an, se pa yon total sou tan. Omwen yon ka pita (Bahreyn, 2011–2014) te echwe malgre plis pase 6% patisipasyon, e pifò mouvman ki te reyisi yo genyen **san** yo pa t rive 3,5%. Rechèch li fè pita montre tou to reyisit gwo kanpay san vyolans yo bese nan dènye ane yo. Sa ki konte otan ke kantite moun: **òganizasyon, estrateji, disiplin, divèsite moun ki ladan l, rezistans sou tan, ak genyen moun anndan sistèm nan.**
+
+**Leson pou Ayiti:** vize 3,5%, men bati òganizasyon an anvan. Kantite san òganizasyon tounen yon foul; yon foul san disiplin tounen yon dezòd; yon dezòd bay pouvwa a yon rezon pou kraze tout moun.
+
+### 109.3 Leson pa Ayiti
+
+- **1986:** gwo manifestasyon, vwa legliz yo ak refi atravè tout peyi a te ede fini yon diktati 29 an. **Pèp la ka genyen.**
+- **2018–2019 (mouvman PetroCaribe):** gwo kòlè, gwo foul, ak yon kesyon klè — "Kot kòb PetroCaribe a?" Men pa t gen yon òganizasyon ki dire, pa t gen yon sèl pwogram, e "peyi lòk" te fè moun ki pi pòv yo plis mal epi li te fè anpil moun kite mouvman an. **Yo pa janm rekipere lajan an.** Kòlè pou kont li pa yon plan.
+
+Mouvman sa a aprann nan toude: kouraj 1986 la, kesyon klè 2019 la — **ak yon òganizasyon ak yon pwogram ki dire.**
+
+### 109.4 Chif la pou Ayiti
+
+Ayiti gen anviwon **11,9 milyon moun** (Nasyonzini, 2025). **3,5% se anviwon 416,500 moun.** Lè nou separe l dapre popilasyon (pousantaj 2015, pou mete ajou ak resansman an), sa bay:
+
+| Depatman | Pousantaj popilasyon | Objektif 3,5% (manm) | Òganizatè ki fòme (1 pou 10 manm) |
+|---|---|---|---|
+| Lwès | 36,9% | anviwon 153,800 | anviwon 15,400 |
+| Latibonit | 15,8% | anviwon 65,900 | anviwon 6,600 |
+| Nò | 9,8% | anviwon 40,700 | anviwon 4,100 |
+| Sid | 7,1% | anviwon 29,600 | anviwon 3,000 |
+| Sant | 6,8% | anviwon 28,500 | anviwon 2,800 |
+| Nòdwès | 6,7% | anviwon 27,800 | anviwon 2,800 |
+| Sidès | 5,8% | anviwon 24,100 | anviwon 2,400 |
+| Grandans | 4,3% | anviwon 17,900 | anviwon 1,800 |
+| Nòdès | 3,6% | anviwon 15,000 | anviwon 1,500 |
+| Nip | 3,1% | anviwon 13,100 | anviwon 1,300 |
+| **Ayiti** | **100%** | **anviwon 416,500** | **anviwon 41,700** |
+
+**Dyaspora a pa konte nan 3,5% anndan Ayiti a,** men li ka fòme moun, finanse (an piblik), konekte moun epi fè vwa mouvman an pi fò.
+
+**3,5% ayisyen an pa bezwen rasanble yon sèl kote.** Nan yon peyi kote gwoup ame kontwole yon pati nan kapital la, yon sèl gwo mach ta danjere. Mouvman an konte **moun k ap aji an menm tan nan tout 570 seksyon kominal yo** — yon jou nasyonal kote 416,500 moun nan pwòp komin yo fè menm bagay pasifik la.
+
+### 109.5 Sa mouvman an vle: demand klè e legal
+
+Yon mouvman genyen lè tout moun ka di sa li vle nan yon sèl fraz. **"Nou vle yon Leta ki sèvi pèp la, pa yon Leta ki sèvi kèk moun."**
+
+**Demand yo, nan lòd:**
+
+1. **Chak kandida nan pwochen eleksyon yo siyen Angajman Sitwayen an:** pibliye byen yo, aksepte rejis piblik la (Pati 8), règ zewo kado a ak boukliye kont kapti pandan tranzisyon an (Pati 39), epi vote premye lwa yo nan premye ane a.
+2. **Premye lwa yo (Chemen 1 Pati 38.3),** ki pa bezwen chanjman konstitisyonèl: rejis piblik la, kadna peyewòl la (Pati 91), Chat Sèvis la (Pati 92), boukliye kont kapti a, lwa dwòg la (Pati 101), pwoteksyon konsomatè (Pati 106).
+3. **Yon panèl sitwayen yo tire osò** pou bay Palman an konsèy epi revize bidjè a (Chemen 2), pou pwouve Ayisyen òdinè ka gouvène.
+4. **Chanjman konstitisyonèl pa chemen legal la** (Atik 282–284), lè premye rezilta yo vin vizib (Chemen 3).
+
+**Sa mouvman an pa fè:** li pa eseye ranvèse pèsonn pa lafòs, li pa mande twoup etranje, e li pa mande pouvwa pou tèt li.
+
+### 109.6 Kijan li òganize: bati tankou yon konbit, difisil pou achte, difisil pou kraze
+
+| Nivo | Gwosè | Wòl |
+|---|---|---|
+| **Ekip** | 10 moun ki konnen youn lòt | Rankontre chak semèn, aprann, aji, veye youn lòt |
+| **Komite seksyon** | 1 delege pou chak ekip nan seksyon kominal la | Planifye aksyon lokal, enskri votè, òganize jou konbit |
+| **Konsèy komin** | Delege komite seksyon yo | Rankont piblik ak kandida, medya lokal, sekirite |
+| **Konsèy depatman** | Delege konsèy komin yo | Sant fòmasyon, kowòdinasyon |
+| **Kowòdinasyon nasyonal** | Yon ti konsèy delege ki soti nan tout dis depatman yo ak dyaspora a, **ki chanje chak sis mwa** | Estrateji, mesaj, jou aksyon nasyonal |
+
+**Règ ki pwoteje mouvman an kont kapti** (menm tès kapti ak rès dokiman an):
+
+1. **Pa gen yon sèl chèf.** Yon mouvman ki gen yon sèl tèt, yo ka achte l, mete l nan prizon oswa touye l. Pòtpawòl yo chanje.
+2. **Okenn pati pa posede l.** Nenpòt manm ki tounen kandida oswa ofisye yon pati kite tout wòl li nan mouvman an pandan kanpay la.
+3. **Lajan klè.** Manm yo peye ti kotizasyon, tankou yon sòl. Yo pibliye chak goud ki antre ak chak goud ki soti. Okenn donatè pa ka bay plis pase yon ti pousantaj yo pibliye. **Pa gen lajan gwoup ame, lajan moun ki anba ankèt, ni lajan gouvènman etranje.** Kado dyaspora byenveni e yo pibliye yo.
+4. **Chak desizyon alekri e pibliye.** Moun ki chwazi delege yo ka ranplase yo.
+5. **Menm plas pou fanm, jèn, kiltivatè, dyaspora ak moun ki gen andikap** nan chak konsèy.
+
+### 109.7 Kiyès pou mennen ladan l
+
+Chak mouvman ki reyisi rale moun nan anpil gwoup an menm tan. Ann Ayiti:
+
+- **Legliz tout relijyon,** ak oungan ak manbo ki rejte vyolans.
+- **Madan sara** ak asosyasyon machann.
+- **Pwofesè, etidyan, enfimyè ak doktè.**
+- **Gwoupman kiltivatè ak koperativ.**
+- **Chofè moto-taksi ak bis,** ki deplase toupatou e ki tande tout bagay.
+- **Sendika ak ti biznis.**
+- **Atis:** mizisyen, bann rara, powèt, komedyen, foutbolè.
+- **Polisye, sòlda ak fonksyonè onèt,** kòm sitwayen, san yo pa kraze règ sèvis yo (Pati 92).
+- **Dyaspora a:** asosyasyon vil natal, pwofesyonèl, etidyan.
+
+**Kijan chak moun mennen lòt moun:** chak manm mennen **twa moun li konnen e li fè konfyans,** epi li ede yo mennen twa lòt. Dimil moun ki chak mennen twa, twa fwa, rive plis pase katsan mil.
+
+### 109.8 Fòmasyon: disiplin se zam nou
+
+Chak manm resevwa yon ti fòmasyon, e chak òganizatè yon fòmasyon pi long:
+
+1. **Plan an nan senk minit,** an kreyòl, ak prensipal imaj sit entènèt la.
+2. **Disiplin san vyolans:** pa janm frape tounen, pa janm pote zam ni zam blanch, pa janm boule, pa janm bloke yon lopital oswa yon wout malad sèvi, **kite epi rapòte nenpòt moun ki pote vyolans.**
+3. **Kalme sitiyasyon an:** kijan pou kalme yon foul, kijan pou pwoteje youn lòt, ki lè pou kite.
+4. **Konnen dwa ou:** sa lapolis gen dwa fè ak sa li pa gen dwa fè, kijan pou filme, kijan pou rele yon avoka.
+5. **Premye swen.**
+6. **Sekirite ak sekirite dijital:** pwoteje lis manm yo, sèvi ak mesaj ki an sekirite, pa poste figi minè oswa moun ki pa dakò.
+7. **Kijan pou pale ak moun ki pa dakò:** ak respè, san jouman, san manti.
+
+### 109.9 Sa manm yo fè: aksyon soti nan ti risk rive nan gwo presyon
+
+| Etap | Aksyon | Poukisa |
+|---|---|---|
+| 1 | **Enskri pou vote** epi ede lòt moun enskri | Vòt se levye legal la. Chak manm se yon votè ki enskri |
+| 2 | **Siyen Kat Sitwayen an** (sou papye oswa sou entènèt) | Konte mouvman an komin pa komin |
+| 3 | **Jou konbit:** netwaye yon lari, repare yon lekòl, plante pyebwa, ansanm, nan koulè mouvman an | Montre peyi a mouvman an vle a, epi bati konfyans |
+| 4 | **Rankont piblik ak kandida:** mande chak kandida siyen Angajman an, an piblik, sou videyo | Mete chak kandida sou dosye |
+| 5 | **Jou koulè:** nan yon jou fiks, tout moun mete menm koulè, monte drapo a, sonnen klòch oswa klaksonen nan menm minit lan | Montre kantite moun san yo pa rasanble nan danje |
+| 6 | **Rara ak mizik ak mesaj la** | Kilti ayisyen pote mouvman an (Pati 100) |
+| 7 | **Siveyans eleksyon:** manm ki fòme obsève biwo vòt yo epi pibliye rezilta pa biwo | Pwoteje vòt la |
+| 8 | **Rasanbleman pasifik nan kote ki an sekirite,** nan chak komin a menm lè | Jou nasyonal 3,5% la |
+| 9 | **Bòykòt legal** biznis yo pwouve ki finanse gwoup ame oswa ki pwofite koripsyon | Presyon sou moun k ap pwofite |
+
+**Sa mouvman an pa sèvi:** baryè, kawotchou boule, peyi lòk, fèmen mache, atake byen moun, oswa nenpòt aksyon ki fè pòv yo mal anvan. Sa yo fè pèp la vire kont mouvman an e yo bay moun ki gen pouvwa yon rezon pou sèvi ak fòs.
+
+### 109.10 Sekirite anvan
+
+- **Pa janm antre nan zòn gwoup ame kontwole** pou fè aksyon; manm ki la yo aji nan fason ki an sekirite (jou koulè, enskripsyon, sou entènèt).
+- **Òganizatè yo pa ekspoze** sof si yo chwazi sa; kowòdonatè nasyonal yo chanje.
+- **Yo rapòte chak menas** bay ekip sekirite mouvman an epi yo dokimante l.
+- **Viktim vyolans** jwenn èd nan rezo mouvman an (Pati 105).
+- **Dyaspora a pale pi fò** kote pale danjere anndan Ayiti.
+
+### 109.11 Kalandriye a
+
+| Ki lè | Objektif |
+|---|---|
+| **Premye 3 mwa yo** | 1,000 òganizatè ki fòme nan tout dis depatman yo ak dyaspora a; Kat Sitwayen an sou entènèt; yon gid fòmasyon an kreyòl |
+| **Nan 6 mwa** | 10,000 ekip (100,000 manm); kanpay enskripsyon votè; yo voye Angajman an bay chak pati |
+| **Anvan premye tou a (18 jiyè 2027 dapre kalandriye jodi a)** | 250,000 manm; rankont piblik ak kandida nan chak komin; obsèvatè eleksyon ki fòme |
+| **Sezon eleksyon** | Veye vòt la; pibliye ki ofisyèl eli ki te siyen Angajman an |
+| **Premye ane nouvo Palman an** | **Jou nasyonal 3,5% la: anviwon 416,500 moun k ap aji pasifikman a menm lè atravè Ayiti** pou mande premye lwa yo; apre sa swiv chak vòt epi pibliye l |
+
+Dat eleksyon ann Ayiti chanje anpil fwa; mouvman an ajiste kalandriye a, se pa objektif la.
+
+### 109.12 Kijan nou konnen li mache
+
+Pibliye chak mwa, komin pa komin: manm, òganizatè ki fòme, manm ki enskri pou vote, kandida ki siyen Angajman an, aksyon ki fèt, ak nenpòt vyolans (ki dwe rete zewo).
+
+### 109.13 Limit onèt
+
+- **3,5% se yon tandans, se pa yon garanti** (109.2). Mouvman an ka rive la epi toujou bezwen plizyè ane.
+- **Vyolans lòt moun** — gwoup ame, moun yo peye pou enfiltre, oswa Leta — ka sèvi pou fè yon mouvman pasifik pèdi kredibilite. Disiplin, videyo ak règ pou mete deyò nenpòt moun ki vyolan se defans lan.
+- **Eleksyon yo ka chanje dat ankò,** e gen zòn ki ka pa vote. Mouvman an travay tout kote moun ka aji.
+- **Yon pati oswa yon patwon rich ka kaptire yon mouvman.** Wotasyon, lajan klè ak règ ki entèdi kandida yo gen wòl se pwoteksyon an.
+- **Otè plan sa a pa dirije mouvman an pou kont li.** Mouvman an se pou manm li yo.
+
+### 109.14 Desizyon ouvè yo ajoute
+
+83. Non ak koulè mouvman an.
+84. Tèks Angajman Sitwayen an pou kandida yo.
+85. Pi gwo pousantaj yon sèl donatè ka bay, ak si mouvman an aksepte nenpòt finansman enstitisyonèl.
+86. Dat jou nasyonal 3,5% la.
+
+---
+
 ## REZIME: SA POU NOU POTE POU PI DEVAN
 
 Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, oswa nenpòt moun k ap revize l pou kontinye amelyore l — se yon eskèlèt estrikti, se pa yon konstitisyon ki fini. Pwochen etap onèt pou nenpòt pati ladan l se menm kesyon nou poze toupatou a: *si yo ta kaptire biwo sa a oswa règ sa a, oswa si yo ta abize l, kisa ki kanpe sa — epi èske mekanis ki kanpe l la se yon lòt ògàn, ki chwazi yon lòt jan, sou yon lòt kalandriye, pase sa l ap kontwole a?* Kèlkeswa kote repons lan se "anyen" oswa "menm moun yo," seksyon sa a bezwen yon lòt revizyon anvan yo aplike l.
@@ -5345,3 +5507,5 @@ Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, os
 **Sa sizyèm revizyon novanm 2026 la (Pati 98–102) chanje:** chak granmoun jwenn yon kont gratis, e kiltivatè ak ti biznis ka prete sou bèt, zouti, kontra ak rekòt ki nan depo, ak yon fon garanti, asirans pa endis ak yon sèl pri klè an kreyòl (Pati 98). Konbit, èd mityèl pou nesans ak lanmò, lakou a ak medyasyon kominotè jwenn pwoteksyon, e sèvis ak ajans deplase soti nan kapital ki twò chaje a (Pati 99). Mizik ak istwa ayisyen jwenn tan sou lè ak lajan, timoun jwenn pwoteksyon pa laj, lè ak kote, e se sèlman yon jij ki ka entèdi kontni ki rekrite pou gwoup ame, ki menase oswa ki selebre vrè krim (Pati 100). Dwòg entèdi pou fabrike, vann, pote oswa sèvi; trafikan pèdi byen yo; moun k ap sèvi premye fwa chwazi tretman oswa prizon; etranje ki fè ofans peye frè ka yo, yo depòte yo, epi yo entèdi yo pou omwen senk ane (Pati 101, 108).
 
 **Sa setyèm revizyon novanm 2026 la (Pati 103–108) chanje:** taks yo rete lejè (janm plis pase 20% PIB san yon vòt de tyè), kèk taks senp, yo peye yo sou telefòn, pa gen enpo sou salè pou viv la, e resi a montre kote lajan an ale; chak ane 3% revni yo ale nan yon Fon Rezèv Nasyonal pou dezas (Pati 103). Yo aplike lwa 2012 sou andikap, ak lekòl pou tout moun, lang siy, aksè ak kota travay (Pati 104). Swen sante mantal rive nan chak seksyon ak chak komin, ak yon liy 24 è e pa gen chenn (Pati 105). Achtè jwenn ranbousman, etikèt ak ti reklamasyon rapid, e mèki, idwokinòn nan pwodui bote, fòmaldeyid nan pwodui pou lise cheve ak piblisite pou klere po entèdi (Pati 106). Salè a omwen yon salè pou viv, e konpayi 20 travayè oswa plis pataje pwofi ak travayè yo (Pati 107).
+
+**Kijan sa ka rive (Pati 109):** yon plan vin lalwa sèlman lè ase sitwayen òganize pou li. Mouvman an vize 3,5% Ayisyen — anviwon 416,500 moun — òganize an ekip dis moun nan chak seksyon kominal, fòme nan disiplin san vyolans, k ap mande chak kandida siyen yon angajman piblik, epi k ap mande premye lwa yo nan men nouvo Palman an nan yon sèl jou nasyonal. Li pa gen yon sèl chèf, li pibliye chak goud, e li refize tout vyolans. Rechèch montre 3,5% se yon tandans, se pa yon garanti; òganizasyon ak disiplin konte otan ke kantite moun.

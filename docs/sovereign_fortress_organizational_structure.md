@@ -20,6 +20,7 @@ Two corrections carried over from the design review, applied throughout:
 8. **Parts 91–97 (November 2026, fifth revision)** make the NASA the one human-resources house for every ministry and lock merit into the payroll, and add targeted pools for skilled roles (91); a service oath, no party work in post, and a Service Charter for equal, fast, clear service (92); the Assembly's calendar, roll call, quorum and absence rules with a reserve list (93); one to three months of training before or at the start of every post, and learning for life (94); what each département grows and how food travels (95); sport in every school and section with school championships (96). Part 97 is the record.
 9. **Parts 98–102 (November 2026, sixth revision)** bring money to farmers and small business: a free account for every adult, a development bank, new collateral, farm insurance and fair lending (98); rebuild *konbit*, help at birth and death, the *lakou*, and life beyond the crowded city (99); protect children and promote Haitian culture, with bans only by a judge (100); and set strict drug laws like Japan's, with treatment, testing, and cost recovery, deportation and a ban on return for foreign offenders (101). Part 102 is the record.
 10. **Parts 103–108 (November 2026, seventh revision)** set a light, simple tax system with a reserve fund (103); the rights of people with disabilities (104); mental health care near home (105); consumer protection and bans on harmful skin and hair products (106); a living wage and profit sharing (107). Part 108 is the record, and also updates the digital *sòl* (98.9) and the rules for foreign drug offenders (101.5).
+11. **Part 109 (November 2026)** sets out the peaceful movement that can win this plan by lawful means: about 416,500 organized, trained, nonviolent citizens — 3.5% of Haiti — built in teams of ten, with clear demands, no single leader, open money and a timeline tied to the elections.
 
 ---
 
@@ -5327,6 +5328,167 @@ Basing all pay on profits would be unfair to workers: profits change from year t
 
 ---
 
+## PART 109 — THE PEACEFUL REVOLUTION: ORGANIZING 3.5% OF HAITIANS TO WIN THIS PLAN BY LAWFUL MEANS
+
+### 109.1 Why a movement is needed
+
+A good plan on paper changes nothing. The people who profit from today's system will not adopt this document because it is well written. **It becomes law only if enough organized, disciplined citizens demand it, vote for it, and watch over it** — through the lawful path of Parts 18 and 38: candidates who commit to it, a Parliament that passes it, citizen panels that prove it, and constitutional change by the strict route.
+
+This Part describes that movement. It is a revolution in the old sense of the word — a complete turn — **made without weapons, without burning, and without breaking the law.**
+
+### 109.2 What the research says, honestly
+
+- The political scientists **Erica Chenoweth and Maria Stephan** studied mass campaigns from 1900 to 2006. **Nonviolent campaigns succeeded about twice as often as violent ones,** mainly because far more people can join a peaceful movement — the old, the young, women, workers, believers — and because security forces and officials are more willing to change sides when they are not being attacked.
+- From that data came the **"3.5% rule":** no campaign in the original data set failed after **3.5% of the population took part at its peak.**
+- **Chenoweth herself warns** that it is **a tendency, not a law.** It measures the size of the **largest single moment** of participation, not a total over time. At least one later case (Bahrain, 2011–2014) failed despite more than 6% participation, and most successful movements won **without** reaching 3.5%. Her later research also reports that the success rate of mass nonviolent campaigns has fallen in recent years. What matters as much as numbers: **organization, strategy, discipline, diversity of the people involved, staying power, and winning over people inside the system.**
+
+**The lesson for Haiti:** aim for 3.5%, but build the organization first. Numbers without organization become a crowd; a crowd without discipline becomes a riot; a riot gives power a reason to crush everyone.
+
+### 109.3 Haiti's own lessons
+
+- **1986:** mass protests, church voices and refusals across the country helped end a 29-year dictatorship. **People can win.**
+- **2018–2019 (PetroCaribe movement):** huge anger, huge crowds, and a clear question — "Kot kòb PetroCaribe a?" ("Where is the PetroCaribe money?"). But there was no lasting organization, no single program, and "*peyi lòk*" (the country shut down) hurt the poorest most and drove many away. **The money was never recovered.** Anger alone is not a plan.
+
+This movement learns from both: the courage of 1986, the clear question of 2019 — **and an organization and a program that last.**
+
+### 109.4 The number for Haiti
+
+Haiti has about **11.9 million people** (United Nations, 2025). **3.5% is about 416,500 people.** Spread by population (2015 shares, to be updated with the census), that means:
+
+| Département | Share of population | 3.5% target (members) | Trained organizers (1 for 10 members) |
+|---|---|---|---|
+| Ouest | 36.9% | about 153,800 | about 15,400 |
+| Artibonite | 15.8% | about 65,900 | about 6,600 |
+| Nord | 9.8% | about 40,700 | about 4,100 |
+| Sud | 7.1% | about 29,600 | about 3,000 |
+| Centre | 6.8% | about 28,500 | about 2,800 |
+| Nord-Ouest | 6.7% | about 27,800 | about 2,800 |
+| Sud-Est | 5.8% | about 24,100 | about 2,400 |
+| Grand'Anse | 4.3% | about 17,900 | about 1,800 |
+| Nord-Est | 3.6% | about 15,000 | about 1,500 |
+| Nippes | 3.1% | about 13,100 | about 1,300 |
+| **Haiti** | **100%** | **about 416,500** | **about 41,700** |
+
+**The diaspora does not count toward the 3.5% inside Haiti,** but it can train, fund (openly), connect and amplify.
+
+**A Haitian 3.5% does not have to gather in one place.** In a country where armed groups control parts of the capital, a single giant march would be dangerous. The movement counts **people acting at the same time across all 570 communal sections** — a national day when 416,500 people in their own communes do the same peaceful thing.
+
+### 109.5 What the movement wants: clear, lawful demands
+
+A movement wins when everyone can say what it wants in one sentence. **"Nou vle yon Leta ki sèvi pèp la, pa yon Leta ki sèvi kèk moun."** ("We want a State that serves the people, not a State that serves a few.")
+
+**The demands, in order:**
+
+1. **Every candidate in the next elections signs the Citizens' Pledge:** publish assets, accept the public ledger (Part 8), the zero-gift rule and the transition-capture shield (Part 39), and pass the first laws in the first year.
+2. **The first laws (Track 1 of Part 38.3),** which need no constitutional change: the public ledger, the payroll lock (Part 91), the Service Charter (Part 92), the transition-capture shield, the drug law (Part 101), consumer protection (Part 106).
+3. **A citizens' panel drawn by lot** to advise Parliament and review the budget (Track 2), to prove that ordinary Haitians can govern.
+4. **Constitutional change by the lawful route** (Arts. 282–284), once the first results are visible (Track 3).
+
+**What the movement does not do:** it does not try to overthrow anyone by force, it does not call for foreign troops, and it does not ask for power for itself.
+
+### 109.6 How it is organized: built like a *konbit*, hard to buy, hard to break
+
+| Level | Size | Role |
+|---|---|---|
+| **Ekip (team)** | 10 people who know each other | Meet weekly, learn, act, look after each other |
+| **Section committee** | 1 delegate from each team in the communal section | Plan local actions, register voters, organize *konbit* days |
+| **Commune council** | Delegates of the section committees | Town halls with candidates, local media, safety |
+| **Département council** | Delegates of the commune councils | Training centres, coordination |
+| **National coordination** | A small council of delegates from all ten départements and the diaspora, **rotating every six months** | Strategy, message, national days of action |
+
+**Rules that protect the movement from capture** (the same capture test as the rest of this document):
+
+1. **No single leader.** A movement with one head can be bought, jailed or killed. Spokespeople rotate.
+2. **No party owns it.** Any member who becomes a candidate or a party officer leaves every role in the movement during the campaign.
+3. **Open money.** Members pay small dues, like a *sòl*. Every gourde received and spent is published. No single donor may give more than a small published share. **No money from armed groups, from people under investigation, or from foreign governments.** Diaspora gifts are welcome and published.
+4. **Every decision written and published.** Delegates can be replaced by the people who chose them.
+5. **Equal place for women, young people, farmers, the diaspora and people with disabilities** in every council.
+
+### 109.7 Who to bring in
+
+Every successful movement draws from many groups at once. In Haiti:
+
+- **Churches of every faith,** and *ougan* and *manbo* who reject violence.
+- **Market women** (*madan sara*) and traders' associations.
+- **Teachers, students, nurses and doctors.**
+- **Farmers' groups and cooperatives.**
+- **Moto-taxi and bus drivers,** who move everywhere and hear everything.
+- **Unions and small businesses.**
+- **Artists:** musicians, rara bands, poets, comedians, footballers.
+- **Honest police officers, soldiers and civil servants,** as citizens, without breaking the rules of their service (Part 92).
+- **The diaspora:** hometown associations, professionals, students.
+
+**How each person brings others:** each member brings **three people they know and trust,** and helps them bring three more. Ten thousand people who each bring three, three times, reach more than four hundred thousand.
+
+### 109.8 Training: discipline is the weapon
+
+Every member receives a short training, and every organizer a longer one:
+
+1. **The plan in five minutes,** in Kreyòl, with the main pictures of the website.
+2. **Nonviolent discipline:** never strike back, never carry a weapon or a blade, never burn, never block a hospital or a road used by the sick, **leave and report anyone who brings violence.**
+3. **De-escalation:** how to calm a crowd, how to protect each other, when to leave.
+4. **Know your rights:** what the police may and may not do, how to film, how to call a lawyer.
+5. **First aid.**
+6. **Safety and digital security:** protect member lists, use safe messaging, do not post faces of minors or of people who did not agree.
+7. **How to talk to opponents:** with respect, without insults, without lies.
+
+### 109.9 What members do: actions from low risk to high pressure
+
+| Step | Action | Why |
+|---|---|---|
+| 1 | **Register to vote** and help others register | Votes are the lawful lever. Every member is a registered voter |
+| 2 | **Sign the Citizen Card** (on paper or online) | Counts the movement commune by commune |
+| 3 | **Konbit days:** clean a street, repair a school, plant trees, together, in movement colours | Shows the country the movement wants, and builds trust |
+| 4 | **Town halls with candidates:** ask each to sign the Pledge, in public, on video | Puts every candidate on the record |
+| 5 | **Colour days:** on a fixed day, everyone wears the same colour, hangs the flag, rings bells or sounds horns at the same minute | Shows numbers without gathering in danger |
+| 6 | **Rara and music with the message** | Haitian culture carries the movement (Part 100) |
+| 7 | **Election watch:** trained members observe polling stations and publish results by station | Protects the vote |
+| 8 | **Peaceful gatherings in safe places,** in every commune at the same hour | The national day of the 3.5% |
+| 9 | **Lawful boycotts** of businesses proven to finance armed groups or to profit from corruption | Pressure on those who profit |
+
+**What the movement does not use:** barricades, burning tires, *peyi lòk*, closing markets, attacks on property, or any action that hurts the poor first. These turn the people against the movement and give the powerful a reason to use force.
+
+### 109.10 Safety first
+
+- **Never enter areas controlled by armed groups** for actions; members there act in safe ways (colour days, registration, online).
+- **Organizers are not exposed** unless they choose to be; national coordinators rotate.
+- **Any threat is reported** to the movement's safety team and documented.
+- **Victims of violence** receive help from the movement's network (Part 105).
+- **The diaspora speaks loudest** where speaking is dangerous inside Haiti.
+
+### 109.11 The timeline
+
+| When | Goal |
+|---|---|
+| **First 3 months** | 1,000 trained organizers in all ten départements and the diaspora; the Citizen Card online; a training guide in Kreyòl |
+| **By month 6** | 10,000 teams (100,000 members); voter registration drive; the Pledge sent to every party |
+| **Before the first round (18 July 2027 on the current calendar)** | 250,000 members; town halls with candidates in every commune; election watchers trained |
+| **Election season** | Watch the vote; publish which elected officials signed the Pledge |
+| **First year of the new Parliament** | **The national day of the 3.5%: about 416,500 people acting peacefully at the same hour across Haiti** to demand the first laws; then follow each vote and publish it |
+
+Electoral dates in Haiti have moved many times; the movement adjusts the calendar, not the goal.
+
+### 109.12 How we know it is working
+
+Published every month, commune by commune: members, trained organizers, registered voters among members, candidates who signed the Pledge, actions held, and any violence (which must stay at zero).
+
+### 109.13 Honest limits
+
+- **3.5% is a tendency, not a guarantee** (109.2). The movement can reach it and still need years.
+- **Violence by others** — armed groups, people paid to infiltrate, or the State — can be used to discredit a peaceful movement. Discipline, video and the rule to expel anyone violent are the defense.
+- **Elections may move again,** and some areas may not vote. The movement works wherever people can act.
+- **A movement can be captured** by a party or a rich patron. Rotation, open money and the no-candidate rule are the protection.
+- **The author of this plan does not lead the movement alone.** The movement belongs to its members.
+
+### 109.14 Open decisions added
+
+83. The name and colours of the movement.
+84. The text of the Citizens' Pledge for candidates.
+85. The maximum share any single donor may give, and whether to accept any institutional funding.
+86. The date of the national day of the 3.5%.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -5346,3 +5508,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the sixth November 2026 revision (Parts 98–102) changed:** every adult gets a free account, and farmers and small firms can borrow against animals, tools, contracts and stored harvests, with a guarantee fund, index insurance and one clear price in Kreyòl (Part 98). The *konbit*, mutual help at birth and death, the *lakou* and community mediation are protected, and services and agencies move out of the crowded capital (Part 99). Haitian music and stories get airtime and money, children are protected by age, time and place, and only a judge can ban content that recruits for armed groups, threatens, or celebrates real crimes (Part 100). Drugs are illegal to make, sell, carry or use; traffickers lose their assets; first-time users choose treatment or prison; foreign offenders pay the costs of their case, are deported, and are banned for at least five years (Parts 101, 108).
 
 **What the seventh November 2026 revision (Parts 103–108) changed:** taxes stay light (never above 20% of GDP without a two-thirds vote), few and simple, paid by phone, with no income tax on the living wage and a receipt that shows where the money went; 3% of revenue each year goes to a National Reserve Fund for disasters (Part 103). The 2012 disability law is enforced, with inclusive schools, sign language, access and work quotas (Part 104). Mental health care reaches every section and commune, with a 24-hour line and no chains (Part 105). Buyers get refunds, labels and fast small claims, and mercury, cosmetic hydroquinone, formaldehyde straighteners and skin-lightening advertising are banned (Part 106). Pay is at least a living wage, and companies of 20 or more share profits with workers (Part 107).
+
+**How it can happen (Part 109):** a plan becomes law only when enough citizens organize for it. The movement aims for 3.5% of Haitians — about 416,500 people — organized in teams of ten across every communal section, trained in strict nonviolence, asking every candidate to sign a public pledge, then demanding the first laws of a new Parliament on one national day. It has no single leader, publishes every gourde, and refuses all violence. Research shows 3.5% is a tendency, not a guarantee; organization and discipline matter as much as numbers.
