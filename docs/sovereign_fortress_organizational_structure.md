@@ -17,6 +17,7 @@ Two corrections carried over from the design review, applied throughout:
 5. **Parts 61–68 (November 2026, second revision)** add: firearms handed in by a fixed date and returned only through a very strict licence examination (61); a rule against carrying blades and tools in public (62); racism as a crime (63); a Certificate of Safety for every new building, builder licences by examination, and home-building loans (64); height limits, commune plans, no concerts in schools and licensed venues built by investors (65); water for every household (66); waste management (67); and the "safest country" goal with a yearly scorecard (68). Corrections to older Parts are listed in Part 68.5.
 6. **Parts 69–79 (November 2026, third revision)** record the decisions taken on Parts 61–68 (69) and add: a national cleanliness service, lasting roads with fast repair, public toilets and maintained networks (70); energy and materials from waste, with every company taking back its bottles (71); book-first schooling built for the child's brain (72); the State University of Haiti rebuilt on three, then five, great campuses (73); a written contract for every job and wages always paid (74); shared prosperity and world companies on Haitian terms (75); a second chance for young people used by armed groups (76); justice for the great crimes, from Dessalines to today (77); and a model city (78). Part 79 lists the corrections and the decisions still open.
 7. **Parts 80–89 (November 2026, fourth revision)** answer the hardest objection to this design, seven leaders or one, and fix the rules of the Executive Council (80); replace three-member town halls and section councils with one accountable Mayor and one Section Coordinator (81); set who may serve, with Council members born in Haiti and officials' families living in Haiti (82); add a State Bar Examination and one standard for every profession (83); demand the accounts of the US$1.50 transfer levy and PetroCaribe under the rule "no levy without a ledger" (84); end *restavèk* and street childhood by a set date (85); regulate energy (86); take the lessons of the author's earlier diplomacy paper (87); and protect this work in law (88). Part 89 is the record. **Part 90** sets the 24-hour watch on the border Line and the rules for binational markets.
+8. **Parts 91–97 (November 2026, fifth revision)** make the NASA the one human-resources house for every ministry and lock merit into the payroll, and add targeted pools for skilled roles (91); a service oath, no party work in post, and a Service Charter for equal, fast, clear service (92); the Assembly's calendar, roll call, quorum and absence rules with a reserve list (93); one to three months of training before or at the start of every post, and learning for life (94); what each département grows and how food travels (95); sport in every school and section with school championships (96). Part 97 is the record.
 
 ---
 
@@ -4334,6 +4335,372 @@ For each département the State publishes every year the number of mayors, secti
 
 ---
 
+## PART 91 — ONE HUMAN-RESOURCES HOUSE FOR THE WHOLE STATE, AND THE MERIT LOCK
+
+### 91.1 The problem
+
+An examination alone does not stop corruption. In many countries the exam exists, and then the minister hires a cousin "on contract", or picks the 40th name instead of the 1st, or the exam paper is sold the night before. **The exam is only the door. The lock is what happens after it.**
+
+### 91.2 One house for hiring, for every ministry
+
+1. **The NASA is the State's one human-resources house.** It recruits, tests, places, trains, promotes, moves, disciplines and retires every civil servant of every ministry, every commune and every public agency. (Haiti already has an Office of Management and Human Resources, the OMRH. The NASA grows out of it; it is not a new layer on top.)
+2. **Each ministry has an HR office, but that office belongs to the NASA,** not to the minister. Its staff are NASA staff, paid by the NASA, rotated every four years.
+3. **One personnel file for each public worker,** inside the State Technology Center (Part 55): diploma checks, exam scores, posts held, training, evaluations, discipline. The worker can see their own file at any time.
+4. **One staffing plan for each ministry,** voted with the budget (Part 12): how many posts, at which grade, in which commune. A post that is not in the plan does not exist.
+5. **Ministers decide the work, not the hiring.** A minister may ask for a post and may set the job description. The minister may not choose the person.
+
+### 91.3 The merit lock: seven rules that make the exam bite
+
+1. **No salary without the list.** The payroll system pays only people who entered through a published competition and appear on its ranked list. A name added any other way is refused by the machine, and the attempt is logged. (This is the strongest rule. Today "ghost workers" and favours live in the payroll; Part 44 found 13,196 police officers on the books and about 4,000 on duty.)
+2. **The top name gets the job.** Posts are offered in the order of the ranked list. Skipping a candidate needs a written reason (a failed medical, a failed background check, a refusal by the candidate), published, and the skipped candidate can appeal to the administrative court.
+3. **Every vacancy is published,** with the salary grade, the place and the date of the exam, at least 30 days ahead, on the ledger, by radio and at every Sovereign House.
+4. **Blind grading.** Answer sheets carry a number, not a name. Two graders mark each paper separately; a third decides if they differ.
+5. **Papers that cannot be sold.** Each exam is drawn by computer from a large bank of questions shortly before the start, and printed or loaded at the exam site. The question writers do not know which questions will be used.
+6. **Examiners rotate and declare.** No one grades a candidate from their family, their commune or their former office. Every examiner declares conflicts of interest.
+7. **Results are public.** Ranked lists (with candidate numbers), pass rates by commune and by gender, and every appeal decision are posted.
+
+**Breaking the lock is a crime.** Hiring outside the list, selling an exam, or grading a relative leads to removal from the service and prosecution. The person hired by fraud loses the post; an honest candidate who was skipped receives it, with back pay.
+
+### 91.4 Temporary and contract staff
+
+- Short contracts (up to six months) are allowed only for emergencies and seasonal work, from a published local list, drawn by lot among qualified applicants.
+- A contract cannot be renewed into a permanent post. Permanent posts go through the competition.
+- The number of contract staff in each ministry is published every month.
+
+### 91.5 Choosing a specific post: targeted pools (recommended version)
+
+Today the design has two ways in: **the lottery** for the Citizens' Assembly and the Communal Assemblies (open to every adult, no diploma, Part 16), and **the exam** for the civil service (Part 17). A citizen who wants a specific role (a diplomat, a director, a member of a regulator board) should be able to aim for it. This revision adds **targeted pools**:
+
+1. **The general lottery stays untouched.** Every adult citizen is in it. Nobody can buy a better chance in it, and nobody can be removed from it except by the rules of Part 39.
+2. **A citizen may also apply to one targeted pool at a time** for a role that needs skills: posts of the diplomatic service, directors and heads of agencies, members of regulatory and professional boards, and the vetted pool for the Executive Council (Part 80).
+3. **The entry rule for a targeted pool is the qualification and the exam for that role,** not money: a university degree or a licensed profession where the role needs it, the role's examination, the background check (Part 39), and an interview recorded and published.
+4. **A small deposit, returned.** To stop people from applying everywhere without preparing, the candidate pays a modest deposit, returned in full when the candidate sits the exam. It is waived for candidates on the social register.
+5. **One targeted pool at a time, one entry per pool.** No one gets extra chances by paying more.
+6. **Moving to another targeted pool** is allowed after the current selection round is finished. A candidate who leaves a pool before its draw waits one full round before entering another.
+7. **Leaving a targeted pool does not take a citizen out of the general lottery.**
+
+**Why not a high fee to switch pools?** See 91.6. The author's own proposal is kept as an open decision (Part 97, decision 68).
+
+### 91.6 The case against selling better chances
+
+The proposal to make each move between pools cost a lot of money has a clear aim: only serious people apply. The risk is larger than the gain:
+
+- **Money buys odds.** Whoever can pay several times gets several chances. In Haiti that means the same families who already hold the posts. The capture test (the first rule of this document) asks: "If a rich group wanted this post, could they buy their way in?" With a fee to switch pools, the answer becomes yes.
+- **Backers will pay the fee.** A businessman or a foreign interest can pay a candidate's fees and later collect the favour. Part 39 exists to stop exactly this.
+- **It turns a public duty into a purchase.** A citizen who paid a lot for a post will want the money back.
+- **A degree requirement for the general pool would exclude most Haitians** (Part 16), including the rural majority the Assembly is meant to represent.
+
+**What the proposal gets right, and keeps:** serious candidates for skilled roles, a degree or profession where the role needs it, and a cost for applying carelessly. The returned deposit and the exam do that without selling odds.
+
+### 91.7 Capture test
+
+| Rule | If someone tries to cheat, what stops it? |
+|---|---|
+| Payroll lock | The machine refuses unlisted names; attempts are logged and audited by the audit court |
+| Rank order | Written reason, published, appealable |
+| Exam papers | Drawn at the last moment from a large bank |
+| HR offices in ministries | Belong to the NASA, rotate every four years |
+| Targeted pools | No fee for better odds; exam and background check; one pool at a time |
+
+### 91.8 Honest limits
+
+- A determined network can still corrupt graders or the computer system. Two-grader marking, audits and public results make it harder and easier to catch, not impossible.
+- Some excellent people do badly on exams. Interviews, probation periods and evaluations correct part of this.
+- The payroll lock depends on the State Technology Center being secure (Part 55).
+
+---
+
+## PART 92 — SERVING THE COUNTRY, NOT A PARTY: EQUAL SERVICE, FAST, CLEAR AND EXACT
+
+### 92.1 The rule in one line
+
+**Every public worker serves Haiti and every Haitian equally. The only party of the State is the country.**
+
+### 92.2 The service oath
+
+Every civil servant, police officer, soldier, judge, member of an assembly and minister swears on taking the post, in Kreyòl, in public:
+
+> "I serve Haiti and every Haitian the same way. I do not work for a party, a family, a church, a company or a foreign country. I do not give favours and I do not take them. I follow the law, I keep the record honest, and I serve fast, clearly and with respect."
+
+The oath is signed and kept in the personnel file. Breaking it is a ground for discipline.
+
+### 92.3 What neutrality means in practice
+
+1. **No party work during service.** A civil servant may vote and may hold private political views. While in post, they may not hold a party office, campaign, collect money for a party, or use their post, uniform, vehicle or office to help a party or a candidate.
+2. **No party symbols in public buildings,** vehicles or uniforms. No portrait of a living politician on a public wall.
+3. **No party in hiring or service.** Asking a job applicant or a citizen about their party, church or family is forbidden.
+4. **Officials who want to run for an elected post** (where elections remain, such as mayors in Part 81) take unpaid leave from the date they declare.
+5. **Members of the Citizens' Assembly and the Executive Council** may not be party officers during their term.
+
+### 92.4 Equal service for every citizen
+
+- **First come, first served,** with a numbered ticket or a phone booking. The only priority lines are for the elderly, pregnant women, people with disabilities and emergencies, and these are posted on the wall.
+- **The same price for everyone,** posted. No "speed fee", no tip, no gift (Part 39 zero-gift rule).
+- **The same service in Kreyòl and French,** and help for people who cannot read.
+- **The same standard in Jérémie as in Pétion-Ville.** Service times are published by commune, and the worst communes get the help first.
+- **No one is refused a service because of who they are,** where they come from, their party, their religion or the colour of their skin (Part 63).
+
+### 92.5 Fast, efficient and exact: the Service Charter
+
+Every office that serves the public posts its **Service Charter** on the wall and online. For each service it states:
+
+1. **What you need to bring** — one short checklist, in Kreyòl, the same everywhere in the country. Nothing that is not on the list may be asked for.
+2. **How much it costs** — the exact price.
+3. **How long it takes** — a maximum time in working days (for example, Part 54: identity card in 10 working days).
+4. **Who is responsible** — the name and number of the officer in charge.
+5. **What happens if the time is missed** — the fee is returned, and the file moves to a supervisor automatically.
+6. **How to complain** — one free number, one website, one desk.
+
+**Clear instructions** means: one page, simple words, numbered steps, a picture for people who cannot read, and the same form in every commune.
+
+**Exact** means: no mistakes in names, dates or amounts. An error made by the office is corrected free, within three working days.
+
+### 92.6 How service is checked
+
+- **Mystery citizens:** trained people go to offices without saying who they are and report how they were served.
+- **A score for every office,** published each quarter: waiting time, delay, complaints, errors, and the citizens' rating after each service (by phone, in one minute).
+- **The best offices are rewarded** (team bonus, Part 7). **The worst get a support team first,** then a change of manager if they do not improve within six months.
+
+### 92.7 Honest limits
+
+- Neutral civil servants still have opinions. The rule controls what they do at work, not what they think.
+- Fast service needs staff, computers and power. Charters must be honest about real times at the start, and shorten them each year.
+
+---
+
+## PART 93 — HOW THE ASSEMBLIES MEET, AND HOW EMPTY SEATS ARE PREVENTED
+
+### 93.1 Why this matters
+
+A law made by a half-empty room is weak. A member who does not come is paid for nothing. In Haiti, quorum has often been broken on purpose to block a vote. These rules make attendance the normal case and absence costly.
+
+### 93.2 The working calendar of the Citizens' Assembly
+
+- **The Assembly is a full-time, paid duty** for its two-year term (Parts 13, 16).
+- **A fixed yearly calendar,** published before the term starts: three sessions a year, with two recess periods (one around the end-of-year holidays, one in summer) and a short break at Easter.
+- **A normal week:** plenary sittings on Tuesday, Wednesday and Thursday; committee work on Monday; Friday for meeting citizens in the member's home commune or for reading and training (Part 94).
+- **Fixed hours:** sittings start on time, at a published hour. Members arriving more than 30 minutes late are marked late; three late marks count as one absence.
+- **No overload.** No sitting runs past 7 p.m. except in a declared emergency. Every member has an assistant from the NASA roster (Part 39) and a research service. Members work no more than an ordinary full-time week except in emergencies.
+- **Emergency sittings** can be called at 24 hours' notice by the Assembly's chair or by one-third of the members.
+
+### 93.3 How a sitting works
+
+1. **Roll call by fingerprint or card** at the door and again before each vote. Only members present in the room vote. **No voting for someone else.**
+2. **Quorum:** a sitting opens with half the members plus one (76 of 150). A vote on a law needs the same quorum present at the vote; votes needing two-thirds count two-thirds of all 150 members.
+3. **Every vote is recorded by name** and posted on the ledger the same day (Part 8).
+4. **Every sitting is public,** broadcast on radio and online, except closed sessions on security approved by a two-thirds vote and reviewed by the Constitutional Court.
+5. **Speaking time** is fixed and equal; the chair is chosen by lot among volunteers for a three-month turn.
+
+### 93.4 Absence rules
+
+| Kind of absence | Examples | Effect |
+|---|---|---|
+| **Excused** | Illness or injury with a medical note; birth of a child; death in the close family; mission approved by the Assembly | No loss of pay up to the limits set by law; a substitute speaker may be named for committee work |
+| **Unexcused** | Any other reason, including leaving the room to break quorum | Pay for that day is withheld; the absence is published by name |
+
+**The ladder for unexcused absence:**
+
+1. **3 unexcused absences in a session:** a public warning, read in the sitting.
+2. **6 in a session, or 10 in a year:** loss of one month's allowance and suspension from committees for a month.
+3. **15 in a year:** the seat is declared empty by the Assembly's ethics committee, subject to appeal to the Constitutional Court within 10 days. The seat goes to the next name on the **reserve list.**
+
+**Breaking quorum on purpose** (walking out together to stop a vote) counts as an unexcused absence for every member who leaves, and the vote is held at the next sitting, where it needs only the members present, as long as one-third of all members are in the room.
+
+### 93.5 The reserve list
+
+At each draw, the lottery also draws a **reserve list** (for example 30 names) with the same balance of départements, gender and age. Reserves go through the same orientation and the same protection (Part 39). When a seat is empty for any reason, the next reserve from the same département takes it within 14 days. **No seat stays empty more than two weeks.**
+
+### 93.6 Remote attendance
+
+Only for a member with an approved medical reason or in a declared disaster that blocks travel, using the State Technology Center's secure system, with identity checks and the camera on. Remote attendance is never allowed to make the quorum by itself.
+
+### 93.7 Communal Assemblies
+
+The same rules apply, scaled: one sitting a week or every two weeks, in the evening or on a weekend so that members can keep working; a reserve list at each draw; the same absence ladder.
+
+### 93.8 Honest limits
+
+- A real illness can look like an excuse, and a false note can look real. Notes come from public or licensed clinics and are checked at random.
+- Pay cuts do not move a member who is paid to stay away by someone else. That is a crime under Part 39 and is investigated when a pattern appears.
+
+---
+
+## PART 94 — PREPARED TO SERVE: TRAINING BEFORE THE POST, AND LEARNING FOR LIFE
+
+### 94.1 The rule
+
+**Nobody takes a public post without being taught how to do it,** and nobody stops learning after taking it.
+
+### 94.2 How long, for whom
+
+| Who | Before taking the post | During the first months |
+|---|---|---|
+| Members of the Citizens' Assembly and Communal Assemblies | The 14-day orientation retreat (Parts 16, 39) | The rest of a **1 to 3 month program**: mornings of training during the first month of sittings, then one day a week until month three |
+| Executive Council members and ministers | **2 to 3 months** at the National School of Public Service, under the protections of Part 39 | Monthly sessions in the first year |
+| Diplomats and heads of mission | **3 months**, plus a briefing before each mission | Language and negotiation courses each year |
+| Directors and new civil servants | **1 to 3 months**, depending on the role | Probation period with a mentor |
+| Mayors and Section Coordinators | **1 month** | One day a month in the first year |
+
+Training is paid. Families of members in training are housed under Part 39. Training time counts as service.
+
+### 94.3 What is taught
+
+1. **Duty to the country.** The Constitution and the laws, the four pillars, the ledger, the oath (Part 92), the zero-gift rule and how capture works (Part 39).
+2. **How the State works.** The budget (Part 12), procurement (Part 24), how to read a law and a contract, how to ask the civil service for facts.
+3. **Haiti's interests.** History from 1804, the debt of independence, the border, trade, the diaspora, the rights of Haitians abroad (Part 48), and the national positions on the main questions.
+4. **Defending Haiti in international meetings.**
+   - Prepare: read the file, know Haiti's position and its limits, agree on red lines with the Council or the ministry before leaving.
+   - Never sign anything alone that commits the country beyond the mandate. Ask for time; bring the text home.
+   - Speak with courtesy and firmness. Courtesy to every country, concessions to none (Part 11).
+   - Protect information: what can be said, what cannot, how phones and rooms are listened to (Part 56).
+   - Report: a written report after every meeting, filed in the record.
+5. **Protocol and etiquette.** How to greet heads of state and officials; titles and forms of address; dress for each occasion; how to sit and eat at an official dinner (cutlery, toasts, speaking at the table); punctuality; gifts (received and handed to the State, under the published list); working with an interpreter; respecting the customs of the host country without giving up Haiti's dignity.
+6. **Languages.** Kreyòl and French for all; English and Spanish for diplomats and those who deal with foreign partners; courses continue during the post.
+7. **Speaking to the public and the press.** Clear answers, no promises outside one's power, how to correct a mistake.
+8. **Security and health.** Personal security, how threats and bribes are reported, stress and rest, first aid.
+
+### 94.4 Learning for life
+
+- **Every public worker:** at least 40 hours of training a year, recorded in the personnel file. Promotion requires it.
+- **Before every international mission:** a briefing on the file and the people on the other side.
+- **After every major meeting:** a short review of what worked.
+- **A national online library** of courses in Kreyòl, free for every citizen, not only for public workers.
+
+### 94.5 The National School of Public Service
+
+One school, with branches in each département, run by the NASA with the State University (Part 73). Its teachers include retired Haitian diplomats and officials with clean records, university teachers, and invited foreign experts who teach but never decide. The program and the trainers' names are public.
+
+### 94.6 Honest limits
+
+- Training does not make an honest person out of a dishonest one. It removes the excuse "I did not know".
+- A long training period before the oath gives backers more time to approach new officials. That is why the Part 39 protections cover the whole training period, and why Assembly members complete most of their training after taking their seats.
+
+---
+
+## PART 95 — WHAT EACH DÉPARTEMENT GROWS, AND HOW FOOD TRAVELS
+
+### 95.1 The idea
+
+Every département can feed itself in part and feed the country in something. Knowing exactly **what each commune can produce,** and moving it **fast and cool to where people eat,** cuts hunger, cuts imports and pays farmers.
+
+### 95.2 Main foods by département (general knowledge, to be checked)
+
+| Département | Main foods and products | Main way out |
+|---|---|---|
+| **Ouest** | Vegetables of Kenscoff and Furcy (carrots, cabbage, potatoes, leeks); plantain of Arcahaie; sugarcane and rice of the Cul-de-Sac plain; mango; fish of La Gonâve and the coast | Roads to the Port-au-Prince markets; boats from La Gonâve |
+| **Artibonite** | Rice of the Artibonite valley (the country's main rice area); mango around Saint-Marc and Gonaïves; plantain, beans, maize; salt of the coast | National Road 1; the ports of Saint-Marc and Gonaïves |
+| **Nord** | Cocoa, coffee of the hills, plantain, citrus, cassava, sugarcane; fish | Cap-Haïtien port and road |
+| **Nord-Est** | Cattle and goats, rice of the Maribaroux plain, plantain, beans, cassava; fish of Fort-Liberté bay | Road to Cap-Haïtien; the Ouanaminthe Gate |
+| **Nord-Ouest** | Goats and cattle, millet (*pitimi*), beans, fish and lobster; Tortuga's gardens | Coastal boats from Port-de-Paix and Tortuga |
+| **Centre** | Maize, millet, beans, peanuts, cassava, cattle and goats; mango near Mirebalais; fish of Lake Péligre | National Road 3 to Port-au-Prince and Cap-Haïtien; the Belladère Gate |
+| **Sud** | Vetiver, rice and sugarcane of the Cayes plain, plantain, breadfruit, coffee of the hills; fish and lobster | Les Cayes port; National Road 2 |
+| **Sud-Est** | Coffee of the highlands around Thiotte, vegetables of the cool hills, fruits, plantain; fish of Jacmel | Jacmel port; road to Port-au-Prince |
+| **Grand'Anse** | Breadfruit, cocoa, coffee, coconut, yams and taro, fruits; fish | Coastal boats from Jérémie; National Road 7 |
+| **Nippes** | Plantain, coconut, root crops, fruits, beans; fish | Miragoâne port; National Road 2 |
+
+This table is a starting point from general knowledge. **The official map comes from the farm census.**
+
+### 95.3 The Commune Resource Map
+
+Within the first year, the Ministry of Agriculture, with the communes and the farmers' cooperatives, publishes for **every commune and every communal section**: the main crops and animals; the amount produced in a normal year; the harvest months; the land, water and soil; the fishing grounds; the roads, wharves and markets; and what the commune buys from outside. It is updated every year on the ledger and shown on the national map, so a farmer, a buyer or a school knows where food is and when.
+
+### 95.4 The best way to move food: the cool chain from field to plate
+
+1. **A collection point in every communal section,** within walking distance of most farms: shade, scales, standard plastic crates (no more sacks that crush fruit), and same-day payment through the payment rail (Part 32).
+2. **A packing house in every commune:** a solar cold room, a drying floor for grain and coffee, sorting and grading, and a small processing room (Part 51.2).
+3. **A food hub in every département,** next to the main road or port: larger cold storage, a laboratory point for the Food Standard (Part 50), and the trucks.
+4. **Refrigerated and covered trucks on fixed routes and fixed days,** published, so farmers know when the truck passes.
+5. **Coastal boats for the far coast.** Grand'Anse, Nippes, Nord-Ouest, La Gonâve and Tortuga move food faster by sea than by road. Registered wharves (Part 49), safe licensed boats, cold boxes on board, and fixed sailing days between the coastal towns and Port-au-Prince, Cap-Haïtien, Les Cayes and Jacmel.
+6. **Farm roads ranked by tons moved** (Part 51.2): the road that carries the most food is repaired first.
+7. **Prices by phone:** every morning, farmers and buyers receive the market prices of the main foods by text message and radio, so nobody sells blind.
+8. **Local first:** school meals, hospitals, prisons and the army buy from the commune and the département before buying further away (Part 51.2). Fresh food travels the shortest distance.
+
+### 95.5 Honest limits
+
+- Today much fruit and vegetables rot between the field and the market. Cold rooms and crates help only if there is power and someone to run them; each packing house has a paid manager and a maintenance contract.
+- The table in 95.2 may miss important local crops. The census corrects it.
+- Boats need safety rules; overloaded boats have killed many people. Licensing and inspection come first.
+
+---
+
+## PART 96 — SPORT IN EVERY SCHOOL AND EVERY SECTION
+
+### 96.1 Why
+
+Sport builds health, discipline, teamwork and pride. It keeps young people busy and away from armed groups. It can find talent from the smallest village. Every child should play, not only children in rich schools.
+
+### 96.2 Every school
+
+1. **A football field** and **a multipurpose court** for basketball, volleyball and tennis. One concrete court with lines for the three sports and movable nets and posts is cheaper and fits more schools than three separate courts. Schools with more land and more students build separate courts.
+2. **Schools without land** (most city schools) share a nearby ground, with a timetable and safe transport, until land is found.
+3. **Water, toilets, shade and a first-aid box** at every ground.
+4. **A physical-education teacher in every school,** trained and paid as a teacher. Large schools have more than one. PE teachers are trained through the funded-training path for teachers (Part 17.2) in each département's teacher college.
+5. **PE is a real subject,** at least two periods a week in every class, with marks.
+6. **Private schools** meet the same standard to keep their licence, or share a public ground with a fee.
+
+### 96.3 Every commune and every section
+
+- **Every communal section: at least one public sports ground,** open to the community after school hours and on weekends.
+- **Every commune: one to three sports complexes,** depending on the number of public schools: **1 complex up to 20 public schools, 2 complexes from 21 to 50, 3 complexes above 50** (thresholds to be confirmed by the census). A complex has a full football field, courts for basketball, volleyball and tennis, a running track where land allows, changing rooms and lights.
+- Grounds are built to the building standard (Part 64), kept by the cleanliness service (Part 70), and open to everyone at no charge. No blades, no weapons (Part 62).
+
+### 96.4 School championships
+
+1. **Commune league:** every school plays in the commune league in each sport, for girls and boys, by age group.
+2. **Departmental championship:** the teams that win their commune league, or reach a set number of points, go to the département finals.
+3. **National finals:** the departmental champions meet once a year in a national school games week, in a different département each year.
+4. **Play and study:** a student plays only while attending school and passing; a school's points count only if its PE classes are held.
+5. **Fair play:** referees are trained and paid; results and players' ages are checked against the identity record (Part 54) to stop over-age players.
+6. **Talent path:** the best young players are offered places in departmental sports schools, with school work continued.
+
+### 96.5 Honest limits
+
+- Land is the hardest part in cities. Sharing grounds and using public land first is the only way.
+- Courts and fields cost money and need repair. Each one has a maintenance budget and a named caretaker.
+- PE teachers do not exist in the numbers needed today. The plan trains them over five years, starting with the largest schools.
+
+---
+
+## PART 97 — RECORD OF THIS REVISION (PARTS 91–96)
+
+### 97.1 What changed
+
+| Older text | Change |
+|---|---|
+| Parts 4 and 17: the NASA exam | The NASA is the one human-resources house for all ministries; the merit lock (payroll, rank order, blind grading, secure papers) (Part 91) |
+| Parts 16 and 17: two ways in | A third way: targeted pools for skilled roles, by qualification and exam, with no fee for better odds (Part 91.5) |
+| Part 39: the oath and zero gifts | A service oath; no party work in post; equal service; the Service Charter (Part 92) |
+| Parts 13 and 16: the Assembly | Calendar, roll call, quorum, absence ladder, reserve list (Part 93) |
+| Part 16: 14-day onboarding | A 1-to-3-month program and lifelong learning, including diplomacy and protocol (Part 94) |
+| Parts 28 and 51: farming | What each département grows; the Commune Resource Map; the cool chain and coastal boats (Part 95) |
+| Part 72: schools | Sports grounds, PE teachers and school championships (Part 96) |
+
+### 97.2 Capture test
+
+| New rule or body | If captured, what stops it? |
+|---|---|
+| NASA HR offices (91) | Belong to the NASA; rotation; payroll lock audited by the audit court |
+| Targeted pools (91.5) | No paid odds; exam; background check; published interviews |
+| Service Charter (92) | Mystery citizens; public scores; automatic refund |
+| Assembly ethics committee (93) | Appeal to the Constitutional Court; published attendance |
+| National School of Public Service (94) | Public program and trainers; foreign experts teach but do not decide |
+| Commune Resource Map (95) | Published data, open to correction by farmers |
+| School championships (96) | Identity checks; trained referees; published results |
+
+### 97.3 What was checked, and what was not
+
+**Not verified in this revision:** the current structure of the OMRH; the crop table in Part 95.2 (general knowledge); the number of public schools per commune and the thresholds in Part 96.3; the number of PE teachers today.
+
+### 97.4 Open decisions added
+
+68. **Targeted pools:** the recommended version (a returned deposit, one pool at a time, no paid odds) or the author's proposal (a high fee for each move between pools, with a university degree or profession required).
+69. The absence limits and the size of the reserve list (Part 93).
+70. The length of training for each role within the 1-to-3-month range (Part 94).
+71. The thresholds for one, two or three sports complexes per commune (Part 96).
+72. Whether private schools must build their own grounds or may share public ones (Part 96).
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -4347,3 +4714,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the third November 2026 revision (Parts 69–79) changed:** deposited firearms stay their owners' property and every purchase needs its own permit; handguns are excluded (Part 69). Racial insult brings community work twice, then prison, with an Equality Unit in every département (Part 69). Water and waste are under public control (Part 69). A national cleanliness service, protected road-maintenance money and fast repair keep the country in order (Part 70). Waste becomes gas, materials and power, and companies take back their bottles (Part 71). Children learn first from books, paper and teachers (Part 72), and the State University is rebuilt as great campuses with research (Part 73). Every job has a written contract and wages are enforced within weeks (Part 74). Wealth is opened to the majority by access, not by seizure (Part 75). Young people used by armed groups who committed no grave crime get a supervised way back (Part 76). History's great crimes get an official public truth, and living suspects face permanent chambers of the ordinary courts (Part 77). One existing city is renewed as the model for the rest (Part 78).
 
 **What the fourth November 2026 revision (Parts 80–89) changed:** the Executive Council keeps seven members but gains what earlier councils lacked: members chosen one by one, nothing to share out, a majority rule with a deadline, one First Coordinator for two years, and public votes (Part 80). Each commune has one Mayor and each section one Coordinator (Part 81). Council members are born in Haiti and at least 35; the diaspora may serve elsewhere; those who govern live in Haiti with their families (Part 82). Lawyers and every profession enter by national examination and answer to independent discipline (Part 83). The transfer levy and PetroCaribe are audited in full, and no levy exists without a public ledger (Part 84). *Restavèk* and street childhood end by a set date (Part 85). Energy has an independent referee (Part 86). Embassies are audited before they are changed (Part 87). The work is protected by copyright and downloads are recorded (Part 88). The border Line is staffed day and night, and border markets run under published rules (Part 90).
+
+**What the fifth November 2026 revision (Parts 91–97) changed:** no salary is paid to anyone hired outside a published ranked list, and every ministry's hiring belongs to one independent human-resources house (Part 91). Citizens may aim for a skilled role through a targeted pool, by exam and qualification, never by paying for better odds (Part 91.5). Every public worker swears to serve the country, not a party, and every office posts what it needs, what it costs and how long it takes (Part 92). The Assembly meets on a fixed calendar, votes by name, and fills any empty seat from a reserve list within two weeks (Part 93). Every official is trained before serving, including how to defend Haiti abroad (Part 94). Each commune's food is mapped and moved by a cool chain and coastal boats (Part 95). Every school gets a field, a court and a PE teacher, with championships from the commune to the nation (Part 96).

@@ -17,6 +17,7 @@ De koreksyon ki soti nan revizyon konsepsyon an, epi ki aplike nan tout dokiman 
 5. **Pati 61–68 (novanm 2026, dezyèm revizyon)** ajoute: zam afe pou moun remèt anvan yon dat fiks, epi Leta remèt yo sèlman apre yon egzamen lisans ki sevè anpil (61); yon règ kont pote zam blanch ak zouti an piblik (62); rasis kòm yon krim (63); yon Sètifika Sekirite pou chak nouvo bilding, lisans pou bòs konstriksyon apre egzamen, ak prè pou bati kay (64); limit wotè, plan komin, okenn konsè nan lekòl, ak sal espektak ki gen lisans, se envestisè ki bati yo (65); dlo pou chak fwaye (66); jesyon fatra (67); ak objektif "peyi ki pi an sekirite a" ak yon tablo nòt chak ane (68). Koreksyon pou ansyen Pati yo nan lis Pati 68.5 la.
 6. **Pati 69–79 (novanm 2026, twazyèm revizyon)** anrejistre desizyon yo pran sou Pati 61–68 (69) epi ajoute: yon sèvis nasyonal pwòpte, wout ki dire ak reparasyon rapid, twalèt piblik ak rezo ki byen antreteni (70); enèji ak materyo ki soti nan fatra, kote chak konpayi reprann boutèy li (71); yon lekòl ki mete liv an premye e ki fèt pou sèvo timoun nan (72); Inivèsite Leta Ayiti rebati sou twa, apre sa senk, gwo kanpis (73); yon kontra ekri pou chak travay ak salè ki toujou peye (74); pwosperite pataje ak konpayi mondyal ki travay dapre kondisyon Ayiti (75); yon dezyèm chans pou jèn gwoup ame te itilize (76); jistis pou gwo krim yo, depi Desalin rive jodi a (77); ak yon vil modèl (78). Pati 79 bay lis koreksyon yo ak desizyon ki rete ouvè yo.
 7. **Pati 80–89 (novanm 2026, katriyèm revizyon)** reponn objeksyon ki pi difisil kont plan sa a, sèt dirijan oswa yon sèl, epi fikse règ Konsèy Egzekitif la (80); ranplase meri twa manm ak konsèy seksyon yo ak yon sèl Majistra ki rann kont ak yon sèl Kowòdonatè Seksyon (81); fikse ki moun ki ka sèvi, kote manm Konsèy la dwe fèt ann Ayiti epi fanmi ofisyèl yo dwe viv ann Ayiti (82); ajoute yon Egzamen Leta pou Bawo a ak yon sèl estanda pou chak pwofesyon (83); mande kont sou prelèvman US$1.50 sou transfè lajan yo ak sou PetroCaribe dapre règ "pa gen prelèvman san rejis" (84); mete fen nan *restavèk* ak nan lavi timoun nan lari anvan yon dat fiks (85); reglemante enèji (86); pran leson ki nan ansyen dokiman otè a sou diplomasi (87); epi pwoteje travay sa a nan lalwa (88). Pati 89 se kote tout sa anrejistre. **Pati 90** fikse siveyans 24 èdtan sou 24 sou Liy fwontyè a ak règ pou mache binasyonal yo.
+8. **Pati 91–97 (novanm 2026, senkyèm revizyon)** fè NASA a tounen sèl kay resous imen pou chak ministè epi yo fèmen merit la nan peyewòl la, ak pisin sible pou wòl ki mande konpetans (91); yon sèman sèvis, pa gen travay pou pati nan pòs, ak yon Chat Sèvis pou menm sèvis rapid e klè pou tout moun (92); kalandriye Asanble a, apèl, kowòm ak règ absans ak yon lis rezèv (93); youn a twa mwa fòmasyon anvan oswa nan kòmansman chak pòs, ak aprann toutan (94); sa chak depatman pwodui ak kijan manje vwayaje (95); espò nan chak lekòl ak chak seksyon ak chanpyona lekòl (96). Pati 97 se rejis la.
 
 ---
 
@@ -4333,6 +4334,372 @@ Pou chak depatman, Leta pibliye chak ane kantite majistra, kowòdonatè seksyon,
 
 ---
 
+## PATI 91 — YON SÈL KAY RESOUS IMEN POU TOUT LETA A, AK KADNA MERIT LA
+
+### 91.1 Pwoblèm nan
+
+Yon egzamen pou kont li pa kanpe koripsyon. Nan anpil peyi, egzamen an egziste, epi apre sa minis la anboche yon kouzen "sou kontra", oswa li chwazi 40yèm non an olye premye a, oswa yo vann papye egzamen an lavèy. **Egzamen an se pòt la sèlman. Kadna a, se sa ki pase apre li.**
+
+### 91.2 Yon sèl kay pou anboche, pou tout ministè
+
+1. **NASA a se sèl kay resous imen Leta a.** Li rekrite, li fè egzamen, li plase, li fòme, li bay pwomosyon, li deplase, li disipline epi li mete nan retrèt tout fonksyonè tout ministè, tout komin ak tout ajans piblik. (Ayiti gen deja yon Biwo Jesyon ak Resous Imen, OMRH. NASA a soti nan li; se pa yon nouvo kouch anplis.)
+2. **Chak ministè gen yon biwo resous imen, men biwo sa a se pou NASA a,** se pa pou minis la. Anplwaye li yo se anplwaye NASA, se NASA ki peye yo, epi yo chanje plas chak kat ane.
+3. **Yon sèl dosye pou chak travayè piblik,** anndan Sant Teknoloji Leta a (Pati 55): verifikasyon diplòm, nòt egzamen, pòs li te okipe, fòmasyon, evalyasyon, disiplin. Travayè a ka wè pwòp dosye li nenpòt ki lè.
+4. **Yon sèl plan anplwa pou chak ministè,** yo vote l ansanm ak bidjè a (Pati 12): konbyen pòs, nan ki grad, nan ki komin. Yon pòs ki pa nan plan an pa egziste.
+5. **Minis yo deside travay la, se pa yo ki anboche.** Yon minis ka mande yon pòs epi li ka ekri sa travay la mande. Minis la pa ka chwazi moun nan.
+
+### 91.3 Kadna merit la: sèt règ ki fè egzamen an mode
+
+1. **Pa gen salè san lis la.** Sistèm peyewòl la peye sèlman moun ki antre pa yon konkou yo pibliye epi ki sou lis klasman li. Si yo ajoute yon non nenpòt lòt jan, machin nan refize l, epi li anrejistre tantativ la. (Sa a se règ ki pi fò a. Jodi a, "travayè fantom" ak favè yo kache nan peyewòl la; Pati 44 te jwenn 13,196 polisye sou papye ak anviwon 4,000 sèlman sou sèvis.)
+2. **Premye non an jwenn travay la.** Yo ofri pòs yo nan lòd lis klasman an. Pou sote yon kandida, fòk gen yon rezon alekri (li echwe egzamen medikal, li echwe ankèt sou dosye li, kandida a refize), yo pibliye rezon an, epi kandida yo sote a ka fè apèl devan tribinal administratif la.
+3. **Yo pibliye chak pòs ki vid,** ak grad salè a, kote a ak dat egzamen an, omwen 30 jou davans, sou rejis piblik la, nan radyo ak nan chak Kay Souvren.
+4. **Korije san wè non.** Fèy repons yo pote yon nimewo, pa yon non. De korektè make chak kopi separeman; yon twazyèm deside si yo pa dakò.
+5. **Papye moun pa ka vann.** Yon òdinatè tire chak egzamen nan yon gwo bank kesyon yon ti tan anvan li kòmanse, epi yo enprime l oswa chaje l kote egzamen an ap fèt la. Moun ki ekri kesyon yo pa konnen ki kesyon yo pral sèvi.
+6. **Egzaminatè yo chanje epi yo deklare.** Pèsonn pa korije yon kandida ki nan fanmi li, ki soti nan komin li oswa nan ansyen biwo li. Chak egzaminatè deklare konfli enterè li.
+7. **Rezilta yo piblik.** Lis klasman yo (ak nimewo kandida yo), to reyisit pa komin ak pa sèks, ak chak desizyon sou apèl, yo afiche yo.
+
+**Kraze kadna a se yon krim.** Anboche andeyò lis la, vann yon egzamen, oswa korije yon fanmi mennen revokasyon nan sèvis la ak pousuit. Moun yo anboche pa magouy la pèdi pòs la; yon kandida onèt yo te sote jwenn li, ak tout lajan li te dwe touche depi lè sa a.
+
+### 91.4 Anplwaye tanporè ak anplwaye sou kontra
+
+- Kontra kout (jiska sis mwa) pèmèt sèlman pou ijans ak travay sezon, nan yon lis lokal yo pibliye, yo tire osò pami moun ki kalifye.
+- Yo pa ka renouvle yon kontra pou l tounen yon pòs pèmanan. Pòs pèmanan pase pa konkou.
+- Yo pibliye chak mwa kantite anplwaye sou kontra chak ministè genyen.
+
+### 91.5 Chwazi yon pòs espesifik: pisin sible (vèsyon nou rekòmande)
+
+Jodi a plan an gen de fason pou antre: **tiraj osò** pou Asanble Sitwayen an ak Asanble Kominal yo (louvri pou tout granmoun, san diplòm, Pati 16), ak **egzamen** pou sèvis sivil la (Pati 17). Yon sitwayen ki vle yon wòl espesifik (diplomat, direktè, manm yon konsèy regilasyon) dwe kapab vize l. Revizyon sa a ajoute **pisin sible**:
+
+1. **Tiraj jeneral la pa chanje.** Tout sitwayen granmoun ladan l. Pèsonn pa ka achte plis chans ladan l, e pèsonn pa ka retire ladan l si se pa dapre règ Pati 39.
+2. **Yon sitwayen ka aplike tou nan yon sèl pisin sible alafwa** pou yon wòl ki mande konpetans: pòs sèvis diplomatik la, direktè ak chèf ajans, manm konsèy regilasyon ak konsèy pwofesyonèl, ak pisin moun yo verifye pou Konsèy Egzekitif la (Pati 80).
+3. **Règ pou antre nan yon pisin sible se kalifikasyon ak egzamen wòl la,** se pa lajan: yon diplòm inivèsite oswa yon pwofesyon ki gen lisans lè wòl la mande sa, egzamen wòl la, ankèt sou dosye a (Pati 39), ak yon entèvyou yo anrejistre epi pibliye.
+4. **Yon ti depo yo remèt.** Pou moun pa aplike toupatou san yo pa prepare, kandida a peye yon ti depo, yo remèt li l nèt lè li fin pran egzamen an. Moun ki sou rejis sosyal la pa peye l.
+5. **Yon sèl pisin sible alafwa, yon sèl antre pa pisin.** Pèsonn pa jwenn plis chans paske li peye plis.
+6. **Ale nan yon lòt pisin sible** pèmèt apre tou seleksyon an fin fèt. Yon kandida ki kite yon pisin anvan tiraj li tann yon tou konplè anvan li antre nan yon lòt.
+7. **Kite yon pisin sible pa retire yon sitwayen nan tiraj jeneral la.**
+
+**Poukisa pa yon gwo frè pou chanje pisin?** Gade 91.6. Pwopozisyon otè a rete kòm yon desizyon ouvè (Pati 97, desizyon 68).
+
+### 91.6 Rezon kont vann plis chans
+
+Pwopozisyon pou chak chanjman pisin koute anpil lajan gen yon bon objektif: se sèlman moun serye ki pou aplike. Men risk la pi gwo pase benefis la:
+
+- **Lajan achte chans.** Moun ki ka peye plizyè fwa jwenn plizyè chans. Ann Ayiti, sa vle di menm fanmi ki deja kenbe pòs yo. Tès kapti a (premye règ dokiman sa a) mande: "Si yon gwoup rich te vle pòs sa a, èske yo ta ka achte antre yo?" Avèk yon frè pou chanje pisin, repons lan vin wi.
+- **Moun ki dèyè yo ap peye frè a.** Yon biznisman oswa yon enterè etranje ka peye frè yon kandida epi pita mande l remèt favè a. Pati 39 egziste pou kanpe egzakteman sa.
+- **Li fè yon devwa piblik tounen yon acha.** Yon sitwayen ki peye anpil pou yon pòs ap vle rekipere lajan l.
+- **Mande diplòm pou pisin jeneral la t ap mete pifò Ayisyen deyò** (Pati 16), tankou majorite moun andeyò Asanble a fèt pou reprezante.
+
+**Sa pwopozisyon an fè byen, e nou kenbe l:** kandida serye pou wòl ki mande konpetans, yon diplòm oswa yon pwofesyon lè wòl la mande sa, ak yon pri pou moun ki aplike san reflechi. Depo yo remèt la ak egzamen an fè sa san yo pa vann chans.
+
+### 91.7 Tès kapti
+
+| Règ | Si yon moun eseye triche, kisa ki kanpe l? |
+|---|---|
+| Kadna peyewòl | Machin nan refize non ki pa sou lis; yo anrejistre tantativ yo epi tribinal kont lan fè odit |
+| Lòd klasman | Rezon alekri, pibliye, moun ka fè apèl |
+| Papye egzamen | Yo tire yo nan dènye moman nan yon gwo bank |
+| Biwo resous imen nan ministè yo | Se pou NASA yo ye; yo chanje chak kat ane |
+| Pisin sible | Pa gen frè pou plis chans; egzamen; ankèt; entèvyou pibliye |
+
+### 91.8 Limit onèt
+
+- Yon rezo ki detèmine ka toujou kòwonpi korektè oswa sistèm òdinatè a. De korektè, odit ak rezilta piblik fè sa pi difisil e pi fasil pou kenbe, men se pa enposib.
+- Gen moun ki ekselan ki pa fè bon nòt nan egzamen. Entèvyou, peryòd esè ak evalyasyon korije yon pati nan sa.
+- Kadna peyewòl la depann de sekirite Sant Teknoloji Leta a (Pati 55).
+
+---
+
+## PATI 92 — SÈVI PEYI A, SE PA YON PATI: MENM SÈVIS POU TOUT MOUN, RAPID, KLÈ AK EGZAK
+
+### 92.1 Règ la nan yon fraz
+
+**Chak travayè piblik sèvi Ayiti ak chak Ayisyen menm jan. Sèl pati Leta a genyen, se peyi a.**
+
+### 92.2 Sèman sèvis la
+
+Chak fonksyonè, polisye, sòlda, jij, manm yon asanble ak minis fè sèman lè l ap pran pòs la, an kreyòl, an piblik:
+
+> "Mwen sèvi Ayiti ak chak Ayisyen menm jan. Mwen pa travay pou yon pati, yon fanmi, yon legliz, yon konpayi oswa yon peyi etranje. Mwen pa bay favè e mwen pa pran favè. Mwen swiv lalwa, mwen kenbe dosye yo onèt, epi mwen sèvi rapid, klè ak respè."
+
+Yo siyen sèman an epi yo kenbe l nan dosye pèsonèl la. Kraze sèman an se yon rezon pou disiplin.
+
+### 92.3 Sa netralite vle di nan pratik
+
+1. **Pa gen travay pou pati pandan sèvis.** Yon fonksyonè ka vote epi li ka gen pwòp opinyon politik li an prive. Pandan li nan pòs la, li pa ka gen yon pòs nan yon pati, fè kanpay, ranmase lajan pou yon pati, ni sèvi ak pòs li, inifòm li, machin li oswa biwo li pou ede yon pati oswa yon kandida.
+2. **Pa gen senbòl pati nan bilding piblik,** nan machin oswa sou inifòm Leta. Pa gen pòtrè yon politisyen vivan sou yon mi piblik.
+3. **Pa gen pati nan anbochaj ni nan sèvis.** Li entèdi pou mande yon moun k ap chèche travay oswa yon sitwayen ki pati li, ki legliz li oswa ki fanmi li.
+4. **Ofisyèl ki vle kandida pou yon pòs eli** (kote eleksyon rete, tankou majistra nan Pati 81) pran yon konje san salè depi jou li deklare.
+5. **Manm Asanble Sitwayen an ak Konsèy Egzekitif la** pa ka gen pòs nan yon pati pandan manda yo.
+
+### 92.4 Menm sèvis pou chak sitwayen
+
+- **Premye rive, premye sèvi,** ak yon tikè nimewo oswa yon randevou pa telefòn. Sèl liy priyorite yo se pou granmoun aje, fanm ansent, moun ki gen andikap ak ijans, e yo afiche yo sou mi an.
+- **Menm pri pou tout moun,** afiche. Pa gen "frè vitès", pa gen poubwa, pa gen kado (règ zewo kado Pati 39).
+- **Menm sèvis an kreyòl ak an franse,** ak èd pou moun ki pa konn li.
+- **Menm nivo nan Jeremi kou nan Petyonvil.** Yo pibliye tan sèvis pa komin, e komin ki pi mal yo jwenn èd anvan.
+- **Pèsonn pa ka refize yon sèvis akoz kiyès li ye,** ki kote li soti, pati li, relijyon li oswa koulè po li (Pati 63).
+
+### 92.5 Rapid, efikas ak egzak: Chat Sèvis la
+
+Chak biwo ki sèvi piblik la afiche **Chat Sèvis** li sou mi an ak sou entènèt. Pou chak sèvis, li di:
+
+1. **Sa pou w pote** — yon sèl ti lis, an kreyòl, menm jan toupatou nan peyi a. Yo pa ka mande anyen ki pa sou lis la.
+2. **Konbyen sa koute** — pri egzak la.
+3. **Konbyen tan sa pran** — yon tan maksimòm an jou travay (pa egzanp, Pati 54: kat idantite nan 10 jou travay).
+4. **Kiyès ki responsab** — non ak nimewo ofisye ki an chaj la.
+5. **Sa k pase si yo depase tan an** — yo remèt frè a, epi dosye a monte bay yon sipèvizè otomatikman.
+6. **Kijan pou w pote plent** — yon sèl nimewo gratis, yon sèl sit entènèt, yon sèl biwo.
+
+**Enstriksyon klè** vle di: yon sèl paj, mo senp, etap ak nimewo, yon imaj pou moun ki pa konn li, ak menm fòmilè nan chak komin.
+
+**Egzak** vle di: pa gen erè nan non, dat oswa kantite lajan. Yon erè biwo a fè, yo korije l gratis nan twa jou travay.
+
+### 92.6 Kijan yo tcheke sèvis la
+
+- **Sitwayen sekrè:** moun ki fòme ale nan biwo yo san yo pa di kiyès yo ye, epi yo rapòte kijan yo te resevwa yo.
+- **Yon nòt pou chak biwo,** pibliye chak twa mwa: tan pou tann, reta, plent, erè, ak nòt sitwayen yo bay apre chak sèvis (pa telefòn, nan yon minit).
+- **Pi bon biwo yo jwenn rekonpans** (bonis ekip, Pati 7). **Biwo ki pi mal yo jwenn yon ekip sipò anvan,** epi yo chanje manadjè a si yo pa amelyore nan sis mwa.
+
+### 92.7 Limit onèt
+
+- Fonksyonè ki net toujou gen opinyon. Règ la kontwole sa yo fè nan travay, se pa sa yo panse.
+- Sèvis rapid bezwen anplwaye, òdinatè ak kouran. Chat yo dwe onèt sou tan reyèl la nan kòmansman, epi diminye l chak ane.
+
+---
+
+## PATI 93 — KIJAN ASANBLE YO REYINI, AK KIJAN POU ANPECHE CHÈZ VID
+
+### 93.1 Poukisa sa enpòtan
+
+Yon lwa yon sal mwatye vid fè fèb. Yon manm ki pa vini touche pou anyen. Ann Ayiti, yo souvan kraze kowòm espre pou bloke yon vòt. Règ sa yo fè prezans tounen nòmal, epi absans koute chè.
+
+### 93.2 Kalandriye travay Asanble Sitwayen an
+
+- **Asanble a se yon devwa a plen tan, ak salè,** pou manda de ane li (Pati 13, 16).
+- **Yon kalandriye fiks chak ane,** yo pibliye l anvan manda a kòmanse: twa sesyon pa ane, ak de peryòd vakans (youn nan fen ane a, youn nan ete) ak yon ti poz nan Pak.
+- **Yon semèn nòmal:** sesyon plenyè madi, mèkredi ak jedi; travay komisyon lendi; vandredi pou rankontre sitwayen nan komin manm nan oswa pou li ak fòmasyon (Pati 94).
+- **Lè fiks:** sesyon yo kòmanse alè, a yon lè yo pibliye. Manm ki rive plis pase 30 minit an reta make an reta; twa reta konte pou yon absans.
+- **Pa twòp chaj.** Okenn sesyon pa depase 7 è diswa, eksepte nan yon ijans yo deklare. Chak manm gen yon asistan nan lis NASA a (Pati 39) ak yon sèvis rechèch. Manm yo pa travay plis pase yon semèn travay nòmal a plen tan, eksepte nan ijans.
+- **Sesyon ijans** ka konvoke 24 è davans pa prezidan Asanble a oswa pa yon tyè manm yo.
+
+### 93.3 Kijan yon sesyon mache
+
+1. **Apèl pa anprent dwèt oswa kat** nan pòt la epi ankò anvan chak vòt. Se sèlman manm ki nan sal la ki vote. **Pèsonn pa vote pou yon lòt.**
+2. **Kowòm:** yon sesyon louvri ak mwatye manm yo plis youn (76 sou 150). Yon vòt sou yon lwa bezwen menm kowòm nan prezan lè vòt la ap fèt; vòt ki bezwen de tyè konte de tyè tout 150 manm yo.
+3. **Yo anrejistre chak vòt ak non chak moun** epi yo afiche l sou rejis piblik la menm jou a (Pati 8).
+4. **Chak sesyon piblik,** sou radyo ak sou entènèt, eksepte sesyon fèmen sou sekirite yo apwouve pa yon vòt de tyè, e Tribinal Konstitisyonèl la revize.
+5. **Tan pou pale** fiks e egal; yo tire prezidan sesyon an osò pami volontè pou yon tou twa mwa.
+
+### 93.4 Règ sou absans
+
+| Kalite absans | Egzanp | Konsekans |
+|---|---|---|
+| **Eskize** | Maladi oswa blesi ak yon nòt doktè; nesans yon pitit; lanmò nan fanmi pwòch; misyon Asanble a apwouve | Pa pèdi salè jiska limit lalwa fikse; yo ka nonmen yon lòt manm pou pale nan travay komisyon |
+| **Pa eskize** | Nenpòt lòt rezon, tankou kite sal la pou kraze kowòm | Yo kenbe salè jou sa a; yo pibliye absans lan ak non moun nan |
+
+**Nechèl pou absans ki pa eskize:**
+
+1. **3 absans pa eskize nan yon sesyon:** yon avètisman piblik, yo li l nan sesyon an.
+2. **6 nan yon sesyon, oswa 10 nan yon ane:** pèdi yon mwa alokasyon epi yo sispann li nan komisyon yo pou yon mwa.
+3. **15 nan yon ane:** komite etik Asanble a deklare chèz la vid, ak dwa pou fè apèl devan Tribinal Konstitisyonèl la nan 10 jou. Chèz la ale bay pwochen non nan **lis rezèv la.**
+
+**Kraze kowòm espre** (kite sal la ansanm pou bloke yon vòt) konte kòm yon absans pa eskize pou chak manm ki soti, epi vòt la fèt nan pwochen sesyon an, kote li bezwen sèlman manm ki prezan yo, depi omwen yon tyè tout manm yo nan sal la.
+
+### 93.5 Lis rezèv la
+
+Nan chak tiraj, lotri a tire tou yon **lis rezèv** (pa egzanp 30 non) ak menm balans depatman, sèks ak laj. Rezèv yo pase nan menm oryantasyon an ak menm pwoteksyon an (Pati 39). Lè yon chèz vid pou nenpòt rezon, pwochen rezèv ki soti nan menm depatman an pran l nan 14 jou. **Okenn chèz pa rete vid plis pase de semèn.**
+
+### 93.6 Patisipe adistans
+
+Sèlman pou yon manm ki gen yon rezon medikal yo apwouve oswa nan yon katastwòf yo deklare ki bloke vwayaj, ak sistèm sekirize Sant Teknoloji Leta a, verifikasyon idantite, kamera limen. Patisipasyon adistans pa janm ka fè kowòm nan pou kont li.
+
+### 93.7 Asanble Kominal yo
+
+Menm règ yo aplike, pi piti: yon sesyon chak semèn oswa chak de semèn, nan aswè oswa nan wikenn pou manm yo ka kontinye travay; yon lis rezèv nan chak tiraj; menm nechèl absans lan.
+
+### 93.8 Limit onèt
+
+- Yon vrè maladi ka sanble yon eskiz, e yon fo nòt ka sanble vre. Nòt yo soti nan klinik piblik oswa ki gen lisans, epi yo tcheke yo osò.
+- Koupe salè pa fè efè sou yon manm yon lòt moun ap peye pou l pa vini. Sa se yon krim dapre Pati 39, e yo mennen ankèt lè yon modèl parèt.
+
+---
+
+## PATI 94 — PARE POU SÈVI: FÒMASYON ANVAN PÒS LA, AK APRANN TOUTAN
+
+### 94.1 Règ la
+
+**Pèsonn pa pran yon pòs piblik san yo pa montre l kijan pou l fè l,** e pèsonn pa sispann aprann apre li fin pran l.
+
+### 94.2 Konbyen tan, pou kiyès
+
+| Kiyès | Anvan li pran pòs la | Pandan premye mwa yo |
+|---|---|---|
+| Manm Asanble Sitwayen an ak Asanble Kominal yo | Retrèt oryantasyon 14 jou a (Pati 16, 39) | Rès yon **pwogram 1 a 3 mwa**: fòmasyon chak maten pandan premye mwa sesyon yo, apre sa yon jou pa semèn jiska twazyèm mwa a |
+| Manm Konsèy Egzekitif la ak minis yo | **2 a 3 mwa** nan Lekòl Nasyonal Sèvis Piblik la, anba pwoteksyon Pati 39 | Sesyon chak mwa nan premye ane a |
+| Diplomat ak chèf misyon | **3 mwa**, plis yon brifing anvan chak misyon | Kou lang ak negosyasyon chak ane |
+| Direktè ak nouvo fonksyonè | **1 a 3 mwa**, selon wòl la | Peryòd esè ak yon mantò |
+| Majistra ak Kowòdonatè Seksyon | **1 mwa** | Yon jou pa mwa nan premye ane a |
+
+Yo peye fòmasyon an. Fanmi manm k ap fè fòmasyon jwenn lojman dapre Pati 39. Tan fòmasyon konte kòm sèvis.
+
+### 94.3 Sa yo aprann
+
+1. **Devwa anvè peyi a.** Konstitisyon an ak lwa yo, kat poto yo, rejis piblik la, sèman an (Pati 92), règ zewo kado a ak kijan kapti mache (Pati 39).
+2. **Kijan Leta a mache.** Bidjè a (Pati 12), acha piblik (Pati 24), kijan pou li yon lwa ak yon kontra, kijan pou mande sèvis sivil la enfòmasyon.
+3. **Enterè Ayiti.** Istwa depi 1804, dèt endepandans lan, fwontyè a, komès, dyaspora a, dwa Ayisyen aletranje (Pati 48), ak pozisyon nasyonal sou gwo kesyon yo.
+4. **Defann Ayiti nan reyinyon entènasyonal.**
+   - Prepare: li dosye a, konnen pozisyon Ayiti ak limit li, dakò sou liy wouj yo ak Konsèy la oswa ministè a anvan w pati.
+   - Pa janm siyen anyen pou kont ou ki angaje peyi a pi lwen pase manda a. Mande tan; pote tèks la lakay.
+   - Pale ak koutwazi epi ak fèmte. Koutwazi pou tout peyi, konsesyon pou okenn (Pati 11).
+   - Pwoteje enfòmasyon: sa ou ka di, sa ou pa ka di, kijan yo ka koute telefòn ak chanm (Pati 56).
+   - Rapòte: yon rapò alekri apre chak reyinyon, ranje nan achiv la.
+5. **Pwotokòl ak bòn manyè.** Kijan pou salye chèf deta ak ofisyèl; tit ak fason pou adrese moun; rad pou chak okazyon; kijan pou chita epi manje nan yon dine ofisyèl (kouvè, tchinn-tchinn, pale atab); ponktyalite; kado (yo resevwa yo epi yo remèt yo bay Leta, dapre lis yo pibliye a); travay ak yon entèprèt; respekte koutim peyi k ap resevwa w san w pa bay diyite Ayiti.
+6. **Lang.** Kreyòl ak franse pou tout moun; angle ak panyòl pou diplomat ak moun k ap travay ak patnè etranje; kou yo kontinye pandan pòs la.
+7. **Pale ak piblik la ak laprès.** Repons klè, pa pwomèt sa ki pa nan pouvwa w, kijan pou korije yon erè.
+8. **Sekirite ak sante.** Sekirite pèsonèl, kijan pou rapòte menas ak tchotcho, estrès ak repo, premye swen.
+
+### 94.4 Aprann toutan
+
+- **Chak travayè piblik:** omwen 40 èdtan fòmasyon pa ane, anrejistre nan dosye pèsonèl li. Pwomosyon mande sa.
+- **Anvan chak misyon entènasyonal:** yon brifing sou dosye a ak sou moun ki sou lòt bò tab la.
+- **Apre chak gwo reyinyon:** yon ti revizyon sou sa ki te mache.
+- **Yon bibliyotèk nasyonal sou entènèt** ak kou an kreyòl, gratis pou chak sitwayen, pa sèlman pou travayè piblik.
+
+### 94.5 Lekòl Nasyonal Sèvis Piblik la
+
+Yon sèl lekòl, ak branch nan chak depatman, NASA a jere l ansanm ak Inivèsite Leta a (Pati 73). Pwofesè li yo gen ladan yo ansyen diplomat ak ansyen ofisyèl ayisyen ki gen dosye pwòp, pwofesè inivèsite, ak ekspè etranje yo envite ki anseye men ki pa janm deside. Pwogram nan ak non fòmatè yo piblik.
+
+### 94.6 Limit onèt
+
+- Fòmasyon pa fè yon moun malonèt tounen onèt. Li retire eskiz "mwen pa t konnen" an.
+- Yon fòmasyon long anvan sèman an bay moun ki dèyè yo plis tan pou apwoche nouvo ofisyèl yo. Se pou sa pwoteksyon Pati 39 yo kouvri tout peryòd fòmasyon an, e se pou sa manm Asanble a fè pifò fòmasyon yo apre yo fin pran plas yo.
+
+---
+
+## PATI 95 — SA CHAK DEPATMAN PWODUI, AK KIJAN MANJE VWAYAJE
+
+### 95.1 Lide a
+
+Chak depatman ka nouri tèt li an pati epi bay peyi a yon bagay. Lè nou konnen egzakteman **sa chak komin ka pwodui,** epi nou deplase l **vit e fre kote moun ap manje,** sa diminye grangou, diminye enpòtasyon epi peye kiltivatè yo.
+
+### 95.2 Pwodui prensipal pa depatman (konesans jeneral, pou verifye)
+
+| Depatman | Pwodui prensipal | Gwo wout pou soti |
+|---|---|---|
+| **Lwès** | Legim Kenscoff ak Furcy (kawòt, chou, pòmdetè, powo); bannann Akayè; kann ak diri nan plenn Kildesak; mango; pwason Lagonav ak lakòt | Wout pou mache Pòtoprens yo; batiman ki soti Lagonav |
+| **Latibonit** | Diri vale Latibonit (pi gwo zòn diri peyi a); mango bò Sen Mak ak Gonayiv; bannann, pwa, mayi; sèl bò lanmè | Wout Nasyonal 1; pò Sen Mak ak Gonayiv |
+| **Nò** | Kakawo, kafe mòn yo, bannann, sitwon ak zoranj, manyòk, kann; pwason | Pò ak wout Okap |
+| **Nòdès** | Bèf ak kabrit, diri plenn Maribawou, bannann, pwa, manyòk; pwason nan bè Fòlibète | Wout pou Okap; Pòt Wanament |
+| **Nòdwès** | Kabrit ak bèf, pitimi, pwa, pwason ak oma; jaden Latòti | Batiman sou lakòt ki soti Pòdepè ak Latòti |
+| **Sant** | Mayi, pitimi, pwa, pistach, manyòk, bèf ak kabrit; mango bò Mibalè; pwason lak Peligre | Wout Nasyonal 3 pou Pòtoprens ak Okap; Pòt Beladè |
+| **Sid** | Vetivè, diri ak kann nan plenn Okay, bannann, lam veritab, kafe mòn yo; pwason ak oma | Pò Okay; Wout Nasyonal 2 |
+| **Sidès** | Kafe nan mòn yo bò Tyòt, legim mòn fre yo, fwi, bannann; pwason Jakmèl | Pò Jakmèl; wout pou Pòtoprens |
+| **Grandans** | Lam veritab, kakawo, kafe, kokoye, yanm ak malanga, fwi; pwason | Batiman sou lakòt ki soti Jeremi; Wout Nasyonal 7 |
+| **Nip** | Bannann, kokoye, viv, fwi, pwa; pwason | Pò Miragwàn; Wout Nasyonal 2 |
+
+Tablo sa a se yon pwen depa ki soti nan konesans jeneral. **Kat ofisyèl la soti nan resansman agrikòl la.**
+
+### 95.3 Kat Resous Komin yo
+
+Nan premye ane a, Ministè Agrikilti a, ansanm ak komin yo ak koperativ kiltivatè yo, pibliye pou **chak komin ak chak seksyon kominal**: gwo kilti ak bèt yo; kantite yo pwodui nan yon ane nòmal; mwa rekòt yo; tè, dlo ak kalite tè a; zòn lapèch yo; wout, waf ak mache yo; ak sa komin nan achte deyò. Yo mete l ajou chak ane sou rejis piblik la epi yo montre l sou kat nasyonal la, pou yon kiltivatè, yon achtè oswa yon lekòl konnen ki kote manje a ye ak ki lè.
+
+### 95.4 Pi bon fason pou deplase manje: chèn fre a soti nan jaden rive nan asyèt
+
+1. **Yon pwen ranmasaj nan chak seksyon kominal,** kote pifò jaden ka rive a pye: lonbraj, balans, kès plastik estanda (pa gen sak ankò ki kraze fwi), ak peman menm jou a nan sistèm peman nasyonal la (Pati 32).
+2. **Yon depo anbalaj nan chak komin:** yon chanm frèt solè, yon glasi pou seche grenn ak kafe, triyaj ak klasman, ak yon ti chanm transfòmasyon (Pati 51.2).
+3. **Yon sant manje nan chak depatman,** bò gwo wout la oswa bò pò a: plis depo frèt, yon pwen laboratwa pou Estanda Manje a (Pati 50), ak kamyon yo.
+4. **Kamyon frijidè ak kamyon kouvri sou wout fiks ak jou fiks,** yo pibliye yo, pou kiltivatè yo konnen ki lè kamyon an ap pase.
+5. **Batiman sou lakòt pou kòt ki lwen yo.** Grandans, Nip, Nòdwès, Lagonav ak Latòti deplase manje pi vit pa lanmè pase pa wout. Waf anrejistre (Pati 49), batiman ki an sekirite e ki gen lisans, bwat frèt abò, ak jou vwayaj fiks ant vil bò lanmè yo ak Pòtoprens, Okap, Okay ak Jakmèl.
+6. **Wout jaden yo klase dapre kantite tòn yo pote** (Pati 51.2): wout ki pote plis manje a, se li yo repare anvan.
+7. **Pri pa telefòn:** chak maten, kiltivatè ak achtè resevwa pri mache gwo pwodui yo pa mesaj tèks ak nan radyo, pou pèsonn pa vann avèg.
+8. **Lokal anvan:** kantin lekòl, lopital, prizon ak lame achte nan komin nan ak nan depatman an anvan yo achte pi lwen (Pati 51.2). Manje fre fè pi piti vwayaj posib.
+
+### 95.5 Limit onèt
+
+- Jodi a, anpil fwi ak legim pouri ant jaden an ak mache a. Chanm frèt ak kès ede sèlman si gen kouran ak yon moun pou okipe yo; chak depo gen yon manadjè ki touche ak yon kontra antretyen.
+- Tablo 95.2 la ka bliye kilti lokal ki enpòtan. Resansman an korije l.
+- Batiman bezwen règ sekirite; batiman ki twò chaje touye anpil moun. Lisans ak enspeksyon vini anvan.
+
+---
+
+## PATI 96 — ESPÒ NAN CHAK LEKÒL AK CHAK SEKSYON
+
+### 96.1 Poukisa
+
+Espò bati sante, disiplin, travay an ekip ak fyète. Li okipe jèn yo epi li kenbe yo lwen gwoup ame yo. Li ka jwenn talan nan pi piti bouk la. Chak timoun dwe jwe, pa sèlman timoun lekòl rich yo.
+
+### 96.2 Chak lekòl
+
+1. **Yon teren foutbòl** ak **yon teren plizyè espò** pou baskètbòl, volebòl ak tenis. Yon teren beton ak liy pou twa espò yo, ak filè ak poto ou ka deplase, koute mwens epi li antre nan plis lekòl pase twa teren separe. Lekòl ki gen plis tè ak plis elèv bati teren separe.
+2. **Lekòl ki pa gen tè** (pifò lekòl lavil) pataje yon teren toupre, ak yon orè ak transpò ki an sekirite, jiskaske yo jwenn tè.
+3. **Dlo, twalèt, lonbraj ak yon bwat premye swen** nan chak teren.
+4. **Yon pwofesè edikasyon fizik nan chak lekòl,** ki fòme epi ki touche tankou yon pwofesè. Gwo lekòl gen plis pase youn. Yo fòme pwofesè edikasyon fizik yo nan chemen fòmasyon finanse pou pwofesè a (Pati 17.2) nan lekòl nòmal chak depatman.
+5. **Edikasyon fizik se yon vrè matyè,** omwen de peryòd pa semèn nan chak klas, ak nòt.
+6. **Lekòl prive** respekte menm nivo a pou kenbe lisans yo, oswa yo pataje yon teren piblik epi yo peye.
+
+### 96.3 Chak komin ak chak seksyon
+
+- **Chak seksyon kominal: omwen yon teren espò piblik,** louvri pou kominote a apre lè lekòl ak nan wikenn.
+- **Chak komin: youn a twa sant espòtif,** selon kantite lekòl piblik li genyen: **1 sant jiska 20 lekòl piblik, 2 sant ant 21 ak 50, 3 sant plis pase 50** (limit sa yo pou konfime ak resansman an). Yon sant gen yon teren foutbòl konplè, teren pou baskètbòl, volebòl ak tenis, yon pis pou kouri kote tè a pèmèt, chanm pou chanje rad ak limyè.
+- Yo bati teren yo dapre nòm konstriksyon an (Pati 64), Sèvis Pwòpte a okipe yo (Pati 70), epi yo louvri pou tout moun gratis. Pa gen zam blanch, pa gen zam (Pati 62).
+
+### 96.4 Chanpyona entèlekòl
+
+1. **Lig kominal:** chak lekòl jwe nan lig komin nan nan chak espò, pou tifi ak pou tigason, pa gwoup laj.
+2. **Chanpyona depatmantal:** ekip ki genyen lig komin yo, oswa ki rive nan yon kantite pwen yo fikse, ale nan final depatman an.
+3. **Final nasyonal:** chanpyon depatman yo rankontre yon fwa pa ane nan yon semèn jwèt lekòl nasyonal, nan yon depatman diferan chak ane.
+4. **Jwe epi etidye:** yon elèv jwe sèlman si li ale lekòl epi li pase; pwen yon lekòl konte sèlman si kou edikasyon fizik li yo fèt.
+5. **Fair-play:** abit yo fòme epi yo touche; yo tcheke rezilta yo ak laj jwè yo nan dosye idantite a (Pati 54) pou kanpe jwè ki depase laj.
+6. **Chemen talan:** pi bon jèn jwè yo jwenn plas nan lekòl espò depatmantal, epi yo kontinye lekòl yo.
+
+### 96.5 Limit onèt
+
+- Tè se pati ki pi difisil nan vil yo. Pataje teren ak sèvi ak tè piblik anvan se sèl fason.
+- Teren koute lajan epi yo bezwen reparasyon. Chak teren gen yon bidjè antretyen ak yon responsab ki gen non.
+- Jodi a pa gen ase pwofesè edikasyon fizik. Plan an fòme yo sou senk ane, kòmanse ak lekòl ki pi gwo yo.
+
+---
+
+## PATI 97 — REJIS REVIZYON SA A (PATI 91–96)
+
+### 97.1 Sa ki chanje
+
+| Ansyen tèks | Chanjman |
+|---|---|
+| Pati 4 ak 17: egzamen NASA a | NASA a se sèl kay resous imen pou tout ministè; kadna merit la (peyewòl, lòd klasman, korije san wè non, papye ki an sekirite) (Pati 91) |
+| Pati 16 ak 17: de fason pou antre | Yon twazyèm fason: pisin sible pou wòl ki mande konpetans, pa kalifikasyon ak egzamen, san frè pou plis chans (Pati 91.5) |
+| Pati 39: sèman an ak zewo kado | Yon sèman sèvis; pa gen travay pou pati nan pòs; menm sèvis pou tout moun; Chat Sèvis la (Pati 92) |
+| Pati 13 ak 16: Asanble a | Kalandriye, apèl, kowòm, nechèl absans, lis rezèv (Pati 93) |
+| Pati 16: oryantasyon 14 jou | Yon pwogram 1 a 3 mwa ak aprann toutan, tankou diplomasi ak pwotokòl (Pati 94) |
+| Pati 28 ak 51: agrikilti | Sa chak depatman pwodui; Kat Resous Komin yo; chèn fre a ak batiman sou lakòt (Pati 95) |
+| Pati 72: lekòl | Teren espò, pwofesè edikasyon fizik ak chanpyona lekòl (Pati 96) |
+
+### 97.2 Tès kapti
+
+| Nouvo règ oswa nouvo ò | Si yo kaptire l, kisa ki kanpe l? |
+|---|---|
+| Biwo resous imen NASA (91) | Se pou NASA yo ye; wotasyon; tribinal kont lan fè odit kadna peyewòl la |
+| Pisin sible (91.5) | Pa gen chans ou achte; egzamen; ankèt; entèvyou pibliye |
+| Chat Sèvis (92) | Sitwayen sekrè; nòt piblik; ranbousman otomatik |
+| Komite etik Asanble a (93) | Apèl devan Tribinal Konstitisyonèl la; prezans pibliye |
+| Lekòl Nasyonal Sèvis Piblik (94) | Pwogram ak fòmatè piblik; ekspè etranje anseye men yo pa deside |
+| Kat Resous Komin (95) | Done pibliye, kiltivatè ka korije yo |
+| Chanpyona lekòl (96) | Verifikasyon idantite; abit ki fòme; rezilta pibliye |
+
+### 97.3 Sa yo te tcheke, ak sa yo pa t tcheke
+
+**Pa verifye nan revizyon sa a:** estrikti OMRH jodi a; tablo kilti ki nan Pati 95.2 (konesans jeneral); kantite lekòl piblik pa komin ak limit ki nan Pati 96.3; kantite pwofesè edikasyon fizik ki genyen jodi a.
+
+### 97.4 Desizyon ouvè yo ajoute
+
+68. **Pisin sible:** vèsyon nou rekòmande a (yon depo yo remèt, yon sèl pisin alafwa, pa gen chans ou achte) oswa pwopozisyon otè a (yon gwo frè pou chak chanjman pisin, ak diplòm inivèsite oswa pwofesyon obligatwa).
+69. Limit absans yo ak gwosè lis rezèv la (Pati 93).
+70. Longè fòmasyon pou chak wòl anndan limit 1 a 3 mwa a (Pati 94).
+71. Limit pou youn, de oswa twa sant espòtif pa komin (Pati 96).
+72. Si lekòl prive dwe bati pwòp teren yo oswa si yo ka pataje teren piblik (Pati 96).
+
+---
+
 ## REZIME: SA POU NOU POTE POU PI DEVAN
 
 Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, oswa nenpòt moun k ap revize l pou kontinye amelyore l — se yon eskèlèt estrikti, se pa yon konstitisyon ki fini. Pwochen etap onèt pou nenpòt pati ladan l se menm kesyon nou poze toupatou a: *si yo ta kaptire biwo sa a oswa règ sa a, oswa si yo ta abize l, kisa ki kanpe sa — epi èske mekanis ki kanpe l la se yon lòt ògàn, ki chwazi yon lòt jan, sou yon lòt kalandriye, pase sa l ap kontwole a?* Kèlkeswa kote repons lan se "anyen" oswa "menm moun yo," seksyon sa a bezwen yon lòt revizyon anvan yo aplike l.
@@ -4346,3 +4713,5 @@ Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, os
 **Sa twazyèm revizyon novanm 2026 la (Pati 69–79) chanje:** zam afe ki depoze yo rete pwopriyete mèt yo, e chak acha bezwen pwòp pèmi pa l; pistolè ak revòlvè pa ladan l (Pati 69). Joure moun sou baz ras mennen nan travay kominotè de fwa, apre sa prizon, ak yon Inite Egalite nan chak depatman (Pati 69). Dlo ak fatra anba kontwòl piblik (Pati 69). Yon sèvis nasyonal pwòpte, lajan antretyen wout ki pwoteje ak reparasyon rapid kenbe peyi a annòd (Pati 70). Fatra tounen gaz, materyo ak kouran, epi konpayi yo reprann boutèy yo (Pati 71). Timoun aprann dabò nan liv, sou papye ak nan men pwofesè (Pati 72), epi yo rebati Inivèsite Leta a kòm gwo kanpis ki fè rechèch (Pati 73). Chak travay gen yon kontra alekri, epi yo fè peye salè yo nan kèk semèn (Pati 74). Richès louvri pou majorite a pa aksè, se pa nan sezi byen moun (Pati 75). Jèn gwoup ame te itilize, ki pa t fè okenn krim grav, jwenn yon chemen pou yo tounen anba sipèvizyon (Pati 76). Gwo krim nan istwa a jwenn yon verite piblik ofisyèl, epi sispèk ki vivan toujou parèt devan chanm pèmanan tribinal òdinè yo (Pati 77). Yo renove yon vil ki egziste deja pou li sèvi modèl pou rès yo (Pati 78).
 
 **Sa katriyèm revizyon novanm 2026 la (Pati 80–89) chanje:** Konsèy Egzekitif la kenbe sèt manm, men li jwenn sa konsèy anvan yo te manke: manm yo chwazi youn pa youn, anyen pou yo separe ant yo, yon règ majorite ak yon dat limit, yon sèl Premye Kowòdonatè pou dezan, ak vòt piblik (Pati 80). Chak komin gen yon sèl Majistra e chak seksyon gen yon sèl Kowòdonatè (Pati 81). Manm Konsèy yo fèt ann Ayiti e yo gen omwen 35 an; dyaspora a ka sèvi nan lòt pòs; moun k ap gouvène yo rete ann Ayiti ak fanmi yo (Pati 82). Avoka ak chak pwofesyon antre pa egzamen nasyonal e yo rann kont devan yon disiplin endepandan (Pati 83). Prelèvman sou transfè lajan an ak PetroCaribe pase odit nèt, e okenn prelèvman pa egziste san yon rejis piblik (Pati 84). *Restavèk* ak lavi timoun nan lari fini anvan yon dat ki fikse (Pati 85). Enèji gen yon abit endepandan (Pati 86). Yo fè odit anbasad yo anvan yo chanje yo (Pati 87). Travay la pwoteje pa dwa otè, e yo anrejistre telechajman yo (Pati 88). Liy fwontyè a gen moun sou li lajounen kou lannuit, e mache fwontyè yo mache anba règ yo pibliye (Pati 90).
+
+**Sa senkyèm revizyon novanm 2026 la (Pati 91–97) chanje:** pèsonn pa touche salè si yo anboche l andeyò yon lis klasman yo pibliye, e anbochaj chak ministè se pou yon sèl kay resous imen endepandan (Pati 91). Sitwayen ka vize yon wòl ki mande konpetans nan yon pisin sible, pa egzamen ak kalifikasyon, janm pa peye pou plis chans (Pati 91.5). Chak travayè piblik fè sèman pou l sèvi peyi a, se pa yon pati, e chak biwo afiche sa li bezwen, konbyen sa koute ak konbyen tan sa pran (Pati 92). Asanble a reyini sou yon kalandriye fiks, li vote ak non chak moun, e li ranpli nenpòt chèz vid ak yon lis rezèv nan de semèn (Pati 93). Chak ofisyèl resevwa fòmasyon anvan li sèvi, tankou kijan pou defann Ayiti aletranje (Pati 94). Yo fè kat manje chak komin epi yo deplase l ak yon chèn fre ak batiman sou lakòt (Pati 95). Chak lekòl jwenn yon teren, yon teren plizyè espò ak yon pwofesè edikasyon fizik, ak chanpyona soti nan komin rive nan nasyon an (Pati 96).
