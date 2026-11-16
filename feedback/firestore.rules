@@ -130,7 +130,7 @@ service cloud.firestore {
     // same batch adds 1 to the public tally of their place. Only counts are public; names never are.
     function placeOk(p) { return p in ['c_anse_a_galets','c_arcahaie','c_cabaret','c_carrefour','c_cite_soleil','c_cornillon','c_croix_des_bouquets','c_delmas','c_fonds_verrettes','c_ganthier','c_grand_goave','c_gressier','c_kenscoff','c_leogane','c_petion_ville','c_petit_goave','c_pointe_a_raquette','c_port_au_prince','c_tabarre','c_thomazeau','c_anse_rouge','c_desdunes','c_dessalines','c_ennery','c_gonaives','c_grande_saline','c_gros_morne','c_l_estere','c_la_chapelle','c_marmelade','c_petite_riviere_de_l_artibonite','c_saint_marc','c_saint_michel_de_l_attalaye','c_terre_neuve','c_verrettes','c_acul_du_nord','c_bahon','c_bas_limbe','c_borgne','c_cap_haitien','c_dondon','c_grande_riviere_du_nord','c_la_victoire','c_limbe','c_limonade','c_milot','c_pignon','c_pilate','c_plaine_du_nord','c_plaisance','c_port_margot','c_quartier_morin','c_ranquitte','c_saint_raphael','c_aquin','c_arniquet','c_camp_perrin','c_cavaillon','c_chantal','c_chardonnieres','c_coteaux','c_ile_a_vache','c_les_anglais','c_les_cayes','c_maniche','c_port_salut','c_port_a_piment','c_roche_a_bateaux','c_saint_jean_du_sud','c_saint_louis_du_sud','c_tiburon','c_torbeck','c_belladere','c_boucan_carre','c_cerca_carvajal','c_cerca_la_source','c_hinche','c_lascahobas','c_maissade','c_mirebalais','c_saut_d_eau','c_savanette','c_thomassique','c_thomonde','c_anse_a_foleur','c_baie_de_henne','c_bassin_bleu','c_bombardopolis','c_chansolme','c_jean_rabel','c_la_tortue','c_mole_saint_nicolas','c_port_de_paix','c_saint_louis_du_nord','c_anse_a_pitres','c_bainet','c_belle_anse','c_cayes_jacmel','c_cotes_de_fer','c_grand_gosier','c_jacmel','c_la_vallee_de_jacmel','c_marigot','c_thiotte','c_abricots','c_anse_d_hainault','c_beaumont','c_bonbon','c_chambellan','c_corail','c_dame_marie','c_jeremie','c_les_irois','c_moron','c_pestel','c_roseaux','c_capotille','c_caracol','c_carice','c_ferrier','c_fort_liberte','c_mombin_crochu','c_mont_organise','c_ouanaminthe','c_perches','c_sainte_suzanne','c_terrier_rouge','c_trou_du_nord','c_vallieres','c_anse_a_veau','c_arnaud','c_baraderes','c_fonds_des_negres','c_grand_boucan','c_l_asile','c_miragoane','c_paillant','c_petit_trou_de_nippes','c_petite_riviere_de_nippes','c_plaisance_du_sud','d_us','d_ca','d_fr','d_do','d_cl','d_br','d_bs','d_gb','d_mx','d_gp','d_ot']; }
     function memberPath(uid) { return /databases/$(database)/documents/members/$(uid); }
-    function tallyPath(p) { return /databases/$(database)/documents/tally/$(p); }
+    function tallyPath(d) { return /databases/$(database)/documents/tally/$(d); }
     function validMember() {
       let d = request.resource.data;
       return d.keys().hasOnly(['name','email','dep','place','section','phone','voter','organizer','ref','adult','pledge','mayContact','at'])
@@ -142,28 +142,37 @@ service cloud.firestore {
         && d.organizer is bool && s(d.ref, 0, 12) && d.adult == true && d.pledge == true && d.mayContact is bool;
     }
     function verified() { return request.auth != null && request.auth.token.email_verified == true; }
-    function tallyBefore(p) { return exists(tallyPath(p)) ? get(tallyPath(p)).data.n : 0; }
+    // One tally document per département (and 'dia'), with one number per commune or country.
+    function countBefore(d, p) { return exists(tallyPath(d)) ? get(tallyPath(d)).data.get(p, 0) : 0; }
+    function countAfter(d, p) { return getAfter(tallyPath(d)).data.get(p, 0); }
     match /members/{uid} {
       allow get: if request.auth != null && (request.auth.uid == uid || isAdmin());
       allow list: if isAdmin();
       allow create: if verified() && request.auth.uid == uid && validMember() && request.resource.data.at == request.time
-        && getAfter(tallyPath(request.resource.data.place)).data.n == tallyBefore(request.resource.data.place) + 1;
+        && countAfter(request.resource.data.dep, request.resource.data.place) == countBefore(request.resource.data.dep, request.resource.data.place) + 1;
       allow update: if request.auth != null && request.auth.uid == uid && validMember()
         && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['section','phone','voter','organizer','mayContact']);
       allow delete: if isAdmin() || (request.auth != null && request.auth.uid == uid
-        && getAfter(tallyPath(resource.data.place)).data.n == get(tallyPath(resource.data.place)).data.n - 1);
+        && countAfter(resource.data.dep, resource.data.place) == countBefore(resource.data.dep, resource.data.place) - 1);
     }
-    match /tally/{p} {
+    function joining(d) {
+      return request.auth != null && !exists(memberPath(request.auth.uid)) && existsAfter(memberPath(request.auth.uid))
+        && getAfter(memberPath(request.auth.uid)).data.dep == d;
+    }
+    function joinedPlace() { return getAfter(memberPath(request.auth.uid)).data.place; }
+    function leaving(d) {
+      return request.auth != null && exists(memberPath(request.auth.uid)) && !existsAfter(memberPath(request.auth.uid))
+        && get(memberPath(request.auth.uid)).data.dep == d;
+    }
+    function leftPlace() { return get(memberPath(request.auth.uid)).data.place; }
+    match /tally/{d} {
       allow get, list: if true;
-      allow create: if placeOk(p) && request.resource.data.keys().hasOnly(['n']) && request.resource.data.n == 1
-        && request.auth != null && !exists(memberPath(request.auth.uid)) && existsAfter(memberPath(request.auth.uid))
-        && getAfter(memberPath(request.auth.uid)).data.place == p;
-      allow update: if request.resource.data.keys().hasOnly(['n']) && request.auth != null && (
-           (request.resource.data.n == resource.data.n + 1 && !exists(memberPath(request.auth.uid))
-              && existsAfter(memberPath(request.auth.uid)) && getAfter(memberPath(request.auth.uid)).data.place == p)
-        || (request.resource.data.n == resource.data.n - 1 && exists(memberPath(request.auth.uid))
-              && get(memberPath(request.auth.uid)).data.place == p && !existsAfter(memberPath(request.auth.uid)))
-        || isAdmin());
+      allow create: if joining(d) && request.resource.data.keys().hasOnly([joinedPlace()]) && request.resource.data.get(joinedPlace(), 0) == 1;
+      allow update: if isAdmin()
+        || (joining(d) && request.resource.data.diff(resource.data).affectedKeys().hasOnly([joinedPlace()])
+            && request.resource.data.get(joinedPlace(), 0) == resource.data.get(joinedPlace(), 0) + 1)
+        || (leaving(d) && request.resource.data.diff(resource.data).affectedKeys().hasOnly([leftPlace()])
+            && request.resource.data.get(leftPlace(), 0) == resource.data.get(leftPlace(), 0) - 1);
       allow delete: if isAdmin();
     }
     match /accessLog/{id} {

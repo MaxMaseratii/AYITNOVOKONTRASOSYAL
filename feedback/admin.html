@@ -74,7 +74,7 @@ function nyDate(ms){var p=nyParts(ms);return p.year+"-"+String(p.month).padStart
 var MEET="https://meet.google.com/eep-kzqk-ooe";
 var VIEWS={
 k35:function(){return log("members_view").then(function(){return Promise.all([getDocs(collection(DB,"members")),getDocs(collection(DB,"tally"))])}).then(function(r){
-  var rows=[],tl={},tot=0,dia=0;r[1].forEach(function(d){tl[d.id]=d.data().n||0;if(d.id.indexOf("c_")===0)tot+=tl[d.id];else dia+=tl[d.id]});
+  var rows=[],tl={},tot=0,dia=0;r[1].forEach(function(d){var o=d.data()||{};Object.keys(o).forEach(function(k){tl[k]=Number(o[k])||0;if(k.indexOf("c_")===0)tot+=tl[k];else dia+=tl[k]})});
   r[0].forEach(function(d){var x=d.data();rows.push({uid:d.id.slice(0,8).toUpperCase(),when:ts(x.at),name:x.name,email:x.email,phone:x.phone,dep:x.dep,place:x.place,section:x.section,voter:x.voter,organizer:!!x.organizer,ref:x.ref,mayContact:!!x.mayContact})});
   rows.sort(function(a,b){return b.when-a.when});
   var refs={};rows.forEach(function(x){if(x.ref)refs[x.ref]=(refs[x.ref]||0)+1});

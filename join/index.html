@@ -233,7 +233,7 @@ function fb(){
 }
 function loadTally(){
   if(!READY){render();return}
-  fb().then(function(x){x.F.onSnapshot(x.F.collection(x.db,"tally"),function(s){TALLY={};s.forEach(function(d){TALLY[d.id]=d.data().n||0});LOADED=true;totals();drawMap();panel()},function(){})}).catch(function(){});
+  fb().then(function(x){x.F.onSnapshot(x.F.collection(x.db,"tally"),function(s){TALLY={};s.forEach(function(d){var o=d.data()||{};Object.keys(o).forEach(function(k){TALLY[k]=Number(o[k])||0})});LOADED=true;totals();drawMap();panel()},function(){})}).catch(function(){});
 }
 function boot(){
   if(!READY){render();return}
@@ -288,9 +288,9 @@ function jrender(){
       if(nm.length<2||!dep||!place||!$("#c1").checked||!$("#c2").checked){$("#mx").textContent=t("eFill");return}
       var rec={name:nm,email:USER.email,dep:dep,place:place,section:dia?"":$("#ms").value.trim().slice(0,80),phone:$("#mp").value.trim().slice(0,30),voter:document.querySelector("input[name=vt]:checked").value,organizer:$("#c3").checked,ref:ref.slice(0,12),adult:true,pledge:true,mayContact:$("#c4").checked};
       $("#msb").disabled=true;
-      fb().then(function(x){var mref=x.F.doc(x.db,"members",USER.uid),tref=x.F.doc(x.db,"tally",place);
-        return x.F.runTransaction(x.db,function(tx){return tx.get(tref).then(function(s){var n=s.exists()?(s.data().n||0):0;
-          var full=Object.assign({},rec,{at:x.F.serverTimestamp()});tx.set(mref,full);tx.set(tref,{n:n+1})})}).then(function(){MEMBER=Object.assign({},rec,{at:{toDate:function(){return new Date()}}});STATE="card";jrender()});
+      fb().then(function(x){var mref=x.F.doc(x.db,"members",USER.uid),tref=x.F.doc(x.db,"tally",dep);
+        return x.F.runTransaction(x.db,function(tx){return tx.get(tref).then(function(s){var n=s.exists()?(Number(s.data()[place])||0):0,o={};o[place]=n+1;
+          var full=Object.assign({},rec,{at:x.F.serverTimestamp()});tx.set(mref,full);tx.set(tref,o,{merge:true})})}).then(function(){MEMBER=Object.assign({},rec,{at:{toDate:function(){return new Date()}}});STATE="card";jrender()});
       }).catch(function(){$("#msb").disabled=false;$("#mx").textContent=t("eNet")});
     };return;
   }
@@ -309,8 +309,8 @@ function jrender(){
     $("#ko").onclick=signOut;
     $("#kd").onclick=function(){$("#kmsg").innerHTML=esc(t("leaveQ"))+" <button class='lnk' id='ky'>"+esc(t("leaveYes"))+"</button> · <button class='lnk' id='kn'>"+esc(t("leaveNo"))+"</button>";
       $("#kn").onclick=function(){$("#kmsg").textContent=""};
-      $("#ky").onclick=function(){fb().then(function(x){var mref=x.F.doc(x.db,"members",USER.uid),tref=x.F.doc(x.db,"tally",MEMBER.place);
-        return x.F.runTransaction(x.db,function(tx){return tx.get(tref).then(function(s){var n=s.exists()?(s.data().n||0):0;tx.delete(mref);tx.set(tref,{n:Math.max(0,n-1)})})}).then(function(){MEMBER=null;STATE="account";MSG=t("left");return x.A.signOut(x.auth)})}).catch(function(){$("#kmsg").textContent=t("eNet")})};
+      $("#ky").onclick=function(){fb().then(function(x){var mref=x.F.doc(x.db,"members",USER.uid),tref=x.F.doc(x.db,"tally",MEMBER.dep),pl=MEMBER.place;
+        return x.F.runTransaction(x.db,function(tx){return tx.get(tref).then(function(s){var n=s.exists()?(Number(s.data()[pl])||0):0,o={};o[pl]=Math.max(0,n-1);tx.delete(mref);tx.set(tref,o,{merge:true})})}).then(function(){MEMBER=null;STATE="account";MSG=t("left");return x.A.signOut(x.auth)})}).catch(function(){$("#kmsg").textContent=t("eNet")})};
     };
   }
 }
