@@ -111,7 +111,7 @@ service cloud.firestore {
       return d.keys().hasOnly(['uid','name','email','country','part','lang','at']) && d.keys().hasAll(['uid','name','email','country','part','lang','at'])
         && d.uid == request.auth.uid && d.email == request.auth.token.email
         && s(d.name, 2, 120) && s(d.country, 2, 60)
-        && d.part is int && d.part >= 0 && d.part <= 109      // 0 = the full document
+        && d.part is int && d.part >= 0 && d.part <= 110      // 0 = the full document
         && d.lang in ['en','ht'] && d.at == request.time
         && exists(/databases/$(database)/documents/readers/$(request.auth.uid));
     }
@@ -125,6 +125,46 @@ service cloud.firestore {
       allow create: if request.auth != null && validDownload();
       allow read, delete: if isAdmin();
       allow update: if false;
+    }
+    // Konbit 3,5% (join/). A member signs in with a verified email, creates one member record, and in the
+    // same batch adds 1 to the public tally of their place. Only counts are public; names never are.
+    function placeOk(p) { return p in ['c_anse_a_galets','c_arcahaie','c_cabaret','c_carrefour','c_cite_soleil','c_cornillon','c_croix_des_bouquets','c_delmas','c_fonds_verrettes','c_ganthier','c_grand_goave','c_gressier','c_kenscoff','c_leogane','c_petion_ville','c_petit_goave','c_pointe_a_raquette','c_port_au_prince','c_tabarre','c_thomazeau','c_anse_rouge','c_desdunes','c_dessalines','c_ennery','c_gonaives','c_grande_saline','c_gros_morne','c_l_estere','c_la_chapelle','c_marmelade','c_petite_riviere_de_l_artibonite','c_saint_marc','c_saint_michel_de_l_attalaye','c_terre_neuve','c_verrettes','c_acul_du_nord','c_bahon','c_bas_limbe','c_borgne','c_cap_haitien','c_dondon','c_grande_riviere_du_nord','c_la_victoire','c_limbe','c_limonade','c_milot','c_pignon','c_pilate','c_plaine_du_nord','c_plaisance','c_port_margot','c_quartier_morin','c_ranquitte','c_saint_raphael','c_aquin','c_arniquet','c_camp_perrin','c_cavaillon','c_chantal','c_chardonnieres','c_coteaux','c_ile_a_vache','c_les_anglais','c_les_cayes','c_maniche','c_port_salut','c_port_a_piment','c_roche_a_bateaux','c_saint_jean_du_sud','c_saint_louis_du_sud','c_tiburon','c_torbeck','c_belladere','c_boucan_carre','c_cerca_carvajal','c_cerca_la_source','c_hinche','c_lascahobas','c_maissade','c_mirebalais','c_saut_d_eau','c_savanette','c_thomassique','c_thomonde','c_anse_a_foleur','c_baie_de_henne','c_bassin_bleu','c_bombardopolis','c_chansolme','c_jean_rabel','c_la_tortue','c_mole_saint_nicolas','c_port_de_paix','c_saint_louis_du_nord','c_anse_a_pitres','c_bainet','c_belle_anse','c_cayes_jacmel','c_cotes_de_fer','c_grand_gosier','c_jacmel','c_la_vallee_de_jacmel','c_marigot','c_thiotte','c_abricots','c_anse_d_hainault','c_beaumont','c_bonbon','c_chambellan','c_corail','c_dame_marie','c_jeremie','c_les_irois','c_moron','c_pestel','c_roseaux','c_capotille','c_caracol','c_carice','c_ferrier','c_fort_liberte','c_mombin_crochu','c_mont_organise','c_ouanaminthe','c_perches','c_sainte_suzanne','c_terrier_rouge','c_trou_du_nord','c_vallieres','c_anse_a_veau','c_arnaud','c_baraderes','c_fonds_des_negres','c_grand_boucan','c_l_asile','c_miragoane','c_paillant','c_petit_trou_de_nippes','c_petite_riviere_de_nippes','c_plaisance_du_sud','d_us','d_ca','d_fr','d_do','d_cl','d_br','d_bs','d_gb','d_mx','d_gp','d_ot']; }
+    function memberPath(uid) { return /databases/$(database)/documents/members/$(uid); }
+    function tallyPath(p) { return /databases/$(database)/documents/tally/$(p); }
+    function validMember() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(['name','email','dep','place','section','phone','voter','organizer','ref','adult','pledge','mayContact','at'])
+        && d.keys().hasAll(['name','email','dep','place','section','phone','voter','organizer','ref','adult','pledge','mayContact','at'])
+        && s(d.name, 2, 120) && d.email == request.auth.token.email
+        && d.dep in ['ouest','artibonite','nord','sud','centre','nordouest','sudest','grandanse','nordest','nippes','dia']
+        && placeOk(d.place) && ((d.dep == 'dia') == d.place.matches('d_.*'))
+        && s(d.section, 0, 80) && s(d.phone, 0, 30) && d.voter in ['yes','no','will']
+        && d.organizer is bool && s(d.ref, 0, 12) && d.adult == true && d.pledge == true && d.mayContact is bool;
+    }
+    function verified() { return request.auth != null && request.auth.token.email_verified == true; }
+    function tallyBefore(p) { return exists(tallyPath(p)) ? get(tallyPath(p)).data.n : 0; }
+    match /members/{uid} {
+      allow get: if request.auth != null && (request.auth.uid == uid || isAdmin());
+      allow list: if isAdmin();
+      allow create: if verified() && request.auth.uid == uid && validMember() && request.resource.data.at == request.time
+        && getAfter(tallyPath(request.resource.data.place)).data.n == tallyBefore(request.resource.data.place) + 1;
+      allow update: if request.auth != null && request.auth.uid == uid && validMember()
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['section','phone','voter','organizer','mayContact']);
+      allow delete: if isAdmin() || (request.auth != null && request.auth.uid == uid
+        && getAfter(tallyPath(resource.data.place)).data.n == get(tallyPath(resource.data.place)).data.n - 1);
+    }
+    match /tally/{p} {
+      allow get, list: if true;
+      allow create: if placeOk(p) && request.resource.data.keys().hasOnly(['n']) && request.resource.data.n == 1
+        && request.auth != null && !exists(memberPath(request.auth.uid)) && existsAfter(memberPath(request.auth.uid))
+        && getAfter(memberPath(request.auth.uid)).data.place == p;
+      allow update: if request.resource.data.keys().hasOnly(['n']) && request.auth != null && (
+           (request.resource.data.n == resource.data.n + 1 && !exists(memberPath(request.auth.uid))
+              && existsAfter(memberPath(request.auth.uid)) && getAfter(memberPath(request.auth.uid)).data.place == p)
+        || (request.resource.data.n == resource.data.n - 1 && exists(memberPath(request.auth.uid))
+              && get(memberPath(request.auth.uid)).data.place == p && !existsAfter(memberPath(request.auth.uid)))
+        || isAdmin());
+      allow delete: if isAdmin();
     }
     match /accessLog/{id} {
       allow create: if isAdmin() && request.resource.data.keys().hasOnly(['uid','action','at']) && request.resource.data.at == request.time;

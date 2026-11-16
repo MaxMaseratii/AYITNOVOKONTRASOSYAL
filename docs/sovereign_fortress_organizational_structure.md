@@ -21,6 +21,7 @@ Two corrections carried over from the design review, applied throughout:
 9. **Parts 98–102 (November 2026, sixth revision)** bring money to farmers and small business: a free account for every adult, a development bank, new collateral, farm insurance and fair lending (98); rebuild *konbit*, help at birth and death, the *lakou*, and life beyond the crowded city (99); protect children and promote Haitian culture, with bans only by a judge (100); and set strict drug laws like Japan's, with treatment, testing, and cost recovery, deportation and a ban on return for foreign offenders (101). Part 102 is the record.
 10. **Parts 103–108 (November 2026, seventh revision)** set a light, simple tax system with a reserve fund (103); the rights of people with disabilities (104); mental health care near home (105); consumer protection and bans on harmful skin and hair products (106); a living wage and profit sharing (107). Part 108 is the record, and also updates the digital *sòl* (98.9) and the rules for foreign drug offenders (101.5).
 11. **Part 109 (November 2026)** sets out the peaceful movement that can win this plan by lawful means: about 416,500 organized, trained, nonviolent citizens — 3.5% of Haiti — built in teams of ten, with clear demands, no single leader, open money and a timeline tied to the elections.
+12. **Part 110 (November 2026)** brings every border crossing — the four Gates and secondary crossings such as Tilory, Boc Banique and Saltadère — under one standard: mapped, classed, equipped and guarded the same way, with army bases and vehicles, one tariff paid by phone, clear rules on people, food and goods, and strict anti-corruption controls.
 
 ---
 
@@ -1741,7 +1742,7 @@ The 1987 Constitution (as amended in 2012) already provides that:
 
 ### 44.3 The army on the Line, the civilians at the Gates (revises Parts 29.1, 33.2, 33.5)
 
-Haiti's land border is about 380 km long. Split it into two jobs:
+Haiti's land border is about 390 km long. Split it into two jobs:
 
 | | **The Line** (the boundary between crossing points) | **The Gates** (the four official crossings: Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres) |
 |---|---|---|
@@ -2099,7 +2100,7 @@ This Part builds on Parts 29.1, 44.3 and 45.2. Those Parts decided **who** does 
 
 ### 49.1 The border is four borders
 
-1. **The land Line** with the Dominican Republic, about 380 km.
+1. **The land Line** with the Dominican Republic, about 390 km.
 2. **The four Gates** (Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres).
 3. **The coast**, about 1,700 km, with many small landing places.
 4. **The ports and airports.** UN reporting says most illegal weapons reach Haiti by sea and air from the United States, hidden in containers and cargo. **A wall of soldiers on the land Line does nothing about a container in a port.** Ports and airports are Gates and get the same rules as Part 45.2.
@@ -5489,6 +5490,123 @@ Published every month, commune by commune: members, trained organizers, register
 
 ---
 
+## PART 110 — EVERY CROSSING, ONE STANDARD: THE HAITIAN BORDER NETWORK
+
+### 110.1 The problem
+
+The land border with the Dominican Republic is about **390 km** long. It has **four official crossings** — Ouanaminthe, Belladère, Malpasse and Anse-à-Pitres (Part 90) — and **many other crossings** used every day by people, animals, motorbikes and trucks, such as **Tilory, Boc Banique and Saltadère** in the Centre. International monitors have followed at least 20 crossing points in recent years. Most of these places have no Haitian State presence, no customs, no food inspection and no record of who passes. Weapons, drugs, smuggled goods and trafficked people use exactly these gaps. At the official crossings, people pay fees without receipts. **This is not a game. Every crossing must be controlled, and controlled the same way.**
+
+### 110.2 The principle
+
+**One network, one standard, one command, one record.** A crossing in Saltadère is run exactly like a crossing in Ouanaminthe: the same layout, the same staff roles, the same equipment, the same rules, the same software, the same posted fees, the same anti-corruption controls. Only the size changes.
+
+### 110.3 Step one: map every crossing
+
+Within **six months**, a joint team (army, customs, the Identity Authority, the communes and local residents) maps **every** place where people or goods cross: official gates, roads, trails, river fords, lake shores (Lake Azuéi near Malpasse) and the coast. Each gets a number, GPS coordinates, the communes on each side, traffic counts by day and by type, and a class (110.4). The map is kept by the Border Operations Room (Part 49.2); its sensitive parts are not public.
+
+### 110.4 Three classes of crossing
+
+| Class | What it is | What happens there |
+|---|---|---|
+| **A — Gate** | A full port of entry: today Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres; others added if the survey shows heavy traffic | People, vehicles, trucks and all goods; customs, immigration, food and animal inspection, scanners; market hall (Part 90.2); open every day on published hours, guarded 24 hours |
+| **B — Border post** | A controlled secondary crossing for local people and small trade, such as Tilory, Boc Banique, Saltadère and the others the survey confirms | People with ID, border-resident passes, small trade under the allowance, market days; a mobile customs and food-inspection team on market days; trucks and large loads sent to a Gate; guarded 24 hours |
+| **C — Closed crossing** | Any trail, ford or road that is not a Gate or a post | No legal crossing. Watched by patrols, cameras and sensors. Anyone crossing is stopped and taken, safely and without abuse, to the nearest post or Gate |
+
+### 110.5 The same standard at every Gate and post
+
+**Every Gate and every post has, at its size:**
+
+1. **A standard layout:** barrier, separate lanes for people, vehicles and goods, an inspection area with shade, scales, a secure room for seized goods, a holding room that meets human-rights rules, toilets, water, a first-aid room, and a protected room for children travelling alone.
+2. **Standard staff roles:** the army perimeter team (Border Command), customs officers, immigration officers, police, a food and animal inspector (Part 50), a health officer, and a child-protection officer. Women officers on every shift.
+3. **Standard equipment:** solar power with batteries, satellite internet, radios, CCTV recording to the Border Operations Room, **body cameras for every officer in contact with the public,** ID card readers (Part 54), payment terminals on the payment rail (Part 32), and at Gates, cargo scanners.
+4. **One procedures manual,** the same everywhere, in Kreyòl and French, with the rules posted in Kreyòl, French, Spanish and English.
+5. **One software system** linked to the national ID, customs, the Food Standard and the payment rail: every person, vehicle, load, payment and seizure is recorded.
+6. **The same posted fees** at every crossing, the same duty for the same goods.
+
+### 110.6 Military protection: bases, equipment and vehicles
+
+The army **holds the Line**; civilians **run the crossings** (Part 90.1).
+
+- **Border Command headquarters** and **one forward base in each border sector** (the survey sets the sectors, for example North, Centre-North, Centre-South and South), with barracks, a training ground, a maintenance workshop, fuel and water storage, a clinic and a communications centre.
+- **A post at every Gate and every Class B post,** and **observation points** on high ground along the Line.
+- **Vehicles:** patrol four-wheel-drive vehicles and pickups, motorbikes for mountain trails, troop and supply trucks, water tankers, recovery vehicles and ambulances; boats for Lake Azuéi and the coast with the Coast Guard (Part 49).
+- **Surveillance:** drones, thermal and night-vision cameras, ground sensors on known trails, mobile observation towers.
+- **Communications:** radios on one secure network, satellite phones, and a live link with the Border Operations Room.
+- **Personal equipment:** uniforms, protective gear, first-aid kits, and the service weapons set by law and army doctrine, kept in registered armouries and counted every day.
+- **Maintenance budget** for every vehicle and machine, with a published readiness rate: equipment that is broken does not protect anyone.
+- **Bought openly:** every purchase by public tender (Part 24), on the ledger, with the quantities and prices published once delivered, except details that would endanger operations, which the audit court still reviews.
+
+The numbers of soldiers, bases, vehicles and drones come from the survey and are voted with the budget (Part 90.1). This document does not invent them.
+
+### 110.7 People
+
+- **Haitians** enter freely with the national ID card or passport. **No fee.**
+- **Border residents** (people who live, farm or trade within a set distance of the Line) receive a **free border-resident pass** for daily crossing at their nearest post.
+- **Foreigners** follow the visa and entry rules of the law, with the fees posted.
+- **Children** travelling without a parent need written permission checked by the child-protection officer; any sign of trafficking is handled at once (Parts 40, 85).
+- **Haitians returned or deported** from the Dominican Republic are received with dignity at a reception centre at each Gate: water, food, a phone call, health check, transport home, and a record of any abuse suffered, sent to the embassy and the courts (Parts 45, 48).
+- **Wanted persons:** every crossing checks the national list of people sought by the courts.
+
+### 110.8 Goods and commerce: what is allowed, what needs a permit, what is banned
+
+| Category | Examples | Rule |
+|---|---|---|
+| **Allowed** | Food that meets the Haiti Food Standard, clothing, household goods, building materials, tools | Duty as published; small trade under the allowance passes free (Part 90.2) |
+| **Allowed with a permit or certificate** | Live animals, meat, eggs, milk, plants and seeds (health certificates), medicines (licensed importers only), fuel (Gates only, licensed tanks), chemicals and fertilizers, cash above a set amount (declared) | Checked by the inspector; refused without papers |
+| **Banned** | Firearms and ammunition outside the licensing law (Part 61), drugs (Part 101), counterfeit medicines, mercury and other banned cosmetics (Part 106), food that fails the Standard, protected animals and plants, stolen vehicles, trafficked people | Seized with a receipt, recorded, and the case sent to the courts |
+
+**Animal and plant disease** can cross a border with one pig or one bag of seed. Health certificates for animals, meat and plants protect Haitian farms (Parts 28, 50).
+
+### 110.9 Taxes and fees at the border
+
+- **One tariff for the whole country,** the same at every Gate and post (Parts 45, 103).
+- **Payment by phone or card only,** with an instant receipt. **No cash to any officer.**
+- **Revenue by crossing published every day** on the ledger. A crossing whose revenue falls while traffic rises is audited at once.
+- **No unofficial fees.** A posted fee list in four languages; anything not on the list is not owed.
+
+### 110.10 No corruption: the strict rules
+
+1. **Two-person rule:** no inspection, payment or seizure is handled by one officer alone.
+2. **Body cameras on, always,** with recordings kept and checked at random.
+3. **Rotation:** officers change crossings on a fixed schedule; nobody serves more than two years at the same crossing.
+4. **Hardship pay** for border service, paid on time, so officers are not tempted.
+5. **Mystery crossers:** trained people cross unannounced and report how they were treated.
+6. **Lifestyle checks:** border officers declare their assets every year (Part 39); unexplained wealth is investigated.
+7. **Reward for reporting:** a protected line and a reward for anyone who reports a bribe that is proven.
+8. **Zero tolerance:** an officer who takes a bribe is removed and prosecuted; a commander whose crossing shows a pattern loses command.
+
+### 110.11 One connected network
+
+- **The Border Operations Room** (Part 49.2) sees every Gate, post, patrol and sensor live, day and night.
+- **A monthly scorecard for every crossing,** published: hours staffed, waiting time, people and goods crossed, revenue, seizures, complaints, equipment readiness.
+- **A hotline between Haitian and Dominican commanders** at each sector, and joint procedures at each shared crossing, with mirror rules for traders (Parts 45.3, 90.2).
+
+### 110.12 The rollout
+
+| When | What |
+|---|---|
+| **Months 0–6** | Survey and map every crossing; new standard manual; upgrade the four Gates to the full standard |
+| **Months 6–18** | Build Class B posts in the busiest secondary crossings first (in the Centre, including Tilory, Boc Banique and Saltadère, as confirmed by the survey); forward bases in each sector |
+| **Months 18–36** | Every confirmed crossing staffed or closed and watched; the full network on one system |
+
+### 110.13 Honest limits
+
+- **Cost:** bases, vehicles, drones and staff for 390 km cost a great deal. The network is built sector by sector, starting where traffic and smuggling are highest.
+- **Terrain:** mountains, rivers and forest make some stretches hard to watch. Sensors and patrols reduce gaps; they do not remove them.
+- **Border families:** many people live, farm and trade on both sides. The border-resident pass and the market rules keep their lives possible; control must not become punishment.
+- **The other side:** joint procedures need Dominican cooperation. Haiti can apply its own standard on its own side regardless.
+- **Corruption follows money:** the strictest rules fail if pay is late or leaders protect the corrupt. That is why pay, rotation, cameras and published results come with the equipment.
+- **The names and locations of secondary crossings** in this Part come from the author and general knowledge; the survey confirms them.
+
+### 110.14 Open decisions added
+
+87. The number and limits of the border sectors and the location of forward bases.
+88. Which secondary crossings become Class B posts.
+89. The distance that defines a border resident.
+90. The amount of hardship pay for border service.
+
+---
+
 ## SUMMARY: WHAT TO CARRY FORWARD
 
 This document is designed to be handed to a legislative drafting body, an economist, or any reviewer to continue refining — it is a structural skeleton, not a finished constitution. The next honest step for any part of it is the same question asked throughout: *if this specific office or rule were captured or abused, what stops it — and is that stopping mechanism a different body, selected a different way, on a different timeline, than the thing it's checking?* Wherever the answer is "nothing" or "the same people," that section needs another pass before implementation.
@@ -5510,3 +5628,5 @@ This document is designed to be handed to a legislative drafting body, an econom
 **What the seventh November 2026 revision (Parts 103–108) changed:** taxes stay light (never above 20% of GDP without a two-thirds vote), few and simple, paid by phone, with no income tax on the living wage and a receipt that shows where the money went; 3% of revenue each year goes to a National Reserve Fund for disasters (Part 103). The 2012 disability law is enforced, with inclusive schools, sign language, access and work quotas (Part 104). Mental health care reaches every section and commune, with a 24-hour line and no chains (Part 105). Buyers get refunds, labels and fast small claims, and mercury, cosmetic hydroquinone, formaldehyde straighteners and skin-lightening advertising are banned (Part 106). Pay is at least a living wage, and companies of 20 or more share profits with workers (Part 107).
 
 **How it can happen (Part 109):** a plan becomes law only when enough citizens organize for it. The movement aims for 3.5% of Haitians — about 416,500 people — organized in teams of ten across every communal section, trained in strict nonviolence, asking every candidate to sign a public pledge, then demanding the first laws of a new Parliament on one national day. It has no single leader, publishes every gourde, and refuses all violence. Research shows 3.5% is a tendency, not a guarantee; organization and discipline matter as much as numbers.
+
+**Every crossing, one standard (Part 110):** every place where people or goods cross the 390 km border is mapped and classed as a Gate, a border post, or a closed crossing watched by patrols. Every Gate and post has the same layout, staff, equipment, software and posted fees; the army holds the Line from forward bases with patrol vehicles, motorbikes, boats, drones and night cameras; nobody pays cash to any officer, two officers handle every inspection, cameras are always on, and the revenue of every crossing is published daily.

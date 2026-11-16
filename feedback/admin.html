@@ -50,7 +50,7 @@ $("#go").onclick=function(){
   .then(function(){$("#login").hidden=true;$("#app").hidden=false;tabs();show("live")})
   .catch(function(e){$("#lerr").textContent=String(e.message||e)});
 };
-var T=[["live","Go live"],["members","Members"],["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"],["dls","Downloads"]];
+var T=[["live","Go live"],["members","Members"],["overview","Overview"],["subs","Submissions"],["flags","Campaigns"],["pub","Publish results"],["rev","Revision log"],["exp","Export"],["data","Retention"],["dls","Downloads"],["k35","Konbit 3,5%"]];
 function tabs(){$("#tabs").innerHTML="";T.forEach(function(t){var b=document.createElement("button");b.textContent=t[1];b.className="alt";b.onclick=function(){show(t[0])};b.dataset.t=t[0];$("#tabs").appendChild(b)})}
 function show(id){Array.prototype.forEach.call(document.querySelectorAll("#tabs button"),function(b){b.className=b.dataset.t===id?"on":"alt"});$("#main").innerHTML="<p class='muted'>Loading…</p>";VIEWS[id]().catch(function(e){$("#main").innerHTML="<p class='err'>"+esc(e.message)+"</p>"})}
 function norm(t){return String(t||"").toLowerCase().replace(/[^\p{L}\p{N}]+/gu,"")}
@@ -73,6 +73,17 @@ function nyInstant(y,m,d,h,mi){var g=Date.UTC(y,m-1,d,h+5,mi);var p=nyParts(g);r
 function nyDate(ms){var p=nyParts(ms);return p.year+"-"+String(p.month).padStart(2,"0")+"-"+String(p.day).padStart(2,"0")}
 var MEET="https://meet.google.com/eep-kzqk-ooe";
 var VIEWS={
+k35:function(){return log("members_view").then(function(){return Promise.all([getDocs(collection(DB,"members")),getDocs(collection(DB,"tally"))])}).then(function(r){
+  var rows=[],tl={},tot=0,dia=0;r[1].forEach(function(d){tl[d.id]=d.data().n||0;if(d.id.indexOf("c_")===0)tot+=tl[d.id];else dia+=tl[d.id]});
+  r[0].forEach(function(d){var x=d.data();rows.push({uid:d.id.slice(0,8).toUpperCase(),when:ts(x.at),name:x.name,email:x.email,phone:x.phone,dep:x.dep,place:x.place,section:x.section,voter:x.voter,organizer:!!x.organizer,ref:x.ref,mayContact:!!x.mayContact})});
+  rows.sort(function(a,b){return b.when-a.when});
+  var refs={};rows.forEach(function(x){if(x.ref)refs[x.ref]=(refs[x.ref]||0)+1});
+  var top=Object.keys(refs).sort(function(a,b){return refs[b]-refs[a]}).slice(0,15).map(function(k){return k+": "+refs[k]}).join(" · ");
+  var org=rows.filter(function(x){return x.organizer}).length,vot=rows.filter(function(x){return x.voter==="yes"}).length;
+  function csv(){var k=["uid","when","name","email","phone","dep","place","section","voter","organizer","ref","mayContact"];return k.join(",")+"\n"+rows.map(function(x){return k.map(function(c){var v=c==="when"?x.when.toISOString():x[c];return "\""+String(v==null?"":v).replace(/"/g,"\"\"")+"\""}).join(",")}).join("\n")}
+  $("#main").innerHTML="<p><b>"+tot+"</b> members in Haiti (goal 416,500) · <b>"+dia+"</b> in the diaspora · <b>"+org+"</b> willing organizers · <b>"+vot+"</b> registered voters.</p><p class='muted'>Top inviters (member number: people brought): "+esc(top||"none yet")+"</p><p class='muted'>Public tallies and member records should match. If they differ after an admin deletion, adjust the tally by hand in the Firebase console.</p><p><button id='kcsv' class='alt'>Download members (CSV)</button> <span class='muted'>The export is logged. Personal data: keep it private and delete it when no longer needed.</span></p><table><tr><th>When</th><th>No.</th><th>Name</th><th>Email</th><th>Phone</th><th>Place</th><th>Voter</th><th>Organizer</th><th>Invited by</th></tr>"+rows.map(function(x){return "<tr><td>"+esc(x.when.toISOString().slice(0,16).replace("T"," "))+"</td><td>"+esc(x.uid)+"</td><td>"+esc(x.name)+"</td><td>"+esc(x.email)+"</td><td>"+esc(x.phone)+"</td><td>"+esc(x.place.slice(2).replace(/_/g," "))+(x.section?" · "+esc(x.section):"")+"</td><td>"+esc(x.voter)+"</td><td>"+(x.organizer?"yes":"")+"</td><td>"+esc(x.ref)+"</td></tr>"}).join("")+"</table>";
+  $("#kcsv").onclick=function(){log("export_members").then(function(){var a=document.createElement("a");a.href=URL.createObjectURL(new Blob([csv()],{type:"text/csv"}));a.download="konbit35_members.csv";a.click()})};
+})},
 dls:function(){return log("downloads_view").then(function(){return Promise.all([getDocs(collection(DB,"downloads")),getDocs(collection(DB,"readers"))])}).then(function(r){
   var rows=[],rd={};r[1].forEach(function(d){rd[d.id]=d.data()});
   r[0].forEach(function(d){var x=d.data();rows.push({when:ts(x.at),name:x.name,email:x.email,country:x.country,part:x.part,lang:x.lang,mayContact:!!(rd[x.uid]&&rd[x.uid].mayContact)})});

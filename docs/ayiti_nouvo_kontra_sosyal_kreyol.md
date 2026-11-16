@@ -21,6 +21,7 @@ De koreksyon ki soti nan revizyon konsepsyon an, epi ki aplike nan tout dokiman 
 9. **Pati 98–102 (novanm 2026, sizyèm revizyon)** pote lajan bay kiltivatè ak ti biznis: yon kont gratis pou chak granmoun, yon bank devlopman, nouvo garanti, asirans jaden ak prè onèt (98); rebati konbit, èd pou nesans ak lanmò, lakou a, ak lavi deyò vil ki twò chaje (99); pwoteje timoun epi ankouraje kilti ayisyen, ak entèdiksyon sèlman pa yon jij (100); epi fikse lwa dwòg sevè tankou Japon, ak tretman, tès, ak peman frè, depòtasyon ak entèdiksyon pou retounen pou etranje ki fè ofans (101). Pati 102 se rejis la.
 10. **Pati 103–108 (novanm 2026, setyèm revizyon)** fikse yon sistèm taks lejè e senp ak yon fon rezèv (103); dwa moun ki gen andikap (104); swen sante mantal toupre lakay (105); pwoteksyon konsomatè ak entèdiksyon pwodui po ak cheve ki danjere (106); yon salè pou viv ak pataj pwofi (107). Pati 108 se rejis la, e li mete ajou sòl dijital la (98.9) ak règ pou etranje ki fè ofans dwòg (101.5).
 11. **Pati 109 (novanm 2026)** dekri mouvman pasifik ki ka fè plan sa a genyen pa mwayen legal: anviwon 416,500 sitwayen òganize, fòme e san vyolans — 3,5% Ayiti — bati an ekip dis moun, ak demand klè, san yon sèl chèf, ak lajan klè ak yon kalandriye ki mache ak eleksyon yo.
+12. **Pati 110 (novanm 2026)** mete chak pasaj fwontyè — kat Pòt yo ak dezyèm pasaj tankou Tilori, Bòk Banik ak Saltadè — anba yon sèl nivo: kat, klas, ekipman ak gad menm jan, ak baz militè ak machin, yon sèl tarif yo peye sou telefòn, règ klè sou moun, manje ak machandiz, ak kontwòl sevè kont koripsyon.
 
 ---
 
@@ -1741,7 +1742,7 @@ Konstitisyon 1987 la (jan yo te amande l an 2012) deja di:
 
 ### 44.3 Lame a sou Liy fwontyè a, sivil yo nan Pòt yo (revize Pati 29.1, 33.2, 33.5)
 
-Fwontyè tè Ayiti a gen anviwon 380 km longè. Separe l an de travay:
+Fwontyè tè Ayiti a gen anviwon 390 km longè. Separe l an de travay:
 
 | | **Liy fwontyè a** (limit ki ant pwen pasaj yo) | **Pòt yo** (kat pasaj ofisyèl yo: Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres) |
 |---|---|---|
@@ -2099,7 +2100,7 @@ Pati sa a bati sou Pati 29.1, 44.3 ak 45.2. Pati sa yo te deside **ki moun** ki 
 
 ### 49.1 Fwontyè a se kat fwontyè
 
-1. **Liy fwontyè sou tè a** ak Repiblik Dominikèn, anviwon 380 km.
+1. **Liy fwontyè sou tè a** ak Repiblik Dominikèn, anviwon 390 km.
 2. **Kat Pòt yo** (Ouanaminthe, Belladère, Malpasse, Anse-à-Pitres).
 3. **Kòt la**, anviwon 1,700 km, ak anpil ti kote bato ka debake.
 4. **Pò yo ak ayewopò yo.** Rapò Nasyonzini yo di pifò zam ilegal rive ann Ayiti pa lanmè ak pa avyon depi Etazini, kache nan kontenè ak nan machandiz. **Yon miray sòlda sou Liy fwontyè sou tè a pa fè anyen kont yon kontenè ki nan yon pò.** Pò yo ak ayewopò yo se Pòt, epi yo resevwa menm règ ak Pati 45.2.
@@ -5488,6 +5489,123 @@ Pibliye chak mwa, komin pa komin: manm, òganizatè ki fòme, manm ki enskri pou
 
 ---
 
+## PATI 110 — CHAK PASAJ, MENM NIVO: REZO FWONTYÈ AYISYEN AN
+
+### 110.1 Pwoblèm nan
+
+Fwontyè tè ak Repiblik Dominikèn nan gen anviwon **390 km**. Li gen **kat pasaj ofisyèl** — Wanament, Beladè, Malpas ak Ansapit (Pati 90) — ak **anpil lòt pasaj** moun, bèt, motosiklèt ak kamyon sèvi chak jou, tankou **Tilori, Bòk Banik ak Saltadè** nan Sant. Obsèvatè entènasyonal te swiv omwen 20 pwen pasaj nan dènye ane yo. Pifò kote sa yo pa gen Leta ayisyen ladan yo, pa gen ladwàn, pa gen enspeksyon manje, e pa gen dosye sou kiyès ki pase. Zam, dwòg, machandiz kontrebann ak moun yo trafike pase egzakteman nan twou sa yo. Nan pasaj ofisyèl yo, moun peye frè san resi. **Sa a se pa jwèt. Fòk yo kontwole chak pasaj, e kontwole yo menm jan.**
+
+### 110.2 Prensip la
+
+**Yon sèl rezo, yon sèl nivo, yon sèl kòmandman, yon sèl dosye.** Yon pasaj nan Saltadè mache egzakteman tankou yon pasaj nan Wanament: menm plan, menm wòl anplwaye, menm ekipman, menm règ, menm lojisyèl, menm frè afiche, menm kontwòl kont koripsyon. Se gwosè a sèlman ki chanje.
+
+### 110.3 Premye etap: fè kat chak pasaj
+
+Nan **sis mwa**, yon ekip konjwen (lame, ladwàn, Otorite Idantite a, komin yo ak moun ki rete nan zòn nan) fè kat **chak** kote moun oswa machandiz travèse: pòt ofisyèl, wout, ti chemen, kote yo janbe rivyè, rivaj lak (Letan Somat toupre Malpas) ak lakòt. Chak kote jwenn yon nimewo, kowòdone GPS, komin ki sou chak bò, kantite pasaj pa jou ak pa kalite, ak yon klas (110.4). Sal Operasyon Fwontyè a (Pati 49.2) kenbe kat la; pati ki sansib yo pa piblik.
+
+### 110.4 Twa klas pasaj
+
+| Klas | Sa li ye | Sa k fèt la |
+|---|---|---|
+| **A — Pòt** | Yon pò antre konplè: jodi a Wanament, Beladè, Malpas, Ansapit; yo ajoute lòt si etid la montre gen anpil trafik | Moun, machin, kamyon ak tout machandiz; ladwàn, imigrasyon, enspeksyon manje ak bèt, eskanè; mache kouvri (Pati 90.2); louvri chak jou sou lè yo pibliye, sou gad 24 è sou 24 |
+| **B — Pòs fwontyè** | Yon dezyèm pasaj kontwole pou moun lokal ak ti komès, tankou Tilori, Bòk Banik, Saltadè ak lòt etid la konfime | Moun ak kat idantite, kat rezidan fwontyè, ti komès anba franchiz la, jou mache; yon ekip ladwàn ak enspeksyon manje mobil nan jou mache; yo voye kamyon ak gwo chay nan yon Pòt; sou gad 24 è sou 24 |
+| **C — Pasaj fèmen** | Nenpòt ti chemen, kote pou janbe rivyè oswa wout ki pa yon Pòt ni yon pòs | Pa gen pasaj legal. Patwouy, kamera ak detektè siveye l. Yo kanpe nenpòt moun ki travèse epi yo mennen l, an sekirite e san abi, nan pòs oswa Pòt ki pi pre a |
+
+### 110.5 Menm nivo nan chak Pòt ak chak pòs
+
+**Chak Pòt ak chak pòs genyen, selon gwosè li:**
+
+1. **Yon plan estanda:** baryè, liy separe pou moun, machin ak machandiz, yon zòn enspeksyon ak lonbraj, balans, yon chanm sekirize pou machandiz yo sezi, yon chanm detansyon ki respekte dwa moun, twalèt, dlo, yon chanm premye swen, ak yon chanm pwoteje pou timoun k ap vwayaje pou kont yo.
+2. **Wòl anplwaye estanda:** ekip lame k ap veye alantou a (Kòmandman Fwontyè a), ofisye ladwàn, ofisye imigrasyon, lapolis, yon enspektè manje ak bèt (Pati 50), yon ofisye sante, ak yon ofisye pwoteksyon timoun. Ofisye fanm nan chak ekip.
+3. **Ekipman estanda:** kouran solè ak batri, entènèt satelit, radyo, kamera ki anrejistre pou Sal Operasyon Fwontyè a, **kamera sou kò pou chak ofisye ki an kontak ak piblik la,** aparèy pou li kat idantite (Pati 54), tèminal peman sou sistèm peman nasyonal la (Pati 32), e nan Pòt yo, eskanè pou kago.
+4. **Yon sèl manyèl pwosedi,** menm jan toupatou, an kreyòl ak an franse, ak règ yo afiche an kreyòl, franse, panyòl ak angle.
+5. **Yon sèl sistèm lojisyèl** ki konekte ak idantite nasyonal la, ladwàn, Estanda Manje a ak sistèm peman an: yo anrejistre chak moun, chak machin, chak chay, chak peman ak chak sezi.
+6. **Menm frè afiche** nan chak pasaj, menm dwa pou menm machandiz.
+
+### 110.6 Pwoteksyon militè: baz, ekipman ak machin
+
+Lame a **kenbe Liy fwontyè a**; sivil yo **dirije pasaj yo** (Pati 90.1).
+
+- **Katye jeneral Kòmandman Fwontyè a** ak **yon baz avanse nan chak sektè fwontyè** (etid la fikse sektè yo, pa egzanp Nò, Sant-Nò, Sant-Sid ak Sid), ak kazèn, yon teren fòmasyon, yon atelye antretyen, depo gaz ak dlo, yon klinik ak yon sant kominikasyon.
+- **Yon pòs nan chak Pòt ak chak pòs Klas B,** ak **pwen obsèvasyon** sou mòn yo bò Liy fwontyè a.
+- **Machin:** machin patwouy kat-kat ak pikòp, motosiklèt pou ti chemen mòn, kamyon pou twoup ak pwovizyon, kamyon dlo, machin depanaj ak anbilans; batiman pou Letan Somat ak lakòt ansanm ak Gad Kòt la (Pati 49).
+- **Siveyans:** dwòn, kamera tèmik ak kamera pou wè nan fènwa, detektè atè sou ti chemen yo konnen, tou obsèvasyon mobil.
+- **Kominikasyon:** radyo sou yon sèl rezo sekirize, telefòn satelit, ak yon lyen an dirèk ak Sal Operasyon Fwontyè a.
+- **Ekipman pèsonèl:** inifòm, ekipman pwoteksyon, bwat premye swen, ak zam sèvis lalwa ak doktrin lame a fikse, nan depo zam ki anrejistre, yo konte yo chak jou.
+- **Bidjè antretyen** pou chak machin ak chak aparèy, ak yon to disponiblite yo pibliye: ekipman ki kraze pa pwoteje pèsonn.
+- **Achte aklè:** chak acha fèt pa apèl dòf piblik (Pati 24), sou rejis piblik la, ak kantite ak pri yo pibliye lè yo fin livre, eksepte detay ki ta mete operasyon an danje, men tribinal kont lan toujou revize yo.
+
+Kantite sòlda, baz, machin ak dwòn soti nan etid la epi yo vote yo ansanm ak bidjè a (Pati 90.1). Dokiman sa a pa envante yo.
+
+### 110.7 Moun
+
+- **Ayisyen** antre lib ak kat idantite nasyonal la oswa paspò. **Pa gen frè.**
+- **Rezidan fwontyè** (moun ki rete, ki travay tè oswa ki fè komès nan yon distans yo fikse bò Liy fwontyè a) resevwa yon **kat rezidan fwontyè gratis** pou travèse chak jou nan pòs ki pi pre yo.
+- **Etranje** swiv règ viza ak antre lalwa fikse, ak frè yo afiche.
+- **Timoun** k ap vwayaje san paran bezwen yon otorizasyon alekri ofisye pwoteksyon timoun nan tcheke; nenpòt siy trafik, yo okipe l touswit (Pati 40, 85).
+- **Ayisyen yo retounen oswa depòte** soti Repiblik Dominikèn resevwa akèy ak diyite nan yon sant akèy nan chak Pòt: dlo, manje, yon apèl telefòn, egzamen sante, transpò pou ale lakay, ak yon dosye sou nenpòt abi yo te sibi, yo voye l bay anbasad la ak tribinal yo (Pati 45, 48).
+- **Moun lajistis ap chèche:** chak pasaj tcheke lis nasyonal moun tribinal yo ap chèche.
+
+### 110.8 Machandiz ak komès: sa ki pèmèt, sa ki bezwen pèmi, sa ki entèdi
+
+| Kategori | Egzanp | Règ |
+|---|---|---|
+| **Pèmèt** | Manje ki respekte Estanda Manje Ayiti a, rad, bagay pou kay, materyo konstriksyon, zouti | Dwa jan yo pibliye l; ti komès anba franchiz la pase gratis (Pati 90.2) |
+| **Pèmèt ak yon pèmi oswa yon sètifika** | Bèt vivan, vyann, ze, lèt, plant ak semans (sètifika sante), medikaman (enpòtatè ki gen lisans sèlman), gaz (nan Pòt yo sèlman, tank ki gen lisans), pwodui chimik ak angrè, lajan kach plis pase yon kantite yo fikse (deklare) | Enspektè a tcheke; yo refize san papye |
+| **Entèdi** | Zam ak minisyon andeyò lwa lisans lan (Pati 61), dwòg (Pati 101), fo medikaman, mèki ak lòt pwodui bote entèdi (Pati 106), manje ki pa respekte Estanda a, bèt ak plant ki pwoteje, machin vòlè, moun yo trafike | Yo sezi yo ak yon resi, yo anrejistre sa, epi yo voye ka a nan tribinal |
+
+**Maladi bèt ak plant** ka travèse yon fwontyè ak yon sèl kochon oswa yon sèl sak semans. Sètifika sante pou bèt, vyann ak plant pwoteje jaden ak elvaj ayisyen (Pati 28, 50).
+
+### 110.9 Taks ak frè nan fwontyè a
+
+- **Yon sèl tarif pou tout peyi a,** menm bagay nan chak Pòt ak chak pòs (Pati 45, 103).
+- **Peman pa telefòn oswa kat sèlman,** ak yon resi touswit. **Pa gen kach pou okenn ofisye.**
+- **Yo pibliye revni chak pasaj chak jou** sou rejis piblik la. Yon pasaj kote revni ap bese pandan trafik ap monte, yo fè odit li touswit.
+- **Pa gen frè anba tab.** Yon lis frè afiche an kat lang; sa ki pa sou lis la, pèsonn pa dwe l.
+
+### 110.10 Pa gen koripsyon: règ sevè yo
+
+1. **Règ de moun:** okenn enspeksyon, peman oswa sezi pa fèt pa yon sèl ofisye.
+2. **Kamera sou kò limen, toujou,** yo kenbe anrejistreman yo epi yo tcheke yo osò.
+3. **Wotasyon:** ofisye yo chanje pasaj sou yon orè fiks; pèsonn pa sèvi plis pase de ane nan menm pasaj.
+4. **Bonis difikilte** pou sèvis fwontyè, peye alè, pou ofisye yo pa tante.
+5. **Pasaje sekrè:** moun ki fòme travèse san avètisman epi rapòte kijan yo te trete yo.
+6. **Tcheke fason moun ap viv:** ofisye fwontyè deklare byen yo chak ane (Pati 39); richès ki pa gen eksplikasyon, yo mennen ankèt.
+7. **Rekonpans pou moun ki rapòte:** yon liy pwoteje ak yon rekonpans pou nenpòt moun ki rapòte yon kòb anba tab yo pwouve.
+8. **Zewo tolerans:** yon ofisye ki pran kòb anba tab revoke epi yo pousuiv li; yon kòmandan ki gen yon modèl koripsyon nan pasaj li pèdi kòmandman an.
+
+### 110.11 Yon sèl rezo konekte
+
+- **Sal Operasyon Fwontyè a** (Pati 49.2) wè chak Pòt, chak pòs, chak patwouy ak chak detektè an dirèk, lajounen kou lannuit.
+- **Yon tablo nòt chak mwa pou chak pasaj,** pibliye: èdtan ki gen moun, tan pou tann, moun ak machandiz ki pase, revni, sezi, plent, eta ekipman.
+- **Yon liy dirèk ant kòmandan ayisyen ak dominiken** nan chak sektè, ak pwosedi konjwen nan chak pasaj yo pataje, ak règ resipwòk pou machann (Pati 45.3, 90.2).
+
+### 110.12 Kalandriye a
+
+| Ki lè | Kisa |
+|---|---|
+| **Mwa 0–6** | Etid ak kat chak pasaj; nouvo manyèl estanda; monte kat Pòt yo nan nivo konplè a |
+| **Mwa 6–18** | Bati pòs Klas B nan dezyèm pasaj ki gen plis trafik yo anvan (nan Sant, tankou Tilori, Bòk Banik ak Saltadè, dapre sa etid la konfime); baz avanse nan chak sektè |
+| **Mwa 18–36** | Chak pasaj yo konfime gen moun ladan l oswa yo fèmen l epi siveye l; tout rezo a sou yon sèl sistèm |
+
+### 110.13 Limit onèt
+
+- **Pri:** baz, machin, dwòn ak anplwaye pou 390 km koute anpil lajan. Yo bati rezo a sektè pa sektè, kòmanse kote trafik ak kontrebann pi wo.
+- **Teren:** mòn, rivyè ak rakbwa fè kèk pòsyon difisil pou siveye. Detektè ak patwouy diminye twou yo; yo pa fèmen yo nèt.
+- **Fanmi fwontyè:** anpil moun viv, travay tè epi fè komès sou toude bò. Kat rezidan fwontyè a ak règ mache yo kenbe lavi yo posib; kontwòl pa dwe tounen pinisyon.
+- **Lòt bò a:** pwosedi konjwen yo bezwen koperasyon dominiken. Ayiti ka aplike pwòp nivo li sou pwòp bò pa l kanmenm.
+- **Koripsyon swiv lajan:** règ ki pi sevè yo echwe si salè an reta oswa si chèf yo pwoteje moun ki kòwonpi. Se pou sa salè, wotasyon, kamera ak rezilta piblik vini ansanm ak ekipman an.
+- **Non ak kote dezyèm pasaj** ki nan Pati sa a soti nan otè a ak konesans jeneral; etid la konfime yo.
+
+### 110.14 Desizyon ouvè yo ajoute
+
+87. Kantite ak limit sektè fwontyè yo ak kote baz avanse yo.
+88. Ki dezyèm pasaj ki tounen pòs Klas B.
+89. Distans ki defini yon rezidan fwontyè.
+90. Kantite bonis difikilte pou sèvis fwontyè.
+
+---
+
 ## REZIME: SA POU NOU POTE POU PI DEVAN
 
 Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, oswa nenpòt moun k ap revize l pou kontinye amelyore l — se yon eskèlèt estrikti, se pa yon konstitisyon ki fini. Pwochen etap onèt pou nenpòt pati ladan l se menm kesyon nou poze toupatou a: *si yo ta kaptire biwo sa a oswa règ sa a, oswa si yo ta abize l, kisa ki kanpe sa — epi èske mekanis ki kanpe l la se yon lòt ògàn, ki chwazi yon lòt jan, sou yon lòt kalandriye, pase sa l ap kontwole a?* Kèlkeswa kote repons lan se "anyen" oswa "menm moun yo," seksyon sa a bezwen yon lòt revizyon anvan yo aplike l.
@@ -5509,3 +5627,5 @@ Dokiman sa a fèt pou yo renmèt li bay yon ògàn ki ekri lwa, yon ekonomis, os
 **Sa setyèm revizyon novanm 2026 la (Pati 103–108) chanje:** taks yo rete lejè (janm plis pase 20% PIB san yon vòt de tyè), kèk taks senp, yo peye yo sou telefòn, pa gen enpo sou salè pou viv la, e resi a montre kote lajan an ale; chak ane 3% revni yo ale nan yon Fon Rezèv Nasyonal pou dezas (Pati 103). Yo aplike lwa 2012 sou andikap, ak lekòl pou tout moun, lang siy, aksè ak kota travay (Pati 104). Swen sante mantal rive nan chak seksyon ak chak komin, ak yon liy 24 è e pa gen chenn (Pati 105). Achtè jwenn ranbousman, etikèt ak ti reklamasyon rapid, e mèki, idwokinòn nan pwodui bote, fòmaldeyid nan pwodui pou lise cheve ak piblisite pou klere po entèdi (Pati 106). Salè a omwen yon salè pou viv, e konpayi 20 travayè oswa plis pataje pwofi ak travayè yo (Pati 107).
 
 **Kijan sa ka rive (Pati 109):** yon plan vin lalwa sèlman lè ase sitwayen òganize pou li. Mouvman an vize 3,5% Ayisyen — anviwon 416,500 moun — òganize an ekip dis moun nan chak seksyon kominal, fòme nan disiplin san vyolans, k ap mande chak kandida siyen yon angajman piblik, epi k ap mande premye lwa yo nan men nouvo Palman an nan yon sèl jou nasyonal. Li pa gen yon sèl chèf, li pibliye chak goud, e li refize tout vyolans. Rechèch montre 3,5% se yon tandans, se pa yon garanti; òganizasyon ak disiplin konte otan ke kantite moun.
+
+**Chak pasaj, menm nivo (Pati 110):** yo fè kat chak kote moun oswa machandiz travèse fwontyè 390 km nan, epi yo klase l kòm Pòt, pòs fwontyè, oswa pasaj fèmen patwouy siveye. Chak Pòt ak chak pòs gen menm plan, menm anplwaye, menm ekipman, menm lojisyèl ak menm frè afiche; lame a kenbe Liy fwontyè a soti nan baz avanse ak machin patwouy, motosiklèt, batiman, dwòn ak kamera pou wè nan fènwa; pèsonn pa bay okenn ofisye kach, de ofisye fè chak enspeksyon, kamera toujou limen, e yo pibliye revni chak pasaj chak jou.

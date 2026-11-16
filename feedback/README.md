@@ -31,6 +31,9 @@ Everyone can read every Part in the reader. Downloading a Part or the full docum
 
 Limit: the text is public on the site, so the download record shows who used the button. It cannot stop someone from copying a public page. The legal protection is the copyright.
 
+## Konbit 3,5% (`/join/`)
+The Citizen Card uses the same Firebase project. It needs **Email/Password** sign-in enabled, and in Firebase Authentication > Settings > Authorized domains, add `maxmaseratii.github.io`. Members must verify their email before joining; Firebase sends the verification email itself. Each member record adds 1 to a public count for their commune (or diaspora country) in the same write, so the counts cannot be inflated by hand. Names, emails and phones are readable only by the review team, in the **Konbit 3,5%** tab of `admin.html` (viewing and export are logged). A member can leave at any time; the record is deleted and the count goes down by 1.
+
 ## Limits you should know
 - Results are a snapshot that a reviewer publishes, not a live counter. That is what keeps small groups hidden.
 - The private code is the only way to change or delete an answer. If someone loses it, they can answer again from a new browser and the old answer stays.
